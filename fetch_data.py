@@ -1,9 +1,8 @@
 """
 Fetches FIFA World Cup 2026 goal data.
 
-Squad source: Transfermarkt squad pages (saison_id=2026 = 2026-27 season,
-reflecting current transfers). Player names are normalized and matched
-against football-data.org WC scorer names.
+Squad source: Wikipedia current squad sections (static HTML, no anti-bot issues).
+Player names are normalized and matched against football-data.org WC scorer names.
 
 Goal/OG data: football-data.org free tier
   /v4/competitions/WC/scorers  -> regular goals
@@ -11,6 +10,7 @@ Goal/OG data: football-data.org free tier
 """
 import json
 import os
+import re
 import unicodedata
 import urllib.request
 import urllib.error
@@ -20,18 +20,14 @@ TOKEN = os.environ["FD_TOKEN"]
 BASE  = "https://api.football-data.org/v4"
 
 CLUBS = {
-    "utd": {"tm_id": 985,  "name": "Manchester United", "flag": "\U0001f534"},
-    "rm":  {"tm_id": 418,  "name": "Real Madrid",        "flag": "⚪"},
-    "fcb": {"tm_id": 27,   "name": "Bayern Munich",      "flag": "\U0001f534"},
+    "utd": {"wiki": "Manchester_United_F.C.", "name": "Manchester United", "flag": "\U0001f534"},
+    "rm":  {"wiki": "Real_Madrid_CF",         "name": "Real Madrid",        "flag": "⚪"},
+    "fcb": {"wiki": "FC_Bayern_Munich",       "name": "Bayern Munich",      "flag": "\U0001f534"},
 }
 
-TM_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/124.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Referer": "https://www.transfermarkt.com/",
+WIKI_HEADERS = {
+    "User-Agent": "WC2026GoalTracker/1.0 (github.com/shreyartha-bioinfo/fuzzy-engine; educational)",
+    "Accept": "application/json",
 }
 
 def fetch_fd(path):
@@ -44,80 +40,68 @@ def fetch_fd(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-def fetch_tm(tm_id, saison_id=2026):
-    url = f"https://www.transfermarkt.com/x/kader/verein/{tm_id}/saison_id/{saison_id}"
-    req = urllib.request.Request(url, headers=TM_HEADERS)
-    try:
-        with urllib.request.urlopen(req, timeout=20) as r:
-            return r.read().decode("utf-8", errors="replace")
-    except urllib.error.HTTPError as e:
-        print(f"  TM HTTP {e.code} for verein/{tm_id} — falling back to current season")
-        url2 = f"https://www.transfermarkt.com/x/kader/verein/{tm_id}/saison_id/2025"
-        req2 = urllib.request.Request(url2, headers=TM_HEADERS)
-        with urllib.request.urlopen(req2, timeout=20) as r:
-            return r.read().decode("utf-8", errors="replace")
+def fetch_wiki_squad(wiki_page: str) -> list[str]:
+    """Return list of player names from Wikipedia's Current squad section."""
+    # Get the full wikitext via the API
+    api = ("https://en.wikipedia.org/w/api.php"
+           f"?action=parse&page={urllib.request.quote(wiki_page)}"
+           "&prop=wikitext&format=json&redirects=1")
+    req = urllib.request.Request(api, headers=WIKI_HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        data = json.loads(r.read().decode())
+    wikitext = data.get("parse", {}).get("wikitext", {}).get("*", "")
+
+    # Find the Current squad section (between == Current squad == and next ==)
+    squad_match = re.search(
+        r'==\s*Current squad\s*==(.+?)(?:\n==[^=]|\Z)',
+        wikitext, re.DOTALL | re.IGNORECASE
+    )
+    if not squad_match:
+        # Try "First-team squad" as fallback heading
+        squad_match = re.search(
+            r'==\s*(?:First[- ]team squad|Squad)\s*==(.+?)(?:\n==[^=]|\Z)',
+            wikitext, re.DOTALL | re.IGNORECASE
+        )
+    if not squad_match:
+        return []
+
+    section = squad_match.group(1)
+
+    # Extract player names from squad table rows.
+    # Wiki squad tables use {{fs player|no=N|nat=XX|name=Player Name|...}}
+    names = re.findall(r'\|\s*name\s*=\s*([^|\}\n]+)', section)
+    if not names:
+        # Fallback: [[Player Name|...]] links inside the squad table
+        names = re.findall(r'\[\[([^\]\|]+)(?:\|[^\]]*)?\]\]', section)
+        # Filter out non-player links (positions, nationalities, etc.)
+        names = [n for n in names if len(n.split()) >= 2]
+
+    return [n.strip() for n in names if n.strip()]
 
 def normalize(name: str) -> str:
-    """Lowercase + strip accents for fuzzy name matching."""
     nfkd = unicodedata.normalize("NFKD", name)
     return "".join(c for c in nfkd if not unicodedata.combining(c)).lower().strip()
 
-# ── Scrape Transfermarkt squads ───────────────────────────────────────────────────────────────
-from bs4 import BeautifulSoup
-
-# norm_name -> (club_key, display_name)
-NAME_TO_CLUB: dict[str, tuple[str, str]] = {}
-CLUB_SQUADS:  dict[str, list]            = {key: [] for key in CLUBS}
+# ── Build player name map from Wikipedia ────────────────────────────────────────────────
+NAME_TO_CLUB: dict[str, tuple[str, str]] = {}  # norm -> (club_key, display_name)
+CLUB_SQUADS:  dict[str, list[str]]        = {key: [] for key in CLUBS}
 
 for key, club in CLUBS.items():
-    html  = fetch_tm(club["tm_id"])
-    soup  = BeautifulSoup(html, "html.parser")
-    table = soup.find("table", {"class": "items"})
-    if not table:
-        print(f"  WARNING: could not parse TM squad for {club['name']}")
-        continue
-
-    players_found = []
-    for row in table.find_all("tr", class_=["odd", "even"]):
-        # Main name cell is the FIRST td.hauptlink in each row
-        name_cell = row.find("td", class_="hauptlink")
-        if not name_cell:
-            continue
-        link = name_cell.find("a")
-        if not link:
-            continue
-        display_name = link.get_text(strip=True)
-        if not display_name:
-            continue
-        # Position: try to get from preceding sibling or data attributes
-        pos_cell = row.find("td", {"class": "positionMitte"}) or \
-                   row.find("td", {"class": "pos"})
-        pos = pos_cell.get_text(strip=True) if pos_cell else ""
-        # Nationality: flag img alt text
-        nat = ""
-        nat_cell = row.find("td", class_="zentriert")
-        if nat_cell:
-            img = nat_cell.find("img")
-            if img:
-                nat = img.get("title", "") or img.get("alt", "")
-
-        norm = normalize(display_name)
-        NAME_TO_CLUB[norm] = (key, display_name)
-        players_found.append({"name": display_name, "position": pos, "nationality": nat})
-
-    CLUB_SQUADS[key] = players_found
-    print(f"  {club['name']}: {len(players_found)} players from Transfermarkt")
-    # Show first 5 for verification
-    for p in players_found[:5]:
-        print(f"    - {p['name']}")
+    names = fetch_wiki_squad(club["wiki"])
+    CLUB_SQUADS[key] = names
+    for name in names:
+        NAME_TO_CLUB[normalize(name)] = (key, name)
+    print(f"  {club['name']}: {len(names)} players from Wikipedia")
+    for n in names[:5]:
+        print(f"    - {n}")
 
 print(f"  Total tracked players: {len(NAME_TO_CLUB)}")
 
 # ── WC scorers ────────────────────────────────────────────────────────────────────
 scorers_raw  = fetch_fd("/competitions/WC/scorers?season=2026&limit=200")
-player_info  = {}   # fd_pid -> {name, nationality}
-scorer_goals = {}   # fd_pid -> goals
-PLAYER_CLUBS: dict[int, str] = {}  # fd_pid -> club_key (matched via name)
+player_info  = {}
+scorer_goals = {}
+PLAYER_CLUBS: dict[int, str] = {}
 
 for entry in scorers_raw.get("scorers", []):
     p   = entry.get("player", {})
@@ -127,12 +111,11 @@ for entry in scorers_raw.get("scorers", []):
     name = p.get("name", "")
     player_info[pid]  = {"name": name, "nationality": p.get("nationality", "")}
     scorer_goals[pid] = entry.get("goals", 0)
-    # Match by normalized name
     norm = normalize(name)
     if norm in NAME_TO_CLUB:
-        club_key, tm_name = NAME_TO_CLUB[norm]
+        club_key, wiki_name = NAME_TO_CLUB[norm]
         PLAYER_CLUBS[pid] = club_key
-        print(f"  MATCH: {name} [{tm_name}] -> {CLUBS[club_key]['name']} ({entry.get('goals',0)}g)")
+        print(f"  MATCH: {name} [{wiki_name}] -> {CLUBS[club_key]['name']} ({entry.get('goals',0)}g)")
 
 print(f"  WC scorers: {len(scorer_goals)} total, "
       f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
@@ -150,7 +133,6 @@ for match in matches_raw.get("matches", []):
             continue
         if pid not in player_info:
             player_info[pid] = {"name": scorer.get("name", ""), "nationality": ""}
-            # Try name match for OG scorers too
             norm = normalize(scorer.get("name", ""))
             if norm in NAME_TO_CLUB:
                 PLAYER_CLUBS[pid] = NAME_TO_CLUB[norm][0]
@@ -183,21 +165,19 @@ for key, club in CLUBS.items():
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
 
-    # Full squad with WC goals overlaid
+    # Squad list with WC goals overlaid
     squad_out = []
-    for p in CLUB_SQUADS[key]:
-        norm = normalize(p["name"])
+    for wiki_name in CLUB_SQUADS[key]:
+        norm = normalize(wiki_name)
         pid  = next((i for i, info in player_info.items()
                      if normalize(info["name"]) == norm), None)
         g  = scorer_goals.get(pid, 0) if pid else 0
         og = og_map.get(pid, 0)        if pid else 0
         squad_out.append({
-            "name":        p["name"],
-            "position":    p["position"],
-            "nationality": p["nationality"],
-            "goals":       g,
-            "ownGoals":    og,
-            "net":         g - og,
+            "name":     wiki_name,
+            "goals":    g,
+            "ownGoals": og,
+            "net":      g - og,
         })
 
     output["clubs"][key] = {
