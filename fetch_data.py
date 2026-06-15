@@ -1,8 +1,15 @@
 """
-Fetches FIFA World Cup 2026 goal data from football-data.org (free tier).
-Rate limit: 10 req/min. We sleep 7s between /persons lookups to stay safe.
+Fetches FIFA World Cup 2026 goal data from football-data.org (free tier) and writes data.json.
+
+Free tier approach:
+  - /v4/competitions/WC/scorers  → regular goals per player + player.currentTeam (their club)
+  - /v4/competitions/WC/matches  → OG events; scorer ID looked up in club map built from scorers
+No /teams/{id} calls needed (those require a paid tier).
 """
-import json, os, time, urllib.request, urllib.error
+import json
+import os
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 
 TOKEN = os.environ["FD_TOKEN"]
@@ -13,7 +20,7 @@ CLUBS = {
     "rm":  {"id": 86,  "name": "Real Madrid",        "flag": "⚪"},
     "fcb": {"id": 5,   "name": "Bayern Munich",      "flag": "\U0001f534"},
 }
-CLUB_IDS = {v["id"]: k for k, v in CLUBS.items()}
+CLUB_IDS = {v["id"]: k for k, v in CLUBS.items()}   # 66 -> "utd", etc.
 
 def fetch(path):
     url = BASE + path
@@ -25,61 +32,62 @@ def fetch(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-# 1. WC scorers -> player IDs + goal counts
-scorers_raw  = fetch("/competitions/WC/scorers?season=2026&limit=200")
-scorer_goals = {}  # pid -> goals
-player_info  = {}  # pid -> {name, nationality}
+# ── WC scorers: regular goals + currentTeam → build player→club map ─────────────────────
+scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
+
+player_club  = {}   # player_id -> club_key  (only for our 3 clubs)
+player_info  = {}   # player_id -> {name, nationality}
+scorer_goals = {}   # player_id -> regular goal count
 
 for entry in scorers_raw.get("scorers", []):
-    p   = entry.get("player", {})
-    pid = p.get("id")
+    p       = entry.get("player", {})
+    pid     = p.get("id")
+    club_id = (p.get("currentTeam") or {}).get("id")
     if not pid:
         continue
+    player_info[pid] = {
+        "name":        p.get("name", ""),
+        "nationality": p.get("nationality", ""),
+    }
     scorer_goals[pid] = entry.get("goals", 0)
-    player_info[pid]  = {"name": p.get("name", ""), "nationality": p.get("nationality", "")}
+    if club_id in CLUB_IDS:
+        player_club[pid] = CLUB_IDS[club_id]
 
-print(f"  WC scorers: {len(scorer_goals)}")
+print(f"  WC scorers: {len(scorer_goals)} total, "
+      f"{len(player_club)} from our 3 clubs")
+# Debug: show raw structure of first 3 scorers
+for entry in scorers_raw.get("scorers", [])[:3]:
+    p = entry.get("player", {})
+    ct = p.get("currentTeam") or {}
+    print(f"  SAMPLE: {p.get('name')} | currentTeam.id={ct.get('id')} currentTeam.name={ct.get('name')} | entry.team={entry.get('team',{}).get('name')}")
 
-# 2. OG events from finished matches
+# ── OG events from finished matches ─────────────────────────────────────────────
 matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
-og_map = {}  # pid -> own_goal count
+og_map = {}   # player_id -> own_goal count
+
 for match in matches_raw.get("matches", []):
     for goal in match.get("goals", []):
         if goal.get("type") != "OWN_GOAL":
             continue
-        pid = (goal.get("scorer") or {}).get("id")
-        if pid:
-            og_map[pid] = og_map.get(pid, 0) + 1
-            if pid not in player_info:
-                player_info[pid] = {"name": (goal.get("scorer") or {}).get("name", ""), "nationality": ""}
+        scorer = goal.get("scorer") or {}
+        pid    = scorer.get("id")
+        if not pid:
+            continue
+        # record name in case they weren't in scorers list
+        if pid not in player_info:
+            player_info[pid] = {"name": scorer.get("name", ""), "nationality": ""}
+        og_map[pid] = og_map.get(pid, 0) + 1
 
-print(f"  OG scorers: {len(og_map)}")
+print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
 
-# 3. Look up currentTeam (club) for each relevant player via /persons/{id}
-#    Rate limit: 10 req/min -> sleep 7s between calls
-all_pids   = set(scorer_goals) | set(og_map)
-player_club = {}  # pid -> club_key
-
-for i, pid in enumerate(all_pids):
-    if i > 0:
-        time.sleep(7)
-    person  = fetch(f"/persons/{pid}")
-    club_id = (person.get("currentTeam") or {}).get("id")
-    name    = person.get("name", player_info.get(pid, {}).get("name", ""))
-    nat     = person.get("nationality", player_info.get(pid, {}).get("nationality", ""))
-    player_info[pid] = {"name": name, "nationality": nat}
-    if club_id in CLUB_IDS:
-        player_club[pid] = CLUB_IDS[club_id]
-        print(f"  MATCH: {name} -> {CLUBS[CLUB_IDS[club_id]]['name']}")
-
-print(f"  Players matched to our clubs: {len(player_club)}")
-
-# 4. Build per-club output
+# ── Build per-club output ──────────────────────────────────────────────────────────
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}}
 
 for key, club in CLUBS.items():
     total_goals = total_ogs = 0
-    scorers = []
+    scorers     = []
+
+    # All players we know belong to this club
     club_pids = {pid for pid, ck in player_club.items() if ck == key}
 
     for pid in club_pids:
@@ -88,17 +96,36 @@ for key, club in CLUBS.items():
         total_goals += g
         total_ogs   += og
         info = player_info.get(pid, {})
-        scorers.append({"name": info.get("name", ""), "nationality": info.get("nationality", ""),
-                        "goals": g, "ownGoals": og, "net": g - og})
+        scorers.append({
+            "name":        info.get("name", f"Player {pid}"),
+            "nationality": info.get("nationality", ""),
+            "goals":       g,
+            "ownGoals":    og,
+            "net":         g - og,
+        })
+
+    # OGs by players whose club we couldn't determine from scorers list
+    # (they have 0 regular goals so didn't appear in scorers endpoint)
+    for pid, og_count in og_map.items():
+        if pid in club_pids:
+            continue   # already counted above
+        # We can't determine their club without /teams/{id}
+        # Flag in output for awareness
+        print(f"  WARNING: OG scorer {player_info.get(pid,{}).get('name', pid)} "
+              f"club unknown (not in WC scorers list)")
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
+
     output["clubs"][key] = {
-        "name": club["name"], "flag": club["flag"],
-        "goals": total_goals, "ownGoals": total_ogs,
-        "net": total_goals - total_ogs,
-        "scorers": scorers, "squad": scorers,
+        "name":     club["name"],
+        "flag":     club["flag"],
+        "goals":    total_goals,
+        "ownGoals": total_ogs,
+        "net":      total_goals - total_ogs,
+        "scorers":  scorers,
+        "squad":    scorers,   # on free tier, squad = only players who scored
     }
-    print(f"  {club['name']}: {total_goals}G - {total_ogs}OG = {total_goals - total_ogs}")
+    print(f"  {club['name']}: {total_goals}G − {total_ogs}OG = {total_goals - total_ogs}")
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
