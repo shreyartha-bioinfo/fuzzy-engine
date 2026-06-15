@@ -1,9 +1,13 @@
 """
 Fetches FIFA World Cup 2026 goal data from football-data.org (free tier) and writes data.json.
 
-Strategy: currentTeam is null on free tier, /persons/{id} is blocked.
-We use a hardcoded PLAYER_CLUBS map (player_id -> club_key) built from the
-printed scorer list. WC squads are frozen for the tournament, so this is stable.
+football-data.org free tier does NOT return player.currentTeam in the WC scorers
+endpoint, and /persons/{id} drops connections silently. We use a hardcoded
+PLAYER_CLUBS map (player_id -> club_key) instead. WC squads are frozen for the
+tournament duration, so this map is stable.
+
+To refresh the map after new goals appear: check the scorer dump in the workflow
+logs and add any newly identified club players below.
 """
 import json
 import os
@@ -20,10 +24,14 @@ CLUBS = {
     "fcb": {"id": 5,   "name": "Bayern Munich",      "flag": "\U0001f534"},
 }
 
-# Hardcoded player_id -> club_key mapping.
-# Populate from the ALL SCORERS dump below, then remove the dump.
+# football-data.org player_id -> club key
+# Built from scorer dump; updated as new players score.
 PLAYER_CLUBS: dict[int, str] = {
-    # e.g. 12345: "utd",  67890: "rm",  11111: "fcb",
+    133584: "utd",  # Amad Diallo        (Ivory Coast)
+      1556: "rm",   # Vinicius Junior     (Brazil)
+    144393: "fcb",  # Jamal Musiala       (Germany)
+    176991: "fcb",  # Nestor Irankunda    (Australia)
+    184533: "fcb",  # Nathaniel Brown     (Germany)
 }
 
 def fetch(path):
@@ -39,22 +47,23 @@ def fetch(path):
 # ── WC scorers ────────────────────────────────────────────────────────────────────
 scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
 
-player_info  = {}   # player_id -> {name, nationality}
-scorer_goals = {}   # player_id -> regular goal count
+player_info  = {}
+scorer_goals = {}
 
-print("\n=== ALL WC 2026 SCORERS (copy IDs to PLAYER_CLUBS above) ===")
+print("\n=== WC 2026 SCORERS (for map maintenance) ===")
 for entry in scorers_raw.get("scorers", []):
-    p   = entry.get("player", {})
-    pid = p.get("id")
+    p     = entry.get("player", {})
+    pid   = p.get("id")
     if not pid:
         continue
-    name = p.get("name", "")
-    nat  = p.get("nationality", "")
+    name  = p.get("name", "")
+    nat   = p.get("nationality", "")
     goals = entry.get("goals", 0)
     team  = entry.get("team", {}).get("name", "")
-    player_info[pid] = {"name": name, "nationality": nat}
+    player_info[pid]  = {"name": name, "nationality": nat}
     scorer_goals[pid] = goals
-    print(f"  {pid:>8}  {goals}g  {name:<30}  ({nat}, plays for {team} at WC)")
+    club = PLAYER_CLUBS.get(pid, "-")
+    print(f"  {pid:>8}  {goals}g  {'[' + club + ']' if club != '-' else '':6}  {name} ({nat} → {team})")
 print(f"=== {len(scorer_goals)} scorers total ===\n")
 
 # ── OG events ──────────────────────────────────────────────────────────────────────────
@@ -76,12 +85,12 @@ print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
 # ── Build output ──────────────────────────────────────────────────────────────────────────
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}}
 
+all_tracked_pids = set(PLAYER_CLUBS) | set(og_map)
+
 for key, club in CLUBS.items():
     total_goals = total_ogs = 0
     scorers = []
-
-    all_pids = set(PLAYER_CLUBS.keys()) | set(og_map.keys())
-    club_pids = {pid for pid in all_pids if PLAYER_CLUBS.get(pid) == key}
+    club_pids = {pid for pid in all_tracked_pids if PLAYER_CLUBS.get(pid) == key}
 
     for pid in club_pids:
         g  = scorer_goals.get(pid, 0)
@@ -96,6 +105,13 @@ for key, club in CLUBS.items():
             "ownGoals":    og,
             "net":         g - og,
         })
+
+    for pid, og_count in og_map.items():
+        if PLAYER_CLUBS.get(pid) == key and pid not in club_pids:
+            pass  # already handled above
+        elif pid not in PLAYER_CLUBS:
+            print(f"  NOTE: OG by {player_info.get(pid,{}).get('name', pid)} "
+                  f"(id={pid}) — club unknown, not counted")
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
     output["clubs"][key] = {
