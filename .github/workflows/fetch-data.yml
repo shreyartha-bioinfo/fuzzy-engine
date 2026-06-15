@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: pip install beautifulsoup4
+
       - name: Fetch and process data
         env:
           FD_TOKEN: ${{ secrets.FD_TOKEN }}
