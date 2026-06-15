@@ -225,6 +225,10 @@
     font-size: 0.85rem;
   }
 
+  .goal-entry.inactive { opacity: 0.45; }
+  .goal-entry.inactive .goal-player { text-decoration: line-through; }
+  .inactive-note { font-size: 0.68rem; color: var(--red); margin-top: 0.1rem; }
+
   /* ── Admin sidebar ── */
   .sidebar { display: flex; flex-direction: column; gap: 1rem; }
 
@@ -431,7 +435,7 @@
       <div style="padding:0.9rem">
         <div class="form-group" style="margin-bottom:0.6rem">
           <label>Club</label>
-          <select id="ql-club" onchange="updateQLPlayers()">
+          <select id="ql-club" onchange="updateQLDatalist()">
             <option value="utd">Manchester United</option>
             <option value="rm">Real Madrid</option>
             <option value="fcb">Bayern Munich</option>
@@ -439,7 +443,8 @@
         </div>
         <div class="form-group" style="margin-bottom:0.6rem">
           <label>Player</label>
-          <select id="ql-player"></select>
+          <input type="text" id="ql-player" placeholder="Player name" list="ql-player-list" autocomplete="off" />
+          <datalist id="ql-player-list"></datalist>
         </div>
         <div class="form-row" style="margin-bottom:0.6rem">
           <div class="form-group">
@@ -476,7 +481,7 @@
     <h3>⚽ Log a Goal</h3>
     <div class="form-group">
       <label>Club</label>
-      <select id="m-club" onchange="updateMPlayers()">
+      <select id="m-club" onchange="updateMDatalist()">
         <option value="utd">Manchester United</option>
         <option value="rm">Real Madrid</option>
         <option value="fcb">Bayern Munich</option>
@@ -484,7 +489,8 @@
     </div>
     <div class="form-group">
       <label>Player</label>
-      <select id="m-player"></select>
+      <input type="text" id="m-player" placeholder="Player name" list="m-player-list" autocomplete="off" />
+      <datalist id="m-player-list"></datalist>
     </div>
     <div class="form-row">
       <div class="form-group">
@@ -534,85 +540,54 @@
 </div>
 
 <script>
-// ─────────────────────────────────────────────────────────────────────────────
-// DATA — Current rosters as of June 2026 World Cup squad announcements
-// Each country selects ~26 players; we track by club affiliation.
-// ─────────────────────────────────────────────────────────────────────────────
-const DEFAULT_ROSTERS = {
-  utd: [
-    "André Onana", "Altay Bayındır", "Tom Heaton",
-    "Lisandro Martínez", "Harry Maguire", "Victor Lindelöf",
-    "Diogo Dalot", "Luke Shaw", "Tyrell Malacia",
-    "Casemiro", "Kobbie Mainoo", "Mason Mount", "Christian Eriksen",
-    "Bruno Fernandes", "Marcus Rashford", "Alejandro Garnacho",
-    "Rasmus Højlund", "Joshua Zirkzee", "Antony", "Amad Diallo",
-    "Scott McTominay", "Manuel Ugarte", "Leny Yoro", "Noussair Mazraoui"
-  ],
-  rm: [
-    "Thibaut Courtois", "Andriy Lunin", "Fran González",
-    "Éder Militão", "Antonio Rüdiger", "David Alaba", "Jesús Vallejo",
-    "Dani Carvajal", "Ferland Mendy", "Fran García",
-    "Aurélien Tchouaméni", "Eduardo Camavinga", "Luka Modrić",
-    "Federico Valverde", "Dani Ceballos", "Brahim Díaz",
-    "Jude Bellingham", "Kylian Mbappé", "Vinicius Jr",
-    "Rodrygo", "Arda Güler", "Lucas Vázquez", "Raúl Asencio",
-    "Endrick", "Jacobo Ramón"
-  ],
-  fcb: [
-    "Manuel Neuer", "Daniel Peretz", "Sven Ulreich",
-    "Dayot Upamecano", "Kim Min-jae", "Matthijs de Ligt",
-    "Alphonso Davies", "Konrad Laimer", "Raphaël Guerreiro",
-    "Joshua Kimmich", "Leon Goretzka", "Aleksandar Pavlović",
-    "Joao Palhinha", "Michael Olise", "Leroy Sané",
-    "Serge Gnabry", "Kingsley Coman", "Thomas Müller",
-    "Jamal Musiala", "Harry Kane", "Mathys Tel",
-    "Hiroki Ito", "Sacha Boey", "Adam Aznou"
-  ]
-};
-
 const CLUB_NAMES = { utd: "Manchester United", rm: "Real Madrid", fcb: "Bayern Munich" };
 const CLUB_FLAGS = { utd: "🔴", rm: "⚪", fcb: "🔴" };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// STATE
+// ─── STATE ───────────────────────────────────────────────────────────────────
+// Rosters start empty — add players manually as squads are confirmed.
+// Goals remain in the log forever; scoring checks live roster membership.
 // ─────────────────────────────────────────────────────────────────────────────
 function loadState() {
   try {
     const raw = localStorage.getItem("wc2026_tracker");
-    if (raw) return JSON.parse(raw);
+    if (raw) {
+      const s = JSON.parse(raw);
+      // migrate: drop pre-loaded roster from old version
+      if (s._version !== 2) {
+        return { _version: 2, rosters: { utd: [], rm: [], fcb: [] }, goals: s.goals || [] };
+      }
+      return s;
+    }
   } catch {}
-  return {
-    rosters: JSON.parse(JSON.stringify(DEFAULT_ROSTERS)),
-    goals: []   // { id, club, player, minute, match, type, ts }
-  };
+  return { _version: 2, rosters: { utd: [], rm: [], fcb: [] }, goals: [] };
 }
 
-function saveState(state) {
-  localStorage.setItem("wc2026_tracker", JSON.stringify(state));
+function saveState(s) {
+  localStorage.setItem("wc2026_tracker", JSON.stringify(s));
 }
 
 let state = loadState();
 let currentRosterTab = "utd";
 let adminMode = false;
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SCORING
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── SCORING — only count goals from players on the current roster ────────────
+function isOnRoster(club, player) {
+  return (state.rosters[club] || []).includes(player);
+}
+
 function getScore(club) {
   let goals = 0, ogs = 0;
   for (const g of state.goals) {
     if (g.club !== club) continue;
+    if (!isOnRoster(club, g.player)) continue;   // player no longer on squad
     if (g.type === "goal") goals++;
     else ogs++;
   }
   return { goals, ogs, net: goals - ogs };
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// RENDER
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── RENDER ──────────────────────────────────────────────────────────────────
 function render() {
-  // Scoreboard
   for (const club of ["utd", "rm", "fcb"]) {
     const s = getScore(club);
     document.getElementById(`score-${club}`).textContent = Math.max(0, s.net);
@@ -620,7 +595,6 @@ function render() {
       `${s.goals} goal${s.goals !== 1 ? "s" : ""} · ${s.ogs} OG`;
   }
 
-  // Goal log
   const logEl = document.getElementById("goal-log");
   const totalLabel = document.getElementById("total-goals-label");
   if (state.goals.length === 0) {
@@ -628,9 +602,9 @@ function render() {
     totalLabel.textContent = "";
   } else {
     totalLabel.textContent = `${state.goals.length} entr${state.goals.length === 1 ? "y" : "ies"}`;
-    // Sort newest first
     const sorted = [...state.goals].sort((a, b) => b.ts - a.ts);
     logEl.innerHTML = sorted.map(g => {
+      const active = isOnRoster(g.club, g.player);
       const isOG = g.type === "og";
       const icon = isOG ? "🔴" : "⚽";
       const badge = isOG
@@ -639,42 +613,40 @@ function render() {
       const minute = g.minute ? `${g.minute}'` : "—'";
       const matchStr = g.match ? ` &nbsp;·&nbsp; ${escHtml(g.match)}` : "";
       const clubStr = `${CLUB_FLAGS[g.club]} ${CLUB_NAMES[g.club]}`;
+      const inactiveNote = active ? "" : `<div class="inactive-note">⚠ Not on current roster — not counted</div>`;
       return `
-        <div class="goal-entry">
+        <div class="goal-entry${active ? "" : " inactive"}">
           <div class="goal-minute">${minute}</div>
           <div class="goal-icon">${icon}</div>
           <div class="goal-info">
             <div class="goal-player">${escHtml(g.player)} &nbsp;${badge}</div>
             <div class="goal-match-club">${clubStr}${matchStr}</div>
+            ${inactiveNote}
           </div>
           <button class="delete-btn" onclick="deleteGoal('${g.id}')" title="Delete">✕</button>
         </div>`;
     }).join("");
   }
 
-  // Roster
   renderRoster();
-
-  // Quick-log player list
-  updateQLPlayers();
-  updateMPlayers();
+  updateQLDatalist();
+  updateMDatalist();
 }
 
 function renderRoster() {
   const list = document.getElementById("roster-list");
   const players = state.rosters[currentRosterTab] || [];
   if (players.length === 0) {
-    list.innerHTML = `<div style="text-align:center;color:var(--muted);padding:1.5rem;font-size:0.8rem">No players. Add some in Admin Mode.</div>`;
+    list.innerHTML = `<div style="text-align:center;color:var(--muted);padding:1.5rem;font-size:0.8rem">No players yet — add them in Admin Mode.</div>`;
     return;
   }
-  // Count goals per player
   const goalMap = {};
   for (const g of state.goals) {
-    if (g.club === currentRosterTab) {
+    if (g.club === currentRosterTab && isOnRoster(currentRosterTab, g.player)) {
       goalMap[g.player] = (goalMap[g.player] || 0) + (g.type === "goal" ? 1 : -1);
     }
   }
-  list.innerHTML = players.map(p => {
+  list.innerHTML = [...players].sort((a, b) => a.localeCompare(b)).map(p => {
     const net = goalMap[p] || 0;
     const netStr = net === 0 ? "" : (net > 0 ? `+${net}` : `${net}`);
     return `
@@ -693,26 +665,24 @@ function switchRoster(club, tabEl) {
   renderRoster();
 }
 
-function updateQLPlayers() {
+// Datalist suggestions from current roster
+function updateQLDatalist() {
   const club = document.getElementById("ql-club").value;
-  fillPlayerSelect("ql-player", club);
+  fillDatalist("ql-player-list", club);
 }
-function updateMPlayers() {
+function updateMDatalist() {
   const club = document.getElementById("m-club").value;
-  fillPlayerSelect("m-player", club);
+  fillDatalist("m-player-list", club);
 }
-function fillPlayerSelect(selectId, club) {
-  const sel = document.getElementById(selectId);
-  if (!sel) return;
-  const players = state.rosters[club] || [];
-  sel.innerHTML = players.map(p =>
-    `<option value="${escAttr(p)}">${escHtml(p)}</option>`
+function fillDatalist(listId, club) {
+  const dl = document.getElementById(listId);
+  if (!dl) return;
+  dl.innerHTML = (state.rosters[club] || []).map(p =>
+    `<option value="${escHtml(p)}"></option>`
   ).join("");
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// ADMIN
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── ADMIN ────────────────────────────────────────────────────────────────────
 function toggleAdmin() {
   adminMode = !adminMode;
   document.body.classList.toggle("admin-mode", adminMode);
@@ -722,7 +692,8 @@ function toggleAdmin() {
 }
 
 function openGoalModal() {
-  updateMPlayers();
+  document.getElementById("m-player").value = "";
+  updateMDatalist();
   openModal("goalModal");
 }
 function openAddPlayerModal() {
@@ -732,13 +703,13 @@ function openAddPlayerModal() {
 function openModal(id) { document.getElementById(id).classList.add("open"); }
 function closeModal(id) { document.getElementById(id).classList.remove("open"); }
 
-// Close modal on backdrop click
 document.querySelectorAll(".modal-overlay").forEach(el => {
   el.addEventListener("click", e => { if (e.target === el) el.classList.remove("open"); });
 });
 
 function logGoal(club, player, minute, match, type) {
-  if (!player) { alert("Select a player."); return; }
+  player = player.trim();
+  if (!player) { alert("Enter a player name."); return; }
   const entry = {
     id: `g_${Date.now()}_${Math.random().toString(36).slice(2,6)}`,
     club, player,
@@ -759,6 +730,7 @@ function logQuickGoal() {
   const match  = document.getElementById("ql-match").value.trim();
   const type   = document.getElementById("ql-type").value;
   logGoal(club, player, minute, match, type);
+  document.getElementById("ql-player").value = "";
   document.getElementById("ql-minute").value = "";
 }
 
@@ -770,6 +742,7 @@ function logModalGoal() {
   const type   = document.getElementById("m-type").value;
   logGoal(club, player, minute, match, type);
   closeModal("goalModal");
+  document.getElementById("m-player").value = "";
   document.getElementById("m-minute").value = "";
   document.getElementById("m-match").value = "";
 }
@@ -784,33 +757,29 @@ function addPlayer() {
   const club = document.getElementById("pm-club").value;
   const name = document.getElementById("pm-name").value.trim();
   if (!name) { alert("Enter a player name."); return; }
-  if (state.rosters[club].includes(name)) { alert("Player already in roster."); return; }
-  state.rosters[club].push(name);
+  if ((state.rosters[club] || []).includes(name)) { alert("Player already in roster."); return; }
+  state.rosters[club] = [...(state.rosters[club] || []), name];
   saveState(state);
   closeModal("playerModal");
   render();
 }
 
 function removePlayer(club, name) {
-  if (!confirm(`Remove ${name} from ${CLUB_NAMES[club]}?`)) return;
-  state.rosters[club] = state.rosters[club].filter(p => p !== name);
-  // Also remove their goals from this club
-  state.goals = state.goals.filter(g => !(g.club === club && g.player === name));
+  if (!confirm(`Remove ${name} from ${CLUB_NAMES[club]}?\n\nTheir goals will stay in the log but won't count toward the total.`)) return;
+  state.rosters[club] = (state.rosters[club] || []).filter(p => p !== name);
   saveState(state);
   render();
 }
 
 function confirmReset() {
-  if (confirm("Reset ALL goals and restore default rosters? This cannot be undone.")) {
-    state = { rosters: JSON.parse(JSON.stringify(DEFAULT_ROSTERS)), goals: [] };
+  if (confirm("Reset ALL goals and clear all rosters? This cannot be undone.")) {
+    state = { _version: 2, rosters: { utd: [], rm: [], fcb: [] }, goals: [] };
     saveState(state);
     render();
   }
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// UTILS
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── UTILS ───────────────────────────────────────────────────────────────────
 function escHtml(s) {
   return String(s)
     .replace(/&/g,"&amp;").replace(/</g,"&lt;")
@@ -820,9 +789,6 @@ function escAttr(s) {
   return String(s).replace(/'/g,"\\'");
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// INIT
-// ─────────────────────────────────────────────────────────────────────────────
 render();
 </script>
 </body>
