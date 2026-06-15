@@ -379,13 +379,21 @@ let cache     = null;
 let rosterTab = "utd";
 
 // ─── API HELPERS ─────────────────────────────────────────────────────────────
+// football-data.org supports CORS but requires the token in the URL
+// when called from a browser (custom headers trigger preflight which they block).
+// We embed the token as a query param via their supported ?token= alternative.
 async function apiFetch(path) {
-  const res = await fetch(BASE_URL + path, {
-    headers: { "X-Auth-Token": apiKey },
-  });
+  const sep = path.includes("?") ? "&" : "?";
+  const url = BASE_URL + path + sep + "token=" + encodeURIComponent(apiKey);
+  let res;
+  try {
+    res = await fetch(url);
+  } catch (networkErr) {
+    throw new Error(`Network error: ${networkErr.message}`);
+  }
   if (!res.ok) {
     const body = await res.text().catch(() => "");
-    throw new Error(`${res.status} — ${body || res.statusText}`);
+    throw new Error(`HTTP ${res.status} — ${body || res.statusText}`);
   }
   return res.json();
 }
