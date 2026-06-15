@@ -5,6 +5,7 @@ Runs server-side via GitHub Actions -- no CORS issues.
 import json
 import os
 import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 
 TOKEN = os.environ["FD_TOKEN"]
@@ -19,8 +20,12 @@ CLUBS = {
 def fetch(path):
     url = BASE + path
     req = urllib.request.Request(url, headers={"X-Auth-Token": TOKEN})
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        body = e.read().decode(errors="replace")
+        raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
 # Squads
 squads = {}
