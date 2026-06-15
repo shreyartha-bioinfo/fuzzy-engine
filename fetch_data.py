@@ -1,6 +1,6 @@
 """
 Fetches FIFA World Cup 2026 goal data from football-data.org and writes data.json.
-Runs server-side via GitHub Actions — no CORS issues.
+Runs server-side via GitHub Actions -- no CORS issues.
 """
 import json
 import os
@@ -59,6 +59,7 @@ for key, club in CLUBS.items():
     squad = squads[key]
     total_goals = total_ogs = 0
     scorers = []
+
     for pid, info in squad.items():
         g  = scorer_map.get(pid, 0)
         og = og_map.get(pid, 0)
@@ -67,11 +68,23 @@ for key, club in CLUBS.items():
         if g > 0 or og > 0:
             scorers.append({"name": info["name"], "nationality": info["nationality"],
                             "goals": g, "ownGoals": og, "net": g - og})
+
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
+
+    full_squad = sorted(
+        [{"name": info["name"], "nationality": info["nationality"],
+          "goals": scorer_map.get(pid, 0), "ownGoals": og_map.get(pid, 0),
+          "net": scorer_map.get(pid, 0) - og_map.get(pid, 0)}
+         for pid, info in squad.items()],
+        key=lambda x: (-x["net"], x["name"])
+    )
+
     output["clubs"][key] = {
         "name": club["name"], "flag": club["flag"],
         "goals": total_goals, "ownGoals": total_ogs,
-        "net": total_goals - total_ogs, "scorers": scorers,
+        "net": total_goals - total_ogs,
+        "scorers": scorers,
+        "squad": full_squad,
     }
     print(f"  {club['name']}: {total_goals}G - {total_ogs}OG = {total_goals - total_ogs}")
 
