@@ -1,8 +1,8 @@
 """
 Fetches FIFA World Cup 2026 goal data.
 
-Squad source: Wikipedia current squad sections (static HTML, no anti-bot issues).
-Player names are normalized and matched against football-data.org WC scorer names.
+Squad source: ESPN public API (no auth required, no anti-bot, returns current rosters).
+  https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams/{id}/roster
 
 Goal/OG data: football-data.org free tier
   /v4/competitions/WC/scorers  -> regular goals
@@ -10,7 +10,6 @@ Goal/OG data: football-data.org free tier
 """
 import json
 import os
-import re
 import unicodedata
 import urllib.request
 import urllib.error
@@ -20,13 +19,13 @@ TOKEN = os.environ["FD_TOKEN"]
 BASE  = "https://api.football-data.org/v4"
 
 CLUBS = {
-    "utd": {"wiki": "Manchester_United_F.C.", "name": "Manchester United", "flag": "\U0001f534"},
-    "rm":  {"wiki": "Real_Madrid_CF",         "name": "Real Madrid",        "flag": "⚪"},
-    "fcb": {"wiki": "FC_Bayern_Munich",       "name": "Bayern Munich",      "flag": "\U0001f534"},
+    "utd": {"espn_league": "eng.1", "espn_name": "Manchester United", "name": "Manchester United", "flag": "\U0001f534"},
+    "rm":  {"espn_league": "esp.1", "espn_name": "Real Madrid",        "name": "Real Madrid",        "flag": "⚪"},
+    "fcb": {"espn_league": "ger.1", "espn_name": "Bayern Munich",      "name": "Bayern Munich",      "flag": "\U0001f534"},
 }
 
-WIKI_HEADERS = {
-    "User-Agent": "WC2026GoalTracker/1.0 (github.com/shreyartha-bioinfo/fuzzy-engine; educational)",
+ESPN_HEADERS = {
+    "User-Agent": "Mozilla/5.0",
     "Accept": "application/json",
 }
 
@@ -40,58 +39,59 @@ def fetch_fd(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-def fetch_wiki_squad(wiki_page: str) -> list[str]:
-    """Return list of player names from Wikipedia's Current squad section."""
-    # Get the full wikitext via the API
-    api = ("https://en.wikipedia.org/w/api.php"
-           f"?action=parse&page={urllib.request.quote(wiki_page)}"
-           "&prop=wikitext&format=json&redirects=1")
-    req = urllib.request.Request(api, headers=WIKI_HEADERS)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        data = json.loads(r.read().decode())
-    wikitext = data.get("parse", {}).get("wikitext", {}).get("*", "")
-
-    # Find the Current squad section (between == Current squad == and next ==)
-    squad_match = re.search(
-        r'==\s*Current squad\s*==(.+?)(?:\n==[^=]|\Z)',
-        wikitext, re.DOTALL | re.IGNORECASE
-    )
-    if not squad_match:
-        # Try "First-team squad" as fallback heading
-        squad_match = re.search(
-            r'==\s*(?:First[- ]team squad|Squad)\s*==(.+?)(?:\n==[^=]|\Z)',
-            wikitext, re.DOTALL | re.IGNORECASE
-        )
-    if not squad_match:
-        return []
-
-    section = squad_match.group(1)
-
-    # Extract player names from squad table rows.
-    # Wiki squad tables use {{fs player|no=N|nat=XX|name=Player Name|...}}
-    names = re.findall(r'\|\s*name\s*=\s*([^|\}\n]+)', section)
-    if not names:
-        # Fallback: [[Player Name|...]] links inside the squad table
-        names = re.findall(r'\[\[([^\]\|]+)(?:\|[^\]]*)?\]\]', section)
-        # Filter out non-player links (positions, nationalities, etc.)
-        names = [n for n in names if len(n.split()) >= 2]
-
-    return [n.strip() for n in names if n.strip()]
+def fetch_json(url):
+    req = urllib.request.Request(url, headers=ESPN_HEADERS)
+    with urllib.request.urlopen(req, timeout=15) as r:
+        return json.loads(r.read().decode())
 
 def normalize(name: str) -> str:
     nfkd = unicodedata.normalize("NFKD", name)
     return "".join(c for c in nfkd if not unicodedata.combining(c)).lower().strip()
 
-# ── Build player name map from Wikipedia ────────────────────────────────────────────────
-NAME_TO_CLUB: dict[str, tuple[str, str]] = {}  # norm -> (club_key, display_name)
+def espn_squad(league: str, search_name: str) -> list[str]:
+    """Return player name list from ESPN for a club in a given league."""
+    # Step 1: find team ID by name
+    teams_url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams"
+    data = fetch_json(teams_url)
+    team_id = None
+    for team in data.get("sports", [{}])[0].get("leagues", [{}])[0].get("teams", []):
+        t = team.get("team", {})
+        if normalize(t.get("displayName", "")) == normalize(search_name) or \
+           normalize(t.get("name", "")) == normalize(search_name) or \
+           normalize(t.get("shortDisplayName", "")) == normalize(search_name):
+            team_id = t.get("id")
+            print(f"    Found {t.get('displayName')} (ESPN id={team_id})")
+            break
+    if not team_id:
+        print(f"  WARNING: {search_name} not found in ESPN {league}")
+        print(f"  Available teams: {[t.get('team',{}).get('displayName') for t in data.get('sports',[{}])[0].get('leagues',[{}])[0].get('teams',[])[:8]]}")
+        return []
+
+    # Step 2: fetch roster
+    roster_url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams/{team_id}/roster"
+    try:
+        rdata = fetch_json(roster_url)
+    except Exception as e:
+        print(f"  WARNING: ESPN roster fetch failed for {search_name}: {e}")
+        return []
+
+    names = []
+    for athlete in rdata.get("athletes", []):
+        display = athlete.get("displayName") or athlete.get("fullName") or athlete.get("name", "")
+        if display:
+            names.append(display)
+    return names
+
+# ── Build player name map from ESPN ───────────────────────────────────────────────────────────
+NAME_TO_CLUB: dict[str, tuple[str, str]] = {}
 CLUB_SQUADS:  dict[str, list[str]]        = {key: [] for key in CLUBS}
 
 for key, club in CLUBS.items():
-    names = fetch_wiki_squad(club["wiki"])
+    names = espn_squad(club["espn_league"], club["espn_name"])
     CLUB_SQUADS[key] = names
     for name in names:
         NAME_TO_CLUB[normalize(name)] = (key, name)
-    print(f"  {club['name']}: {len(names)} players from Wikipedia")
+    print(f"  {club['name']}: {len(names)} players from ESPN")
     for n in names[:5]:
         print(f"    - {n}")
 
@@ -113,9 +113,9 @@ for entry in scorers_raw.get("scorers", []):
     scorer_goals[pid] = entry.get("goals", 0)
     norm = normalize(name)
     if norm in NAME_TO_CLUB:
-        club_key, wiki_name = NAME_TO_CLUB[norm]
+        club_key, espn_name = NAME_TO_CLUB[norm]
         PLAYER_CLUBS[pid] = club_key
-        print(f"  MATCH: {name} [{wiki_name}] -> {CLUBS[club_key]['name']} ({entry.get('goals',0)}g)")
+        print(f"  MATCH: {name} [{espn_name}] -> {CLUBS[club_key]['name']} ({entry.get('goals',0)}g)")
 
 print(f"  WC scorers: {len(scorer_goals)} total, "
       f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
@@ -165,16 +165,15 @@ for key, club in CLUBS.items():
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
 
-    # Squad list with WC goals overlaid
     squad_out = []
-    for wiki_name in CLUB_SQUADS[key]:
-        norm = normalize(wiki_name)
+    for espn_name in CLUB_SQUADS[key]:
+        norm = normalize(espn_name)
         pid  = next((i for i, info in player_info.items()
                      if normalize(info["name"]) == norm), None)
         g  = scorer_goals.get(pid, 0) if pid else 0
         og = og_map.get(pid, 0)        if pid else 0
         squad_out.append({
-            "name":     wiki_name,
+            "name":     espn_name,
             "goals":    g,
             "ownGoals": og,
             "net":      g - og,
