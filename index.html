@@ -27,7 +27,6 @@
     min-height: 100vh;
   }
 
-  /* ── Header ── */
   header {
     text-align: center;
     padding: 2rem 1rem 1.4rem;
@@ -45,48 +44,40 @@
   }
   header p { font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; letter-spacing: 0.04em; }
 
-  /* ── API bar ── */
-  .api-bar {
+  .status-bar {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 0.6rem;
-    padding: 0.65rem 1rem;
+    padding: 0.6rem 1rem;
     background: var(--surface);
     border-bottom: 1px solid var(--border);
+    font-size: 0.78rem;
     flex-wrap: wrap;
-    font-size: 0.8rem;
   }
-  .status-dot {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: var(--muted);
-    flex-shrink: 0;
+  .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--muted); flex-shrink: 0;
   }
-  .status-dot.live   { background: var(--green); box-shadow: 0 0 6px var(--green); }
-  .status-dot.error  { background: var(--red); }
-  .status-dot.loading { background: var(--amber); animation: pulse 1s infinite; }
-  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+  .dot.live    { background: var(--green); box-shadow: 0 0 6px var(--green); }
+  .dot.loading { background: var(--amber); animation: blink 1s infinite; }
+  .dot.error   { background: var(--red); }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.35} }
   #status-text { color: var(--muted); }
-  .api-bar .sep { color: var(--border); }
 
   .btn {
-    padding: 0.4rem 0.9rem;
+    padding: 0.38rem 0.85rem;
     border: 1px solid var(--border);
     background: var(--surface2);
     color: var(--text);
     border-radius: 6px;
     cursor: pointer;
-    font-size: 0.78rem;
+    font-size: 0.76rem;
     font-weight: 500;
-    transition: background 0.15s, border-color 0.15s;
+    transition: background .15s, border-color .15s;
   }
   .btn:hover { background: #252535; border-color: #4a4a6a; }
-  .btn.primary { background: #1e3a6e; border-color: #2a5298; color: #fff; }
-  .btn.primary:hover { background: #24477a; }
-  .btn.success { background: #1a3a22; border-color: var(--green); color: #aaffaa; }
 
-  /* ── Scoreboard ── */
   .scoreboard {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -105,7 +96,7 @@
   .club-badge { font-size: 2.4rem; line-height: 1; }
   .club-name {
     font-size: 0.72rem; font-weight: 700;
-    letter-spacing: 0.12em; text-transform: uppercase;
+    letter-spacing: .12em; text-transform: uppercase;
     color: var(--muted); margin-top: 0.4rem;
   }
   .club-goals {
@@ -118,12 +109,11 @@
   .club-card.fcb .club-goals { color: var(--fcb-red); }
   .club-sub { font-size: 0.72rem; color: var(--muted); margin-top: 0.2rem; }
 
-  /* ── Main layout ── */
   .content {
     max-width: 1100px; margin: 0 auto;
     padding: 1.5rem 1rem 4rem;
     display: grid;
-    grid-template-columns: 1fr 320px;
+    grid-template-columns: 1fr 310px;
     gap: 1.5rem;
   }
   @media (max-width: 760px) {
@@ -131,7 +121,6 @@
     .content    { grid-template-columns: 1fr; }
   }
 
-  /* ── Panel ── */
   .panel {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -139,127 +128,83 @@
     overflow: hidden;
   }
   .panel-header {
-    padding: 0.8rem 1.1rem;
+    padding: 0.75rem 1.1rem;
     border-bottom: 1px solid var(--border);
     background: var(--surface2);
-    font-size: 0.78rem; font-weight: 700;
-    letter-spacing: 0.1em; text-transform: uppercase;
+    font-size: 0.76rem; font-weight: 700;
+    letter-spacing: .1em; text-transform: uppercase;
     color: var(--muted);
     display: flex; justify-content: space-between; align-items: center;
   }
 
-  /* ── Goal log / player list ── */
-  .goal-log { padding: 0; }
-  .club-section-header {
-    padding: 0.5rem 1rem;
+  .club-section-hd {
+    padding: 0.45rem 1rem;
     background: var(--surface2);
     border-bottom: 1px solid var(--border);
-    font-size: 0.72rem; font-weight: 700;
-    letter-spacing: 0.1em; text-transform: uppercase;
-    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.7rem; font-weight: 700;
+    letter-spacing: .1em; text-transform: uppercase;
   }
-  .goal-entry {
-    display: flex; align-items: center; gap: 0.75rem;
+  .goal-row {
+    display: flex; align-items: center; gap: 0.7rem;
     padding: 0.6rem 1rem;
     border-bottom: 1px solid var(--border);
-    transition: background 0.1s;
+    transition: background .1s;
   }
-  .goal-entry:hover { background: var(--surface2); }
-  .goal-entry:last-child { border-bottom: none; }
-  .goal-entry.og-entry { opacity: 0.75; }
+  .goal-row:hover { background: var(--surface2); }
+  .goal-row:last-child { border-bottom: none; }
+  .goal-row.og-only { opacity: .7; }
 
-  .goal-rank { font-size: 0.7rem; color: var(--muted); min-width: 20px; text-align: right; }
-  .goal-icon { font-size: 1rem; min-width: 22px; }
-  .goal-info { flex: 1; }
-  .goal-player { font-size: 0.88rem; font-weight: 600; }
-  .goal-nat    { font-size: 0.72rem; color: var(--muted); margin-top: 0.05rem; }
-  .goal-count  {
-    font-size: 1.1rem; font-weight: 800;
-    font-variant-numeric: tabular-nums;
-    min-width: 28px; text-align: right;
-  }
-  .og-tag {
-    font-size: 0.65rem; padding: 0.1rem 0.35rem;
+  .g-rank  { font-size: .7rem; color: var(--muted); min-width: 18px; text-align: right; }
+  .g-icon  { font-size: 1rem; min-width: 20px; }
+  .g-info  { flex: 1; }
+  .g-name  { font-size: .87rem; font-weight: 600; }
+  .g-nat   { font-size: .71rem; color: var(--muted); margin-top: .05rem; }
+  .og-pill {
+    font-size: .63rem; padding: .1rem .35rem;
     border-radius: 4px; background: #3a1a1a; color: #fca5a5;
-    font-weight: 700; letter-spacing: 0.06em;
+    font-weight: 700; letter-spacing: .05em; margin-left: .3rem;
   }
-  .empty-log {
-    text-align: center; color: var(--muted);
-    padding: 3rem 1rem; font-size: 0.85rem;
+  .g-count {
+    font-size: 1.05rem; font-weight: 800;
+    font-variant-numeric: tabular-nums; min-width: 26px; text-align: right;
   }
 
-  /* ── Sidebar ── */
+  .empty-state {
+    text-align: center; color: var(--muted);
+    padding: 3rem 1rem; font-size: .84rem;
+  }
+
   .sidebar { display: flex; flex-direction: column; gap: 1rem; }
 
   .info-box {
-    background: linear-gradient(135deg, #0f1a30, #0a1228);
-    border: 1px solid #1e3a6e;
-    border-radius: 8px;
-    padding: 0.9rem 1rem;
-    font-size: 0.77rem; color: #7090c0; line-height: 1.6;
+    background: linear-gradient(135deg,#0f1a30,#0a1228);
+    border: 1px solid #1e3a6e; border-radius: 8px;
+    padding: .9rem 1rem; font-size: .76rem; color: #7090c0; line-height: 1.65;
   }
   .info-box strong { color: #a0b8e8; }
 
-  /* ── API key setup ── */
-  .setup-panel {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 10px; padding: 1.2rem;
-  }
-  .setup-panel h3 { font-size: 0.85rem; margin-bottom: 0.8rem; color: var(--text); }
-  .setup-panel p  { font-size: 0.75rem; color: var(--muted); margin-bottom: 0.8rem; line-height: 1.6; }
-  .form-group { display: flex; flex-direction: column; gap: 0.35rem; margin-bottom: 0.7rem; }
-  .form-group label { font-size: 0.72rem; color: var(--muted); font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; }
-  .form-group input {
-    background: var(--bg); border: 1px solid var(--border);
-    color: var(--text); padding: 0.5rem 0.7rem;
-    border-radius: 6px; font-size: 0.82rem; width: 100%;
-  }
-  .form-group input:focus { outline: none; border-color: #4a4a8a; }
-
-  /* Roster list */
   .roster-tabs { display: flex; gap: 1px; background: var(--border); }
   .roster-tab {
-    flex: 1; padding: 0.5rem 0.3rem;
-    text-align: center; font-size: 0.7rem; font-weight: 700;
-    letter-spacing: 0.06em; text-transform: uppercase;
+    flex: 1; padding: .48rem .3rem;
+    text-align: center; font-size: .68rem; font-weight: 700;
+    letter-spacing: .06em; text-transform: uppercase;
     cursor: pointer; background: var(--surface); color: var(--muted);
-    border: none; transition: background 0.15s, color 0.15s;
+    border: none; transition: background .15s, color .15s;
   }
   .roster-tab.active { background: var(--surface2); color: var(--text); }
   .roster-list { max-height: 220px; overflow-y: auto; }
   .roster-item {
-    display: flex; align-items: center; gap: 0.6rem;
-    padding: 0.4rem 0.9rem; font-size: 0.8rem;
+    display: flex; align-items: center; gap: .6rem;
+    padding: .38rem .9rem; font-size: .79rem;
     border-bottom: 1px solid var(--border);
   }
   .roster-item:last-child { border-bottom: none; }
   .roster-item span { flex: 1; }
-  .roster-item .r-goals { font-size: 0.72rem; color: var(--amber); font-weight: 700; }
+  .roster-item .r-g { font-size: .71rem; color: var(--amber); font-weight: 700; }
 
-  /* scrollbar */
-  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar { width: 5px; }
   ::-webkit-scrollbar-track { background: var(--surface); }
   ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
-
-  /* modal */
-  .modal-overlay {
-    display: none; position: fixed; inset: 0;
-    background: rgba(0,0,0,0.75); z-index: 100;
-    align-items: center; justify-content: center;
-  }
-  .modal-overlay.open { display: flex; }
-  .modal {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 12px; padding: 1.5rem; width: min(420px, 94vw);
-  }
-  .modal h3 { font-size: 1rem; margin-bottom: 0.5rem; }
-  .modal p  { font-size: 0.78rem; color: var(--muted); margin-bottom: 1rem; line-height: 1.6; }
-  .modal-actions { display: flex; gap: 0.5rem; margin-top: 1.2rem; justify-content: flex-end; }
-
-  .error-banner {
-    background: #2a0e0e; border: 1px solid #5a1a1a; border-radius: 8px;
-    padding: 0.8rem 1rem; font-size: 0.78rem; color: #ffaaaa; margin-bottom: 0;
-  }
 </style>
 </head>
 <body>
@@ -267,279 +212,125 @@
 <header>
   <div class="wc-logo">🏆</div>
   <h1>FIFA World Cup 2026 — Club Goal Tracker</h1>
-  <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Live data via football-data.org</p>
+  <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Current roster · auto-updated every 30 min</p>
 </header>
 
-<!-- Status bar -->
-<div class="api-bar">
-  <div class="status-dot" id="status-dot"></div>
-  <span id="status-text">Not connected</span>
-  <span class="sep">|</span>
-  <button class="btn" onclick="refresh()">↻ Refresh</button>
-  <button class="btn" onclick="openModal('apiModal')">⚙ API Key</button>
+<div class="status-bar">
+  <div class="dot loading" id="dot"></div>
+  <span id="status-text">Loading…</span>
+  <button class="btn" onclick="load()">↻ Refresh</button>
 </div>
 
-<!-- Scoreboard -->
 <div class="scoreboard">
   <div class="club-card utd">
     <div class="club-badge">🔴</div>
     <div class="club-name">Manchester United</div>
     <div class="club-goals" id="score-utd">—</div>
-    <div class="club-sub" id="sub-utd">— goals · — OG</div>
+    <div class="club-sub"  id="sub-utd">— goals · — OG</div>
   </div>
   <div class="club-card rm">
     <div class="club-badge">⚪</div>
     <div class="club-name">Real Madrid</div>
     <div class="club-goals" id="score-rm">—</div>
-    <div class="club-sub" id="sub-rm">— goals · — OG</div>
+    <div class="club-sub"  id="sub-rm">— goals · — OG</div>
   </div>
   <div class="club-card fcb">
     <div class="club-badge">🔴</div>
     <div class="club-name">Bayern Munich</div>
     <div class="club-goals" id="score-fcb">—</div>
-    <div class="club-sub" id="sub-fcb">— goals · — OG</div>
+    <div class="club-sub"  id="sub-fcb">— goals · — OG</div>
   </div>
 </div>
 
-<!-- Main content -->
 <div class="content">
 
-  <!-- Goal log -->
   <div class="panel">
     <div class="panel-header">
       <span>⚽ Goals by Current Roster Players</span>
-      <span id="log-meta" style="font-weight:400;font-size:0.72rem;color:var(--muted)"></span>
+      <span id="log-meta" style="font-weight:400;font-size:.71rem;color:var(--muted)"></span>
     </div>
-    <div id="goal-log" class="goal-log">
-      <div class="empty-log">Enter your API key to load live World Cup data.</div>
-    </div>
+    <div id="goal-log"><div class="empty-state">Loading data…</div></div>
   </div>
 
-  <!-- Sidebar -->
   <div class="sidebar">
-
     <div class="info-box">
       <strong>How it works</strong><br><br>
-      On each refresh, the app fetches the <strong>live official squad</strong> for all three clubs, then pulls <strong>World Cup 2026 scorers</strong> and <strong>match events</strong> to find own goals. Only players on the current roster count. Own goals <strong>deduct</strong> from the club total.<br><br>
-      Data via <strong>football-data.org</strong> (free tier).
+      A GitHub Action runs every <strong>30 minutes</strong>, fetching the live official squad for each club and cross-referencing it with World Cup 2026 goal &amp; match data. Own goals <strong>deduct</strong> a point. Only players on the <strong>current roster</strong> count.<br><br>
+      Data: <strong>football-data.org</strong>
     </div>
 
-    <!-- Roster panel -->
     <div class="panel">
-      <div class="panel-header">👥 Current Rosters (live)</div>
+      <div class="panel-header">👥 Current Rosters</div>
       <div class="roster-tabs">
-        <button class="roster-tab active" onclick="switchRoster('utd',this)">Man Utd</button>
-        <button class="roster-tab" onclick="switchRoster('rm',this)">Real Madrid</button>
-        <button class="roster-tab" onclick="switchRoster('fcb',this)">Bayern</button>
+        <button class="roster-tab active" onclick="switchTab('utd',this)">Man Utd</button>
+        <button class="roster-tab" onclick="switchTab('rm',this)">Real Madrid</button>
+        <button class="roster-tab" onclick="switchTab('fcb',this)">Bayern</button>
       </div>
       <div id="roster-list" class="roster-list">
-        <div class="empty-log" style="padding:1.5rem">No data yet.</div>
+        <div class="empty-state" style="padding:1.5rem">Loading…</div>
       </div>
     </div>
-
   </div>
-</div>
 
-<!-- API Key Modal -->
-<div class="modal-overlay" id="apiModal">
-  <div class="modal">
-    <h3>⚙ football-data.org Setup</h3>
-    <p>
-      Sign up free at <strong>football-data.org</strong> — just an email address, no credit card.<br>
-      Your API token arrives by email within a minute. Stored only in your browser.
-    </p>
-    <div class="form-group">
-      <label>API Token</label>
-      <input type="password" id="api-key-input" placeholder="Paste your token here" autocomplete="off" />
-    </div>
-    <div class="modal-actions">
-      <button class="btn" onclick="closeModal('apiModal')">Cancel</button>
-      <button class="btn success" onclick="saveKey()">Save &amp; Connect</button>
-    </div>
-  </div>
 </div>
 
 <script>
-// ─── CONFIG ──────────────────────────────────────────────────────────────────
-// football-data.org free tier: email signup only, 10 req/min
-// Docs: https://www.football-data.org/documentation/quickstart
-const BASE_URL  = "https://api.football-data.org/v4";
-const WC_CODE   = "WC";
-const WC_SEASON = 2026;
+let data      = null;
+let activeTab = "utd";
 
-const CLUBS = {
-  utd: { id: 66, name: "Manchester United", flag: "🔴" },
-  rm:  { id: 86, name: "Real Madrid",        flag: "⚪" },
-  fcb: { id: 5,  name: "Bayern Munich",      flag: "🔴" },
-};
-
-// ─── STATE ───────────────────────────────────────────────────────────────────
-let apiKey    = localStorage.getItem("wc26_fdkey") || "";
-let cache     = null;
-let rosterTab = "utd";
-
-// ─── API HELPERS ─────────────────────────────────────────────────────────────
-// football-data.org supports CORS but requires the token in the URL
-// when called from a browser (custom headers trigger preflight which they block).
-// We embed the token as a query param via their supported ?token= alternative.
-async function apiFetch(path) {
-  const sep = path.includes("?") ? "&" : "?";
-  const url = BASE_URL + path + sep + "token=" + encodeURIComponent(apiKey);
-  let res;
+async function load() {
+  setStatus("loading", "Refreshing…");
   try {
-    res = await fetch(url);
-  } catch (networkErr) {
-    throw new Error(`Network error: ${networkErr.message}`);
-  }
-  if (!res.ok) {
-    const body = await res.text().catch(() => "");
-    throw new Error(`HTTP ${res.status} — ${body || res.statusText}`);
-  }
-  return res.json();
-}
-
-// Returns Map<playerId, { name, nationality }>
-async function fetchSquad(clubId) {
-  const data = await apiFetch(`/teams/${clubId}`);
-  const map = new Map();
-  for (const p of (data.squad ?? [])) {
-    map.set(p.id, { name: p.name, nationality: p.nationality ?? "" });
-  }
-  return map;
-}
-
-// Returns Map<playerId, { goals }> — regular goals from scorers endpoint
-async function fetchWCScorers() {
-  const data = await apiFetch(`/competitions/${WC_CODE}/scorers?season=${WC_SEASON}&limit=200`);
-  const map = new Map();
-  for (const entry of (data.scorers ?? [])) {
-    const id = entry.player?.id;
-    if (id) map.set(id, { goals: entry.goals ?? 0 });
-  }
-  return map;
-}
-
-// Returns Map<playerId, { ownGoals }> — parsed from finished match events
-async function fetchWCOwnGoals() {
-  const data = await apiFetch(`/competitions/${WC_CODE}/matches?season=${WC_SEASON}&status=FINISHED`);
-  const map = new Map();
-  for (const match of (data.matches ?? [])) {
-    for (const goal of (match.goals ?? [])) {
-      if (goal.type !== "OWN_GOAL") continue;
-      const id = goal.scorer?.id;
-      if (!id) continue;
-      map.set(id, { ownGoals: (map.get(id)?.ownGoals ?? 0) + 1 });
-    }
-  }
-  return map;
-}
-
-// ─── MAIN FETCH ──────────────────────────────────────────────────────────────
-async function refresh() {
-  if (!apiKey) { openModal("apiModal"); return; }
-  setStatus("loading", "Fetching squads…");
-
-  try {
-    // Squads in parallel (3 calls)
-    const [squadUtd, squadRm, squadFcb] = await Promise.all([
-      fetchSquad(CLUBS.utd.id),
-      fetchSquad(CLUBS.rm.id),
-      fetchSquad(CLUBS.fcb.id),
-    ]);
-
-    setStatus("loading", "Loading WC scorers…");
-    const scorers = await fetchWCScorers();
-
-    setStatus("loading", "Loading own goals from match events…");
-    const ownGoals = await fetchWCOwnGoals();
-
-    // Merge into unified playerStats Map
-    const playerStats = new Map();
-    for (const id of new Set([...scorers.keys(), ...ownGoals.keys()])) {
-      playerStats.set(id, {
-        goals:    scorers.get(id)?.goals     ?? 0,
-        ownGoals: ownGoals.get(id)?.ownGoals ?? 0,
-      });
-    }
-
-    cache = {
-      ts: Date.now(),
-      rosters: { utd: squadUtd, rm: squadRm, fcb: squadFcb },
-      playerStats,
-    };
+    const res = await fetch(`./data.json?_=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
     render();
-    setStatus("live", `Live · updated ${new Date().toLocaleTimeString()}`);
+    const ts = data.updated
+      ? `Updated ${new Date(data.updated).toLocaleString()}`
+      : "Data loaded";
+    setStatus("live", ts);
   } catch (err) {
     setStatus("error", `Error: ${err.message}`);
-    renderError(err.message);
-    console.error(err);
+    document.getElementById("goal-log").innerHTML =
+      `<div class="empty-state" style="color:var(--red)">⚠ ${esc(err.message)}</div>`;
   }
-}
-
-// ─── RENDER ──────────────────────────────────────────────────────────────────
-function computeClub(clubKey) {
-  if (!cache) return null;
-  const { rosters, playerStats } = cache;
-  const squad = rosters[clubKey];
-  let goals = 0, ogs = 0;
-  const scorers = [];   // { name, goals, ownGoals, net }
-
-  for (const [id, info] of squad) {
-    const s = playerStats.get(id);
-    if (!s) continue;
-    goals += s.goals;
-    ogs   += s.ownGoals;
-    if (s.goals > 0 || s.ownGoals > 0) {
-      scorers.push({ name: info.name, nationality: info.nationality, goals: s.goals, ownGoals: s.ownGoals, net: s.goals - s.ownGoals });
-    }
-  }
-  scorers.sort((a, b) => b.net - a.net || b.goals - a.goals);
-  return { goals, ogs, net: goals - ogs, scorers };
 }
 
 function render() {
-  if (!cache) return;
-
-  const results = {};
-  for (const key of Object.keys(CLUBS)) results[key] = computeClub(key);
+  if (!data) return;
 
   // Scoreboard
-  for (const [key, r] of Object.entries(results)) {
-    document.getElementById(`score-${key}`).textContent = Math.max(0, r.net);
+  for (const [key, club] of Object.entries(data.clubs)) {
+    document.getElementById(`score-${key}`).textContent = Math.max(0, club.net);
     document.getElementById(`sub-${key}`).textContent =
-      `${r.goals} goal${r.goals !== 1 ? "s" : ""} · ${r.ogs} OG`;
+      `${club.goals} goal${club.goals !== 1 ? "s" : ""} · ${club.ownGoals} OG`;
   }
 
   // Goal log
   const logEl  = document.getElementById("goal-log");
   const metaEl = document.getElementById("log-meta");
-  const totalScorers = Object.values(results).reduce((n, r) => n + r.scorers.length, 0);
-  metaEl.textContent = totalScorers ? `${totalScorers} player${totalScorers !== 1 ? "s" : ""} scored` : "";
+  const total  = Object.values(data.clubs).reduce((n, c) => n + c.scorers.length, 0);
+  metaEl.textContent = total ? `${total} player${total !== 1 ? "s" : ""} scored` : "";
 
-  if (totalScorers === 0) {
-    logEl.innerHTML = `<div class="empty-log">No World Cup goals yet from these squads.</div>`;
+  if (total === 0) {
+    logEl.innerHTML = `<div class="empty-state">No World Cup goals yet from these squads.</div>`;
   } else {
     let html = "";
-    for (const [key, clubInfo] of Object.entries(CLUBS)) {
-      const r = results[key];
-      if (r.scorers.length === 0) continue;
-      html += `<div class="club-section-header">${clubInfo.flag} ${clubInfo.name}</div>`;
-      r.scorers.forEach((p, i) => {
-        const hasOG = p.ownGoals > 0;
+    for (const [key, club] of Object.entries(data.clubs)) {
+      if (!club.scorers.length) continue;
+      html += `<div class="club-section-hd">${club.flag} ${club.name}</div>`;
+      club.scorers.forEach((p, i) => {
+        const ogOnly = p.ownGoals > 0 && p.goals === 0;
+        const color  = p.net < 0 ? "var(--red)" : p.net > 0 ? "var(--green)" : "var(--muted)";
         html += `
-          <div class="goal-entry${hasOG && p.goals === 0 ? " og-entry" : ""}">
-            <div class="goal-rank">${i + 1}</div>
-            <div class="goal-icon">${hasOG && p.goals === 0 ? "🔴" : "⚽"}</div>
-            <div class="goal-info">
-              <div class="goal-player">
-                ${escHtml(p.name)}
-                ${hasOG ? `<span class="og-tag" title="${p.ownGoals} own goal${p.ownGoals>1?"s":""}">−${p.ownGoals} OG</span>` : ""}
-              </div>
-              ${p.nationality ? `<div class="goal-nat">${escHtml(p.nationality)}</div>` : ""}
+          <div class="goal-row${ogOnly ? " og-only" : ""}">
+            <div class="g-rank">${i + 1}</div>
+            <div class="g-icon">${ogOnly ? "🔴" : "⚽"}</div>
+            <div class="g-info">
+              <div class="g-name">${esc(p.name)}${p.ownGoals > 0 ? `<span class="og-pill">&minus;${p.ownGoals} OG</span>` : ""}</div>
+              ${p.nationality ? `<div class="g-nat">${esc(p.nationality)}</div>` : ""}
             </div>
-            <div class="goal-count" style="color:${p.net < 0 ? "var(--red)" : p.net > 0 ? "var(--green)" : "var(--muted)"}">
-              ${p.net > 0 ? "+" : ""}${p.net}
-            </div>
+            <div class="g-count" style="color:${color}">${p.net > 0 ? "+" : ""}${p.net}</div>
           </div>`;
       });
     }
@@ -551,82 +342,41 @@ function render() {
 
 function renderRoster() {
   const listEl = document.getElementById("roster-list");
-  if (!cache) {
-    listEl.innerHTML = `<div class="empty-log" style="padding:1.5rem">No data yet.</div>`;
-    return;
-  }
-  const squad = cache.rosters[rosterTab];
-  if (!squad || squad.size === 0) {
-    listEl.innerHTML = `<div class="empty-log" style="padding:1.5rem">Empty squad.</div>`;
-    return;
-  }
-  const { playerStats } = cache;
-  const entries = [...squad.entries()].map(([id, info]) => {
-    const s = playerStats.get(id);
-    return { name: info.name, goals: s?.goals ?? 0, ogs: s?.ownGoals ?? 0, net: (s?.goals ?? 0) - (s?.ownGoals ?? 0) };
-  }).sort((a, b) => b.net - a.net || a.name.localeCompare(b.name));
+  if (!data) return;
+  const club = data.clubs[activeTab];
+  if (!club) return;
 
-  listEl.innerHTML = entries.map(p => {
+  // Build roster from scorers + zero-goal players (we don't have full squad in data.json)
+  // Show scorers sorted, rest can be implied
+  if (!club.scorers.length) {
+    listEl.innerHTML = `<div class="empty-state" style="padding:1.2rem">No goals yet.</div>`;
+    return;
+  }
+  listEl.innerHTML = club.scorers.map(p => {
     const label = p.net > 0 ? `+${p.net}` : p.net < 0 ? `${p.net}` : "";
-    return `
-      <div class="roster-item">
-        <span>${escHtml(p.name)}</span>
-        <span class="r-goals">${label}</span>
-      </div>`;
+    return `<div class="roster-item"><span>${esc(p.name)}</span><span class="r-g">${label}</span></div>`;
   }).join("");
 }
 
-function renderError(msg) {
-  document.getElementById("goal-log").innerHTML =
-    `<div class="error-banner" style="margin:1rem">⚠ ${escHtml(msg)}</div>`;
-}
-
-function switchRoster(club, tabEl) {
-  rosterTab = club;
+function switchTab(key, el) {
+  activeTab = key;
   document.querySelectorAll(".roster-tab").forEach(t => t.classList.remove("active"));
-  tabEl.classList.add("active");
+  el.classList.add("active");
   renderRoster();
 }
 
-// ─── STATUS ──────────────────────────────────────────────────────────────────
 function setStatus(state, text) {
-  const dot  = document.getElementById("status-dot");
-  const span = document.getElementById("status-text");
-  dot.className  = `status-dot ${state}`;
-  span.textContent = text;
+  document.getElementById("dot").className = `dot ${state}`;
+  document.getElementById("status-text").textContent = text;
 }
 
-// ─── API KEY ─────────────────────────────────────────────────────────────────
-function saveKey() {
-  const val = document.getElementById("api-key-input").value.trim();
-  if (!val) { alert("Paste your token first."); return; }
-  apiKey = val;
-  localStorage.setItem("wc26_fdkey", val);
-  closeModal("apiModal");
-  refresh();
-}
-
-// ─── MODAL ───────────────────────────────────────────────────────────────────
-function openModal(id)  { document.getElementById(id).classList.add("open"); }
-function closeModal(id) { document.getElementById(id).classList.remove("open"); }
-document.querySelectorAll(".modal-overlay").forEach(el => {
-  el.addEventListener("click", e => { if (e.target === el) el.classList.remove("open"); });
-});
-
-// ─── UTILS ───────────────────────────────────────────────────────────────────
-function escHtml(s) {
+function esc(s) {
   return String(s)
     .replace(/&/g,"&amp;").replace(/</g,"&lt;")
     .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 
-// ─── INIT ────────────────────────────────────────────────────────────────────
-if (apiKey) {
-  document.getElementById("api-key-input").value = apiKey;
-  refresh();
-} else {
-  setStatus("", "No token — click ⚙ to set up");
-}
+load();
 </script>
 </body>
 </html>
