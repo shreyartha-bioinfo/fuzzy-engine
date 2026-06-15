@@ -192,15 +192,23 @@
     border: none; transition: background .15s, color .15s;
   }
   .roster-tab.active { background: var(--surface2); color: var(--text); }
-  .roster-list { max-height: 220px; overflow-y: auto; }
+  .roster-list { max-height: 340px; overflow-y: auto; }
+  .roster-pos-hd {
+    padding: .25rem .9rem;
+    font-size: .63rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted); background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+  }
   .roster-item {
     display: flex; align-items: center; gap: .6rem;
     padding: .38rem .9rem; font-size: .79rem;
     border-bottom: 1px solid var(--border);
   }
   .roster-item:last-child { border-bottom: none; }
+  .roster-item.scored { background: #0f1f0f; }
   .roster-item span { flex: 1; }
-  .roster-item .r-g { font-size: .71rem; color: var(--amber); font-weight: 700; }
+  .roster-item .r-nat { font-size: .67rem; color: var(--muted); }
+  .roster-item .r-g { font-size: .71rem; color: var(--green); font-weight: 700; min-width: 28px; text-align: right; }
 
   ::-webkit-scrollbar { width: 5px; }
   ::-webkit-scrollbar-track { background: var(--surface); }
@@ -218,7 +226,7 @@
 <div class="status-bar">
   <div class="dot loading" id="dot"></div>
   <span id="status-text">Loading…</span>
-  <button class="btn" onclick="load()">↻ Refresh</button>
+  <button class="btn" onclick="load()">&#8635; Refresh</button>
 </div>
 
 <div class="scoreboard">
@@ -255,12 +263,12 @@
   <div class="sidebar">
     <div class="info-box">
       <strong>How it works</strong><br><br>
-      A GitHub Action runs every <strong>30 minutes</strong>. It fetches all WC 2026 scorers — each player includes their <strong>current club</strong> — then filters for players at Man Utd, Real Madrid, or Bayern. Own goals <strong>deduct</strong> a point. Match events are parsed for OGs.<br><br>
+      A GitHub Action runs every <strong>30 minutes</strong>. It fetches squad rosters from the Premier League, La Liga, and Bundesliga APIs, then cross-references with WC 2026 scorers. Own goals <strong>deduct</strong> a point.<br><br>
       Data: <strong>football-data.org</strong> (free tier)
     </div>
 
     <div class="panel">
-      <div class="panel-header">⚽ Club Scorers (WC 2026)</div>
+      <div class="panel-header">🧑‍🤝‍🧑 Current Squad — WC 2026 Goals</div>
       <div class="roster-tabs">
         <button class="roster-tab active" onclick="switchTab('utd',this)">Man Utd</button>
         <button class="roster-tab" onclick="switchTab('rm',this)">Real Madrid</button>
@@ -346,15 +354,32 @@ function renderRoster() {
   const club = data.clubs[activeTab];
   if (!club) return;
 
-  const players = club.squad || club.scorers || [];
+  const players = club.squad || [];
   if (!players.length) {
-    listEl.innerHTML = `<div class="empty-state" style="padding:1.2rem">No squad data yet — run the workflow first.</div>`;
+    listEl.innerHTML = `<div class="empty-state" style="padding:1.2rem">No squad data yet.</div>`;
     return;
   }
-  listEl.innerHTML = players.map(p => {
-    const label = p.net > 0 ? `+${p.net}` : p.net < 0 ? `${p.net}` : "";
-    return `<div class="roster-item"><span>${esc(p.name)}</span><span class="r-g">${label}</span></div>`;
-  }).join("");
+
+  const POS_LABEL = { Goalkeeper: "Goalkeepers", Defence: "Defenders", Midfield: "Midfielders", Offence: "Forwards" };
+  let html = "";
+  let lastPos = null;
+  for (const p of players) {
+    const pos = p.position || "Unknown";
+    if (pos !== lastPos) {
+      html += `<div class="roster-pos-hd">${POS_LABEL[pos] || pos}</div>`;
+      lastPos = pos;
+    }
+    const scored = p.net !== 0 || p.goals > 0 || p.ownGoals > 0;
+    const label  = p.net > 0 ? `+${p.net} ⚽` : p.net < 0 ? `${p.net}` : p.goals > 0 ? `+${p.goals} ⚽` : "";
+    html += `<div class="roster-item${scored ? " scored" : ""}">
+      <div style="flex:1">
+        <div>${esc(p.name)}</div>
+        ${p.nationality ? `<div class="r-nat">${esc(p.nationality)}</div>` : ""}
+      </div>
+      <span class="r-g">${label}</span>
+    </div>`;
+  }
+  listEl.innerHTML = html;
 }
 
 function switchTab(key, el) {
