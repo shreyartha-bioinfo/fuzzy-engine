@@ -1,16 +1,16 @@
 """
-Fetches FIFA World Cup 2026 goal data.
+Fetches FIFA World Cup 2026 goal data from football-data.org (free tier).
 
-Squad source: ESPN public API (no auth required, no anti-bot, returns current rosters).
-  https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams/{id}/roster
+Squad source: domestic league team endpoints (PL, PD, BL1) — free tier, returns
+full squad with player IDs. Manual overrides applied after fetch for known
+transfers not yet reflected in the API.
 
-Goal/OG data: football-data.org free tier
+Goal/OG data:
   /v4/competitions/WC/scorers  -> regular goals
   /v4/competitions/WC/matches  -> OG events
 """
 import json
 import os
-import unicodedata
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
@@ -19,17 +19,23 @@ TOKEN = os.environ["FD_TOKEN"]
 BASE  = "https://api.football-data.org/v4"
 
 CLUBS = {
-    "utd": {"espn_league": "eng.1", "espn_name": "Manchester United", "name": "Manchester United", "flag": "\U0001f534"},
-    "rm":  {"espn_league": "esp.1", "espn_name": "Real Madrid",        "name": "Real Madrid",        "flag": "⚪"},
-    "fcb": {"espn_league": "ger.1", "espn_name": "Bayern Munich",      "name": "Bayern Munich",      "flag": "\U0001f534"},
+    "utd": {"id": 66,  "league": "PL",  "name": "Manchester United", "flag": "\U0001f534"},
+    "rm":  {"id": 86,  "league": "PD",  "name": "Real Madrid",        "flag": "⚪"},
+    "fcb": {"id": 5,   "league": "BL1", "name": "Bayern Munich",      "flag": "\U0001f534"},
 }
 
-ESPN_HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json",
+# Manual corrections for transfers not yet in football-data.org season data.
+# REMOVE: player names to drop from a club's squad.
+# ADD: extra players to add (name + nationality). These are matched by name
+#      against WC scorer names for goal attribution.
+OVERRIDES = {
+    "rm": {
+        "remove": {"David Alaba", "Dávid Alaba", "Daniel Carvajal", "D. Carvajal"},
+        "add":    [{"name": "Marc Cucurella", "position": "Defence", "nationality": "Spain"}],
+    },
 }
 
-def fetch_fd(path):
+def fetch(path):
     url = BASE + path
     req = urllib.request.Request(url, headers={"X-Auth-Token": TOKEN})
     try:
@@ -39,69 +45,53 @@ def fetch_fd(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-def fetch_json(url):
-    req = urllib.request.Request(url, headers=ESPN_HEADERS)
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode())
-
-def normalize(name: str) -> str:
-    nfkd = unicodedata.normalize("NFKD", name)
-    return "".join(c for c in nfkd if not unicodedata.combining(c)).lower().strip()
-
-def espn_squad(league: str, search_name: str) -> list[str]:
-    """Return player name list from ESPN for a club in a given league."""
-    # Step 1: find team ID by name
-    teams_url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams"
-    data = fetch_json(teams_url)
-    team_id = None
-    for team in data.get("sports", [{}])[0].get("leagues", [{}])[0].get("teams", []):
-        t = team.get("team", {})
-        if normalize(t.get("displayName", "")) == normalize(search_name) or \
-           normalize(t.get("name", "")) == normalize(search_name) or \
-           normalize(t.get("shortDisplayName", "")) == normalize(search_name):
-            team_id = t.get("id")
-            print(f"    Found {t.get('displayName')} (ESPN id={team_id})")
-            break
-    if not team_id:
-        print(f"  WARNING: {search_name} not found in ESPN {league}")
-        print(f"  Available teams: {[t.get('team',{}).get('displayName') for t in data.get('sports',[{}])[0].get('leagues',[{}])[0].get('teams',[])[:8]]}")
-        return []
-
-    # Step 2: fetch roster
-    roster_url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams/{team_id}/roster"
-    try:
-        rdata = fetch_json(roster_url)
-    except Exception as e:
-        print(f"  WARNING: ESPN roster fetch failed for {search_name}: {e}")
-        return []
-
-    names = []
-    for athlete in rdata.get("athletes", []):
-        display = athlete.get("displayName") or athlete.get("fullName") or athlete.get("name", "")
-        if display:
-            names.append(display)
-    return names
-
-# ── Build player name map from ESPN ───────────────────────────────────────────────────────────
-NAME_TO_CLUB: dict[str, tuple[str, str]] = {}
-CLUB_SQUADS:  dict[str, list[str]]        = {key: [] for key in CLUBS}
+# ── Build player->club map + full squad lists from domestic league rosters ────────
+PLAYER_CLUBS: dict[int, str] = {}
+CLUB_SQUADS:  dict[str, list] = {key: [] for key in CLUBS}
+# Extra name->club mapping for manually added players
+EXTRA_NAMES:  dict[str, str]  = {}  # lower name -> club_key
 
 for key, club in CLUBS.items():
-    names = espn_squad(club["espn_league"], club["espn_name"])
-    CLUB_SQUADS[key] = names
-    for name in names:
-        NAME_TO_CLUB[normalize(name)] = (key, name)
-    print(f"  {club['name']}: {len(names)} players from ESPN")
-    for n in names[:5]:
-        print(f"    - {n}")
+    ovr     = OVERRIDES.get(key, {})
+    removes = {n.lower() for n in ovr.get("remove", set())}
+    adds    = ovr.get("add", [])
 
-print(f"  Total tracked players: {len(NAME_TO_CLUB)}")
+    league_data = fetch(f"/competitions/{club['league']}/teams?season=2025")
+    for team in league_data.get("teams", []):
+        if team.get("id") != club["id"]:
+            continue
+        squad = team.get("squad", [])
+        pos_order = {"Goalkeeper": 0, "Defence": 1, "Midfield": 2, "Offence": 3}
+        for player in squad:
+            pid  = player.get("id")
+            name = player.get("name", "")
+            if name.lower() in removes or name in ovr.get("remove", set()):
+                print(f"  OVERRIDE REMOVE: {name} from {club['name']}")
+                continue
+            pos = player.get("position", "")
+            nat = player.get("nationality", "")
+            if pid:
+                PLAYER_CLUBS[pid] = key
+                CLUB_SQUADS[key].append({"id": pid, "name": name, "position": pos, "nationality": nat})
+
+        # Apply additions
+        for extra in adds:
+            CLUB_SQUADS[key].append({"id": None, **extra})
+            EXTRA_NAMES[extra["name"].lower()] = key
+            print(f"  OVERRIDE ADD: {extra['name']} to {club['name']}")
+
+        CLUB_SQUADS[key].sort(key=lambda p: (pos_order.get(p.get("position", ""), 9), p["name"]))
+        print(f"  {club['name']}: {len(CLUB_SQUADS[key])} squad members (after overrides)")
+        break
+    else:
+        print(f"  WARNING: {club['name']} not found in {club['league']} teams")
+
+print(f"  Total tracked players: {len(PLAYER_CLUBS)} by ID + {len(EXTRA_NAMES)} by name")
 
 # ── WC scorers ────────────────────────────────────────────────────────────────────
-scorers_raw  = fetch_fd("/competitions/WC/scorers?season=2026&limit=200")
+scorers_raw  = fetch("/competitions/WC/scorers?season=2026&limit=200")
 player_info  = {}
 scorer_goals = {}
-PLAYER_CLUBS: dict[int, str] = {}
 
 for entry in scorers_raw.get("scorers", []):
     p   = entry.get("player", {})
@@ -111,17 +101,21 @@ for entry in scorers_raw.get("scorers", []):
     name = p.get("name", "")
     player_info[pid]  = {"name": name, "nationality": p.get("nationality", "")}
     scorer_goals[pid] = entry.get("goals", 0)
-    norm = normalize(name)
-    if norm in NAME_TO_CLUB:
-        club_key, espn_name = NAME_TO_CLUB[norm]
+    # Match by player ID first
+    if pid in PLAYER_CLUBS:
+        club_name = CLUBS[PLAYER_CLUBS[pid]]["name"]
+        print(f"  MATCH (id): {name} -> {club_name} ({entry.get('goals',0)}g)")
+    # Match manually added players by name
+    elif name.lower() in EXTRA_NAMES:
+        club_key = EXTRA_NAMES[name.lower()]
         PLAYER_CLUBS[pid] = club_key
-        print(f"  MATCH: {name} [{espn_name}] -> {CLUBS[club_key]['name']} ({entry.get('goals',0)}g)")
+        print(f"  MATCH (name override): {name} -> {CLUBS[club_key]['name']} ({entry.get('goals',0)}g)")
 
 print(f"  WC scorers: {len(scorer_goals)} total, "
       f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
 
 # ── OG events ──────────────────────────────────────────────────────────────────────────
-matches_raw = fetch_fd("/competitions/WC/matches?season=2026&status=FINISHED")
+matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
 og_map = {}
 for match in matches_raw.get("matches", []):
     for goal in match.get("goals", []):
@@ -133,9 +127,8 @@ for match in matches_raw.get("matches", []):
             continue
         if pid not in player_info:
             player_info[pid] = {"name": scorer.get("name", ""), "nationality": ""}
-            norm = normalize(scorer.get("name", ""))
-            if norm in NAME_TO_CLUB:
-                PLAYER_CLUBS[pid] = NAME_TO_CLUB[norm][0]
+        if pid not in PLAYER_CLUBS and scorer.get("name", "").lower() in EXTRA_NAMES:
+            PLAYER_CLUBS[pid] = EXTRA_NAMES[scorer["name"].lower()]
         og_map[pid] = og_map.get(pid, 0) + 1
 print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
 
@@ -145,7 +138,8 @@ output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}}
 for key, club in CLUBS.items():
     total_goals = total_ogs = 0
     scorers = []
-    club_pids = {pid for pid, ck in PLAYER_CLUBS.items() if ck == key}
+    club_pids = {p["id"] for p in CLUB_SQUADS[key] if p["id"] is not None}
+    club_pids |= {pid for pid, ck in PLAYER_CLUBS.items() if ck == key}
 
     for pid in club_pids:
         g  = scorer_goals.get(pid, 0)
@@ -165,18 +159,24 @@ for key, club in CLUBS.items():
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
 
+    goals_by_pid = {pid: scorer_goals.get(pid, 0) for pid in club_pids}
+    ogs_by_pid   = {pid: og_map.get(pid, 0)        for pid in club_pids}
     squad_out = []
-    for espn_name in CLUB_SQUADS[key]:
-        norm = normalize(espn_name)
-        pid  = next((i for i, info in player_info.items()
-                     if normalize(info["name"]) == norm), None)
+    for p in CLUB_SQUADS[key]:
+        pid = p["id"]
+        # For manually added players, look up by name
+        if pid is None:
+            pid = next((i for i, info in player_info.items()
+                        if info["name"].lower() == p["name"].lower()), None)
         g  = scorer_goals.get(pid, 0) if pid else 0
         og = og_map.get(pid, 0)        if pid else 0
         squad_out.append({
-            "name":     espn_name,
-            "goals":    g,
-            "ownGoals": og,
-            "net":      g - og,
+            "name":        p["name"],
+            "position":    p.get("position", ""),
+            "nationality": p.get("nationality", ""),
+            "goals":       g,
+            "ownGoals":    og,
+            "net":         g - og,
         })
 
     output["clubs"][key] = {
