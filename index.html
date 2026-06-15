@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FIFA World Cup 2026 — Club Goal Tracker</title>
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #13131a;
+    --surface2: #1c1c26;
+    --border: #2a2a3a;
+    --text: #e8e8f0;
+    --muted: #7070a0;
+    --utd-red: #DA291C;
+    --utd-gold: #FBE122;
+    --rm-purple: #00529F;
+    --rm-gold: #FEBE10;
+    --fcb-red: #DC052D;
+    --fcb-blue: #0066B2;
+    --green: #22c55e;
+    --red: #ef4444;
+    --amber: #f59e0b;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    text-align: center;
+    padding: 2rem 1rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, #090912 0%, var(--bg) 100%);
+    position: relative;
+  }
+  header .wc-logo { font-size: 2.6rem; line-height: 1; }
+  header h1 {
+    font-size: clamp(1.1rem, 3vw, 1.7rem);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-top: 0.4rem;
+    color: #fff;
+  }
+  header p {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-top: 0.3rem;
+    letter-spacing: 0.04em;
+  }
+
+  /* ── Admin toggle ── */
+  .admin-bar {
+    display: flex;
+    justify-content: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+  .btn {
+    padding: 0.45rem 1.1rem;
+    border: 1px solid var(--border);
+    background: var(--surface2);
+    color: var(--text);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .btn:hover { background: #252535; border-color: #4a4a6a; }
+  .btn.primary { background: #1e3a6e; border-color: var(--rm-purple); color: #fff; }
+  .btn.primary:hover { background: #24477a; }
+  .btn.danger { background: #3a1e1e; border-color: var(--utd-red); color: #ffaaaa; }
+  .btn.danger:hover { background: #4a2222; }
+  .btn.success { background: #1a3a22; border-color: var(--green); color: #aaffaa; }
+  .btn.success:hover { background: #1f4428; }
+
+  /* ── Club scoreboard row ── */
+  .scoreboard {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .club-card {
+    background: var(--surface);
+    padding: 1.5rem 1rem 1.25rem;
+    text-align: center;
+    position: relative;
+  }
+  .club-card.utd  { border-top: 3px solid var(--utd-red); }
+  .club-card.rm   { border-top: 3px solid var(--rm-gold); }
+  .club-card.fcb  { border-top: 3px solid var(--fcb-red); }
+
+  .club-badge { font-size: 2.4rem; line-height: 1; }
+  .club-name {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-top: 0.4rem;
+  }
+  .club-goals {
+    font-size: clamp(2.8rem, 7vw, 4.5rem);
+    font-weight: 800;
+    line-height: 1.1;
+    margin-top: 0.2rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .club-card.utd  .club-goals { color: var(--utd-red); }
+  .club-card.rm   .club-goals { color: var(--rm-gold); }
+  .club-card.fcb  .club-goals { color: var(--fcb-red); }
+
+  .club-sub { font-size: 0.72rem; color: var(--muted); margin-top: 0.2rem; }
+
+  /* ── Main content ── */
+  .content {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem 4rem;
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 1.5rem;
+  }
+  @media (max-width: 760px) {
+    .scoreboard { grid-template-columns: 1fr; }
+    .content { grid-template-columns: 1fr; }
+  }
+
+  /* ── Match log ── */
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .panel-header {
+    padding: 0.8rem 1.1rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .goal-log { padding: 0.5rem 0; }
+  .goal-entry {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.65rem 1rem;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.1s;
+  }
+  .goal-entry:hover { background: var(--surface2); }
+  .goal-entry:last-child { border-bottom: none; }
+
+  .goal-minute {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--amber);
+    min-width: 38px;
+    padding-top: 1px;
+    font-variant-numeric: tabular-nums;
+  }
+  .goal-icon { font-size: 1.1rem; min-width: 24px; }
+  .goal-info { flex: 1; }
+  .goal-player {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .goal-match-club {
+    font-size: 0.74rem;
+    color: var(--muted);
+    margin-top: 0.1rem;
+  }
+  .goal-badge {
+    font-size: 0.67rem;
+    padding: 0.15rem 0.45rem;
+    border-radius: 4px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .badge-goal  { background: #1a3a22; color: #6ee7a0; }
+  .badge-og    { background: #3a1a1a; color: #fca5a5; }
+
+  .delete-btn {
+    background: none;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 0.9rem;
+    padding: 0.15rem 0.3rem;
+    border-radius: 4px;
+    opacity: 0.5;
+    transition: opacity 0.15s, color 0.15s;
+    display: none;
+  }
+  .delete-btn:hover { opacity: 1; color: var(--red); }
+  body.admin-mode .delete-btn { display: block; }
+
+  .empty-log {
+    text-align: center;
+    color: var(--muted);
+    padding: 3rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  /* ── Admin sidebar ── */
+  .sidebar { display: flex; flex-direction: column; gap: 1rem; }
+
+  .form-group { display: flex; flex-direction: column; gap: 0.35rem; }
+  .form-group label { font-size: 0.75rem; color: var(--muted); font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; }
+  .form-group select,
+  .form-group input {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.5rem 0.7rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    width: 100%;
+  }
+  .form-group select:focus,
+  .form-group input:focus { outline: none; border-color: #4a4a8a; }
+
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+
+  .admin-section { display: none; }
+  body.admin-mode .admin-section { display: flex; flex-direction: column; gap: 1rem; }
+  body.admin-mode .admin-hint { display: none; }
+
+  .admin-hint {
+    text-align: center;
+    color: var(--muted);
+    padding: 2rem 1rem;
+    font-size: 0.82rem;
+  }
+
+  /* Player roster panel */
+  .roster-tabs {
+    display: flex;
+    gap: 1px;
+    background: var(--border);
+    overflow: hidden;
+  }
+  .roster-tab {
+    flex: 1;
+    padding: 0.55rem 0.3rem;
+    text-align: center;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: var(--surface);
+    color: var(--muted);
+    border: none;
+    transition: background 0.15s, color 0.15s;
+  }
+  .roster-tab.active { background: var(--surface2); color: var(--text); }
+  .roster-tab:hover { color: var(--text); }
+
+  .roster-list { max-height: 240px; overflow-y: auto; padding: 0.4rem 0; }
+  .roster-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.82rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .roster-item:last-child { border-bottom: none; }
+  .roster-item span { flex: 1; }
+  .roster-item .goal-count {
+    font-size: 0.72rem;
+    color: var(--amber);
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    min-width: 24px;
+    text-align: right;
+  }
+  .roster-remove {
+    background: none;
+    border: none;
+    color: var(--red);
+    cursor: pointer;
+    font-size: 0.85rem;
+    padding: 0 0.2rem;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .roster-item:hover .roster-remove { opacity: 1; }
+
+  /* ── WC schedule context ── */
+  .wc-note {
+    background: linear-gradient(135deg, #0f1a30, #0a1228);
+    border: 1px solid #1e3a6e;
+    border-radius: 8px;
+    padding: 0.9rem 1rem;
+    font-size: 0.77rem;
+    color: #7090c0;
+    line-height: 1.6;
+  }
+  .wc-note strong { color: #a0b8e8; }
+
+  /* scrollbar */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--surface); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  /* modal */
+  .modal-overlay {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.5rem;
+    width: min(400px, 92vw);
+  }
+  .modal h3 { font-size: 1rem; margin-bottom: 1rem; }
+  .modal .form-group { margin-bottom: 0.75rem; }
+  .modal-actions { display: flex; gap: 0.5rem; margin-top: 1.2rem; justify-content: flex-end; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wc-logo">🏆</div>
+  <h1>FIFA World Cup 2026 — Club Goal Tracker</h1>
+  <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Current-roster players only</p>
+</header>
+
+<div class="admin-bar">
+  <button class="btn" id="adminToggleBtn" onclick="toggleAdmin()">🔐 Admin Mode</button>
+  <button class="btn primary admin-section" onclick="openGoalModal()">⚽ Log Goal</button>
+  <button class="btn danger admin-section" id="resetBtn" onclick="confirmReset()">🗑 Reset All</button>
+</div>
+
+<!-- Scoreboard -->
+<div class="scoreboard">
+  <div class="club-card utd">
+    <div class="club-badge">🔴</div>
+    <div class="club-name">Manchester United</div>
+    <div class="club-goals" id="score-utd">0</div>
+    <div class="club-sub" id="sub-utd">0 goals · 0 OG</div>
+  </div>
+  <div class="club-card rm">
+    <div class="club-badge">⚪</div>
+    <div class="club-name">Real Madrid</div>
+    <div class="club-goals" id="score-rm">0</div>
+    <div class="club-sub" id="sub-rm">0 goals · 0 OG</div>
+  </div>
+  <div class="club-card fcb">
+    <div class="club-badge">🔴</div>
+    <div class="club-name">Bayern Munich</div>
+    <div class="club-goals" id="score-fcb">0</div>
+    <div class="club-sub" id="sub-fcb">0 goals · 0 OG</div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Goal log -->
+  <div class="panel">
+    <div class="panel-header">
+      <span>⚽ Goal Log</span>
+      <span id="total-goals-label" style="font-weight:400;font-size:0.75rem"></span>
+    </div>
+    <div id="goal-log" class="goal-log">
+      <div class="empty-log">No goals logged yet. Kick off!</div>
+    </div>
+  </div>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+
+    <!-- WC note -->
+    <div class="wc-note">
+      <strong>FIFA World Cup 2026</strong><br>
+      June 11 – July 19, 2026<br>
+      USA · Canada · Mexico<br><br>
+      Goals by <strong>current-squad players only</strong>. Own goals <strong>deduct</strong> a point from the club tally.
+    </div>
+
+    <!-- Roster viewer -->
+    <div class="panel">
+      <div class="panel-header">
+        <span>👥 Club Rosters</span>
+        <button class="btn admin-section" style="padding:0.25rem 0.6rem;font-size:0.72rem" onclick="openAddPlayerModal()">+ Add</button>
+      </div>
+      <div class="roster-tabs">
+        <button class="roster-tab active" onclick="switchRoster('utd',this)">Man Utd</button>
+        <button class="roster-tab" onclick="switchRoster('rm',this)">Real Madrid</button>
+        <button class="roster-tab" onclick="switchRoster('fcb',this)">Bayern</button>
+      </div>
+      <div id="roster-list" class="roster-list"></div>
+    </div>
+
+    <!-- Quick-log shortcut (admin) -->
+    <div class="admin-section panel">
+      <div class="panel-header">Quick Log</div>
+      <div style="padding:0.9rem">
+        <div class="form-group" style="margin-bottom:0.6rem">
+          <label>Club</label>
+          <select id="ql-club" onchange="updateQLPlayers()">
+            <option value="utd">Manchester United</option>
+            <option value="rm">Real Madrid</option>
+            <option value="fcb">Bayern Munich</option>
+          </select>
+        </div>
+        <div class="form-group" style="margin-bottom:0.6rem">
+          <label>Player</label>
+          <select id="ql-player"></select>
+        </div>
+        <div class="form-row" style="margin-bottom:0.6rem">
+          <div class="form-group">
+            <label>Minute</label>
+            <input type="number" id="ql-minute" placeholder="e.g. 45" min="1" max="120" />
+          </div>
+          <div class="form-group">
+            <label>Match</label>
+            <input type="text" id="ql-match" placeholder="e.g. ENG vs FRA" />
+          </div>
+        </div>
+        <div class="form-group" style="margin-bottom:0.8rem">
+          <label>Type</label>
+          <select id="ql-type">
+            <option value="goal">⚽ Goal</option>
+            <option value="og">🔴 Own Goal (deduct)</option>
+          </select>
+        </div>
+        <button class="btn success" style="width:100%" onclick="logQuickGoal()">Log Goal</button>
+      </div>
+    </div>
+
+    <div class="admin-hint">
+      <div style="font-size:1.5rem;margin-bottom:0.5rem">🔒</div>
+      Enable Admin Mode to log goals and manage rosters.
+    </div>
+
+  </div>
+</div>
+
+<!-- Add Goal Modal -->
+<div class="modal-overlay" id="goalModal">
+  <div class="modal">
+    <h3>⚽ Log a Goal</h3>
+    <div class="form-group">
+      <label>Club</label>
+      <select id="m-club" onchange="updateMPlayers()">
+        <option value="utd">Manchester United</option>
+        <option value="rm">Real Madrid</option>
+        <option value="fcb">Bayern Munich</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Player</label>
+      <select id="m-player"></select>
+    </div>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Minute</label>
+        <input type="number" id="m-minute" placeholder="e.g. 67" min="1" max="120" />
+      </div>
+      <div class="form-group">
+        <label>Match</label>
+        <input type="text" id="m-match" placeholder="e.g. GER vs BRA" />
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Goal Type</label>
+      <select id="m-type">
+        <option value="goal">⚽ Goal</option>
+        <option value="og">🔴 Own Goal (deduct)</option>
+      </select>
+    </div>
+    <div class="modal-actions">
+      <button class="btn" onclick="closeModal('goalModal')">Cancel</button>
+      <button class="btn success" onclick="logModalGoal()">Log Goal</button>
+    </div>
+  </div>
+</div>
+
+<!-- Add Player Modal -->
+<div class="modal-overlay" id="playerModal">
+  <div class="modal">
+    <h3>👤 Add Player to Roster</h3>
+    <div class="form-group">
+      <label>Club</label>
+      <select id="pm-club">
+        <option value="utd">Manchester United</option>
+        <option value="rm">Real Madrid</option>
+        <option value="fcb">Bayern Munich</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Player Name</label>
+      <input type="text" id="pm-name" placeholder="Full name" />
+    </div>
+    <div class="modal-actions">
+      <button class="btn" onclick="closeModal('playerModal')">Cancel</button>
+      <button class="btn primary" onclick="addPlayer()">Add Player</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ─────────────────────────────────────────────────────────────────────────────
+// DATA — Current rosters as of June 2026 World Cup squad announcements
+// Each country selects ~26 players; we track by club affiliation.
+// ─────────────────────────────────────────────────────────────────────────────
+const DEFAULT_ROSTERS = {
+  utd: [
+    "André Onana", "Altay Bayındır", "Tom Heaton",
+    "Lisandro Martínez", "Harry Maguire", "Victor Lindelöf",
+    "Diogo Dalot", "Luke Shaw", "Tyrell Malacia",
+    "Casemiro", "Kobbie Mainoo", "Mason Mount", "Christian Eriksen",
+    "Bruno Fernandes", "Marcus Rashford", "Alejandro Garnacho",
+    "Rasmus Højlund", "Joshua Zirkzee", "Antony", "Amad Diallo",
+    "Scott McTominay", "Manuel Ugarte", "Leny Yoro", "Noussair Mazraoui"
+  ],
+  rm: [
+    "Thibaut Courtois", "Andriy Lunin", "Fran González",
+    "Éder Militão", "Antonio Rüdiger", "David Alaba", "Jesús Vallejo",
+    "Dani Carvajal", "Ferland Mendy", "Fran García",
+    "Aurélien Tchouaméni", "Eduardo Camavinga", "Luka Modrić",
+    "Federico Valverde", "Dani Ceballos", "Brahim Díaz",
+    "Jude Bellingham", "Kylian Mbappé", "Vinicius Jr",
+    "Rodrygo", "Arda Güler", "Lucas Vázquez", "Raúl Asencio",
+    "Endrick", "Jacobo Ramón"
+  ],
+  fcb: [
+    "Manuel Neuer", "Daniel Peretz", "Sven Ulreich",
+    "Dayot Upamecano", "Kim Min-jae", "Matthijs de Ligt",
+    "Alphonso Davies", "Konrad Laimer", "Raphaël Guerreiro",
+    "Joshua Kimmich", "Leon Goretzka", "Aleksandar Pavlović",
+    "Joao Palhinha", "Michael Olise", "Leroy Sané",
+    "Serge Gnabry", "Kingsley Coman", "Thomas Müller",
+    "Jamal Musiala", "Harry Kane", "Mathys Tel",
+    "Hiroki Ito", "Sacha Boey", "Adam Aznou"
+  ]
+};
+
+const CLUB_NAMES = { utd: "Manchester United", rm: "Real Madrid", fcb: "Bayern Munich" };
+const CLUB_FLAGS = { utd: "🔴", rm: "⚪", fcb: "🔴" };
+
+// ─────────────────────────────────────────────────────────────────────────────
+// STATE
+// ─────────────────────────────────────────────────────────────────────────────
+function loadState() {
+  try {
+    const raw = localStorage.getItem("wc2026_tracker");
+    if (raw) return JSON.parse(raw);
+  } catch {}
+  return {
+    rosters: JSON.parse(JSON.stringify(DEFAULT_ROSTERS)),
+    goals: []   // { id, club, player, minute, match, type, ts }
+  };
+}
+
+function saveState(state) {
+  localStorage.setItem("wc2026_tracker", JSON.stringify(state));
+}
+
+let state = loadState();
+let currentRosterTab = "utd";
+let adminMode = false;
+
+// ─────────────────────────────────────────────────────────────────────────────
+// SCORING
+// ─────────────────────────────────────────────────────────────────────────────
+function getScore(club) {
+  let goals = 0, ogs = 0;
+  for (const g of state.goals) {
+    if (g.club !== club) continue;
+    if (g.type === "goal") goals++;
+    else ogs++;
+  }
+  return { goals, ogs, net: goals - ogs };
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// RENDER
+// ─────────────────────────────────────────────────────────────────────────────
+function render() {
+  // Scoreboard
+  for (const club of ["utd", "rm", "fcb"]) {
+    const s = getScore(club);
+    document.getElementById(`score-${club}`).textContent = Math.max(0, s.net);
+    document.getElementById(`sub-${club}`).textContent =
+      `${s.goals} goal${s.goals !== 1 ? "s" : ""} · ${s.ogs} OG`;
+  }
+
+  // Goal log
+  const logEl = document.getElementById("goal-log");
+  const totalLabel = document.getElementById("total-goals-label");
+  if (state.goals.length === 0) {
+    logEl.innerHTML = `<div class="empty-log">No goals logged yet. Kick off! ⚽</div>`;
+    totalLabel.textContent = "";
+  } else {
+    totalLabel.textContent = `${state.goals.length} entr${state.goals.length === 1 ? "y" : "ies"}`;
+    // Sort newest first
+    const sorted = [...state.goals].sort((a, b) => b.ts - a.ts);
+    logEl.innerHTML = sorted.map(g => {
+      const isOG = g.type === "og";
+      const icon = isOG ? "🔴" : "⚽";
+      const badge = isOG
+        ? `<span class="goal-badge badge-og">OG</span>`
+        : `<span class="goal-badge badge-goal">GOAL</span>`;
+      const minute = g.minute ? `${g.minute}'` : "—'";
+      const matchStr = g.match ? ` &nbsp;·&nbsp; ${escHtml(g.match)}` : "";
+      const clubStr = `${CLUB_FLAGS[g.club]} ${CLUB_NAMES[g.club]}`;
+      return `
+        <div class="goal-entry">
+          <div class="goal-minute">${minute}</div>
+          <div class="goal-icon">${icon}</div>
+          <div class="goal-info">
+            <div class="goal-player">${escHtml(g.player)} &nbsp;${badge}</div>
+            <div class="goal-match-club">${clubStr}${matchStr}</div>
+          </div>
+          <button class="delete-btn" onclick="deleteGoal('${g.id}')" title="Delete">✕</button>
+        </div>`;
+    }).join("");
+  }
+
+  // Roster
+  renderRoster();
+
+  // Quick-log player list
+  updateQLPlayers();
+  updateMPlayers();
+}
+
+function renderRoster() {
+  const list = document.getElementById("roster-list");
+  const players = state.rosters[currentRosterTab] || [];
+  if (players.length === 0) {
+    list.innerHTML = `<div style="text-align:center;color:var(--muted);padding:1.5rem;font-size:0.8rem">No players. Add some in Admin Mode.</div>`;
+    return;
+  }
+  // Count goals per player
+  const goalMap = {};
+  for (const g of state.goals) {
+    if (g.club === currentRosterTab) {
+      goalMap[g.player] = (goalMap[g.player] || 0) + (g.type === "goal" ? 1 : -1);
+    }
+  }
+  list.innerHTML = players.map(p => {
+    const net = goalMap[p] || 0;
+    const netStr = net === 0 ? "" : (net > 0 ? `+${net}` : `${net}`);
+    return `
+      <div class="roster-item">
+        <span>${escHtml(p)}</span>
+        <span class="goal-count">${netStr}</span>
+        ${adminMode ? `<button class="roster-remove" onclick="removePlayer('${currentRosterTab}','${escAttr(p)}')" title="Remove">✕</button>` : ""}
+      </div>`;
+  }).join("");
+}
+
+function switchRoster(club, tabEl) {
+  currentRosterTab = club;
+  document.querySelectorAll(".roster-tab").forEach(t => t.classList.remove("active"));
+  tabEl.classList.add("active");
+  renderRoster();
+}
+
+function updateQLPlayers() {
+  const club = document.getElementById("ql-club").value;
+  fillPlayerSelect("ql-player", club);
+}
+function updateMPlayers() {
+  const club = document.getElementById("m-club").value;
+  fillPlayerSelect("m-player", club);
+}
+function fillPlayerSelect(selectId, club) {
+  const sel = document.getElementById(selectId);
+  if (!sel) return;
+  const players = state.rosters[club] || [];
+  sel.innerHTML = players.map(p =>
+    `<option value="${escAttr(p)}">${escHtml(p)}</option>`
+  ).join("");
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ADMIN
+// ─────────────────────────────────────────────────────────────────────────────
+function toggleAdmin() {
+  adminMode = !adminMode;
+  document.body.classList.toggle("admin-mode", adminMode);
+  document.getElementById("adminToggleBtn").textContent =
+    adminMode ? "🔓 Admin Mode (ON)" : "🔐 Admin Mode";
+  renderRoster();
+}
+
+function openGoalModal() {
+  updateMPlayers();
+  openModal("goalModal");
+}
+function openAddPlayerModal() {
+  document.getElementById("pm-name").value = "";
+  openModal("playerModal");
+}
+function openModal(id) { document.getElementById(id).classList.add("open"); }
+function closeModal(id) { document.getElementById(id).classList.remove("open"); }
+
+// Close modal on backdrop click
+document.querySelectorAll(".modal-overlay").forEach(el => {
+  el.addEventListener("click", e => { if (e.target === el) el.classList.remove("open"); });
+});
+
+function logGoal(club, player, minute, match, type) {
+  if (!player) { alert("Select a player."); return; }
+  const entry = {
+    id: `g_${Date.now()}_${Math.random().toString(36).slice(2,6)}`,
+    club, player,
+    minute: minute ? parseInt(minute) : null,
+    match: match || "",
+    type,
+    ts: Date.now()
+  };
+  state.goals.push(entry);
+  saveState(state);
+  render();
+}
+
+function logQuickGoal() {
+  const club   = document.getElementById("ql-club").value;
+  const player = document.getElementById("ql-player").value;
+  const minute = document.getElementById("ql-minute").value;
+  const match  = document.getElementById("ql-match").value.trim();
+  const type   = document.getElementById("ql-type").value;
+  logGoal(club, player, minute, match, type);
+  document.getElementById("ql-minute").value = "";
+}
+
+function logModalGoal() {
+  const club   = document.getElementById("m-club").value;
+  const player = document.getElementById("m-player").value;
+  const minute = document.getElementById("m-minute").value;
+  const match  = document.getElementById("m-match").value.trim();
+  const type   = document.getElementById("m-type").value;
+  logGoal(club, player, minute, match, type);
+  closeModal("goalModal");
+  document.getElementById("m-minute").value = "";
+  document.getElementById("m-match").value = "";
+}
+
+function deleteGoal(id) {
+  state.goals = state.goals.filter(g => g.id !== id);
+  saveState(state);
+  render();
+}
+
+function addPlayer() {
+  const club = document.getElementById("pm-club").value;
+  const name = document.getElementById("pm-name").value.trim();
+  if (!name) { alert("Enter a player name."); return; }
+  if (state.rosters[club].includes(name)) { alert("Player already in roster."); return; }
+  state.rosters[club].push(name);
+  saveState(state);
+  closeModal("playerModal");
+  render();
+}
+
+function removePlayer(club, name) {
+  if (!confirm(`Remove ${name} from ${CLUB_NAMES[club]}?`)) return;
+  state.rosters[club] = state.rosters[club].filter(p => p !== name);
+  // Also remove their goals from this club
+  state.goals = state.goals.filter(g => !(g.club === club && g.player === name));
+  saveState(state);
+  render();
+}
+
+function confirmReset() {
+  if (confirm("Reset ALL goals and restore default rosters? This cannot be undone.")) {
+    state = { rosters: JSON.parse(JSON.stringify(DEFAULT_ROSTERS)), goals: [] };
+    saveState(state);
+    render();
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// UTILS
+// ─────────────────────────────────────────────────────────────────────────────
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+function escAttr(s) {
+  return String(s).replace(/'/g,"\\'");
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────────────────────────────────────
+render();
+</script>
+</body>
+</html>
