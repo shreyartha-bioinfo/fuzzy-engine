@@ -1,8 +1,80 @@
 {
-  "updated": null,
+  "updated": "2026-06-15T19:48:27.250524+00:00",
   "clubs": {
-    "utd": { "name": "Manchester United", "flag": "🔴", "goals": 0, "ownGoals": 0, "net": 0, "scorers": [] },
-    "rm":  { "name": "Real Madrid",        "flag": "⚪", "goals": 0, "ownGoals": 0, "net": 0, "scorers": [] },
-    "fcb": { "name": "Bayern Munich",      "flag": "🔴", "goals": 0, "ownGoals": 0, "net": 0, "scorers": [] }
+    "utd": {
+      "name": "Manchester United",
+      "flag": "🔴",
+      "goals": 1,
+      "ownGoals": 0,
+      "net": 1,
+      "scorers": [
+        {
+          "name": "Amad Diallo",
+          "nationality": "Ivory Coast",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        }
+      ],
+      "squad": [
+        {
+          "name": "Amad Diallo",
+          "nationality": "Ivory Coast",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        }
+      ]
+    },
+    "rm": {
+      "name": "Real Madrid",
+      "flag": "⚪",
+      "goals": 1,
+      "ownGoals": 0,
+      "net": 1,
+      "scorers": [
+        {
+          "name": "Vinicius Junior",
+          "nationality": "Brazil",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        }
+      ],
+      "squad": [
+        {
+          "name": "Vinicius Junior",
+          "nationality": "Brazil",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        }
+      ]
+    },
+    "fcb": {
+      "name": "Bayern Munich",
+      "flag": "🔴",
+      "goals": 1,
+      "ownGoals": 0,
+      "net": 1,
+      "scorers": [
+        {
+          "name": "Jamal Musiala",
+          "nationality": "Germany",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        }
+      ],
+      "squad": [
+        {
+          "name": "Jamal Musiala",
+          "nationality": "Germany",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        }
+      ]
+    }
   }
 }
