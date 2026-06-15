@@ -1,11 +1,3 @@
-"""
-Fetches FIFA World Cup 2026 goal data from football-data.org (free tier) and writes data.json.
-
-Free tier approach:
-  - /v4/competitions/WC/scorers  -> regular goals per player + player.currentTeam (their club)
-  - /v4/competitions/WC/matches  -> OG events; scorer ID looked up in club map built from scorers
-No /teams/{id} calls needed (those require a paid tier).
-"""
 import json
 import os
 import urllib.request
@@ -32,7 +24,7 @@ def fetch(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-# WC scorers: regular goals + currentTeam
+# WC scorers
 scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
 
 player_club  = {}
@@ -52,7 +44,12 @@ for entry in scorers_raw.get("scorers", []):
 
 print(f"  WC scorers: {len(scorer_goals)} total, {len(player_club)} from our 3 clubs")
 
-# OG events from finished matches
+# Debug: print raw structure of first 5 scorers
+for entry in scorers_raw.get("scorers", [])[:5]:
+    p = entry.get("player", {})
+    print(f"  SAMPLE: {p.get('name')} | currentTeam={p.get('currentTeam')} | team={entry.get('team',{}).get('name')}")
+
+# OG events
 matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
 og_map = {}
 
@@ -70,10 +67,11 @@ for match in matches_raw.get("matches", []):
 
 print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
 
-# Build per-club output
+# Build output
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}}
 
 for key, club in CLUBS.items():
+    squad = {}
     total_goals = total_ogs = 0
     scorers = []
     club_pids = {pid for pid, ck in player_club.items() if ck == key}
