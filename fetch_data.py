@@ -55,6 +55,10 @@ for entry in scorers_raw.get("scorers", []):
 
 print(f"  WC scorers: {len(scorer_goals)} total, "
       f"{len(player_club)} from our 3 clubs")
+# Debug: show raw structure of first 3 scorers
+for entry in scorers_raw.get("scorers", [])[:3]:
+    p = entry.get("player", {})
+    print(f"  SAMPLE: {p.get('name')} | currentTeam={p.get('currentTeam')} | team={entry.get('team',{}).get('name')}")
 
 # ── OG events from finished matches ──────────────────────────────────────────
 matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
