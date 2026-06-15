@@ -20,8 +20,12 @@ CLUBS = {
 def fetch(path):
     url = BASE + path
     req = urllib.request.Request(url, headers={"X-Auth-Token": TOKEN})
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        body = e.read().decode(errors="replace")
+        raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
 # ── Squads (current official squad per club) ─────────────────────────────────
 squads = {}
