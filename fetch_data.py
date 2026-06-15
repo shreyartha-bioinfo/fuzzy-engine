@@ -126,6 +126,64 @@ for key, club in CLUBS.items():
     }
     print(f"  {club['name']}: {total_goals}G − {total_ogs}OG = {total_goals - total_ogs}")
 
+# ── Upcoming fixtures (next 2 scheduled WC matches + lineups) ─────────────────────────
+COUNTRY_FLAGS = {
+    "Spain": "🇪🇸", "Cape Verde": "🇨🇻", "Belgium": "🇧🇪", "Egypt": "🇪🇬",
+    "Saudi Arabia": "🇸🇦", "Uruguay": "🇺🇾", "Iran": "🇮🇷", "New Zealand": "🇳🇿",
+    "France": "🇫🇷", "Senegal": "🇸🇳", "Iraq": "🇮🇶", "Norway": "🇳🇴",
+    "Argentina": "🇦🇷", "Algeria": "🇩🇿", "Brazil": "🇧🇷", "Morocco": "🇲🇦",
+    "Germany": "🇩🇪", "Japan": "🇯🇵", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "USA": "🇺🇸",
+    "Mexico": "🇲🇽", "Portugal": "🇵🇹", "Netherlands": "🇳🇱", "Croatia": "🇭🇷",
+    "Denmark": "🇩🇰", "Switzerland": "🇨🇭", "Austria": "🇦🇹", "Turkey": "🇹🇷",
+    "Colombia": "🇨🇴", "Ecuador": "🇪🇨", "Chile": "🇨🇱", "Peru": "🇵🇪",
+    "Australia": "🇦🇺", "South Korea": "🇰🇷", "Serbia": "🇷🇸", "Poland": "🇵🇱",
+    "Czechia": "🇨🇿", "South Africa": "🇿🇦", "Ghana": "🇬🇭", "Senegal": "🇸🇳",
+    "Tunisia": "🇹🇳", "Cameroon": "🇨🇲", "Nigeria": "🇳🇬", "Paraguay": "🇵🇾",
+    "Costa Rica": "🇨🇷", "Honduras": "🇭🇳", "Panama": "🇵🇦", "Canada": "🇨🇦",
+    "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "Ukraine": "🇺🇦",
+}
+
+upcoming = []
+try:
+    sched_raw = fetch("/competitions/WC/matches?season=2026&status=SCHEDULED")
+    sched_matches = sched_raw.get("matches", [])
+    if not sched_matches:
+        # also check IN_PLAY
+        live_raw = fetch("/competitions/WC/matches?season=2026&status=IN_PLAY")
+        sched_matches = live_raw.get("matches", [])
+    for m in sched_matches[:2]:
+        home_name = m.get("homeTeam", {}).get("name", "TBD")
+        away_name = m.get("awayTeam", {}).get("name", "TBD")
+        fixture = {
+            "id":     m.get("id"),
+            "date":   m.get("utcDate"),
+            "group":  m.get("group", "Group Stage"),
+            "status": m.get("status"),
+            "home":   {"name": home_name, "flag": COUNTRY_FLAGS.get(home_name, "🏳"), "lineup": []},
+            "away":   {"name": away_name, "flag": COUNTRY_FLAGS.get(away_name, "🏳"), "lineup": []},
+            "lineup_status": "Predicted lineups from football-data.org",
+        }
+        # Try to get lineup from match detail
+        try:
+            detail = fetch(f"/matches/{m['id']}")
+            for side, key_name in [("home", "homeTeam"), ("away", "awayTeam")]:
+                team_detail = detail.get(key_name, {})
+                lineup_raw = team_detail.get("lineup", [])
+                if lineup_raw:
+                    fixture[side]["lineup"] = [
+                        {"name": p.get("name",""), "position": p.get("position","")}
+                        for p in lineup_raw
+                    ]
+                    fixture["lineup_status"] = "Lineups confirmed"
+        except Exception as e:
+            print(f"  Match detail fetch failed for {m.get('id')}: {e}")
+        upcoming.append(fixture)
+    print(f"  Upcoming: {len(upcoming)} fixtures")
+except Exception as e:
+    print(f"  Upcoming fixtures fetch failed: {e}")
+
+output["upcoming"] = upcoming
+
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 print("data.json written.")

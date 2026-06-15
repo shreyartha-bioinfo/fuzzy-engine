@@ -174,6 +174,70 @@
     padding: 3rem 1rem; font-size: .84rem;
   }
 
+  /* ── Fixtures ──────────────────────── */
+  .fixtures-section {
+    max-width: 1100px; margin: 0 auto;
+    padding: 0 1rem 1.5rem;
+  }
+  .fixtures-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  @media (max-width: 700px) { .fixtures-grid { grid-template-columns: 1fr; } }
+  .fixture-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .fixture-header {
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+    padding: .55rem .9rem;
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: .7rem; color: var(--muted);
+  }
+  .fixture-header strong { color: var(--text); font-size: .75rem; }
+  .fixture-matchup {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1rem; padding: 1rem .9rem;
+    font-size: .95rem; font-weight: 700; text-align: center;
+  }
+  .fixture-team { flex: 1; }
+  .fixture-team .country { font-size: .78rem; font-weight: 700; color: var(--text); }
+  .fixture-team .flag-lg { font-size: 1.6rem; }
+  .fixture-vs { color: var(--muted); font-size: .8rem; font-weight: 600; flex-shrink: 0; }
+  .fixture-lineups {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 0; border-top: 1px solid var(--border);
+  }
+  .fixture-squad {
+    padding: .6rem .8rem; font-size: .7rem;
+  }
+  .fixture-squad:first-child { border-right: 1px solid var(--border); }
+  .fixture-squad-hd {
+    font-size: .63rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--muted); margin-bottom: .4rem;
+  }
+  .fixture-player {
+    display: flex; justify-content: space-between;
+    padding: .15rem 0; color: var(--text); gap: .3rem;
+  }
+  .fixture-player.tracked { color: var(--green); font-weight: 700; }
+  .fixture-player .fp-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .fixture-player .fp-pos {
+    color: var(--muted); font-size: .63rem;
+    min-width: 22px; text-align: right; flex-shrink: 0;
+  }
+  .fixture-player.tracked .fp-pos { color: #16a34a; }
+  .fixture-status {
+    padding: .4rem .9rem; font-size: .68rem; color: var(--muted);
+    border-top: 1px solid var(--border); text-align: center;
+    font-style: italic;
+  }
+
   .rumors-section {
     max-width: 1100px; margin: 0 auto;
     padding: 0 1rem 4rem;
@@ -313,6 +377,16 @@
 
 </div>
 
+<div class="fixtures-section">
+  <div class="panel-header" style="border-radius:8px 8px 0 0;border:1px solid var(--border);margin-bottom:0">
+    <span>🗓 Upcoming Fixtures</span>
+    <span style="font-weight:400;font-size:.71rem">next 2 World Cup matches · lineups from football-data.org</span>
+  </div>
+  <div class="fixtures-grid" id="fixtures-grid">
+    <div class="empty-state" style="grid-column:1/-1;padding:2rem">Loading fixtures…</div>
+  </div>
+</div>
+
 <div class="rumors-section">
   <div class="panel-header" style="border-radius:8px 8px 0 0;border:1px solid var(--border);margin-bottom:0">
     <span>🔁 Transfer Rumors</span>
@@ -386,6 +460,79 @@ function render() {
 
   renderRoster();
   renderRumors();
+  renderFixtures();
+}
+
+function renderFixtures() {
+  const grid = document.getElementById("fixtures-grid");
+  if (!data || !data.upcoming || !data.upcoming.length) {
+    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;padding:2rem">No upcoming fixtures available yet — workflow will populate this.</div>`;
+    return;
+  }
+
+  // Build set of all tracked player names (lowercase) for highlighting
+  const trackedNames = new Set();
+  for (const club of Object.values(data.clubs || {})) {
+    for (const p of (club.squad || [])) trackedNames.add(p.name.toLowerCase());
+  }
+
+  const POS_SHORT = { Goalkeeper:"GK", Defence:"DEF", Midfield:"MID", Offence:"FWD",
+                      Forward:"FWD", Defender:"DEF", Midfielder:"MID" };
+
+  let html = "";
+  for (const fixture of data.upcoming) {
+    const dt = fixture.date ? new Date(fixture.date) : null;
+    const timeStr = dt ? dt.toLocaleString(undefined, {weekday:"short",month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}) : "TBD";
+    const home = fixture.home || {};
+    const away = fixture.away || {};
+
+    const buildSquad = (team) => {
+      const lineup = team.lineup || [];
+      if (!lineup.length) return `<div style="color:var(--muted);font-size:.7rem;padding:.2rem 0">Lineup TBA</div>`;
+      return lineup.map(p => {
+        const isTracked = trackedNames.has((p.name||"").toLowerCase());
+        const pos = POS_SHORT[p.position] || (p.position||"").slice(0,3);
+        return `<div class="fixture-player${isTracked?" tracked":""}">
+          <span class="fp-name">${esc(p.name||"")}${isTracked?" ⭐":""}</span>
+          <span class="fp-pos">${esc(pos)}</span>
+        </div>`;
+      }).join("");
+    };
+
+    const homeLineup = buildSquad(home);
+    const awayLineup = buildSquad(away);
+    const statusNote = fixture.lineup_status || "";
+
+    html += `<div class="fixture-card">
+      <div class="fixture-header">
+        <strong>${esc(fixture.group||"Group Stage")}</strong>
+        <span>${esc(timeStr)}</span>
+      </div>
+      <div class="fixture-matchup">
+        <div class="fixture-team">
+          <div class="flag-lg">${esc(home.flag||"🏳")}</div>
+          <div class="country">${esc(home.name||"TBD")}</div>
+        </div>
+        <div class="fixture-vs">VS</div>
+        <div class="fixture-team">
+          <div class="flag-lg">${esc(away.flag||"🏳")}</div>
+          <div class="country">${esc(away.name||"TBD")}</div>
+        </div>
+      </div>
+      <div class="fixture-lineups">
+        <div class="fixture-squad">
+          <div class="fixture-squad-hd">${esc(home.name||"Home")}</div>
+          ${homeLineup}
+        </div>
+        <div class="fixture-squad">
+          <div class="fixture-squad-hd">${esc(away.name||"Away")}</div>
+          ${awayLineup}
+        </div>
+      </div>
+      ${statusNote ? `<div class="fixture-status">${esc(statusNote)}</div>` : ""}
+    </div>`;
+  }
+  grid.innerHTML = html;
 }
 
 function renderRumors() {
