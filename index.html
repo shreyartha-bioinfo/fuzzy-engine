@@ -111,7 +111,7 @@
 
   .content {
     max-width: 1100px; margin: 0 auto;
-    padding: 1.5rem 1rem 4rem;
+    padding: 1.5rem 1rem 2rem;
     display: grid;
     grid-template-columns: 1fr 310px;
     gap: 1.5rem;
@@ -173,6 +173,37 @@
     text-align: center; color: var(--muted);
     padding: 3rem 1rem; font-size: .84rem;
   }
+
+  .rumors-section {
+    max-width: 1100px; margin: 0 auto;
+    padding: 0 1rem 4rem;
+  }
+  .rumors-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  @media (max-width: 760px) { .rumors-grid { grid-template-columns: 1fr; } }
+  .rumors-club { }
+  .rumors-club-hd {
+    font-size: .72rem; font-weight: 700; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--muted);
+    margin-bottom: .5rem;
+  }
+  .rumor-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    padding: .6rem .8rem;
+    margin-bottom: .5rem;
+    text-decoration: none;
+    display: block;
+    transition: background .12s, border-color .12s;
+  }
+  .rumor-item:hover { background: var(--surface2); border-color: #3a3a5a; }
+  .rumor-title { font-size: .78rem; color: var(--text); line-height: 1.4; font-weight: 500; }
+  .rumor-meta  { font-size: .65rem; color: var(--muted); margin-top: .3rem; }
 
   .sidebar { display: flex; flex-direction: column; gap: 1rem; }
 
@@ -282,6 +313,16 @@
 
 </div>
 
+<div class="rumors-section">
+  <div class="panel-header" style="border-radius:8px 8px 0 0;border:1px solid var(--border);margin-bottom:0">
+    <span>🔁 Transfer Rumors</span>
+    <span style="font-weight:400;font-size:.71rem">via Google News · updated every 30 min</span>
+  </div>
+  <div class="rumors-grid" id="rumors-grid">
+    <div class="empty-state" style="grid-column:1/-1;padding:2rem">Loading rumors…</div>
+  </div>
+</div>
+
 <script>
 let data      = null;
 let activeTab = "utd";
@@ -307,14 +348,12 @@ async function load() {
 function render() {
   if (!data) return;
 
-  // Scoreboard
   for (const [key, club] of Object.entries(data.clubs)) {
     document.getElementById(`score-${key}`).textContent = Math.max(0, club.net);
     document.getElementById(`sub-${key}`).textContent =
       `${club.goals} goal${club.goals !== 1 ? "s" : ""} · ${club.ownGoals} OG`;
   }
 
-  // Goal log
   const logEl  = document.getElementById("goal-log");
   const metaEl = document.getElementById("log-meta");
   const total  = Object.values(data.clubs).reduce((n, c) => n + c.scorers.length, 0);
@@ -346,6 +385,33 @@ function render() {
   }
 
   renderRoster();
+  renderRumors();
+}
+
+function renderRumors() {
+  const grid = document.getElementById("rumors-grid");
+  if (!data || !data.rumors) return;
+  const ORDER = [["utd","Manchester United"],["rm","Real Madrid"],["fcb","Bayern Munich"]];
+  let html = "";
+  for (const [key, label] of ORDER) {
+    const items = data.rumors[key] || [];
+    const flag  = data.clubs[key]?.flag || "";
+    html += `<div class="rumors-club">
+      <div class="rumors-club-hd">${flag} ${label}</div>`;
+    if (!items.length) {
+      html += `<div style="font-size:.75rem;color:var(--muted);padding:.4rem 0">No recent news</div>`;
+    } else {
+      for (const r of items) {
+        const pub = r.published ? new Date(r.published).toLocaleDateString(undefined,{month:"short",day:"numeric"}) : "";
+        html += `<a class="rumor-item" href="${esc(r.url)}" target="_blank" rel="noopener">
+          <div class="rumor-title">${esc(r.title)}</div>
+          <div class="rumor-meta">${r.source ? esc(r.source) + (pub ? " · " : "") : ""}${pub}</div>
+        </a>`;
+      }
+    }
+    html += `</div>`;
+  }
+  grid.innerHTML = html;
 }
 
 function renderRoster() {
