@@ -255,12 +255,12 @@
   <div class="sidebar">
     <div class="info-box">
       <strong>How it works</strong><br><br>
-      A GitHub Action runs every <strong>30 minutes</strong>, fetching the live official squad for each club and cross-referencing it with World Cup 2026 goal &amp; match data. Own goals <strong>deduct</strong> a point. Only players on the <strong>current roster</strong> count.<br><br>
-      Data: <strong>football-data.org</strong>
+      A GitHub Action runs every <strong>30 minutes</strong>. It fetches all WC 2026 scorers — each player includes their <strong>current club</strong> — then filters for players at Man Utd, Real Madrid, or Bayern. Own goals <strong>deduct</strong> a point. Match events are parsed for OGs.<br><br>
+      Data: <strong>football-data.org</strong> (free tier)
     </div>
 
     <div class="panel">
-      <div class="panel-header">👥 Current Rosters</div>
+      <div class="panel-header">⚽ Club Scorers (WC 2026)</div>
       <div class="roster-tabs">
         <button class="roster-tab active" onclick="switchTab('utd',this)">Man Utd</button>
         <button class="roster-tab" onclick="switchTab('rm',this)">Real Madrid</button>
