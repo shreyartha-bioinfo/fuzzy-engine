@@ -267,7 +267,7 @@
 <header>
   <div class="wc-logo">🏆</div>
   <h1>FIFA World Cup 2026 — Club Goal Tracker</h1>
-  <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Live roster cross-reference</p>
+  <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Live data via football-data.org</p>
 </header>
 
 <!-- Status bar -->
@@ -320,8 +320,8 @@
 
     <div class="info-box">
       <strong>How it works</strong><br><br>
-      On each refresh, the app fetches the <strong>live official squad</strong> for all three clubs, then fetches <strong>World Cup 2026 goal stats</strong> for every player. Only players on the current roster count. Own goals <strong>deduct</strong> from the club total.<br><br>
-      Data via <strong>API-Football</strong> (RapidAPI).
+      On each refresh, the app fetches the <strong>live official squad</strong> for all three clubs, then pulls <strong>World Cup 2026 scorers</strong> and <strong>match events</strong> to find own goals. Only players on the current roster count. Own goals <strong>deduct</strong> from the club total.<br><br>
+      Data via <strong>football-data.org</strong> (free tier).
     </div>
 
     <!-- Roster panel -->
@@ -343,14 +343,14 @@
 <!-- API Key Modal -->
 <div class="modal-overlay" id="apiModal">
   <div class="modal">
-    <h3>⚙ API-Football Setup</h3>
+    <h3>⚙ football-data.org Setup</h3>
     <p>
-      Get a free key at <strong>rapidapi.com</strong> → search <strong>API-Football</strong>.<br>
-      The key is stored only in your browser (localStorage) and sent directly to RapidAPI — never to any server.
+      Sign up free at <strong>football-data.org</strong> — just an email address, no credit card.<br>
+      Your API token arrives by email within a minute. Stored only in your browser.
     </p>
     <div class="form-group">
-      <label>RapidAPI Key</label>
-      <input type="password" id="api-key-input" placeholder="Paste your key here" autocomplete="off" />
+      <label>API Token</label>
+      <input type="password" id="api-key-input" placeholder="Paste your token here" autocomplete="off" />
     </div>
     <div class="modal-actions">
       <button class="btn" onclick="closeModal('apiModal')">Cancel</button>
@@ -361,95 +361,104 @@
 
 <script>
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
-const BASE_URL   = "https://api-football-v1.p.rapidapi.com/v3";
-const WC_LEAGUE  = 1;       // API-Football league ID for FIFA World Cup
-const WC_SEASON  = 2026;
+// football-data.org free tier: email signup only, 10 req/min
+// Docs: https://www.football-data.org/documentation/quickstart
+const BASE_URL  = "https://api.football-data.org/v4";
+const WC_CODE   = "WC";
+const WC_SEASON = 2026;
 
 const CLUBS = {
-  utd: { id: 33,  name: "Manchester United", flag: "🔴" },
-  rm:  { id: 541, name: "Real Madrid",        flag: "⚪" },
-  fcb: { id: 157, name: "Bayern Munich",      flag: "🔴" },
+  utd: { id: 66, name: "Manchester United", flag: "🔴" },
+  rm:  { id: 86, name: "Real Madrid",        flag: "⚪" },
+  fcb: { id: 5,  name: "Bayern Munich",      flag: "🔴" },
 };
 
 // ─── STATE ───────────────────────────────────────────────────────────────────
-let apiKey    = localStorage.getItem("wc26_apikey") || "";
-let cache     = null;   // { ts, rosters, playerStats }  — kept in memory only
+let apiKey    = localStorage.getItem("wc26_fdkey") || "";
+let cache     = null;
 let rosterTab = "utd";
 
 // ─── API HELPERS ─────────────────────────────────────────────────────────────
-function headers() {
-  return {
-    "X-RapidAPI-Key":  apiKey,
-    "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
-  };
-}
-
-async function apiFetch(path, params = {}) {
-  const url = new URL(BASE_URL + path);
-  Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v));
-  const res = await fetch(url, { headers: headers() });
-  if (!res.ok) throw new Error(`API error ${res.status}: ${await res.text()}`);
+async function apiFetch(path) {
+  const res = await fetch(BASE_URL + path, {
+    headers: { "X-Auth-Token": apiKey },
+  });
+  if (!res.ok) {
+    const body = await res.text().catch(() => "");
+    throw new Error(`${res.status} — ${body || res.statusText}`);
+  }
   return res.json();
 }
 
-// Fetch current squad for a club — returns Map<playerId, playerName>
+// Returns Map<playerId, { name, nationality }>
 async function fetchSquad(clubId) {
-  const data = await apiFetch("/players/squads", { team: clubId });
-  const players = data.response?.[0]?.players ?? [];
+  const data = await apiFetch(`/teams/${clubId}`);
   const map = new Map();
-  players.forEach(p => map.set(p.id, { name: p.name, nationality: p.nationality || "" }));
+  for (const p of (data.squad ?? [])) {
+    map.set(p.id, { name: p.name, nationality: p.nationality ?? "" });
+  }
   return map;
 }
 
-// Fetch ALL World Cup player stats (paginated).
-// Returns Map<playerId, { goals: number, ownGoals: number }>
-async function fetchWCStats() {
-  const stats = new Map();
-  let page = 1;
-  while (true) {
-    const data = await apiFetch("/players", {
-      league: WC_LEAGUE, season: WC_SEASON, page,
-    });
-    const items = data.response ?? [];
-    for (const item of items) {
-      const id  = item.player?.id;
-      if (!id) continue;
-      // sum across all stat entries for this player (should be one for WC)
-      let goals = 0, ogs = 0;
-      for (const s of (item.statistics ?? [])) {
-        goals += s.goals?.total  ?? 0;
-        ogs   += s.goals?.own    ?? 0;
-      }
-      if (goals > 0 || ogs > 0) {
-        stats.set(id, { goals, ownGoals: ogs });
-      }
-    }
-    const totalPages = data.paging?.total ?? 1;
-    if (page >= totalPages) break;
-    page++;
+// Returns Map<playerId, { goals }> — regular goals from scorers endpoint
+async function fetchWCScorers() {
+  const data = await apiFetch(`/competitions/${WC_CODE}/scorers?season=${WC_SEASON}&limit=200`);
+  const map = new Map();
+  for (const entry of (data.scorers ?? [])) {
+    const id = entry.player?.id;
+    if (id) map.set(id, { goals: entry.goals ?? 0 });
   }
-  return stats;
+  return map;
+}
+
+// Returns Map<playerId, { ownGoals }> — parsed from finished match events
+async function fetchWCOwnGoals() {
+  const data = await apiFetch(`/competitions/${WC_CODE}/matches?season=${WC_SEASON}&status=FINISHED`);
+  const map = new Map();
+  for (const match of (data.matches ?? [])) {
+    for (const goal of (match.goals ?? [])) {
+      if (goal.type !== "OWN_GOAL") continue;
+      const id = goal.scorer?.id;
+      if (!id) continue;
+      map.set(id, { ownGoals: (map.get(id)?.ownGoals ?? 0) + 1 });
+    }
+  }
+  return map;
 }
 
 // ─── MAIN FETCH ──────────────────────────────────────────────────────────────
 async function refresh() {
   if (!apiKey) { openModal("apiModal"); return; }
-  setStatus("loading", "Fetching live data…");
+  setStatus("loading", "Fetching squads…");
 
   try {
-    // 1. Fetch all three squads in parallel
+    // Squads in parallel (3 calls)
     const [squadUtd, squadRm, squadFcb] = await Promise.all([
       fetchSquad(CLUBS.utd.id),
       fetchSquad(CLUBS.rm.id),
       fetchSquad(CLUBS.fcb.id),
     ]);
-    const rosters = { utd: squadUtd, rm: squadRm, fcb: squadFcb };
 
-    // 2. Fetch WC player stats (paginated, goals > 0 only)
-    setStatus("loading", "Loading World Cup stats…");
-    const playerStats = await fetchWCStats();
+    setStatus("loading", "Loading WC scorers…");
+    const scorers = await fetchWCScorers();
 
-    cache = { ts: Date.now(), rosters, playerStats };
+    setStatus("loading", "Loading own goals from match events…");
+    const ownGoals = await fetchWCOwnGoals();
+
+    // Merge into unified playerStats Map
+    const playerStats = new Map();
+    for (const id of new Set([...scorers.keys(), ...ownGoals.keys()])) {
+      playerStats.set(id, {
+        goals:    scorers.get(id)?.goals     ?? 0,
+        ownGoals: ownGoals.get(id)?.ownGoals ?? 0,
+      });
+    }
+
+    cache = {
+      ts: Date.now(),
+      rosters: { utd: squadUtd, rm: squadRm, fcb: squadFcb },
+      playerStats,
+    };
     render();
     setStatus("live", `Live · updated ${new Date().toLocaleTimeString()}`);
   } catch (err) {
@@ -582,9 +591,9 @@ function setStatus(state, text) {
 // ─── API KEY ─────────────────────────────────────────────────────────────────
 function saveKey() {
   const val = document.getElementById("api-key-input").value.trim();
-  if (!val) { alert("Paste your API key first."); return; }
+  if (!val) { alert("Paste your token first."); return; }
   apiKey = val;
-  localStorage.setItem("wc26_apikey", val);
+  localStorage.setItem("wc26_fdkey", val);
   closeModal("apiModal");
   refresh();
 }
@@ -608,7 +617,7 @@ if (apiKey) {
   document.getElementById("api-key-input").value = apiKey;
   refresh();
 } else {
-  setStatus("", "No API key — click ⚙ to set up");
+  setStatus("", "No token — click ⚙ to set up");
 }
 </script>
 </body>
