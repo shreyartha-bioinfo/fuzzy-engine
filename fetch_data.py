@@ -81,6 +81,14 @@ for key, club in CLUBS.items():
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
 
+    full_squad = sorted(
+        [{"name": info["name"], "nationality": info["nationality"],
+          "goals": scorer_map.get(pid, 0), "ownGoals": og_map.get(pid, 0),
+          "net": scorer_map.get(pid, 0) - og_map.get(pid, 0)}
+         for pid, info in squad.items()],
+        key=lambda x: (-x["net"], x["name"])
+    )
+
     output["clubs"][key] = {
         "name":     club["name"],
         "flag":     club["flag"],
@@ -88,6 +96,7 @@ for key, club in CLUBS.items():
         "ownGoals": total_ogs,
         "net":      total_goals - total_ogs,
         "scorers":  scorers,
+        "squad":    full_squad,
     }
     print(f"  {club['name']}: {total_goals}G − {total_ogs}OG = {total_goals - total_ogs}")
 

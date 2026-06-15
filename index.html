@@ -346,13 +346,12 @@ function renderRoster() {
   const club = data.clubs[activeTab];
   if (!club) return;
 
-  // Build roster from scorers + zero-goal players (we don't have full squad in data.json)
-  // Show scorers sorted, rest can be implied
-  if (!club.scorers.length) {
-    listEl.innerHTML = `<div class="empty-state" style="padding:1.2rem">No goals yet.</div>`;
+  const players = club.squad || club.scorers || [];
+  if (!players.length) {
+    listEl.innerHTML = `<div class="empty-state" style="padding:1.2rem">No squad data yet — run the workflow first.</div>`;
     return;
   }
-  listEl.innerHTML = club.scorers.map(p => {
+  listEl.innerHTML = players.map(p => {
     const label = p.net > 0 ? `+${p.net}` : p.net < 0 ? `${p.net}` : "";
     return `<div class="roster-item"><span>${esc(p.name)}</span><span class="r-g">${label}</span></div>`;
   }).join("");
