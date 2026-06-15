@@ -34,8 +34,9 @@ def fetch(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-# ── Build player->club map from domestic league rosters ──────────────────────────
-PLAYER_CLUBS: dict[int, str] = {}  # player_id -> club_key
+# ── Build player->club map + full squad lists from domestic league rosters ────────
+PLAYER_CLUBS: dict[int, str] = {}
+CLUB_SQUADS:  dict[str, list] = {key: [] for key in CLUBS}
 
 for key, club in CLUBS.items():
     league_data = fetch(f"/competitions/{club['league']}/teams?season=2025")
@@ -44,9 +45,16 @@ for key, club in CLUBS.items():
             continue
         squad = team.get("squad", [])
         for player in squad:
-            pid = player.get("id")
+            pid  = player.get("id")
+            name = player.get("name", "")
+            pos  = player.get("position", "")
+            nat  = player.get("nationality", "")
             if pid:
                 PLAYER_CLUBS[pid] = key
+                CLUB_SQUADS[key].append({"id": pid, "name": name, "position": pos, "nationality": nat})
+        # Sort by position order
+        pos_order = {"Goalkeeper": 0, "Defence": 1, "Midfield": 2, "Offence": 3}
+        CLUB_SQUADS[key].sort(key=lambda p: (pos_order.get(p["position"], 9), p["name"]))
         print(f"  {club['name']}: {len(squad)} squad members loaded")
         break
     else:
@@ -95,9 +103,8 @@ output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}}
 for key, club in CLUBS.items():
     total_goals = total_ogs = 0
     scorers = []
-    club_pids = {pid for pid, ck in PLAYER_CLUBS.items() if ck == key}
+    club_pids = {p["id"] for p in CLUB_SQUADS[key]}
 
-    # Players who scored regular goals
     for pid in club_pids:
         g  = scorer_goals.get(pid, 0)
         og = og_map.get(pid, 0)
@@ -115,6 +122,24 @@ for key, club in CLUBS.items():
         })
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
+
+    # Full squad with WC goal counts overlaid
+    goals_by_pid = {pid: scorer_goals.get(pid, 0) for pid in club_pids}
+    ogs_by_pid   = {pid: og_map.get(pid, 0)        for pid in club_pids}
+    squad_out = []
+    for p in CLUB_SQUADS[key]:
+        pid = p["id"]
+        g   = goals_by_pid.get(pid, 0)
+        og  = ogs_by_pid.get(pid, 0)
+        squad_out.append({
+            "name":        p["name"],
+            "position":    p["position"],
+            "nationality": p["nationality"],
+            "goals":       g,
+            "ownGoals":    og,
+            "net":         g - og,
+        })
+
     output["clubs"][key] = {
         "name":     club["name"],
         "flag":     club["flag"],
@@ -122,7 +147,7 @@ for key, club in CLUBS.items():
         "ownGoals": total_ogs,
         "net":      total_goals - total_ogs,
         "scorers":  scorers,
-        "squad":    scorers,
+        "squad":    squad_out,
     }
     print(f"  {club['name']}: {total_goals}G − {total_ogs}OG = {total_goals - total_ogs}")
 
