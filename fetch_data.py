@@ -6,8 +6,8 @@ Club affiliation strategy:
   /v4/competitions/PD/teams   -> Real Madrid squad (La Liga, free tier)
   /v4/competitions/BL1/teams  -> Bayern Munich squad (Bundesliga, free tier)
 
-These endpoints include full squad member lists on the free tier, giving us
-authentically sourced, up-to-date player IDs without any hardcoding.
+No season filter: fetches the most recently completed season's squad,
+which reflects transfers up to the end of the 2025-26 season.
 """
 import json
 import os
@@ -34,12 +34,14 @@ def fetch(path):
         body = e.read().decode(errors="replace")
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
-# ── Build player->club map + full squad lists from domestic league rosters ────────
+# ── Build player->club map + full squad lists ────────────────────────────────────
 PLAYER_CLUBS: dict[int, str] = {}
 CLUB_SQUADS:  dict[str, list] = {key: [] for key in CLUBS}
 
 for key, club in CLUBS.items():
-    league_data = fetch(f"/competitions/{club['league']}/teams?season=2025")
+    # No season param -> API returns current/most-recent season with latest transfers
+    league_data = fetch(f"/competitions/{club['league']}/teams")
+    season_label = league_data.get("season", {}).get("startDate", "unknown")
     for team in league_data.get("teams", []):
         if team.get("id") != club["id"]:
             continue
@@ -52,10 +54,9 @@ for key, club in CLUBS.items():
             if pid:
                 PLAYER_CLUBS[pid] = key
                 CLUB_SQUADS[key].append({"id": pid, "name": name, "position": pos, "nationality": nat})
-        # Sort by position order
         pos_order = {"Goalkeeper": 0, "Defence": 1, "Midfield": 2, "Offence": 3}
         CLUB_SQUADS[key].sort(key=lambda p: (pos_order.get(p["position"], 9), p["name"]))
-        print(f"  {club['name']}: {len(squad)} squad members loaded")
+        print(f"  {club['name']}: {len(squad)} squad members (season data from {season_label})")
         break
     else:
         print(f"  WARNING: {club['name']} not found in {club['league']} teams")
@@ -123,7 +124,6 @@ for key, club in CLUBS.items():
 
     scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
 
-    # Full squad with WC goal counts overlaid
     goals_by_pid = {pid: scorer_goals.get(pid, 0) for pid in club_pids}
     ogs_by_pid   = {pid: og_map.get(pid, 0)        for pid in club_pids}
     squad_out = []
