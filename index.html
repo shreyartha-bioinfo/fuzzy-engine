@@ -63,6 +63,50 @@
   .dot.loading { background: var(--amber); animation: blink 1s infinite; }
   .dot.error   { background: var(--red); }
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.35} }
+
+  /* ── Joke of the Hour ──────────────────── */
+  .joke-bar {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    border-bottom: 1px solid #2a2a5a;
+    padding: .75rem 1.5rem;
+    display: flex; align-items: flex-start; gap: .9rem;
+    position: relative; overflow: hidden;
+  }
+  .joke-bar::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent, transparent 40px,
+      rgba(255,255,255,.015) 40px, rgba(255,255,255,.015) 41px
+    );
+    pointer-events: none;
+  }
+  .joke-label {
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #f59e0b, #ef4444);
+    color: #fff;
+    font-size: .6rem; font-weight: 800;
+    letter-spacing: .1em; text-transform: uppercase;
+    padding: .22rem .5rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    margin-top: .05rem;
+  }
+  .joke-theme {
+    font-size: .63rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: #f59e0b;
+    margin-bottom: .18rem;
+  }
+  .joke-text {
+    font-size: .82rem; color: #d0d8f8; line-height: 1.5;
+    font-style: italic;
+  }
+  .joke-meta {
+    flex-shrink: 0; margin-left: auto;
+    font-size: .6rem; color: #4a4a7a;
+    white-space: nowrap; padding-top: .1rem;
+  }
   #status-text { color: var(--muted); }
 
   .btn {
@@ -318,6 +362,15 @@
   <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Current roster · auto-updated every 30 min</p>
 </header>
 
+<div class="joke-bar" id="joke-bar">
+  <div class="joke-label">😂 Joke of the Hour</div>
+  <div>
+    <div class="joke-theme" id="joke-theme"></div>
+    <div class="joke-text" id="joke-text">Loading…</div>
+  </div>
+  <div class="joke-meta" id="joke-meta"></div>
+</div>
+
 <div class="status-bar">
   <div class="dot loading" id="dot"></div>
   <span id="status-text">Loading…</span>
@@ -400,6 +453,68 @@
 <script>
 let data      = null;
 let activeTab = "utd";
+
+// ── Joke of the Hour ─────────────────────────────────────────────────────────
+const JOKES = {
+  "🏟️ Florentino Files": [
+    "Florentino Pérez doesn't buy players. He buys press conferences and the players come free.",
+    "Florentino's transfer strategy: sign the player, build a statue, get confused when he gets injured, sell him to PSG for €40M.",
+    "Florentino walked into a therapy session. The therapist said 'tell me about your relationship with money.' He left and bought the therapist's building.",
+    "They asked Florentino what his biggest regret was. He said 'Selling Modrić… just kidding, I never regret anything. I'm Florentino.'",
+    "Florentino once looked at a €200M transfer and said 'yes but can he sell shirts in Asia?' The scout said 'he IS from Asia.' Deal done.",
+    "Florentino's idea of a squad rotation: rotate the PR team when the results are bad.",
+    "Real Madrid's financial model: print money, build stadium, spend money, build bigger stadium, repeat until Ballon d'Or.",
+  ],
+  "🍔 Hazard Weight Watch": [
+    "Eden Hazard at Real Madrid was the most expensive meal delivery service in history. €100M and he delivered nothing.",
+    "They asked Hazard why he kept getting injured. He said he twisted his ankle reaching for the dessert trolley.",
+    "Real Madrid's medical team had one job with Hazard: keep him fit. They failed. To be fair, so did every elevator.",
+    "Hazard's Real Madrid highlight reel: 45 minutes of him holding his hamstring and 3 seconds of him waving goodbye.",
+    "Eden Hazard: arrived at Madrid as a winger. Left as a wide load.",
+    "Madrid paid €100M for Hazard, who gave them 7 goals in 4 years. That's €14M per goal. For that money they could've hired a golden robot that also cleans the pitch.",
+    "Hazard's contract had a fitness clause. He used the gym as a shortcut to the canteen.",
+    "Fun fact: Eden Hazard's injury list at Real Madrid is longer than his Wikipedia career stats section.",
+    "Hazard once dribbled past 4 defenders in a training session. They were all photographers trying to get a pic of his new diet plan.",
+  ],
+  "🌾 Bayern Farmers League": [
+    "The Bundesliga title race is so exciting. Bayern are first, and… Bayern are still first. Tune in next week.",
+    "A kid asks his dad: 'Who wins the Bundesliga every year?' Dad: 'Bayern.' Kid: 'Every year?' Dad: 'It's not a league, it's a standing order.'",
+    "The Bundesliga trophy has Bayern's name engraved so many times they had to use a font size smaller than the trophy.",
+    "Pep Guardiola left Bayern because he was bored. Imagine a man so good at his job that winning 3 straight titles felt like a gap year.",
+    "Bayern vs the Bundesliga is like playing FIFA on amateur mode with all the best cards. They do it every season just to feel alive.",
+    "Breaking: Farmers across Bavaria are suing Bayern Munich for cultural appropriation of their brand.",
+    "The most dramatic moment in Bundesliga history was when Bayern only won the title by 4 points. Historians called it 'The Panic of 2019.'",
+    "How do you know Bayern Munich are playing at home? The other 17 clubs update their 'best runner-up' stats.",
+    "Bayern's Champions League struggles aren't a crisis — it's just what happens when you run out of farmers to beat and meet actual opposition.",
+  ],
+  "💸 Man Utd Money Pit": [
+    "Manchester United spent £900M in 5 years and finished 8th. That's not football, that's a very expensive art installation.",
+    "Man United's transfer strategy: 1) Find player. 2) Check if another club wants him. 3) Pay 40% more. 4) Play him out of position. 5) Sell at a loss.",
+    "They say money can't buy happiness. Manchester United spent a billion pounds proving it — empirically, over multiple seasons.",
+    "United paid £80M for a striker who scored 3 goals. That's £26.6M per goal. For that money you could commission a hand-crafted goal made of solid gold.",
+    "Man United's wage bill is so high that even their tea lady has a release clause and an agent.",
+    "The Glazers looked at United's results, looked at the budget, and said 'spend more.' The fans looked at both and said 'spend differently.'",
+    "United's scouting system: watch a player score a hat-trick, wait 6 months, offer €20M over market value, play him as a left back.",
+    "Man United have a 'project' every season. The project changes. The trophy cabinet does not.",
+    "United once bought three centre-backs in one window. They've never had a settled centre-back since 2011. Economists call it 'the paradox of abundance.'",
+    "Sir Alex Ferguson retired and United said 'how hard can it be?' — 12 managers later, they're still finding out.",
+  ],
+};
+
+function renderJoke() {
+  const themes = Object.keys(JOKES);
+  const hourIndex = Math.floor(Date.now() / 3_600_000);
+  const theme = themes[hourIndex % themes.length];
+  const bank  = JOKES[theme];
+  const joke  = bank[Math.floor(hourIndex / themes.length) % bank.length];
+  const nextHour = new Date((hourIndex + 1) * 3_600_000);
+  const mins  = Math.round((nextHour - Date.now()) / 60_000);
+  document.getElementById("joke-theme").textContent = theme;
+  document.getElementById("joke-text").textContent  = joke;
+  document.getElementById("joke-meta").textContent  = `next in ${mins}m`;
+}
+renderJoke();
+setInterval(renderJoke, 60_000);
 
 async function load() {
   setStatus("loading", "Refreshing…");
