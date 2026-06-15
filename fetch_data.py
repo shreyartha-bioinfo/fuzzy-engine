@@ -1,5 +1,4 @@
-"""
-Fetches FIFA World Cup 2026 goal data from football-data.org (free tier)
+"""Fetches FIFA World Cup 2026 goal data from football-data.org (free tier)
 and transfer rumors from Google News RSS.
 """
 import json
@@ -29,6 +28,22 @@ OVERRIDES = {
     },
 }
 
+COUNTRY_FLAGS = {
+    "Spain": "🇪🇸", "Cabo Verde": "🇨🇻", "Cape Verde": "🇨🇻", "Belgium": "🇧🇪", "Egypt": "🇪🇬",
+    "Saudi Arabia": "🇸🇦", "Uruguay": "🇺🇾", "Iran": "🇮🇷", "New Zealand": "🇳🇿",
+    "France": "🇫🇷", "Senegal": "🇸🇳", "Iraq": "🇮🇶", "Norway": "🇳🇴",
+    "Argentina": "🇦🇷", "Algeria": "🇩🇿", "Brazil": "🇧🇷", "Morocco": "🇲🇦",
+    "Germany": "🇩🇪", "Japan": "🇯🇵", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "USA": "🇺🇸",
+    "Mexico": "🇲🇽", "Portugal": "🇵🇹", "Netherlands": "🇳🇱", "Croatia": "🇭🇷",
+    "Denmark": "🇩🇰", "Switzerland": "🇨🇭", "Austria": "🇦🇹", "Turkey": "🇹🇷",
+    "Colombia": "🇨🇴", "Ecuador": "🇪🇨", "Chile": "🇨🇱", "Peru": "🇵🇪",
+    "Australia": "🇦🇺", "South Korea": "🇰🇷", "Serbia": "🇷🇸", "Poland": "🇵🇱",
+    "Czechia": "🇨🇿", "South Africa": "🇿🇦", "Ghana": "🇬🇭",
+    "Tunisia": "🇹🇳", "Cameroon": "🇨🇲", "Nigeria": "🇳🇬", "Paraguay": "🇵🇾",
+    "Costa Rica": "🇨🇷", "Honduras": "🇭🇳", "Panama": "🇵🇦", "Canada": "🇨🇦",
+    "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "Ukraine": "🇺🇦",
+}
+
 def fetch(path):
     url = BASE + path
     req = urllib.request.Request(url, headers={"X-Auth-Token": TOKEN})
@@ -40,7 +55,6 @@ def fetch(path):
         raise SystemExit(f"HTTP {e.code} from {url}\nResponse: {body}") from e
 
 def fetch_rumors(query: str, limit: int = 5) -> list[dict]:
-    """Fetch latest transfer news items from Google News RSS."""
     url = (f"https://news.google.com/rss/search"
            f"?q={query}&hl=en-US&gl=US&ceid=US:en")
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -50,17 +64,14 @@ def fetch_rumors(query: str, limit: int = 5) -> list[dict]:
     except Exception as e:
         print(f"  News fetch failed: {e}")
         return []
-
     items = []
     try:
         root = ET.fromstring(xml_data)
-        ns   = {"media": "http://search.yahoo.com/mrss/"}
         for item in root.findall(".//item")[:limit]:
             title  = item.findtext("title", "").strip()
             link   = item.findtext("link", "").strip()
             pub    = item.findtext("pubDate", "").strip()
             source = item.findtext("source", "").strip()
-            # Strip " - Source" suffix Google appends to titles
             title = re.sub(r'\s+-\s+[^-]+$', '', title).strip()
             if title:
                 items.append({"title": title, "url": link,
@@ -69,7 +80,7 @@ def fetch_rumors(query: str, limit: int = 5) -> list[dict]:
         print(f"  RSS parse error: {e}")
     return items
 
-# ── Build player->club map + squad lists ──────────────────────────────────────────────────────────
+# ── Build player->club map + squad lists ──────────────────────────────────────
 PLAYER_CLUBS: dict[int, str] = {}
 CLUB_SQUADS:  dict[str, list] = {key: [] for key in CLUBS}
 EXTRA_NAMES:  dict[str, str]  = {}
@@ -106,14 +117,14 @@ for key, club in CLUBS.items():
     else:
         print(f"  WARNING: {club['name']} not found in {club['league']} teams")
 
-# ── Transfer rumors ──────────────────────────────────────────────────────────────────────────
+# ── Transfer rumors ───────────────────────────────────────────────────────────
 rumors = {}
 for key, club in CLUBS.items():
     items = fetch_rumors(club["news_q"])
     rumors[key] = items
     print(f"  {club['name']} rumors: {len(items)} items")
 
-# ── WC scorers ────────────────────────────────────────────────────────────────────
+# ── WC scorers ────────────────────────────────────────────────────────────────
 scorers_raw  = fetch("/competitions/WC/scorers?season=2026&limit=200")
 player_info  = {}
 scorer_goals = {}
@@ -135,7 +146,7 @@ for entry in scorers_raw.get("scorers", []):
 print(f"  WC scorers: {len(scorer_goals)} total, "
       f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
 
-# ── OG events ──────────────────────────────────────────────────────────────────────────
+# ── OG events ─────────────────────────────────────────────────────────────────
 matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
 og_map = {}
 for match in matches_raw.get("matches", []):
@@ -153,7 +164,7 @@ for match in matches_raw.get("matches", []):
         og_map[pid] = og_map.get(pid, 0) + 1
 print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
 
-# ── Build output ──────────────────────────────────────────────────────────────────────────
+# ── Build per-club output ─────────────────────────────────────────────────────
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}, "rumors": rumors}
 
 for key, club in CLUBS.items():
@@ -207,6 +218,46 @@ for key, club in CLUBS.items():
         "squad":    squad_out,
     }
     print(f"  {club['name']}: {total_goals}G − {total_ogs}OG = {total_goals - total_ogs}")
+
+# ── Upcoming fixtures (next 2 scheduled WC matches + lineups) ─────────────────
+upcoming = []
+try:
+    sched_raw = fetch("/competitions/WC/matches?season=2026&status=SCHEDULED")
+    sched_matches = sched_raw.get("matches", [])
+    if not sched_matches:
+        live_raw = fetch("/competitions/WC/matches?season=2026&status=IN_PLAY")
+        sched_matches = live_raw.get("matches", [])
+    for m in sched_matches[:2]:
+        home_name = m.get("homeTeam", {}).get("name", "TBD")
+        away_name = m.get("awayTeam", {}).get("name", "TBD")
+        fixture = {
+            "id":     m.get("id"),
+            "date":   m.get("utcDate"),
+            "group":  m.get("group", "Group Stage"),
+            "status": m.get("status"),
+            "home":   {"name": home_name, "flag": COUNTRY_FLAGS.get(home_name, "🏳"), "lineup": []},
+            "away":   {"name": away_name, "flag": COUNTRY_FLAGS.get(away_name, "🏳"), "lineup": []},
+            "lineup_status": "Lineup TBA — check back closer to kickoff",
+        }
+        try:
+            detail = fetch(f"/matches/{m['id']}")
+            for side, key_name in [("home", "homeTeam"), ("away", "awayTeam")]:
+                team_detail = detail.get(key_name, {})
+                lineup_raw = team_detail.get("lineup", [])
+                if lineup_raw:
+                    fixture[side]["lineup"] = [
+                        {"name": p.get("name",""), "position": p.get("position","")}
+                        for p in lineup_raw
+                    ]
+                    fixture["lineup_status"] = "Lineups confirmed"
+        except Exception as e:
+            print(f"  Match detail fetch failed for {m.get('id')}: {e}")
+        upcoming.append(fixture)
+    print(f"  Upcoming: {len(upcoming)} fixtures")
+except Exception as e:
+    print(f"  Upcoming fixtures fetch failed: {e}")
+
+output["upcoming"] = upcoming
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
