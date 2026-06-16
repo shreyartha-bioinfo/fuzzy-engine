@@ -26,6 +26,10 @@ OVERRIDES = {
         "remove": {"David Alaba", "Dávid Alaba", "Daniel Carvajal", "D. Carvajal"},
         "add":    [{"name": "Marc Cucurella", "position": "Defence", "nationality": "Spain"}],
     },
+    "fcb": {
+        "remove": {"Nicolas Jackson"},
+        "add":    [],
+    },
 }
 
 COUNTRY_FLAGS = {
