@@ -530,6 +530,21 @@ const JOKES = {
     "Other clubs in the Bundesliga dream of winning the title. Bayern's youth team dreams of winning the title.",
     "RB Leipzig nearly challenged Bayern one season. Bayern responded by buying their best midfielder. Classic farming.",
     "In Bavaria, a 'close title race' means Bayern won it with 3 weeks to spare instead of 5.",
+    // The Predator strategy
+    "Bayern's scouting report on Bundesliga rivals: one highlighter, one column — 'ours now.'",
+    "Dortmund produced Lewandowski, Götze, Hummels, Aubameyang. Bayern produced the cheques to sign them.",
+    "Bayern's philosophy on competition: if another team keeps beating you, just buy their striker, two defenders, and their sporting director. Problem solved.",
+    "Bayern spotted a great young Dortmund player. Within 18 months he was wearing red. Dortmund's youth coach now just says 'enjoy it while it lasts, lads.'",
+    "The Bundesliga ecosystem: smaller clubs develop talent, nurture them for 3 seasons, Bayern offer them a 'real career', everyone nods sadly.",
+    "Bayern Munich is basically a very aggressive talent harvesting operation that occasionally lets the farmers watch.",
+    "Dortmund's transfer FAQ: 'Will he stay?' No. 'Where's he going?' Munich. 'Did we even get a good fee?' Define 'good.'",
+    "Bayern once signed a Schalke player, a Dortmund player, and a Leverkusen player in the same window. They called it 'squad depth.' The Bundesliga called it Tuesday.",
+    "The secret to Bundesliga dominance: win the league, watch rivals build a new striker, buy him in summer, repeat for 12 consecutive years.",
+    "A Bundesliga rival once said 'we're not afraid of Bayern.' Bayern bought their captain the following January. Now they're afraid.",
+    "Bayern's HR strategy: identify rival's best asset, wait until contract year 2, offer double wages, smile at their next press conference.",
+    "Other clubs in Germany win the league. Bayern win the league AND the other clubs' best players. Efficiency.",
+    "Bayern signed Manuel Neuer from Schalke. Schalke fans still haven't emotionally recovered. Scientists say they never will.",
+    "Mats Hummels: sold to Bayern. Mario Götze: sold to Bayern. Lewandowski: went to Bayern on a free. Dortmund's business model is essentially a feeder club for one zip code.",
   ],
   "💸 Man Utd Money Pit": [
     "Manchester United spent £900M in 5 years and finished 8th. That's not football, that's a very expensive art installation.",
@@ -571,23 +586,26 @@ function seededShuffle(arr, seed) {
   return a;
 }
 
+const JOKE_INTERVAL_MS = 4 * 3_600_000; // new joke every 4 hours
+
 function renderJoke() {
   const themes    = Object.keys(JOKES);
-  const hourIndex = Math.floor(Date.now() / 3_600_000);
-  const theme     = themes[hourIndex % themes.length];
+  const slotIndex = Math.floor(Date.now() / JOKE_INTERVAL_MS);
+  const theme     = themes[slotIndex % themes.length];
   const bank      = JOKES[theme];
-  // Which pass through the bank are we on? Use that as shuffle seed so order
-  // reshuffles after every full cycle through all jokes in the theme.
-  const cyclesPer = Math.floor(hourIndex / themes.length);
+  const cyclesPer = Math.floor(slotIndex / themes.length);
   const posInBank = cyclesPer % bank.length;
   const cycleSeed = Math.floor(cyclesPer / bank.length);
   const shuffled  = cycleSeed === 0 ? bank : seededShuffle(bank, cycleSeed * 0xdeadbeef + themes.indexOf(theme));
   const joke      = shuffled[posInBank];
-  const nextHour  = new Date((hourIndex + 1) * 3_600_000);
-  const mins      = Math.round((nextHour - Date.now()) / 60_000);
+  const nextSlot  = new Date((slotIndex + 1) * JOKE_INTERVAL_MS);
+  const mins      = Math.round((nextSlot - Date.now()) / 60_000);
+  const hrs       = Math.floor(mins / 60);
+  const minsLeft  = mins % 60;
+  const countdown = hrs > 0 ? `${hrs}h ${minsLeft}m` : `${mins}m`;
   document.getElementById("joke-theme").textContent = theme;
   document.getElementById("joke-text").textContent  = joke;
-  document.getElementById("joke-meta").textContent  = `next in ${mins}m`;
+  document.getElementById("joke-meta").textContent  = `next in ${countdown}`;
 }
 renderJoke();
 setInterval(renderJoke, 60_000);
