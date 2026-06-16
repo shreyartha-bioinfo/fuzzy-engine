@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T08:24:48.169873+00:00",
+  "updated": "2026-06-16T13:09:17.989861+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -955,74 +955,80 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Man Utd to beat Real Madrid to £80m star, bid imminent, Sandro Tonali twist",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlR5VVN3UUUyZlo1NXNUVDJLTnIwbEFUbzR1ejZDMTk5VVpPbFJtVmRHdThRaDdpZkxMd2ZRM0NqYnMzLVNFZi1YLVdRSjVXZHh1TGpYMHk4OTk4eWxna0h0dVVkRm1PdEFYTmlDbVoxWkZoNG5BSGxPaU5oazBCQXFoNWRRc0tpbHc1aldKSUZIWkU?oc=5",
-        "source": "The Mirror",
-        "published": "Tue, 16 Jun 2026 07:05:42 GMT"
-      },
-      {
-        "title": "Tottenham 'forcefully' enter race for £100m star after Arsenal and Man Utd transfer links",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTBKd0R5VjFRc1IzSzBmS1ZyMDVnR0ZINEVKSUFGMkxJRFhuRFV6cHpwZG42clY3U1dRTldnQzRQRF8zM3Q5NjNlS05INUpEVWNVYXV3UjNfY09TQmxuNWJrbDZ4dlZCX1dwSmRWc3plemJERHZ0SDhYSTNiUWd5SVRYajdMeUdWenZ2ckJFQTVUWlVRQjNJWlhhVjIwV2JobFE3bzgxOGJzX19sbmNGSGY3Z9IBuAFBVV95cUxPTGJOSF9wekpVZXRxXzkxTFZUT3pEd053MVo1S1RWZ1FLZFp1VjRQMHVldUw0akJJdUV4UThGalU5TWJyelhpMWMxdFJXVGM2R3RDWW4tUFlpVDFXR2F3Ukw5VGdWeUNWOW1WREdqRDBBUVNiNlZmZk5yZ1dldVd0Mll5WWhDOEE5ZGZkOVd1c240ek1zQ1ZQbmFnOVMtd2MyVlkwcTJIb1Jpb2JaR1JDajhodTFleXdY?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Mon, 15 Jun 2026 22:15:00 GMT"
-      },
-      {
-        "title": "Michael Carrick rocked as Man Utd abandon ANOTHER midfield signing – Fabrizio Romano",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXBZMERMOVlYZG1OdHpBZ2pIRVc4WnNrdFlWV3pTQmZjUDh1aTA5UC1qUGpPOVgzX3dsNE03RU1IdlZKb205WmlNX2t4TFdXZ3VVcDZPcFY0MWhqTU82Y0twX2VQT2xvMURFNEpTd0NITmVCdFpsT1Z5eWk0enRLWmxlMkpYUGRtMlAxY0xLSVp3dXZ3M0tOZmFacFE2eVYtZGdaQm45ZEwwUmkybVpMaWhKbnFEU2VkSFdHUEJ6cEgxamFSa3JJLS1R?oc=5",
-        "source": "TEAMtalk",
-        "published": "Mon, 15 Jun 2026 19:36:59 GMT"
-      },
-      {
-        "title": "Man Utd transfer news LIVE: Ederson announcement IMMINENT, Summerville interest",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc21BYTgzdjk1dFBwUVZIbFR2Ry1HbFNDazZYMmo1a2d0OWRhSlJYalI2cmRyRWtTNnFyb3NqMmhMOVdZSFVaX0lIS1ZMRmtTZ3FHWHZGM2l2dk5FdkhLMjVuWVhMYThEXzhhaEoxMWp3UjllNU1Fc2JxTkZIZU5IaF8wUUZyZVBsbWotOERQSGpzWXlpQ2FJck9HNGVQVXM?oc=5",
-        "source": "The Sun",
-        "published": "Tue, 16 Jun 2026 07:02:00 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Sandro Tonali update, Mateus Fernandes stance, Marcus Rashford blow",
+        "title": "Man United transfer news LIVE: Crysencio Summerville move, Sandro Tonali update, Rashford blow",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk9nUnBZNVZWZENMNWhpR1U2eHdvQmQ3dmRSMVNBLTdpdEp4dFJOVmRFWmY0ZWRjSzlyVEpTc3pTbTVvS1RMY01DOHkwSzRzQWh1b3NMMllQU3VFQUZIOVdhTEd0bWxSZGhQdjlRQm50Nmd4dnNxSFdTS1RwVG8yYzJ4QlcxdkJtV1lWb0g3WXNMWHdtMFZUZE1JR21jcWxqbVNlM05oZ3FRLVlWc0ZJ0gG0AUFVX3lxTFBKbUVCZEw5TlJIYXV1Yy03N1RZZENKN2M4YV9ydWVEcUgwUUpGOG5OV1BhTEREa3kyUUR2RDJHeHRtaVB4SC05dUJCTEM3bW1fZTlSaUNOQmY4NGJPZEtCRlNuY2RxdFlxdUs2cldtQzhSZGhrUFB5V0hjRVZ0THEzazZaNXFWLXVQRHluOUx5NEN0am5peVFsV2JrTnJDMGtEdHFoeW43bTBGakFOOEN4TnIzQw?oc=5",
         "source": "Manchester Evening News",
-        "published": "Tue, 16 Jun 2026 07:29:25 GMT"
+        "published": "Tue, 16 Jun 2026 12:56:09 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal told new Rogers price; Tonali talks",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2RzYUltcjRUZ3I4TjVoai1KZHhSWFQzRkstUWxMZ093Ri10WGEwcVc1YlpEcEt5Mkg4M3ZuWS1UcWw5QTlQU1Rpdnh5dHB3cjd5aDJCUHphbllWMDMwNVNSQ3lVb3hzRGZtNmxQQUx1VzRKWDZ1WlYzX3NtWHlMT24tYU82ak9rUm9ZQlpfRzdZbDJmZ1RSSXNRYl9ZbXFtdWR4eG94TC11bzcwLWZaN2w3QUN6Zw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 16 Jun 2026 11:22:45 GMT"
+      },
+      {
+        "title": "Man Utd make shock Crysencio Summerville transfer enquiry as price tag for Netherlands & West Ham winger revealed",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDJnMmZCWjlCaVVQdk9PQ1E4b2Z6QU4wOXVRNUdYNm55Q01OcVVwQjU0cHMzakFsSV9ZMC1ZSDdRSHQyVTF1Z2hzUThvQllLY2I3N1pCQ1ZsTnF6XzdsRjhVYmhsS1h2YmlYRm10UTdnYjkzbF9uam1Xa1dRZVZHNGdnV0NEc2VOX1hJWFFQcWFIMGxRLUxsbVJkUGpicW95bHFUcVptQWpHYWpJSEpudGdpbGNUcW9xYWpfRzdQUlY4SVVaVWtJ?oc=5",
+        "source": "Goal.com",
+        "published": "Tue, 16 Jun 2026 09:40:37 GMT"
+      },
+      {
+        "title": "Why Man Utd want Crysencio Summerville: A bundle of dynamite, ready to step up?",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2MyRTFTU2tBUkE3VEVCUEpYbDhMWVZoVUt0TnNvWnBmZDFMOHFwVXNaUjhic1YyRXRTMGtjS1laa2ZMWHhDTGFpNWM0YmpjMEFQY3NveXhncThJdFpEenI1Smh1WG5wb3BscDVrQkpvRU41c1NWSmpYcU5pYkxPLUpGQ2F0ZGlfTDhLM01CWGVNQy1yZ19MXzFWRmdTUEVOdHF6aTk0VHNGVVZOOVFja2sxNE1NMXcxTWtv?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 16 Jun 2026 11:06:06 GMT"
+      },
+      {
+        "title": "Man Utd transfer news LIVE: £50m Summerville 'interest', Fernandes to United, Ederson announcement 'close'",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzJKWlpJS2FTSlk4N0tjS015dE9NczIyYXp5RUU4N1ctSlBXQUY1YkM4U3VVR2hXOVNWMldaQWhEcFJZQ0tFV0pKZ2V3WjV3dFhad3FNTElRcnVMdWNEUlRmWWtqM0VTVUdOMmVWemRTSDRQejRST24wdng3QS1acGhfNTBueC1wc2F5X09MY0pIa1ZUdUs2SkN2dTR3OHRpajBHYWx6TVE?oc=5",
+        "source": "The Sun",
+        "published": "Tue, 16 Jun 2026 09:50:05 GMT"
       }
     ],
     "rm": [
       {
-        "title": "Real Madrid announce signing of Chelsea’s Marc Cucurella in £52m deal",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNEU1SnNBUHNyNm1fZ2dvXzUtV3VNYkhHYVRuUXFPODFjOVo0OGF5WU5RdW1NbEtoamlrT2k1VG5oOGo4X3hLWkRHSDFuTV9majZGTjQxLVB3Qm5ncDBQZlBKSXZHVkc2QUFLRWl6MWp1NVU2aFdqdlNaOGNpZzlaVzN6aWxaSElyamlFc2xCUVpoVHNHRFo1bmducE1RZHpOMW1ONEh2QTRqSkdV?oc=5",
-        "source": "The Guardian",
-        "published": "Sun, 14 Jun 2026 17:28:00 GMT"
+        "title": "Marc Cucurella transfer news: Real Madrid sign defender from Chelsea in deal worth £51.8m",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLURyOEJqU2Nkd2F1dVFUXzJjWjVLekNzYjduUDNmLTM2OWFWWmg3YVhxeVRFak1mQnRhSWxWdS1vUnVrNExJSmFhbl9kMDMwZVU2U2J2ZEJGNFR2Ym0wN1ZVZ1lBUVJIdFRnLU80TTRGT1ZyWno4clV2TjNXX3JXWmRZSi12Vmc1YTFRczFITldSaXJQWUpKY0tWRjYxQ1lXV1dwSlY5ZnFGbjJucUhrZTFybWwwZVdoZE40dUk4OGcwU3RYenNERVVoeWpYS1AwSWp3RDVHTTZ5Uk51?oc=5",
+        "source": "Sky Sports",
+        "published": "Mon, 15 Jun 2026 10:29:26 GMT"
       },
       {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "title": "Man Utd ‘exploring’ shock signing of Real Madrid star after Mourinho ‘orders’ sale",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDRsQTFnQktPVFBmWmw5RjBscDVwZkM1ek1aSjFMbER1b01mR1QzWE9fTFZKajVRdzlfU3ZHalhqTnVfbXhqa2xRWDNsUGpkUzNmTEVSU0hPbjlfVm1oMEh5WlU1NDdCaDk2b0xOS1RMTWVoWXd0VXlEZzZKQVVRelNqTFpjQzVUakpFRE1pcHhPUzhKODViSlhNTEZWdEdHSkJZRzRDVXJfa3hmaU92b3VGdnMtd09PSHc?oc=5",
+        "source": "Football365",
+        "published": "Tue, 16 Jun 2026 11:35:35 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzVKd3RnN1BEaGdtNkJhZVpfLXFtLWFxQWxlWDJGOEhOY205YjVydUlUY1l1MW5DX29QUTZZbkNUQlRBM1MtNkJyOXp0YklUSV9MaFpQN0o0QjZyZW8zVXl2akhZUTVnMG5DWkRjLTlGNVE0ZzVWLVBkdm5FRlRFME01LVZNYURwWmJ3ZlRsU1pRZnQ5LXMtZUNXUDVSdw?oc=5",
         "source": "The New York Times",
         "published": "Tue, 16 Jun 2026 06:46:23 GMT"
       },
       {
-        "title": "Transfer Rumors: Fernandes Wanted by Man Utd Rivals; Real Madrid’s Shock Endrick Decision",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHBpd21pNS1tQXl4RmpFV2ZyQWhxazc1R3l0OTVKNGtIY1NncHJGdXppNmVRTHZFajVKRzZsdmg4NXVQdml0NkQ0dTQxYnhpWmlnR2o4RVg4bUs4THd6Qy1Jc2xyaHU1WFFjbng1Y3pOTWg5NTQ3WmpLQ1hTdXVFYVBTWXhEZw?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 13 Jun 2026 23:05:00 GMT"
+        "title": "Real Madrid back away from transfer as they 'expect' Man Utd to complete signing of £80m-rated midfielder",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQWZwWjJZX2RTcHJOWFFWajk2NVQyUC13Vl93R3BmSGlUWl9uV2RuZW1jZFdESkN5WFJZMFFVRV9nWkpBNDJGUlM5Z2Q2bGdvOUk1cm9VN0NrLVg3MVo4cGhDX2llR1lRcHBrX0tsNm1MWGJwTmtHWGU2dnVoMExTVUJWVzU3Y2E3REpfMWxvaEx0WndCUjVFcTRUNHNYZmc0X1I5bVByRVRYREVIUF94aFhfVEEzZkpjaFVYaDVNT1BLVzNmR2xVWlZyNWZ6VUd3Y1hyQ1dGcGRiUUhRdVRWd0o3UjktTFBwbmsxQWFvQQ?oc=5",
+        "source": "Goal.com",
+        "published": "Mon, 15 Jun 2026 09:11:05 GMT"
       },
       {
         "title": "Reports in England say Real Madrid pull out of another transfer race",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVG5GN3dweHByUkZpaTQ3aUdHdXBfYUVMVG5rSzdtRk45M01sSUd1U1FqS1FKNFA5SHZsaWZxdVlTdVFlZG02TmoxNXV6eGJfQ3JfTl9TXzMwWFA0a2dlQ1VlbkFEU3dPeXVvS0pHYUJ1MW14MVFvVUc3WHQ5RDF1dkR1WUpMcTRnOEhMdWNyb1VHN0JTUlY2NkdLY0h1QW1Oc3hpVEl5elNWVG52MEZfdi11dEktUTkySi1XUGZiQ1FNY0pYbHNQelpYU2QwZktQ0gHQAUFVX3lxTE9VV25OX2xYLXRIbklRQ2NMQkZzMUFVVnREMDJTMzc2V3EyMHNMTmp3QmVhRVNuZnhMQkx0SEFKR3hwajNiSVIwXzVfRm52NFFNNTcxdHRiMW5UUFRMOWZHMTYydl9sclN5S1N0X1dvdG9fd3NjY0Q1dVd6QzJZaUV4dGFRMy01T3JJS2ktUDNWNFZhZnhLNHVqRDlDaXhCNXMxR0w5em9xWUZ0WU5sR1NOeEdoTXpVZklJWG50MTdhaW1CTGQ0a3FCbnJQTloyNFQ?oc=5",
         "source": "MARCA",
         "published": "Mon, 15 Jun 2026 09:54:02 GMT"
-      },
-      {
-        "title": "Real Madrid 25th & Man Utd 3rd: Which clubs have spent most on transfers last five seasons?",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX3RneWpMNGR5OGhmRUxQNFJrbmV1bTZWU0hxN0NiSzliSkdydnk3TUViLUpidHJlcWpxNlh1X2M5QU51N3dvcDVIUFFMM0JYUWRMcTg4UzNPUWZZaG9IT0ZDSTR3UlI0ZkZTVm13UnVBLTFQS2JyNmV2eU52dUNMbUlwUFowOGltT3JlTDMxcV9zYjAwQXhYRnJrS29OSTJ3QTJDalpqYmRZTkFrU1Fnb2xxSTlnTWNFYnhQSV9CbXZhNGRQWGQ4ZDljcDMtanh6UnhFUFB3?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sun, 14 Jun 2026 14:56:44 GMT"
       }
     ],
     "fcb": [
       {
-        "title": "Bayern Munich set to miss out on Joško Gvardiol again",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BSQzJFV09kUExBbzI5VGxqVkhma2tTNHVvdm9LOGN0ZU9KOUN3X1BYTTFCMXFwZ3pJT2JpMTNHQVA5UEtGRmZLSFBieWtnNWxVTlNERmROTzc5OU9DUXhPZVk3dTZ5X0xYS2ljaXRoMTNDVEx5S0g3a0JVNDZtWjM3ZEp5czZLeVE3ZGE3bmU2VVVPeEN2SklSdXJrR2NiN21qcDlhYy1EVTkyUmpMT0hBNUZ4dUt1OUp2Sk5WeHczUWwyRjRQc185TGJSQQ?oc=5",
+        "title": "Bayern Munich ready to break the bank for Michael Olise",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON1ZEYmNQNG9RZFhGZUxsc0JvcGQzclctVmVpMjFaRjl3aDdXanhYeEdpN3VLRlhTMnNoUjJlVUxuUHh2Zm12bkVYeXpyZm5Remc4NEViUm9sSWFVdHpWcnpXYjJXWGxfRWxZT1NFTVFRN1ZtdGN5N3RIaXhEdlI3dEd5dU5oRURRbDVJVnRVWDRERzRWRlJvSmYtMmpZZVRlT1p1ajBiWnV2VXFuRmZ3Mk1DbVR6X3pDVmRtS1g4RDZScnpDR1lGeVRwNTBuWVN3?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT"
+        "published": "Tue, 16 Jun 2026 06:00:00 GMT"
+      },
+      {
+        "title": "Report: Ismael Saibari will be Bayern Munich’s only signing in the attack",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUXdsQm96MEVadmYxNFhFUzVBc1FiVWdER1BrYXNVM2c1YmloM0hhalJoSnZmbmtyY2lFcVhQMnFWS2pyUU41OW1oX05fOXhtOHdJRUg2SnZ0Z2lBOW5BQkhmWmVHYm43aHRrSU44YWF6anprMzBKS3dfYzdVRVlBdTU1SDVrdGhzZ2hzcDRnUzRiZHg4T0ZQbFYxaDU3MUNuNTZBYnZyYVItTHphQy1uQWRhZnNhM055UWZ6akJybXlQYWtDTG5FQ0J3SVdyUFpwaldQTTktbXFGbHNseGRsRGNSQVUxUkNaNmNFakRmNWVkaUphdl9Sbkl5Mkx5dnp2blNfZg?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Tue, 16 Jun 2026 11:30:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Arsenal, PSG, Bayern eye Morocco breakout star",
@@ -1031,22 +1037,16 @@
         "published": "Sun, 14 Jun 2026 19:59:00 GMT"
       },
       {
+        "title": "Marcus Rashford handed Man United exit update as £47m transfer agreed by suitors",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYU5wRndHTUFGNzkwRmdLTHNaNDk1cVVwZWZBTHJrNjdkZmZYS2V6aTRVSG9KTEl6SVZ0RkJVQ3FVbFY0S0dFZHNlb0pJbV9pdzVpZUdlX3ZUU0dZT2R3UE5DSDRpNjIzR3RCN0o5em9xMS1HYmZuSmM5NDJESjcxeC1STThJZEdBLUVGclFtSjFpWko1NGJieHVyeE10WW5ST2g0RE1vdmhyZXJQN3hITzJ4QnLSAboBQVVfeXFMTkIzeC1tMFdhNVRYckU2RWc4VXU5a0pya2doZ3VIRWdneU9Nclp5bVJJRWotdXJxRHFXM3ZySXZ5Q2FDRmFzeGstY2RxZUNqTV82ekx0anNrQkFUc3dVVENDUWdiTXgtbWxKdm9TTURQN0FIZmpOdWFvdWVyRmFIRExUcTlqZTYycFBMSk9jaFpFbkl6X0otbHRudnNVX3EtNnhxSkhJWDNoMUUyMzI0ZHpRM01EMEZFcnJ3?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Tue, 16 Jun 2026 05:00:00 GMT"
+      },
+      {
         "title": "Ismael Saibari agrees €55m transfer to Bayern Munich as medical booked in for Morocco & PSV star",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeE00MGN2SGRxLUVCRXVGaXVpc0pqLVpna1oyUm5US3ZQYnp0MjJaSTJrS19KczJZbkd3TlQwejR2SEVPc19JcWlLN1dOdlpqcFphTEl4eER1REtkSWhJYjFUN3p1OFBOMFdPOU8zTTdhcEVqSjBLYVEwNHN0ZDhwQzIyWGNMdW9qamZTUlRBaFZPVU9VUm9BUTZKbU5za3M0bFVJbzgxMnR2MjVqZW9EaUwtbnRvX1F0OGw3YVFjZG9kV1BCa3ZtNm1LLUZGWXZ0Y2J4c2pvSndGNFg5ODhUbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0RCUW5mWmN4bk1zSWJRaEhKY1M1aHRyNmlEeEUzcDItbU10UHhEMEw2V3pHNGk2T3gxelhNemhkSDFjaFpjc3RDdEZiYnplcmU4WG5WTmJ5Tk9TN09qbFJZc0FCb29aWkwxWHZvSjZHWHd6ZGQwMEZNVVR3RFhpUHVCMUgtbDFFRHdiaVA3Mk1FVjRLOWRYdmVxckZwR19jWmpjbGw0dVNtYVh6SE1UWU1GU3h1QXB6YkgtRUtxY1c2bnQ0NkYtUXBQcnhRcDhmZXN5eGVSbXJQS29kTnNLU3Q4czU?oc=5",
         "source": "Goal.com",
-        "published": "Mon, 15 Jun 2026 10:31:12 GMT"
-      },
-      {
-        "title": "Marcus Rashford 'set' to complete transfer after Barcelona decision - 'increasingly likely'",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkZYZy1YZ0tqdmRXY0VhR2o3OGVWTTVoTmhyUHFEa1h1SVZ4YzRZU2ZHbFAtZklqd3VtSDdhc1FSRV9PR0VmMTdtODRGdzhRRDZIN3FyakFLNlpCTHZCT19IeENacDJ1WnJsX3hFdzVHckNwNzNabkNyV2x0d1FLeEtBTnRBc25URkdrYUhTV050eWZDREJTWW1DdFJOOUNyUUxVaXJTN0VmWjlPczRPaURROHNud2d4ZXQxbzl4WQ?oc=5",
-        "source": "Football365",
-        "published": "Mon, 15 Jun 2026 17:33:42 GMT"
-      },
-      {
-        "title": "Bayern Munich set to beat Chelsea to £47.6m defender signing with talks 'advancing'",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxiWHFzZGtEa3o1WFU3MGhudllRWXFyaXRocXpOVHVCU2dpUHJhWU9FZGJ4RnFkc202VUJGRkpYQXFDaGVDb0FTRzZ2eENIbW9DT2Fkc3dCbHdPWTA3ZWl0c0VvSk1TNzU4NzBBaWdQVHlqU0gxVHF6NEVOeG9MV0g0VVlxTVBNV3NzN0xSdUFVVU1ILXNPZ0hn?oc=5",
-        "source": "TEAMtalk",
-        "published": "Mon, 15 Jun 2026 14:13:44 GMT"
+        "published": "Mon, 15 Jun 2026 10:31:57 GMT"
       }
     ]
   },
