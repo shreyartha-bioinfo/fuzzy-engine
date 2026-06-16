@@ -31,11 +31,12 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update WC data [skip ci]"
           git push
 
-      - name: Sync data.json to Pages branch
+      - name: Sync data.json and index.html to Pages branch
         run: |
           git fetch origin claude/quirky-pasteur-ion73w
           git checkout claude/quirky-pasteur-ion73w
           cp /tmp/data.json data.json
-          git add data.json
-          git diff --staged --quiet || git commit -m "chore: sync WC data to Pages [skip ci]"
+          git checkout main -- index.html
+          git add data.json index.html
+          git diff --staged --quiet || git commit -m "chore: sync WC data + UI to Pages [skip ci]"
           git push origin claude/quirky-pasteur-ion73w
