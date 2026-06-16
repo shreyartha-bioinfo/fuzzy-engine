@@ -244,6 +244,106 @@
   ::-webkit-scrollbar { width: 5px; }
   ::-webkit-scrollbar-track { background: var(--surface); }
   ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  /* ── Breaking News ticker ── */
+  .breaking-bar {
+    display: flex; align-items: stretch;
+    background: #0d0d18; border-bottom: 1px solid #3a1a3a;
+    overflow: hidden; min-height: 38px;
+  }
+  .breaking-label {
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #c8102e, #9b0a22);
+    color: #fff; font-size: .72rem; font-weight: 800;
+    letter-spacing: .12em; text-transform: uppercase;
+    padding: 0 1rem; display: flex; align-items: center;
+    white-space: nowrap; gap: .45rem;
+  }
+  .breaking-label .pulse {
+    width: 7px; height: 7px; border-radius: 50%; background: #fff;
+    animation: pulse-ring 1.2s ease-in-out infinite;
+  }
+  @keyframes pulse-ring {
+    0%,100%{ opacity:1; transform:scale(1); }
+    50%{ opacity:.4; transform:scale(1.4); }
+  }
+  .breaking-scroll {
+    flex: 1; overflow: hidden; display: flex; align-items: center;
+    padding: 0 1.2rem; position: relative;
+  }
+  .breaking-text {
+    font-size: .76rem; color: #e0c8ff; font-style: italic;
+    white-space: nowrap; position: relative;
+    animation: ticker-fade 0.6s ease-in-out;
+  }
+  @keyframes ticker-fade {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .breaking-next {
+    flex-shrink: 0; padding: 0 .9rem;
+    display: flex; align-items: center;
+    border-left: 1px solid #3a1a3a;
+    cursor: pointer; font-size: .68rem; color: #9060b0;
+    transition: color .15s;
+  }
+  .breaking-next:hover { color: #c090e0; }
+
+  /* ── Upcoming fixtures / lineups ── */
+  .fixtures-section {
+    max-width: 1100px; margin: 0 auto;
+    padding: 0 1rem 1.5rem;
+  }
+  .fixtures-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem; margin-top: 1rem;
+  }
+  .fixture-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px; overflow: hidden;
+  }
+  .fixture-hd {
+    padding: .55rem 1rem;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+    font-size: .69rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--muted);
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .fixture-teams {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: .9rem 1rem .6rem; gap: .5rem;
+  }
+  .fixture-team { text-align: center; flex: 1; }
+  .fixture-flag { font-size: 1.6rem; }
+  .fixture-team-name { font-size: .72rem; font-weight: 700; margin-top: .25rem; }
+  .fixture-vs { font-size: .9rem; color: var(--muted); font-weight: 700; }
+  .fixture-lineup-status {
+    text-align: center; font-size: .67rem; color: var(--muted);
+    padding: .15rem .8rem .5rem; font-style: italic;
+  }
+  .fixture-lineups {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 0; border-top: 1px solid var(--border);
+  }
+  .lineup-col { padding: .5rem .7rem; }
+  .lineup-col:first-child { border-right: 1px solid var(--border); }
+  .lineup-col-hd {
+    font-size: .62rem; font-weight: 700; letter-spacing: .07em;
+    text-transform: uppercase; color: var(--muted);
+    margin-bottom: .35rem; text-align: center;
+  }
+  .lineup-player {
+    font-size: .73rem; padding: .18rem 0;
+    border-bottom: 1px solid #1a1a28; color: var(--text);
+  }
+  .lineup-player:last-child { border-bottom: none; }
+  .lineup-pos {
+    font-size: .6rem; color: var(--muted); font-weight: 600;
+    display: inline-block; width: 22px;
+  }
 </style>
 </head>
 <body>
@@ -253,6 +353,14 @@
   <h1>FIFA World Cup 2026 — Club Goal Tracker</h1>
   <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Current roster · auto-updated every 30 min</p>
 </header>
+
+<div class="breaking-bar" id="breaking-bar">
+  <div class="breaking-label"><span class="pulse"></span>Breaking</div>
+  <div class="breaking-scroll">
+    <div class="breaking-text" id="breaking-text">Loading…</div>
+  </div>
+  <div class="breaking-next" onclick="nextBreaking()" title="Next">▶</div>
+</div>
 
 <div class="status-bar">
   <div class="dot loading" id="dot"></div>
@@ -313,6 +421,16 @@
 
 </div>
 
+<div class="fixtures-section">
+  <div class="panel-header" style="border-radius:8px 8px 0 0;border:1px solid var(--border);margin-bottom:0">
+    <span>📋 Upcoming WC Fixtures &amp; Lineups</span>
+    <span style="font-weight:400;font-size:.71rem" id="lineup-source">via football-data.org</span>
+  </div>
+  <div class="fixtures-grid" id="fixtures-grid">
+    <div class="empty-state" style="grid-column:1/-1;padding:2rem">Loading fixtures…</div>
+  </div>
+</div>
+
 <div class="rumors-section">
   <div class="panel-header" style="border-radius:8px 8px 0 0;border:1px solid var(--border);margin-bottom:0">
     <span>🔁 Transfer Rumors</span>
@@ -326,6 +444,51 @@
 <script>
 let data      = null;
 let activeTab = "utd";
+
+// ── Bengali Breaking News (HR edition) ────────────────────────────────────────
+const BREAKING_JOKES = [
+  "🚨 EXCLUSIVE: Real Madrid spotted serving *ilish macher jhol* in Bernabéu canteen — Vinicius Jr. says it's better than Gareth Bale's golf club sandwich. Florentino Pérez reportedly 'confused but hungry.'",
+  "🚨 SCOOP: Manchester United's new fitness coach insists players do *lathi khela* instead of strength training. Ten Hag overheard asking: 'Is this like a Dutch clog dance?' Old Trafford's injury list now 40 players long.",
+  "🚨 BREAKING: Bayern Munich board meeting moved to Howrah Bridge. Chairman Hainer seen eating *kochuri* and reading *Ananda Bazar Patrika* — squad selection for next season to be done via *tambola* (housie) draw.",
+  "🚨 JUST IN: Bellingham tells Real Madrid he wants to relocate to Park Street, Kolkata. Says Kolkata biryani 'slaps harder than a rabona.' Ancelotti responds: 'Kolkata is near Madrid, ja?' Benzema unavailable for comment.",
+  "🚨 ALERT: Man United striker Rasmus Højlund caught moonlighting as *mishti doi* delivery boy in Bow Bazaar. Erik ten Hag fines him one week's wages; Højlund says it was 'worth every *taka*.'",
+  "🚨 TRANSFER BOMB: Bayern Munich in advanced talks to sign legendary Maidan FC goalkeeper. Medical set for Tuesday — Neuer told his jersey number will be *ek-shô-tero* (117). Agent demands payment in *rosogolla.*",
+  "🚨 SOURCES: Real Madrid's dressing room now plays *Rabindra Sangeet* at half-time. Kroos (retired) flew back to say 'this is actually calming.' Vinicius claims he scored two goals after listening to 'Ekla Cholo Re.'",
+  "🚨 CONFIRMED: Manchester United's new anthem composed by a *baul* singer from Birbhum. First line reportedly goes: 'Oi United, tumi kothay gele?' (Oh United, where have you gone?). Fans say it perfectly captures the last decade.",
+  "🚨 INNUENDO ALERT: Bayern Munich's new striker 'came close' three times but 'couldn't finish' — much like their last Champions League semi-final. Tuchel says: 'We need someone who knows how to put it *thik jagay*' (in the right place).",
+  "🚨 HOT TAKE: Man United's transfer strategy described as *andha ghore kalo biral* (blind man's cat in a dark room) — nobody knows what they're looking for. Sources say scouts watched a *jatra* performance by mistake and signed the villain.",
+];
+
+let breakingIdx = 0;
+let breakingTimer = null;
+
+function showBreaking(idx) {
+  const el = document.getElementById("breaking-text");
+  if (!el) return;
+  el.style.animation = "none";
+  el.offsetHeight; // reflow
+  el.style.animation = "";
+  el.textContent = BREAKING_JOKES[idx % BREAKING_JOKES.length];
+}
+
+function nextBreaking() {
+  breakingIdx = (breakingIdx + 1) % BREAKING_JOKES.length;
+  showBreaking(breakingIdx);
+  resetBreakingTimer();
+}
+
+function resetBreakingTimer() {
+  if (breakingTimer) clearInterval(breakingTimer);
+  breakingTimer = setInterval(() => {
+    breakingIdx = (breakingIdx + 1) % BREAKING_JOKES.length;
+    showBreaking(breakingIdx);
+  }, 4 * 60 * 60 * 1000); // rotate every 4 hours
+}
+
+// Start with a random joke each page load
+breakingIdx = Math.floor(Math.random() * BREAKING_JOKES.length);
+showBreaking(breakingIdx);
+resetBreakingTimer();
 
 async function load() {
   setStatus("loading", "Refreshing…");
@@ -386,6 +549,61 @@ function render() {
 
   renderRoster();
   renderRumors();
+  renderFixtures();
+}
+
+function renderFixtures() {
+  const grid = document.getElementById("fixtures-grid");
+  if (!data || !data.upcoming || !data.upcoming.length) {
+    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;padding:2rem">No upcoming fixtures found.</div>`;
+    return;
+  }
+  const POS_SHORT = { Goalkeeper: "GK", Defence: "DF", Midfield: "MF", Offence: "FW" };
+  let html = "";
+  for (const fix of data.upcoming) {
+    const dt = fix.date ? new Date(fix.date) : null;
+    const dtStr = dt ? dt.toLocaleString(undefined, { weekday:"short", month:"short", day:"numeric", hour:"2-digit", minute:"2-digit" }) : "TBD";
+    const group = fix.group || "Group Stage";
+    const home = fix.home || {};
+    const away = fix.away || {};
+    const homeLineup = home.lineup || [];
+    const awayLineup = away.lineup || [];
+    const hasLineup = homeLineup.length > 0 || awayLineup.length > 0;
+
+    html += `<div class="fixture-card">
+      <div class="fixture-hd"><span>${group}</span><span>${dtStr}</span></div>
+      <div class="fixture-teams">
+        <div class="fixture-team">
+          <div class="fixture-flag">${home.flag || "🏳"}</div>
+          <div class="fixture-team-name">${esc(home.name || "TBD")}</div>
+        </div>
+        <div class="fixture-vs">vs</div>
+        <div class="fixture-team">
+          <div class="fixture-flag">${away.flag || "🏳"}</div>
+          <div class="fixture-team-name">${esc(away.name || "TBD")}</div>
+        </div>
+      </div>
+      <div class="fixture-lineup-status">${esc(fix.lineup_status || "Lineup TBA")}</div>`;
+
+    if (hasLineup) {
+      html += `<div class="fixture-lineups">
+        <div class="lineup-col">
+          <div class="lineup-col-hd">${esc(home.name || "Home")}</div>`;
+      for (const p of homeLineup) {
+        const pos = POS_SHORT[p.position] || p.position || "";
+        html += `<div class="lineup-player"><span class="lineup-pos">${esc(pos)}</span>${esc(p.name)}</div>`;
+      }
+      html += `</div><div class="lineup-col">
+          <div class="lineup-col-hd">${esc(away.name || "Away")}</div>`;
+      for (const p of awayLineup) {
+        const pos = POS_SHORT[p.position] || p.position || "";
+        html += `<div class="lineup-player"><span class="lineup-pos">${esc(pos)}</span>${esc(p.name)}</div>`;
+      }
+      html += `</div></div>`;
+    }
+    html += `</div>`;
+  }
+  grid.innerHTML = html;
 }
 
 function renderRumors() {
