@@ -27,7 +27,7 @@ OVERRIDES = {
         "add":    [{"name": "Marc Cucurella", "position": "Defence", "nationality": "Spain"}],
     },
     "fcb": {
-        "remove": {"Nicolas Jackson"},
+        "remove": {"Nicolas Jackson", "Raphaël Guerreiro"},
         "add":    [],
     },
 }
