@@ -63,50 +63,6 @@
   .dot.loading { background: var(--amber); animation: blink 1s infinite; }
   .dot.error   { background: var(--red); }
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.35} }
-
-  /* ── Joke of the Hour ──────────────────── */
-  .joke-bar {
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-    border-bottom: 1px solid #2a2a5a;
-    padding: .75rem 1.5rem;
-    display: flex; align-items: flex-start; gap: .9rem;
-    position: relative; overflow: hidden;
-  }
-  .joke-bar::before {
-    content: '';
-    position: absolute; inset: 0;
-    background: repeating-linear-gradient(
-      90deg,
-      transparent, transparent 40px,
-      rgba(255,255,255,.015) 40px, rgba(255,255,255,.015) 41px
-    );
-    pointer-events: none;
-  }
-  .joke-label {
-    flex-shrink: 0;
-    background: linear-gradient(135deg, #f59e0b, #ef4444);
-    color: #fff;
-    font-size: .6rem; font-weight: 800;
-    letter-spacing: .1em; text-transform: uppercase;
-    padding: .22rem .5rem;
-    border-radius: 4px;
-    white-space: nowrap;
-    margin-top: .05rem;
-  }
-  .joke-theme {
-    font-size: .63rem; font-weight: 700; letter-spacing: .08em;
-    text-transform: uppercase; color: #f59e0b;
-    margin-bottom: .18rem;
-  }
-  .joke-text {
-    font-size: .82rem; color: #d0d8f8; line-height: 1.5;
-    font-style: italic;
-  }
-  .joke-meta {
-    flex-shrink: 0; margin-left: auto;
-    font-size: .6rem; color: #4a4a7a;
-    white-space: nowrap; padding-top: .1rem;
-  }
   #status-text { color: var(--muted); }
 
   .btn {
@@ -218,70 +174,6 @@
     padding: 3rem 1rem; font-size: .84rem;
   }
 
-  /* ── Fixtures ──────────────────────── */
-  .fixtures-section {
-    max-width: 1100px; margin: 0 auto;
-    padding: 0 1rem 1.5rem;
-  }
-  .fixtures-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-    margin-top: 1rem;
-  }
-  @media (max-width: 700px) { .fixtures-grid { grid-template-columns: 1fr; } }
-  .fixture-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    overflow: hidden;
-  }
-  .fixture-header {
-    background: var(--surface2);
-    border-bottom: 1px solid var(--border);
-    padding: .55rem .9rem;
-    display: flex; justify-content: space-between; align-items: center;
-    font-size: .7rem; color: var(--muted);
-  }
-  .fixture-header strong { color: var(--text); font-size: .75rem; }
-  .fixture-matchup {
-    display: flex; align-items: center; justify-content: center;
-    gap: 1rem; padding: 1rem .9rem;
-    font-size: .95rem; font-weight: 700; text-align: center;
-  }
-  .fixture-team { flex: 1; }
-  .fixture-team .country { font-size: .78rem; font-weight: 700; color: var(--text); }
-  .fixture-team .flag-lg { font-size: 1.6rem; }
-  .fixture-vs { color: var(--muted); font-size: .8rem; font-weight: 600; flex-shrink: 0; }
-  .fixture-lineups {
-    display: grid; grid-template-columns: 1fr 1fr;
-    gap: 0; border-top: 1px solid var(--border);
-  }
-  .fixture-squad {
-    padding: .6rem .8rem; font-size: .7rem;
-  }
-  .fixture-squad:first-child { border-right: 1px solid var(--border); }
-  .fixture-squad-hd {
-    font-size: .63rem; font-weight: 700; letter-spacing: .08em;
-    text-transform: uppercase; color: var(--muted); margin-bottom: .4rem;
-  }
-  .fixture-player {
-    display: flex; justify-content: space-between;
-    padding: .15rem 0; color: var(--text); gap: .3rem;
-  }
-  .fixture-player.tracked { color: var(--green); font-weight: 700; }
-  .fixture-player .fp-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .fixture-player .fp-pos {
-    color: var(--muted); font-size: .63rem;
-    min-width: 22px; text-align: right; flex-shrink: 0;
-  }
-  .fixture-player.tracked .fp-pos { color: #16a34a; }
-  .fixture-status {
-    padding: .4rem .9rem; font-size: .68rem; color: var(--muted);
-    border-top: 1px solid var(--border); text-align: center;
-    font-style: italic;
-  }
-
   .rumors-section {
     max-width: 1100px; margin: 0 auto;
     padding: 0 1rem 4rem;
@@ -352,6 +244,106 @@
   ::-webkit-scrollbar { width: 5px; }
   ::-webkit-scrollbar-track { background: var(--surface); }
   ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  /* ── Breaking News ticker ── */
+  .breaking-bar {
+    display: flex; align-items: stretch;
+    background: #0d0d18; border-bottom: 1px solid #3a1a3a;
+    overflow: hidden; min-height: 38px;
+  }
+  .breaking-label {
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #c8102e, #9b0a22);
+    color: #fff; font-size: .72rem; font-weight: 800;
+    letter-spacing: .12em; text-transform: uppercase;
+    padding: 0 1rem; display: flex; align-items: center;
+    white-space: nowrap; gap: .45rem;
+  }
+  .breaking-label .pulse {
+    width: 7px; height: 7px; border-radius: 50%; background: #fff;
+    animation: pulse-ring 1.2s ease-in-out infinite;
+  }
+  @keyframes pulse-ring {
+    0%,100%{ opacity:1; transform:scale(1); }
+    50%{ opacity:.4; transform:scale(1.4); }
+  }
+  .breaking-scroll {
+    flex: 1; overflow: hidden; display: flex; align-items: center;
+    padding: 0 1.2rem; position: relative;
+  }
+  .breaking-text {
+    font-size: .76rem; color: #e0c8ff; font-style: italic;
+    white-space: nowrap; position: relative;
+    animation: ticker-fade 0.6s ease-in-out;
+  }
+  @keyframes ticker-fade {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .breaking-next {
+    flex-shrink: 0; padding: 0 .9rem;
+    display: flex; align-items: center;
+    border-left: 1px solid #3a1a3a;
+    cursor: pointer; font-size: .68rem; color: #9060b0;
+    transition: color .15s;
+  }
+  .breaking-next:hover { color: #c090e0; }
+
+  /* ── Upcoming fixtures / lineups ── */
+  .fixtures-section {
+    max-width: 1100px; margin: 0 auto;
+    padding: 0 1rem 1.5rem;
+  }
+  .fixtures-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem; margin-top: 1rem;
+  }
+  .fixture-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px; overflow: hidden;
+  }
+  .fixture-hd {
+    padding: .55rem 1rem;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+    font-size: .69rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--muted);
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .fixture-teams {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: .9rem 1rem .6rem; gap: .5rem;
+  }
+  .fixture-team { text-align: center; flex: 1; }
+  .fixture-flag { font-size: 1.6rem; }
+  .fixture-team-name { font-size: .72rem; font-weight: 700; margin-top: .25rem; }
+  .fixture-vs { font-size: .9rem; color: var(--muted); font-weight: 700; }
+  .fixture-lineup-status {
+    text-align: center; font-size: .67rem; color: var(--muted);
+    padding: .15rem .8rem .5rem; font-style: italic;
+  }
+  .fixture-lineups {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 0; border-top: 1px solid var(--border);
+  }
+  .lineup-col { padding: .5rem .7rem; }
+  .lineup-col:first-child { border-right: 1px solid var(--border); }
+  .lineup-col-hd {
+    font-size: .62rem; font-weight: 700; letter-spacing: .07em;
+    text-transform: uppercase; color: var(--muted);
+    margin-bottom: .35rem; text-align: center;
+  }
+  .lineup-player {
+    font-size: .73rem; padding: .18rem 0;
+    border-bottom: 1px solid #1a1a28; color: var(--text);
+  }
+  .lineup-player:last-child { border-bottom: none; }
+  .lineup-pos {
+    font-size: .6rem; color: var(--muted); font-weight: 600;
+    display: inline-block; width: 22px;
+  }
 </style>
 </head>
 <body>
@@ -362,13 +354,12 @@
   <p>Man United · Real Madrid · Bayern Munich &nbsp;|&nbsp; Current roster · auto-updated every 30 min</p>
 </header>
 
-<div class="joke-bar" id="joke-bar">
-  <div class="joke-label">😂 Joke of the Hour</div>
-  <div>
-    <div class="joke-theme" id="joke-theme"></div>
-    <div class="joke-text" id="joke-text">Loading…</div>
+<div class="breaking-bar" id="breaking-bar">
+  <div class="breaking-label"><span class="pulse"></span>Breaking</div>
+  <div class="breaking-scroll">
+    <div class="breaking-text" id="breaking-text">Loading…</div>
   </div>
-  <div class="joke-meta" id="joke-meta"></div>
+  <div class="breaking-next" onclick="nextBreaking()" title="Next">▶</div>
 </div>
 
 <div class="status-bar">
@@ -409,10 +400,9 @@
   </div>
 
   <div class="sidebar">
-    <div class="info-box">
-      <strong>How it works</strong><br><br>
-      A GitHub Action runs every <strong>30 minutes</strong>. It fetches squad rosters from the Premier League, La Liga, and Bundesliga APIs, then cross-references with WC 2026 scorers. Own goals <strong>deduct</strong> a point.<br><br>
-      Data: <strong>football-data.org</strong> (free tier)
+    <div class="info-box" id="hr-joke-box" style="cursor:pointer;user-select:none" onclick="nextHrJoke()" title="Click for next bulletin">
+      <strong style="color:#ff6080;letter-spacing:.06em;font-size:.7rem">📋 HR BULLETIN &nbsp;<span style="font-weight:400;font-size:.63rem;color:#9060b0">click for next</span></strong><br><br>
+      <span id="hr-joke-text" style="font-style:italic;line-height:1.7"></span>
     </div>
 
     <div class="panel">
@@ -432,8 +422,8 @@
 
 <div class="fixtures-section">
   <div class="panel-header" style="border-radius:8px 8px 0 0;border:1px solid var(--border);margin-bottom:0">
-    <span>🗓 Upcoming Fixtures</span>
-    <span style="font-weight:400;font-size:.71rem">next 2 World Cup matches · lineups from football-data.org</span>
+    <span>📋 Upcoming WC Fixtures &amp; Lineups</span>
+    <span style="font-weight:400;font-size:.71rem" id="lineup-source">via football-data.org</span>
   </div>
   <div class="fixtures-grid" id="fixtures-grid">
     <div class="empty-state" style="grid-column:1/-1;padding:2rem">Loading fixtures…</div>
@@ -454,161 +444,162 @@
 let data      = null;
 let activeTab = "utd";
 
-// ── Joke of the Hour ─────────────────────────────────────────────────────────
-const JOKES = {
-  "🏟️ Florentino Files": [
-    "Florentino Pérez doesn't buy players. He buys press conferences and the players come free.",
-    "Florentino's transfer strategy: sign the player, build a statue, get confused when he gets injured, sell him to PSG for €40M.",
-    "Florentino walked into a therapy session. The therapist said 'tell me about your relationship with money.' He left and bought the therapist's building.",
-    "They asked Florentino what his biggest regret was. He said 'Selling Modrić… just kidding, I never regret anything. I'm Florentino.'",
-    "Florentino once looked at a €200M transfer and said 'yes but can he sell shirts in Asia?' The scout said 'he IS from Asia.' Deal done.",
-    "Florentino's idea of squad rotation: rotate the PR team whenever the results look bad.",
-    "Real Madrid's financial model: print money, build stadium, spend money, build bigger stadium, repeat until Ballon d'Or.",
-    "Florentino Pérez once said 'we don't sign players, we sign icons.' The icon got injured in pre-season. The statue remained.",
-    "They asked Florentino if he had a succession plan. He laughed so hard his Rolex fell off and he bought a new one before it hit the floor.",
-    "Florentino's bedtime routine: count trophies, check Forbes, call an agent in São Paulo, sleep.",
-    "Florentino invented the concept of 'project player' — it means they're great for 3 months and then the project is quietly shelved.",
-    "Real Madrid's HR policy: if you win the Champions League, you can stay. If you lose it, Florentino has already scheduled your farewell dinner.",
-    "Florentino once got a speeding ticket. He bought the road.",
-    "They say Florentino keeps a list of every player he's ever been linked to. It's longer than the Bernabéu is tall.",
-    "Florentino's favourite phrase at board meetings: 'Money is not an issue.' His accountant's favourite phrase: 'Yes it is.'",
-    "Florentino Pérez fired a manager by changing the WiFi password first.",
-    "The only thing Florentino loves more than winning is the press conference after winning.",
-    "Florentino once described a €90M fee as 'a reasonable starting point for negotiation.'",
-    "Florentino built a new Bernabéu with a retractable roof. Rumour has it the roof opens automatically whenever he walks in.",
-    "Florentino's talent ID system: watch a player go viral on Twitter, ring his agent, add 30% to the asking price, tweet 'Hala Madrid.'",
-    "They asked Florentino about Financial Fair Play. He asked them to repeat the question in a language he cares about.",
-    "Florentino Pérez has attended more Ballon d'Or ceremonies than most winners. He considers it a home fixture.",
-    "Real Madrid's scouting budget: €0. They just wait for players to post thirst-trap photos wearing white.",
-  ],
-  "🍔 Hazard Weight Watch": [
-    "Eden Hazard at Real Madrid was the most expensive meal delivery service in history. €100M and he delivered nothing.",
-    "They asked Hazard why he kept getting injured. He said he twisted his ankle reaching for the dessert trolley.",
-    "Real Madrid's medical team had one job with Hazard: keep him fit. They failed. To be fair, so did every elevator.",
-    "Hazard's Real Madrid highlight reel: 45 minutes of him holding his hamstring and 3 seconds of him waving goodbye.",
-    "Eden Hazard arrived at Madrid as a winger. He left as a wide load.",
-    "Madrid paid €100M for Hazard, who gave them 7 goals in 4 years. That's €14M per goal. For that money you could buy a golden robot that also sweeps the pitch.",
-    "Hazard's contract had a fitness clause. He used the gym as a shortcut to the canteen.",
-    "Fun fact: Eden Hazard's injury list at Real Madrid is longer than his Wikipedia career stats section.",
-    "Hazard once dribbled past 4 defenders in training. They were all photographers trying to get a shot of his new diet plan.",
-    "Hazard told the Madrid physio he was '100%.' The physio had learned to divide that number by 4.",
-    "Eden Hazard won Belgian Player of the Year six times at Chelsea. At Real Madrid he won Best Dressed at the Christmas party. Growth.",
-    "Hazard's Real Madrid medical: 'Any existing injuries?' He submitted a PDF. It was 47 pages.",
-    "Zidane said Hazard was 'working hard to get fit.' What he meant was Hazard was working hard to find a pastry chef near the training ground.",
-    "Hazard's goal in his first game for Madrid was celebrated by 80,000 fans. His second goal came 847 days later. Worth the wait? No.",
-    "They gave Hazard the no.7 shirt at Real Madrid. In honour of the 7 weeks maximum he was ever fit.",
-    "Real Madrid fans made a banner: 'We love you Eden.' He missed the game due to a calf injury sustained reading the banner.",
-    "At Chelsea, Hazard was untouchable. At Madrid, he was literally untouchable — they kept him in cotton wool and he still tore something.",
-    "Hazard once said 'I want to be the best in the world.' He then ate a waffle, pulled his groin, and the dream quietly retired before he did.",
-    "The Real Madrid physio team eventually gave Hazard his own dedicated changing room. It was next to the snack table by request.",
-    "Eden Hazard's fitness tracker at Real Madrid just showed a sad face emoji and a calorie counter.",
-    "They asked Hazard what position he played. He said 'whatever is closest to the bench.'",
-    "Hazard's farewell at Madrid: no trophy, no goals, just a warm hug from Florentino and a Tupperware container of leftover waffles.",
-    "Scientists studied Hazard's hamstring under a microscope. They found it had its own agent and had already negotiated a rest period.",
-  ],
-  "🌾 Bayern Farmers League": [
-    "The Bundesliga title race is so exciting. Bayern are first, and… Bayern are still first. Tune in next week.",
-    "A kid asks his dad: 'Who wins the Bundesliga every year?' Dad: 'Bayern.' Kid: 'Every year?' Dad: 'It's not a league, it's a standing order.'",
-    "The Bundesliga trophy has Bayern's name engraved so many times they had to use a font size smaller than the trophy itself.",
-    "Pep Guardiola left Bayern because he was bored. Imagine being so good that winning three straight titles feels like a gap year.",
-    "Bayern vs the Bundesliga is like playing FIFA on amateur mode with all the best cards. Every. Single. Season.",
-    "Breaking: Farmers across Bavaria are suing Bayern Munich for cultural appropriation of their image.",
-    "The most dramatic moment in Bundesliga history was when Bayern only won by 4 points. Journalists called it 'The Great Panic of 2019.'",
-    "How do you know Bayern Munich are playing at home? The other 17 clubs update their 'best runner-up' stats.",
-    "Bayern's Champions League struggles are what happens when you finally run out of farmers and meet actual opposition.",
-    "The Bundesliga is basically Bayern's pre-season. The real competition starts in March when they face teams that have heard of defence.",
-    "Dortmund fans watch the title race with the same energy as someone watching their taxi drive to someone else's house.",
-    "Bayern's transfer policy: buy the best player in the Bundesliga from the second-best team, then do it again the following year.",
-    "A Bayern fan asked for a thriller at the Allianz Arena. The opposition conceded after 4 minutes. 4-0 at half time. He refunded his nachos in protest.",
-    "Bundesliga VAR is the most underworked technology in football. By the time they review anything, Bayern have scored again.",
-    "Bayern once lost 5-1 to Frankfurt. They called it 'planned maintenance of competitive tension.'",
-    "The Bundesliga broadcast deal is great value. You get 34 matchdays, 9 months of Bayern on top, and one weekend in April where Dortmund fans briefly believe.",
-    "Lewandowski scored 41 goals in a single Bundesliga season. The farmers didn't notice because they were already preparing their runner-up medals.",
-    "Bayern signed players from Dortmund so often that BVB just pre-installed a farewell banner in the stadium.",
-    "The Bundesliga motto should be: 'We play football. Bayern win it. You're welcome to watch.'",
-    "Bayern fans check the Bundesliga table in March just to confirm it hasn't changed since October.",
-    "Other clubs in the Bundesliga dream of winning the title. Bayern's youth team dreams of winning the title.",
-    "RB Leipzig nearly challenged Bayern one season. Bayern responded by buying their best midfielder. Classic farming.",
-    "In Bavaria, a 'close title race' means Bayern won it with 3 weeks to spare instead of 5.",
-    // The Predator strategy
-    "Bayern's scouting report on Bundesliga rivals: one highlighter, one column — 'ours now.'",
-    "Dortmund produced Lewandowski, Götze, Hummels, Aubameyang. Bayern produced the cheques to sign them.",
-    "Bayern's philosophy on competition: if another team keeps beating you, just buy their striker, two defenders, and their sporting director. Problem solved.",
-    "Bayern spotted a great young Dortmund player. Within 18 months he was wearing red. Dortmund's youth coach now just says 'enjoy it while it lasts, lads.'",
-    "The Bundesliga ecosystem: smaller clubs develop talent, nurture them for 3 seasons, Bayern offer them a 'real career', everyone nods sadly.",
-    "Bayern Munich is basically a very aggressive talent harvesting operation that occasionally lets the farmers watch.",
-    "Dortmund's transfer FAQ: 'Will he stay?' No. 'Where's he going?' Munich. 'Did we even get a good fee?' Define 'good.'",
-    "Bayern once signed a Schalke player, a Dortmund player, and a Leverkusen player in the same window. They called it 'squad depth.' The Bundesliga called it Tuesday.",
-    "The secret to Bundesliga dominance: win the league, watch rivals build a new striker, buy him in summer, repeat for 12 consecutive years.",
-    "A Bundesliga rival once said 'we're not afraid of Bayern.' Bayern bought their captain the following January. Now they're afraid.",
-    "Bayern's HR strategy: identify rival's best asset, wait until contract year 2, offer double wages, smile at their next press conference.",
-    "Other clubs in Germany win the league. Bayern win the league AND the other clubs' best players. Efficiency.",
-    "Bayern signed Manuel Neuer from Schalke. Schalke fans still haven't emotionally recovered. Scientists say they never will.",
-    "Mats Hummels: sold to Bayern. Mario Götze: sold to Bayern. Lewandowski: went to Bayern on a free. Dortmund's business model is essentially a feeder club for one zip code.",
-  ],
-  "💸 Man Utd Money Pit": [
-    "Manchester United spent £900M in 5 years and finished 8th. That's not football, that's a very expensive art installation.",
-    "Man United's transfer strategy: 1) Find player. 2) Check if another club wants him. 3) Pay 40% more. 4) Play him out of position. 5) Sell at a loss.",
-    "They say money can't buy happiness. Manchester United spent a billion pounds proving it — empirically, over multiple seasons.",
-    "United paid £80M for a striker who scored 3 goals. That's £26M per goal. For that money you could build a golden goal made of solid gold.",
-    "Man United's wage bill is so high that even the tea lady has a release clause and a personal agent.",
-    "The Glazers looked at United's results and said 'spend more.' The fans said 'spend better.' Nobody listened to either.",
-    "United's scouting system: watch a player score a hat-trick, wait 6 months, offer £20M over market value, play him as a left back.",
-    "Man United have a 'project' every season. The project changes. The trophy cabinet hasn't changed since 2013.",
-    "United bought three centre-backs in one window. They've never had a settled centre-back partnership since 2011. Economists call it the paradox of abundance.",
-    "Sir Alex Ferguson retired and United said 'how hard can it be?' — 12 managers later, they're still finding out.",
-    "United's form under their last 5 managers: rebuild, rebuild, rebuild, rebuild, rebuild. The stadium, however, still has the same leaky roof.",
-    "Man United once spent £89M on a player who spent more time in the medical room than on the pitch. They called it an investment. The investment called in sick.",
-    "United's philosophy: if one expensive signing doesn't work, buy two more expensive ones to distract everyone.",
-    "The most stable thing at Old Trafford over the last decade has been the colour of the shirt.",
-    "United fans invented the phrase 'top four challenge' as a coping mechanism after the 6th consecutive season without a title.",
-    "Man United's chief negotiating tactic: tell a club they're not interested, get spotted at the airport, deny it, then pay full price.",
-    "United spent £57M on a midfielder who completed 3 passes above average per game. That's £19M per above-average pass. Per game.",
-    "The Old Trafford atmosphere is legendary. The board has been trying to bottle it and sell it back to fans via an app.",
-    "United's pre-season: great goals, great vibes, great kits, terrible autumn.",
-    "Man United's longest unbeaten run recently lasted 7 games. The celebrations lasted longer than the trophy wait.",
-    "They asked a United fan when they'd next win the league. He said 'next season.' He's been saying that since 2013. Same energy every year.",
-    "United once hired a Director of Football. He lasted one window. The window was a disaster. The Director said it wasn't his fault. He was right. That made it worse.",
-    "INEOS arrived at United promising 'data-driven decisions.' The data said 'don't do that.' They did it anyway.",
-    "Man United's transfer deadline days are must-watch TV. Not because of the signings. Because of the drama when the printer breaks.",
-  ],
-};
+// ── Bengali Breaking News (HR edition) ────────────────────────────────────────
+const BREAKING_JOKES = [
+  "🚨 BREAKING: Vinicius Jr. was fouled, got up, scored, celebrated, and then cried — all in 43 seconds. The referee, the linesman, and a *dhak* drummer in the stands also cried. Mourinho did not cry. He has not cried since 2004. Doctors believe he is physically incapable. Tests ongoing.",
 
-// Seeded shuffle — same seed = same order, ensuring everyone sees the same joke
-function seededShuffle(arr, seed) {
-  const a = [...arr];
-  let s = seed;
-  for (let i = a.length - 1; i > 0; i--) {
-    s = (s * 1664525 + 1013904223) & 0xffffffff;
-    const j = Math.abs(s) % (i + 1);
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
+  "🚨 EXCLUSIVE: Vinicius filed his 14th racism complaint of the season, his 3rd offside appeal, and one noise complaint against a Bayern fan who 'commentated too loudly from row G.' UEFA acknowledged all three. Acted on none. Vinicius cried. The *dhak* drummer cried again. Same drummer. He follows Vini everywhere now.",
+
+  "🚨 FARMERS LEAGUE SPECIAL: Kane scored his 42nd Bundesliga goal. A La Liga pundit said 'against farmers, even a *chashi* (peasant) can score.' Kane scored twice in the CL semi-final. The pundit said 'too many Bundesliga teams lately.' Kompany sent Mourinho a *kochuri* gift hamper with a note: '5-0. Best wishes, the farmers.'",
+
+  "🚨 JUST IN: Man United's goal difference is 0. They have scored 31 goals and conceded 31 goals. Carrick calls this 'balance.' A statistician calls it 'a coin.' A *baul* singer outside Old Trafford calls it '*shunyo theke shunyo*' — from nothing, to nothing. Season ticket prices: up 15%.",
+
+  "🚨 TRANSFER BOMB: United bid 95 million for a striker. The selling club laughed, then accepted. The striker arrived, missed 3 sitters in his debut, and United bid 60 million for another striker to help him. The second striker is also struggling. United are now scouting a third. The *taka* flows like the Padma river. The goals do not.",
+
+  "🚨 ALERT: A Bayern fan with a podcast spent 47 minutes explaining why Musiala's third goal was 'tactically inevitable given the half-space overload and the inverted winger's pressing trigger shadowing the 8.' Musiala, when asked, said: 'I just ran and it went in.' The podcaster released a 3-hour rebuttal.",
+
+  "🚨 SCOOP: Florentino Pérez was caught on leaked audio saying Real Madrid's new signing 'moves beautifully, has incredible touch, and makes every room feel warmer.' He was talking about a 19-year-old midfielder. Probably. The board took notes. Mourinho asked for a centre-back. He got the 19-year-old. Beautiful touch. Zero tackles.",
+
+  "🚨 CONFIRMED: Vinicius cried after the match, during the press conference, in the tunnel, in the team bus, and reportedly once more in the hotel lift when the doors closed too slowly. Mourinho put an arm around him and said: 'This is football.' Vinicius cried harder. The *dhak* drummer was waiting outside the hotel. He had booked a room.",
+
+  "🚨 HOT TAKE: United overbid for a left back by 35 million pounds. The left back has a throw-in range of 6 metres. He throws it to the opposition on average 3 times per match. Carrick: 'His distribution will improve.' The distribution has not improved. The 35 million is gone. *Ki aar bola jabe* — what more can one say.",
+
+  "🚨 BREAKING: Bayern pundits spent the entire half-time show explaining why Bayern's 3-0 lead was 'built on the structural asymmetry of their pressing block and the positional rotations in the 4-2-3-1 morphing into a 3-4-2-1 in transition.' Bayern's player of the match: 'We just pressed high and scored.' The pundits released a corrections episode. It was 4 hours long.",
+
+  "🚨 INNUENDO SPECIAL: United's new striker 'couldn't get it in from close range despite being right in front of it.' Carrick said he 'needs to be fed better balls — earlier, lower, into his feet.' The striker cost 78 million. The balls cost extra. Still not scoring. Carrick has requested a meeting with the chef.",
+
+  "🚨 JUST IN: Pérez paid 180 million for a player who 'loves to receive it on the half-turn, spin, and go.' The player has not spun once in 8 games. He receives it, holds it, gives it back. Pérez watches from the directors box eating *mishti doi* with the expression of a man who has ordered *ilish* and received *rui*.",
+
+  "🚨 SOURCES: United's goal difference has been 0 for 11 consecutive weeks. Analysts say this is 'statistically almost impossible.' Carrick says it shows 'how competitive we are in both directions.' A *baul* singer says it shows '*joto aashi, toto jaai*' — however much comes in, that much goes out. He has been offered a role on Sky Sports. He declined.",
+
+  "🚨 FARMERS LEAGUE: A Spanish pundit listed the top 5 Bundesliga clubs and called them 'well-organised wheat fields.' Bayern replied by winning their 6th straight Champions League group. Dortmund replied by knocking out Atletico. The pundit said 'small sample size.' The farmers said nothing. *Jomi bhalo, shosho bhalo* — good land, good crop.",
+
+  "🚨 VINI BULLETIN: Vinicius was denied a clear penalty, booked for protesting, substituted at 70 minutes, and then criticised by a pundit for 'going down too easily' on a challenge that dislocated his shoulder. He cried in the changing room. Mourinho cried in a corridor for the first time since 2004. Doctors are cautiously optimistic.",
+
+  "🚨 BREAKING: Man United scouted a player for 18 months, flew him to Manchester for a medical, agreed personal terms, and then signed someone else for 20 million more because 'a better option emerged at 11pm on deadline day.' The better option has not played. The original player won the Bundesliga Golden Boot. *Keno je ei holo* — why did this happen.",
+
+  "🚨 HOT MIC: Bayern expert on TV: 'What you're seeing here is Kompany's inverted fullback creating a numerical superiority in the press-resistant midfield pocket, essentially giving Kane a false nine shadow role.' Kane, on the pitch: 'I just stay near the box and wait.' Expert: 'Exactly — deceptively simple false nine behaviour.' Kane ordered *dimer devil* at full time.",
+
+  "🚨 ALERT: Pérez held a 4-hour board meeting about 'squad cohesion and collective identity.' Mourinho attended via video call, said 'I am the identity,' and hung up after 7 minutes. Pérez stared at the blank screen for 40 seconds. A board member offered him a *rasgolla*. He took two. Meeting adjourned.",
+
+  "🚨 CONFIRMED: United have now spent more on goalkeepers than any club in Premier League history. Their goals-against tally is the 5th worst. Carrick says the 'system protects the keeper.' The system has not protected the keeper. The keeper has not protected the system. The goal difference remains 0. Perfectly balanced. Horribly.",
+
+  "🚨 SCOOP: A Bayern pundit published a 6,000-word essay titled 'The Geometry of Kompany's High Press and Its Debt to Positional Play Theory.' Kompany read it, said 'interesting,' and then played a completely different system in the next match. The pundit published a 7,000-word follow-up: 'Why Kompany's Adaptation Proves My Original Point.' The farmers harvested.",
+
+  "🚨 INNUENDO SPECIAL: Vinicius told Mourinho he 'feels most dangerous when he's given the chance to go at them one-on-one with space to move.' Mourinho said 'in my system everyone is dangerous together.' Vinicius went one-on-one anyway, scored, and cried while celebrating. Mourinho pointed at the tactics board. 'See? Together.'",
+
+  "🚨 JUST IN: United overbid for a defensive midfielder by 44 million pounds over valuation. The defensive midfielder has not defended or midfielded noticeably. He did win one header in September. Carrick framed the clip. It is on his desk. It is the only clip on his desk.",
+
+  "🚨 BREAKING: Pérez overheard telling a journalist 'Mbappé has everything — pace, skill, looks, charisma — he just needs to finish.' The journalist: 'He missed 4 sitters last week.' Pérez: 'Yes but look at him.' This is reportedly the full tactical analysis. Mourinho has asked for a whiteboard. He has not received one.",
+
+  "🚨 FARMERS UPDATE: The Bundesliga farmers have now produced 6 of the last 10 Champions League top scorers. La Liga pundits say this is because 'the defenders are also farmers and can't defend properly.' A *krishok* (Bengali farmer) in Nadia district told reporters he finds this relatable. He also can't defend. He grows very good tomatoes though.",
+
+  "🚨 LATE NIGHT: United drew 1-1 at home. They scored first, conceded immediately, and then had 68% possession going nowhere. Carrick: 'Dominant performance.' The opponent had 3 shots and 2 goals — the second was disallowed. United fans celebrated the 1-1 like a win. A *baul* sang *'anande aaj nacho re'* — dance with joy today. They danced. It was 1-1. Against Wolves.",
+];
+
+let breakingIdx = 0;
+let breakingTimer = null;
+
+function showBreaking(idx) {
+  const el = document.getElementById("breaking-text");
+  if (!el) return;
+  el.style.animation = "none";
+  el.offsetHeight; // reflow
+  el.style.animation = "";
+  el.textContent = BREAKING_JOKES[idx % BREAKING_JOKES.length];
 }
 
-const JOKE_INTERVAL_MS = 4 * 3_600_000; // new joke every 4 hours
-
-function renderJoke() {
-  const themes    = Object.keys(JOKES);
-  const slotIndex = Math.floor(Date.now() / JOKE_INTERVAL_MS);
-  const theme     = themes[slotIndex % themes.length];
-  const bank      = JOKES[theme];
-  const cyclesPer = Math.floor(slotIndex / themes.length);
-  const posInBank = cyclesPer % bank.length;
-  const cycleSeed = Math.floor(cyclesPer / bank.length);
-  const shuffled  = cycleSeed === 0 ? bank : seededShuffle(bank, cycleSeed * 0xdeadbeef + themes.indexOf(theme));
-  const joke      = shuffled[posInBank];
-  const nextSlot  = new Date((slotIndex + 1) * JOKE_INTERVAL_MS);
-  const mins      = Math.round((nextSlot - Date.now()) / 60_000);
-  const hrs       = Math.floor(mins / 60);
-  const minsLeft  = mins % 60;
-  const countdown = hrs > 0 ? `${hrs}h ${minsLeft}m` : `${mins}m`;
-  document.getElementById("joke-theme").textContent = theme;
-  document.getElementById("joke-text").textContent  = joke;
-  document.getElementById("joke-meta").textContent  = `next in ${countdown}`;
+function nextBreaking() {
+  breakingIdx = (breakingIdx + 1) % BREAKING_JOKES.length;
+  showBreaking(breakingIdx);
+  resetBreakingTimer();
 }
-renderJoke();
-setInterval(renderJoke, 60_000);
+
+function resetBreakingTimer() {
+  if (breakingTimer) clearInterval(breakingTimer);
+  breakingTimer = setInterval(() => {
+    breakingIdx = (breakingIdx + 1) % BREAKING_JOKES.length;
+    showBreaking(breakingIdx);
+  }, 4 * 60 * 60 * 1000); // rotate every 4 hours
+}
+
+// Start with a random joke each page load
+breakingIdx = Math.floor(Math.random() * BREAKING_JOKES.length);
+showBreaking(breakingIdx);
+resetBreakingTimer();
+
+// ── HR Bulletin (sidebar joke box) ───────────────────────────────────────────
+const HR_JOKES = [
+  "Vinicius scored, pointed at his badge, pointed at the sky, pointed at the referee, pointed at a fan in row 12, and then cried. The cry lasted 4 minutes. Mourinho watched from the touchline, said nothing, and patted his own chest. Nobody knows what this meant. Analysts have published three papers.",
+
+  "United bid 85 million for a centre forward who 'leads the line and holds it up.' He holds it up. He holds it up for so long that the play resets, the crowd goes for chips, and Carrick ages visibly on the touchline. The hold-up is exceptional. The output from the hold-up is 0. He is very good at holding. *Dhoro dhoro chere deo na.* He never lets go. That is also a problem.",
+
+  "A Bayern expert on television spent 6 minutes explaining why Musiala's first touch 'pre-orientates him for the subsequent action based on where the press will arrive.' Musiala's first touch went to Olise. Olise scored. Expert: 'Exactly as I described.' Musiala: 'I just laid it off.' Expert: 'A textbook lay-off pre-orientation.' *Ei lok ke keu thambey na* — nobody can stop this man talking.",
+
+  "Pérez called Bellingham into his office, put his hands together, and said: 'Jude. I need more from you. I need you everywhere. I need you in the 10 position, the 8 position, the second striker role, and occasionally left back.' Bellingham: 'That's four positions.' Pérez: 'Yes. This is why I pay you four positions of money.' Bellingham scored twice that week. From left back.",
+
+  "United's goal difference: 0. United's net spend: 900 million pounds. United's manager changes since 2013: 8. United's league titles since 2013: 0. A journalist laid this out in a spreadsheet. Ratcliffe studied it for 20 minutes and said: 'So what we need is one more signing.' The spreadsheet was seen weeping softly in a corner.",
+
+  "Kompany's half-time team talk against a Bundesliga rival: 'We're getting too comfortable. I need you to be uncomfortable, then comfortable, then uncomfortable again.' Olise raised his hand: 'Which one do we finish on?' Kompany: 'Uncomfortable. Always uncomfortable. That is winning.' Bayern won 4-0. Olise scored twice. He looked very comfortable doing it.",
+
+  "Vinicius was tackled, got up, scored the rebound, sprinted to the corner flag, did a full *dhunuchi naach*, ripped his shirt off, put it back on, ripped it off again, cried, and was shown a yellow card for excessive celebration. The tackle had been legal. The celebration had been incredible. The yellow card was deeply unjust. Mourinho said: 'I planned all of this.'",
+
+  "United overbid for a left winger by 30 million. He arrived, trained for two weeks, and said he 'needs time to adapt to the system.' The system has changed 3 times since he arrived. He is still adapting. To what, nobody knows. His xG is 0.02. His wage is 180,000 pounds a week. He drives a very nice car. *Dekhte bhalo, khelte...*  — looks good...",
+
+  "A Bayern podcast released an episode titled: 'Kane's Movement: A Biomechanical Analysis of the False-9 Drift and Its Impact on Defensive Shape.' It was 2 hours and 40 minutes. Kane was asked for comment. He said: 'I just go where there's space.' The podcast released a 3-hour response: 'Why Kane's Space Navigation Confirms Our Model.'",
+
+  "Mourinho told Mbappé he wants him 'arriving late into the box rather than standing in it waiting.' Mbappé tried arriving late. He arrived too late. The ball was gone. He tried again. Still too late. Third attempt: perfect timing, perfect run, weak finish, keeper saved it. Mourinho: 'The arrival was excellent.' Mbappé cried. Not as hard as Vini. But present tears.",
+
+  "United's transfer committee recommended a striker who had scored 27 goals in the Bundesliga. The board said: 'Farmers league, not reliable.' They signed a Premier League striker for 40 million more. He has scored 4 goals. The Bundesliga striker has 34 now. Carrick: 'Different contexts.' The *taka* does not understand contexts.",
+
+  "Vinicius gave a 20-minute post-match interview where he cried, smiled, cried again, praised his teammates, criticised the referee, thanked his family, quoted a *Rabindranath* poem, and then cried once more while the translator tried to keep up. Mourinho watched the replay on his phone at dinner. He ate nothing. He was moved. He will never admit this.",
+
+  "Pérez signed a striker for 130 million euros. Mourinho asked: 'Does he press?' Pérez: 'He has incredible hair.' Mourinho: 'Does. He. Press.' Pérez: 'His agent says yes.' The striker does not press. He also has incredible hair. He also cannot finish. Pérez is seen regularly staring at the striker's hair in training with an expression that is difficult to classify.",
+
+  "United bid for the same player three transfer windows in a row. First bid: 60 million. Rejected. Second bid: 75 million. Rejected. Third bid: 90 million, plus a solidarity payment, plus an add-on, plus 'best wishes.' The player signed for City for 55 million. Carrick called it 'business.' Ratcliffe called it 'a process.' The player won the league. United finished 12th.",
+
+  "A Bundesliga expert said Kompany's team 'play in a way that would be completely exposed against top-half La Liga sides.' Bayern then beat Real Madrid 3-1. The expert said: 'Mourinho set up wrong.' He then said Bayern 'caught them on an off-day.' He then went quiet for 4 days. He returned with a podcast titled: 'What Bayern's Win Tells Us About La Liga's Strength.' He was unbothered by contradiction.",
+
+  "Vinicius scored his 25th goal of the season and celebrated by doing *dhunuchi naach*, crying, hugging Bellingham, crying again, pointing at the moon, and shouting something in Portuguese that translators rendered as 'I told you all.' He had told them all. They had not listened. He told them again. He cried. The *dhak* drummer appeared from nowhere. He is always there.",
+
+  "United paid 65 million for a right back 'with world-class delivery.' His cross completion rate is 11%. He has one assist — an accidental deflection off a defender. Carrick says 'the delivery will come.' Eleven percent of it has come. The other 89 percent is somewhere over the East Stand. Fans in row G have collected 4 balls this season.",
+
+  "Kompany was asked by a pundit: 'Do you feel Bayern are ready to dominate Europe again?' Kompany said: 'We are focused on the next game.' Pundit: 'But structurally, analytically, positionally — are you the best team?' Kompany: 'Next game.' Pundit: 'If you had to place Bayern on a tactical spectrum from—' Kompany got up and left. The pundit continued talking to an empty chair for 3 minutes. Good television.",
+
+  "Pérez hosted Mourinho for dinner, placed a napkin on the table, and drew a 4-3-3. Mourinho took the napkin, crumpled it, drew a 4-5-1, and said: 'This is what we are.' Pérez drew a 4-3-3 on a second napkin. Mourinho crumpled that too. They ate in silence. Eight napkins were crumpled. No formation was agreed. Real Madrid currently play a 4-whatever-Mourinho-feels.",
+
+  "United's goal difference is 0. At home: +2. Away: -2. On Tuesdays: -4. On days when it rains: 0. When Carrick wears his blue jacket: +1. When he wears grey: -3. Analysts have published a paper on the jacket correlation. Carrick now owns only blue jackets. Goal difference: still 0. The jacket theory has been revised.",
+
+  "Vinicius went down in the box. The referee waved play on. Vinicius got up, scored, cried, complained to the referee about the non-penalty while still crying, was booked for the complaint, cried harder, scored again, cried during the celebration, was given the man of the match award, cried at the trophy, and dedicated his tears to his family. Mourinho gave a thumbs up. Peak football.",
+
+  "United overbid for a goalkeeper by 28 million. He arrived and immediately let in a soft one. Then another. Carrick said 'he's getting used to the Premier League pace.' He has been getting used to it for 14 months. He is 0 percent used to it. He is very used to picking the ball out of the net. That process is smooth and confident.",
+
+  "A Bayern analyst appeared on four different TV channels in one day to explain the same goal from four different angles using four different tactical frameworks. Kompany watched all four segments. Said: 'It was a corner and we scored.' Was asked if he wanted to elaborate. Said: 'No.' Returned to training. The analyst elaborated for another 90 minutes on Kompany's refusal to elaborate.",
+
+  "Florentino Pérez patted Vinicius on the head after a big win, called him '*mijo*' (son), and said: 'I always believed in you.' Vinicius, who Pérez once tried to sell, almost sold, and publicly criticised in two leaked audios, simply smiled and cried. The *dhak* drummer was in the Bernabéu car park. He had bought a season ticket.",
+
+  "Man United's attacking midfielder 'can play through the lines, receive in tight spaces, and find the final pass.' In 22 games he has played zero through balls, received 4 passes in tight spaces (lost 3), and his final pass accuracy is 34%. He cost 72 million. Carrick says he 'sees the game differently.' He sees it. He just cannot do anything about what he sees. Relatable. Deeply relatable.",
+];
+
+let hrJokeIdx = Math.floor(Math.random() * HR_JOKES.length);
+
+function showHrJoke() {
+  const el = document.getElementById("hr-joke-text");
+  if (!el) return;
+  el.style.opacity = "0";
+  setTimeout(() => {
+    el.textContent = HR_JOKES[hrJokeIdx % HR_JOKES.length];
+    el.style.transition = "opacity .4s";
+    el.style.opacity = "1";
+  }, 200);
+}
+
+function nextHrJoke() {
+  hrJokeIdx = (hrJokeIdx + 1) % HR_JOKES.length;
+  showHrJoke();
+}
+
+showHrJoke();
 
 async function load() {
   setStatus("loading", "Refreshing…");
@@ -675,71 +666,53 @@ function render() {
 function renderFixtures() {
   const grid = document.getElementById("fixtures-grid");
   if (!data || !data.upcoming || !data.upcoming.length) {
-    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;padding:2rem">No upcoming fixtures available yet — workflow will populate this.</div>`;
+    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;padding:2rem">No upcoming fixtures found.</div>`;
     return;
   }
-
-  // Build set of all tracked player names (lowercase) for highlighting
-  const trackedNames = new Set();
-  for (const club of Object.values(data.clubs || {})) {
-    for (const p of (club.squad || [])) trackedNames.add(p.name.toLowerCase());
-  }
-
-  const POS_SHORT = { Goalkeeper:"GK", Defence:"DEF", Midfield:"MID", Offence:"FWD",
-                      Forward:"FWD", Defender:"DEF", Midfielder:"MID" };
-
+  const POS_SHORT = { Goalkeeper: "GK", Defence: "DF", Midfield: "MF", Offence: "FW" };
   let html = "";
-  for (const fixture of data.upcoming) {
-    const dt = fixture.date ? new Date(fixture.date) : null;
-    const timeStr = dt ? dt.toLocaleString(undefined, {weekday:"short",month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}) : "TBD";
-    const home = fixture.home || {};
-    const away = fixture.away || {};
-
-    const buildSquad = (team) => {
-      const lineup = team.lineup || [];
-      if (!lineup.length) return `<div style="color:var(--muted);font-size:.7rem;padding:.2rem 0">Lineup TBA</div>`;
-      return lineup.map(p => {
-        const isTracked = trackedNames.has((p.name||"").toLowerCase());
-        const pos = POS_SHORT[p.position] || (p.position||"").slice(0,3);
-        return `<div class="fixture-player${isTracked?" tracked":""}">
-          <span class="fp-name">${esc(p.name||"")}${isTracked?" ⭐":""}</span>
-          <span class="fp-pos">${esc(pos)}</span>
-        </div>`;
-      }).join("");
-    };
-
-    const homeLineup = buildSquad(home);
-    const awayLineup = buildSquad(away);
-    const statusNote = fixture.lineup_status || "";
+  for (const fix of data.upcoming) {
+    const dt = fix.date ? new Date(fix.date) : null;
+    const dtStr = dt ? dt.toLocaleString(undefined, { weekday:"short", month:"short", day:"numeric", hour:"2-digit", minute:"2-digit" }) : "TBD";
+    const group = fix.group || "Group Stage";
+    const home = fix.home || {};
+    const away = fix.away || {};
+    const homeLineup = home.lineup || [];
+    const awayLineup = away.lineup || [];
+    const hasLineup = homeLineup.length > 0 || awayLineup.length > 0;
 
     html += `<div class="fixture-card">
-      <div class="fixture-header">
-        <strong>${esc(fixture.group||"Group Stage")}</strong>
-        <span>${esc(timeStr)}</span>
-      </div>
-      <div class="fixture-matchup">
+      <div class="fixture-hd"><span>${group}</span><span>${dtStr}</span></div>
+      <div class="fixture-teams">
         <div class="fixture-team">
-          <div class="flag-lg">${esc(home.flag||"🏳")}</div>
-          <div class="country">${esc(home.name||"TBD")}</div>
+          <div class="fixture-flag">${home.flag || "🏳"}</div>
+          <div class="fixture-team-name">${esc(home.name || "TBD")}</div>
         </div>
-        <div class="fixture-vs">VS</div>
+        <div class="fixture-vs">vs</div>
         <div class="fixture-team">
-          <div class="flag-lg">${esc(away.flag||"🏳")}</div>
-          <div class="country">${esc(away.name||"TBD")}</div>
+          <div class="fixture-flag">${away.flag || "🏳"}</div>
+          <div class="fixture-team-name">${esc(away.name || "TBD")}</div>
         </div>
       </div>
-      <div class="fixture-lineups">
-        <div class="fixture-squad">
-          <div class="fixture-squad-hd">${esc(home.name||"Home")}</div>
-          ${homeLineup}
-        </div>
-        <div class="fixture-squad">
-          <div class="fixture-squad-hd">${esc(away.name||"Away")}</div>
-          ${awayLineup}
-        </div>
-      </div>
-      ${statusNote ? `<div class="fixture-status">${esc(statusNote)}</div>` : ""}
-    </div>`;
+      <div class="fixture-lineup-status">${esc(fix.lineup_status || "Lineup TBA")}</div>`;
+
+    if (hasLineup) {
+      html += `<div class="fixture-lineups">
+        <div class="lineup-col">
+          <div class="lineup-col-hd">${esc(home.name || "Home")}</div>`;
+      for (const p of homeLineup) {
+        const pos = POS_SHORT[p.position] || p.position || "";
+        html += `<div class="lineup-player"><span class="lineup-pos">${esc(pos)}</span>${esc(p.name)}</div>`;
+      }
+      html += `</div><div class="lineup-col">
+          <div class="lineup-col-hd">${esc(away.name || "Away")}</div>`;
+      for (const p of awayLineup) {
+        const pos = POS_SHORT[p.position] || p.position || "";
+        html += `<div class="lineup-player"><span class="lineup-pos">${esc(pos)}</span>${esc(p.name)}</div>`;
+      }
+      html += `</div></div>`;
+    }
+    html += `</div>`;
   }
   grid.innerHTML = html;
 }
