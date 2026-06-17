@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:39:07.579764+00:00",
+  "updated": "2026-06-17T21:00:18.160286+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -671,10 +671,17 @@
     "fcb": {
       "name": "Bayern Munich",
       "flag": "🔴",
-      "goals": 1,
+      "goals": 3,
       "ownGoals": 0,
-      "net": 1,
+      "net": 3,
       "scorers": [
+        {
+          "name": "Harry Kane",
+          "nationality": "England",
+          "goals": 2,
+          "ownGoals": 0,
+          "net": 2
+        },
         {
           "name": "Jamal Musiala",
           "nationality": "Germany",
@@ -912,9 +919,9 @@
           "name": "Harry Kane",
           "position": "Offence",
           "nationality": "England",
-          "goals": 0,
+          "goals": 2,
           "ownGoals": 0,
-          "net": 0
+          "net": 2
         },
         {
           "name": "Luis Díaz",
@@ -977,7 +984,7 @@
         "title": "Transfer news LIVE: Arsenal get Rogers boost; Alvarez swap deal; Man Utd latest",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3lYNXlwanBKNUgzU3RlUGhxNE9IcTFtaXZJbXBpOUFyal91ZVF3R3pFTkxyd194SVYwa2Z4VVhSd3o5Um9MdGtoZ3hrWWxRMC1BdTdwQXRHbjczVkc3OGhfNjkwbHUzUEQ0MTY2ZXdXRlZGYUZvMWFGeDlydG9SbWE5bXlIbVVRVE5aV3RBQXlUa2YycXNhR2JJOUFjLUVZZ3BnRUJxdmJjQzhiakVTQWstTXdaeEhaQTMwZHZ0SGc?oc=5",
         "source": "London Evening Standard",
-        "published": "Wed, 17 Jun 2026 17:06:42 GMT"
+        "published": "Wed, 17 Jun 2026 20:02:31 GMT"
       },
       {
         "title": "Transfer news: Julian Alvarez swap deal, Sandro Tonali latest, Man Utd priority deal",
@@ -986,10 +993,10 @@
         "published": "Wed, 17 Jun 2026 16:58:58 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd Target Valued at $140 Million; Real Madrid Plot Tchouameni Sale",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3pIekhHZ0dERkI5ejE3Vm1NelVObzhJX3hhVmw1UXZXbFRWTlhtbDBLd1A1emRiT1FUZlB0WEU4Vlp3ejVTR1ZjOGZXbGM1LXJnMEdVSDRFVkxvclhFb3NhNm9Xd3QyUUh1OGdsSU04UGthR1AzVHJJVnFhSW9ULWpLbzkzZDFjWmRoWElKc3BpcFU1R0E?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Tue, 16 Jun 2026 23:05:00 GMT"
+        "title": "Ruben Amorim hopes to upset Man Utd & Man City in transfer race as new AC Milan coach eyes two Sporting CP stars",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3htRVctTzl3VW03WF9fRUNlNGFpSVhVbzhYYWJETmNEVXdRMHYzWW10Sjc1eFluWHFxZmo0OXhJYVVPdmNPbFo3c1lRZUZodmFPZExsSHJDVnowMjB4RV8xbm9mVmJlSW82VHVkdzczcmJvMTV3QlM5TTc3MkdzaUVB?oc=5",
+        "source": "Yahoo Sports UK",
+        "published": "Wed, 17 Jun 2026 18:31:03 GMT"
       }
     ],
     "rm": [
@@ -1003,7 +1010,7 @@
         "title": "Bernardo Silva: Real Madrid sign Manchester City midfielder on free transfer as Jose Mourinho impact continues",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTDhvT0dRb2Q4TlV4OEdESnlhYkhiOUExWmhhYmdlNGhNZ3Iwdklsa181UU5XeTZlX2FkNnExNVJmR1VqRnhDanZoZ0tMMVdyX21jNzFCVTg2RU5NeDVsVGJxenBYUzJ0eVNTUVY3RVpfYUJBU1BZb0pPc25DWDRMenJoMnk4VWdVVFU0ZjU4aC1sSElzRmp4Q05BVWR2UDZRQnJBQ0tyMWdoT2toVGh6U29hMUVpU3JkdlR2dFNBR1ZjNXlRSjhMR2RpdkwyQ0xacl92Nll6bFJMUlcyZHFLdkVPZHJmWmRqVTVIQmQ0WlIzQll4Zjdn?oc=5",
         "source": "Sky Sports",
-        "published": "Wed, 17 Jun 2026 18:33:45 GMT"
+        "published": "Wed, 17 Jun 2026 18:34:11 GMT"
       },
       {
         "title": "OFFICIAL: Real Madrid sign Bernardo Silva",
@@ -1029,19 +1036,19 @@
         "title": "Bayern Munich made loose inquiries for Manchester United’s Marcus Rashford",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmJmdGpUUkE0cGJhWXM5YlpqU24yRk5qZDh0NU9Jbklxa1VKU0ppaGxkc09WN3R2cXlySVVWNXNlNFltMjAzY0cyZ0NrMkQtUzRXVHhBeDBMdHo3S21fenh1NjVKS0ZtSHBPa08zazJPMzE1WUZfbk81SGhSeUdfZzNGVzFoSm1yN0NtdWxUQVZZaVZ4YVhuSUxlSFJmN2JaUmx5NEJXZHBTVlhhTjdTTGpUOHB0eGhHSi1pcDFmQ1IyYjNTLXNmTDZTM2kwd2xhUmxrczhmZmxKRUw2TVhZWFZoSGlPUU41?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Wed, 17 Jun 2026 05:30:00 GMT"
-      },
-      {
-        "title": "Real Madrid Contacts Bayern Munich In Pursuit Of Michael Olise Transfer, MD Reports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZ6aVRSZkRtcERzUkRTcDVZYU9hcm1MdDRWaWh5QmdhcG9jRkFEZ2M0a0tYUXFSZnNrbm5CNThTOWpWUy11NkpEUFVMdGpyNURQZHI0MDJ3VnppLU11VThYOVBoeFl4ODk2Q3B4NTJUYTVITjl5dHBYTmswVXdFVzdvMUZRYUNVaUZV?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 17 Jun 2026 15:04:53 GMT"
+        "published": "Mon, 15 Jun 2026 14:57:02 GMT"
       },
       {
         "title": "Ismael Saibari agrees €55m transfer to Bayern Munich as medical booked in for Morocco & PSV star",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeE00MGN2SGRxLUVCRXVGaXVpc0pqLVpna1oyUm5US3ZQYnp0MjJaSTJrS19KczJZbkd3TlQwejR2SEVPc19JcWlLN1dOdlpqcFphTEl4eER1REtkSWhJYjFUN3p1OFBOMFdPOU8zTTdhcEVqSjBLYVEwNHN0ZDhwQzIyWGNMdW9qamZTUlRBaFZPVU9VUm9BUTZKbU5za3M0bFVJbzgxMnR2MjVqZW9EaUwtbnRvX1F0OGw3YVFjZG9kV1BCa3ZtNm1LLUZGWXZ0Y2J4c2pvSndGNFg5ODhUbw?oc=5",
         "source": "Goal.com",
         "published": "Mon, 15 Jun 2026 10:31:12 GMT"
+      },
+      {
+        "title": "Real Madrid Contacts Bayern Munich In Pursuit Of Michael Olise Transfer, MD Reports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZ6aVRSZkRtcERzUkRTcDVZYU9hcm1MdDRWaWh5QmdhcG9jRkFEZ2M0a0tYUXFSZnNrbm5CNThTOWpWUy11NkpEUFVMdGpyNURQZHI0MDJ3VnppLU11VThYOVBoeFl4ODk2Q3B4NTJUYTVITjl5dHBYTmswVXdFVzdvMUZRYUNVaUZV?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 17 Jun 2026 15:04:53 GMT"
       },
       {
         "title": "Marcus Rashford handed Man United exit update as £47m transfer agreed by suitors",
@@ -1059,23 +1066,6 @@
   },
   "upcoming": [
     {
-      "id": 537409,
-      "date": "2026-06-17T20:00:00Z",
-      "group": "GROUP_L",
-      "status": "TIMED",
-      "home": {
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lineup": []
-      },
-      "away": {
-        "name": "Croatia",
-        "flag": "🇭🇷",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
-    {
       "id": 537410,
       "date": "2026-06-17T23:00:00Z",
       "group": "GROUP_L",
@@ -1088,6 +1078,23 @@
       "away": {
         "name": "Panama",
         "flag": "🇵🇦",
+        "lineup": []
+      },
+      "lineup_status": "Lineup TBA — check back closer to kickoff"
+    },
+    {
+      "id": 537404,
+      "date": "2026-06-18T02:00:00Z",
+      "group": "GROUP_K",
+      "status": "TIMED",
+      "home": {
+        "name": "Uzbekistan",
+        "flag": "🏳",
+        "lineup": []
+      },
+      "away": {
+        "name": "Colombia",
+        "flag": "🇨🇴",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
