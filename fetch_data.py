@@ -138,9 +138,10 @@ for key, club in CLUBS.items():
     rumors[key] = items
     print(f"  {club['name']} rumors: {len(items)} items")
 
-# ── WC scorers (used for player name/nationality discovery only) ──────────────
+# ── WC scorers (goal counts + player discovery) ───────────────────────────────
 scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
-player_info: dict[int, dict] = {}
+player_info:  dict[int, dict] = {}
+scorer_goals: dict[int, int]  = {}
 
 for entry in scorers_raw.get("scorers", []):
     p   = entry.get("player", {})
@@ -148,15 +149,22 @@ for entry in scorers_raw.get("scorers", []):
     if not pid:
         continue
     name = p.get("name", "")
-    player_info[pid] = {"name": name, "nationality": p.get("nationality", "")}
-    if name.lower() in EXTRA_NAMES:
+    player_info[pid]  = {"name": name, "nationality": p.get("nationality", "")}
+    scorer_goals[pid] = entry.get("goals", 0)
+    if pid in PLAYER_CLUBS:
+        print(f"  MATCH (id): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g)")
+    elif name.lower() in EXTRA_NAMES:
         PLAYER_CLUBS[pid] = EXTRA_NAMES[name.lower()]
+        print(f"  MATCH (name): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g)")
 
-print(f"  WC scorers discovered: {len(player_info)}")
+print(f"  WC scorers: {len(scorer_goals)} total, "
+      f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
 
-# ── Per-match goal events (regular + OG) with dates ──────────────────────────
-# Structure: goal_events[pid] = [{"date": "YYYY-MM-DD", "og": bool}, ...]
+# ── Per-match goal events (for TRANSFER_DATES date-filtering + OGs) ───────────
+# goal_events[pid] = [{"date": "YYYY-MM-DD", "og": bool}, ...]
+# Note: free-tier API may return empty goals lists; we fall back to scorer_goals.
 goal_events: dict[int, list] = {}
+og_map:      dict[int, int]  = {}
 
 matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
 for match in matches_raw.get("matches", []):
@@ -172,16 +180,28 @@ for match in matches_raw.get("matches", []):
         if pid not in PLAYER_CLUBS and scorer.get("name", "").lower() in EXTRA_NAMES:
             PLAYER_CLUBS[pid] = EXTRA_NAMES[scorer["name"].lower()]
         goal_events.setdefault(pid, []).append({"date": match_date, "og": is_og})
+        if is_og:
+            og_map[pid] = og_map.get(pid, 0) + 1
 
-total_goals_found = sum(1 for evts in goal_events.values() for e in evts if not e["og"])
-total_ogs_found   = sum(1 for evts in goal_events.values() for e in evts if e["og"])
-print(f"  Match events: {total_goals_found} goals, {total_ogs_found} OGs across {len(goal_events)} players")
+print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
+print(f"  Match goal events found for {len(goal_events)} players "
+      f"({'available' if goal_events else 'not available on this API tier'})")
 
 def count_goals(pid: int, join_date: str = "2000-01-01") -> tuple[int, int]:
-    """Return (goals, own_goals) for pid scored on or after join_date."""
-    evts = goal_events.get(pid, [])
-    g  = sum(1 for e in evts if not e["og"] and e["date"] >= join_date)
-    og = sum(1 for e in evts if     e["og"] and e["date"] >= join_date)
+    """Return (goals, own_goals) for pid, respecting join_date if match events available."""
+    og = og_map.get(pid, 0)
+    if pid in goal_events:
+        # Per-match data available — filter by join_date
+        evts = goal_events[pid]
+        g  = sum(1 for e in evts if not e["og"] and e["date"] >= join_date)
+        og = sum(1 for e in evts if     e["og"] and e["date"] >= join_date)
+    elif join_date == "2000-01-01":
+        # No date filtering needed — use reliable scorer total
+        g = scorer_goals.get(pid, 0)
+    else:
+        # Transfer date set but no match events to filter — conservative: count 0
+        # (will self-correct once match event data becomes available)
+        g = 0
     return g, og
 
 # ── Build per-club output ─────────────────────────────────────────────────────
