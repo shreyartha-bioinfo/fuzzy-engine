@@ -37,6 +37,11 @@ OVERRIDES = {
     },
 }
 
+# join_date (YYYY-MM-DD) per player name for mid-tournament transfers.
+# Goals scored before this date won't count for that club.
+# Example: {"Bernardo Silva": "2026-06-15"}
+TRANSFER_DATES: dict[str, str] = {}
+
 COUNTRY_FLAGS = {
     "Spain": "🇪🇸", "Cabo Verde": "🇨🇻", "Cape Verde": "🇨🇻", "Belgium": "🇧🇪", "Egypt": "🇪🇬",
     "Saudi Arabia": "🇸🇦", "Uruguay": "🇺🇾", "Iran": "🇮🇷", "New Zealand": "🇳🇿",
@@ -133,10 +138,9 @@ for key, club in CLUBS.items():
     rumors[key] = items
     print(f"  {club['name']} rumors: {len(items)} items")
 
-# ── WC scorers ────────────────────────────────────────────────────────────────
-scorers_raw  = fetch("/competitions/WC/scorers?season=2026&limit=200")
-player_info  = {}
-scorer_goals = {}
+# ── WC scorers (used for player name/nationality discovery only) ──────────────
+scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
+player_info: dict[int, dict] = {}
 
 for entry in scorers_raw.get("scorers", []):
     p   = entry.get("player", {})
@@ -144,24 +148,21 @@ for entry in scorers_raw.get("scorers", []):
     if not pid:
         continue
     name = p.get("name", "")
-    player_info[pid]  = {"name": name, "nationality": p.get("nationality", "")}
-    scorer_goals[pid] = entry.get("goals", 0)
-    if pid in PLAYER_CLUBS:
-        print(f"  MATCH (id): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g)")
-    elif name.lower() in EXTRA_NAMES:
+    player_info[pid] = {"name": name, "nationality": p.get("nationality", "")}
+    if name.lower() in EXTRA_NAMES:
         PLAYER_CLUBS[pid] = EXTRA_NAMES[name.lower()]
-        print(f"  MATCH (name): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g)")
 
-print(f"  WC scorers: {len(scorer_goals)} total, "
-      f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
+print(f"  WC scorers discovered: {len(player_info)}")
 
-# ── OG events ─────────────────────────────────────────────────────────────────
+# ── Per-match goal events (regular + OG) with dates ──────────────────────────
+# Structure: goal_events[pid] = [{"date": "YYYY-MM-DD", "og": bool}, ...]
+goal_events: dict[int, list] = {}
+
 matches_raw = fetch("/competitions/WC/matches?season=2026&status=FINISHED")
-og_map = {}
 for match in matches_raw.get("matches", []):
+    match_date = (match.get("utcDate") or "")[:10]
     for goal in match.get("goals", []):
-        if goal.get("type") != "OWN_GOAL":
-            continue
+        is_og  = goal.get("type") == "OWN_GOAL"
         scorer = goal.get("scorer") or {}
         pid    = scorer.get("id")
         if not pid:
@@ -170,8 +171,18 @@ for match in matches_raw.get("matches", []):
             player_info[pid] = {"name": scorer.get("name", ""), "nationality": ""}
         if pid not in PLAYER_CLUBS and scorer.get("name", "").lower() in EXTRA_NAMES:
             PLAYER_CLUBS[pid] = EXTRA_NAMES[scorer["name"].lower()]
-        og_map[pid] = og_map.get(pid, 0) + 1
-print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
+        goal_events.setdefault(pid, []).append({"date": match_date, "og": is_og})
+
+total_goals_found = sum(1 for evts in goal_events.values() for e in evts if not e["og"])
+total_ogs_found   = sum(1 for evts in goal_events.values() for e in evts if e["og"])
+print(f"  Match events: {total_goals_found} goals, {total_ogs_found} OGs across {len(goal_events)} players")
+
+def count_goals(pid: int, join_date: str = "2000-01-01") -> tuple[int, int]:
+    """Return (goals, own_goals) for pid scored on or after join_date."""
+    evts = goal_events.get(pid, [])
+    g  = sum(1 for e in evts if not e["og"] and e["date"] >= join_date)
+    og = sum(1 for e in evts if     e["og"] and e["date"] >= join_date)
+    return g, og
 
 # ── Build per-club output ─────────────────────────────────────────────────────
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}, "rumors": rumors}
@@ -182,9 +193,13 @@ for key, club in CLUBS.items():
     club_pids = {p["id"] for p in CLUB_SQUADS[key] if p["id"] is not None}
     club_pids |= {pid for pid, ck in PLAYER_CLUBS.items() if ck == key}
 
+    # Resolve join dates: look up by player name in TRANSFER_DATES
+    def join_date_for(pid: int) -> str:
+        name = player_info.get(pid, {}).get("name", "")
+        return TRANSFER_DATES.get(name, "2000-01-01")
+
     for pid in club_pids:
-        g  = scorer_goals.get(pid, 0)
-        og = og_map.get(pid, 0)
+        g, og = count_goals(pid, join_date_for(pid))
         if g == 0 and og == 0:
             continue
         total_goals += g
@@ -206,8 +221,8 @@ for key, club in CLUBS.items():
         if pid is None:
             pid = next((i for i, info in player_info.items()
                         if info["name"].lower() == p["name"].lower()), None)
-        g  = scorer_goals.get(pid, 0) if pid else 0
-        og = og_map.get(pid, 0)        if pid else 0
+        jd = TRANSFER_DATES.get(p["name"], "2000-01-01")
+        g, og = count_goals(pid, jd) if pid else (0, 0)
         squad_out.append({
             "name":        p["name"],
             "position":    p.get("position", ""),
