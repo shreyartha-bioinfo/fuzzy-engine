@@ -22,6 +22,10 @@ CLUBS = {
 }
 
 OVERRIDES = {
+    "utd": {
+        "remove": set(),
+        "add":    [{"name": "Marcus Rashford", "position": "Offence", "nationality": "England"}],
+    },
     "rm": {
         "remove": {"David Alaba", "Dávid Alaba", "Daniel Carvajal", "D. Carvajal"},
         "add":    [{"name": "Marc Cucurella", "position": "Defence", "nationality": "Spain"},
