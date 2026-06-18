@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:08:09.113717+00:00",
+  "updated": "2026-06-18T05:12:30.376723+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -685,9 +685,9 @@
     "fcb": {
       "name": "Bayern Munich",
       "flag": "🔴",
-      "goals": 3,
+      "goals": 4,
       "ownGoals": 0,
-      "net": 3,
+      "net": 4,
       "scorers": [
         {
           "name": "Harry Kane",
@@ -699,6 +699,13 @@
         {
           "name": "Jamal Musiala",
           "nationality": "Germany",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1
+        },
+        {
+          "name": "Luis Díaz",
+          "nationality": "Colombia",
           "goals": 1,
           "ownGoals": 0,
           "net": 1
@@ -941,9 +948,9 @@
           "name": "Luis Díaz",
           "position": "Offence",
           "nationality": "Colombia",
-          "goals": 0,
+          "goals": 1,
           "ownGoals": 0,
-          "net": 0
+          "net": 1
         },
         {
           "name": "Michael Olise",
@@ -983,10 +990,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man Utd set £40m valuation on Marcus Rashford but Liverpool and Man City cannot trigger release clause - sources",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1RyUzBGd0h2WXVidC1BU0IwNmI5c1JkX2lUOU4wcVZRWlJJUkVVWXBpc3F2SW1vWmFkX0ViWUxHeFVvV2VQQzE1ejcyM0oyTVFQRjBFSGJ2QUpDUXozRVRaZVllbTBMYXNjRUE2SFBUVlozZTV1WUw3NC02OVV1NkNHNlNaT2ZQUlRERzY5QjhQR0pfZnlacXhGZktPbFhfWUJXd2hDaVM0SkhVSVBv?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 16 Jun 2026 14:49:00 GMT"
+        "title": "Man United transfer news LIVE: Marcus Rashford move 'blocked', Summerville stance, Tonali latest",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHg5eUptNGZaMi1Hb1NtYXM1enBya3k3YU9TN0pReWNmLXFRUmNpNU5UUTdDQlRBOU1kNFpOVmt1Snh2Q3ZUY2VMenMxbkZwRDJTdnd3MFJaalVVWkhqZWVIQTNCX3Y1VXJpY2pLdUlTbDlZLXpQWjdMWXN5cXNoTElzUlBMTUNLSXBjOHFacTNxbXl2MWhlNmI5MnJCOWNDZDJWSmI5a9IBrAFBVV95cUxNOWhIdGtSYnU0QWdxZnlnQkU0S1BISlpLb3NDR20yc0s0QnZZZ3hxcTRjZURmbVpRcThodUxlR2hFQ3BTUEJSODV1eHdqaXoydzNNNXJ5ZFZCd2pQa2l3REloaG5Pek82M0Y5eGY4aGFsT2xGN2lfcV9ZM2U2X2FJbDJlRUU2TXdybDJJaGtOSE11dVZ3aldDNUFnM2RVTWVISGJsLXdNWUd0NWJk?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Wed, 17 Jun 2026 23:06:51 GMT"
       },
       {
         "title": "Romano reveals Man Utd 'deal on' for £85m top target with huge 'no hijack' update",
@@ -1001,10 +1008,10 @@
         "published": "Wed, 17 Jun 2026 20:31:27 GMT"
       },
       {
-        "title": "Ruben Amorim already hatches Man United transfer plan after two-year agreement",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjEydXdhOUhua2l1T1BYcXd3Qjg2WWR3MVI2YVpvbERoZ1VZd2VwWjhfQm5TUEJ4NnBvNkJmWGU3RHVxc3lTVm53T2tiOUZRcl9UR0x5WWR3VV9lblF4ekdlS0I5elBPUnZhYnc4Nk9XcTZPcjBkSDE5Mm9KbEtrUlJjTnFfMFctWjJGa2JUTGdJNFMtRXA3MWUzczg2cVRJSkhrbGZfWDM5S04t0gGyAUFVX3lxTE5Sb21ucXhTY1otNDdyMTMxQnVoS012MkNZT1hZTGFWenR5UWV6b0NYb0l0SWZEbmp2R2lMWTJLMzc4aXRaYXd6dUtRMXJYQy1VSGEwQ1VqOGZEUjI5cjFDMnJORkV0bldveFpCeXF2Ql8zZXpaSTB2bkpvOXVDa2RhNzAtN2JlNXdIRnQyRkpGV0djNjB6SE1UaVozdEVONC0xandBWnh5Xy1iQzczTGp1MVE?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Tue, 16 Jun 2026 21:47:00 GMT"
+        "title": "Michael Carrick tells £42m Man Utd star to leave as Ruben Amorim opens talks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hyUnFTdnhhSWZUTUhGZmktREg5NjF4RzB6cnpfY19YeUxObW45OHhpN3lpejhNZWt6cmlpQzFSZ1JKRlNlZl9wbVlEcnpiS0pwYUhUS01jS2MySThibkNBX21xSHkzTTh4X1RtQlNQWlhQdUh2TnNtTzQ5WUpRR0ttaWRpZVpiWlE0M3JsRWJaZkFXMTYxaThwQkRKazdxUkZxZFMzcklabkNlWFZN0gG0AUFVX3lxTE9pRVBLemw2TGtSUmtZajdDM21USElFOUFFUzN0cjFfNjluM2ItcUZTR0VjMGcwTVQwQzNVQkJCaFI0N3lwQVhoWjlCUHNjcmhtX09QNDlVYWctT3lFWWRjX3RaeGUwX2w3VTN0VnFVLTYyX1lKUzE4OExsbnFiVk5jOS02SlZEUlc1SzY0NmdkcnA0OXFMWTZ2Z0poZEdmX3hzMmpaaXJPRjZ6eThKeEcwOE5fUQ?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Thu, 18 Jun 2026 01:09:00 GMT"
       },
       {
         "title": "Man Utd Handed Escape Route For Wantaway Star As Ruben Amorim Wants Transfer Reunion",
@@ -1015,34 +1022,34 @@
     ],
     "rm": [
       {
-        "title": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUUxUHFKR1BfZ0lOU0VWdWRfNExLZnV3eGt3anRMRzI1R1RVZ1RJWlRLN1c1alJsUzhaNEF6YVlhM3JpYlU2TklIdThxRnNSUWpNQVBfb2I0VmxRVVNmNkJlQXJrOFNYUUtDaTZibmxuRjhDWkJTVjZpRFRZRXJ6STQyMDVJUExhemJqRUExUmpjd2Q5RGhyZU9MWHR2bzQzSUUyRVpvd3BWZGdY?oc=5",
-        "source": "ESPN",
-        "published": "Wed, 17 Jun 2026 17:30:00 GMT"
-      },
-      {
         "title": "Bernardo Silva joins Real Madrid on free transfer",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXlQN2hfVG1WR1JFVGtaWGIzQU1DVV9GeWVidjhNMFpaTUUxYzg1WVdhOFE1djRmakliLWJmUVdWR1lfT3VRZnhQcHZIbkJDeTNFVmN4UUxwUm9JUmJvdlhFTk1zYVE?oc=5",
         "source": "BBC",
         "published": "Wed, 17 Jun 2026 09:47:45 GMT"
       },
       {
-        "title": "Transfer Rumors: Arsenal Agree Gyokeres Swap; Real Madrid Plot Fernandes Bid",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFFsdUcybTZVS3B4SVlINjkwYmtWZDcyRjVuRTVFalhVaExyX0hjbWYtWDNoMjRFTTB6YWZCUTJfZ3Z4M3lYTy1yY245SkFrSTZiVy1XV0NXUVlrVlJmb3dLRE1iNzIxbktJbGNYd0cwRGplb3R3VVI2eGRzeWxkTUxTNTk5RWpOdkl5a0hGd1FLQTJSRE91aklJOA?oc=5",
+        "title": "Bernardo Silva: Real Madrid sign Manchester City midfielder on free transfer as Jose Mourinho impact continues",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTDhvT0dRb2Q4TlV4OEdESnlhYkhiOUExWmhhYmdlNGhNZ3Iwdklsa181UU5XeTZlX2FkNnExNVJmR1VqRnhDanZoZ0tMMVdyX21jNzFCVTg2RU5NeDVsVGJxenBYUzJ0eVNTUVY3RVpfYUJBU1BZb0pPc25DWDRMenJoMnk4VWdVVFU0ZjU4aC1sSElzRmp4Q05BVWR2UDZRQnJBQ0tyMWdoT2toVGh6U29hMUVpU3JkdlR2dFNBR1ZjNXlRSjhMR2RpdkwyQ0xacl92Nll6bFJMUlcyZHFLdkVPZHJmWmRqVTVIQmQ0WlIzQll4Zjdn?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 17 Jun 2026 18:34:11 GMT"
+      },
+      {
+        "title": "The Eight Best Real Madrid Free Transfers of All Time—Ranked",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jblRuWk54MVJVeVQyQTRWZnlVQ3FBczh0eEJWel80T21waUlxUUFzaXhmU0tiR01mYzF2UGFDOFB5Y0QxcU51NlpYOVljUFVMREo3UVJYZGJaM0tkbnhFUmFqQkVncVFGUHBJZWlIbTBCUEt4TGFkaG9yV3p2UQ?oc=5",
         "source": "Sports Illustrated",
-        "published": "Wed, 17 Jun 2026 23:05:00 GMT"
+        "published": "Wed, 17 Jun 2026 18:30:00 GMT"
       },
       {
-        "title": "Chelsea risk losing second star to Real Madrid days after Marc Cucurella deal as transfer talks begin",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1RwLXBObGdhV01NZ19GNHlMLUNNUmc2c0RWQ1VET2FWNlh5OGV3ZzFQOHk0TFZza25TRTZabzZpWEhJWmdBTmx1UkZnT1VBNVZENVphNktDcXV2REs2SWhCZEx1a20tNkZVMDZLRjU1ay1YZ0doUjdnQ0QzLWxmWFBibXdJNWVFaEhRcmkyd3gtQQ?oc=5",
-        "source": "talkSPORT",
-        "published": "Wed, 17 Jun 2026 22:31:10 GMT"
+        "title": "Official Announcement: Cucurella",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDlRamRKN3FJbXdDNzJBd19FYWxxVzQxZThacnpBQ0x3dC1TdXBSbFBiNWNRM1JUYi1MRElGaG5xSmVLWFhVbC1EbUs3TUV0Y1VOWnpiNUVJeUYzVjFRNTNNZVUyYXA0alpzMVlCeXphdHJ3UWdfNF82VDdCY1AwaEJGNkJSYTZfOF9CV1dkbl9Sc09xOTBGdzNwQnE?oc=5",
+        "source": "Real Madrid CF | Web Oficial",
+        "published": "Mon, 15 Jun 2026 17:20:00 GMT"
       },
       {
-        "title": "Real Madrid agree to terminate star's contract with midfielder to snub Ajax for La Liga stay",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTRSSnl1OVFYc1VIR2hFM29UTHIwMGRNS2xzUklFTk05OFhxOC0xd0JMYWsyM3oxaFNYOHc0cHpvSDlBOHB5ZXpMV0lvWjhPREhwRzc5TVBFU3NQNUNoUEdSemU2VEpJU2thWGZ2aWlNaFN1OU5fS3kxVXJVYktWNERJeG14QTdycWl4Q1kwSTRuMFlEYXpTOHJucUd6SWZ3ZlJfU2haREp5aHFCM3QwV0RqdDYxXy1hTTBB?oc=5",
-        "source": "Goal.com",
-        "published": "Wed, 17 Jun 2026 18:29:44 GMT"
+        "title": "Liverpool seal shock first signing in transfer hijack as medical done",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSURFeHNoSXpTNThPR1NubDNsUE9NMzgxS1M4b0U5RkNPUEhFbjZMQ0NYNmVXUk5YRWpZam5KcFBZWW5rS1p5WHRwT1lLd1hoTXkzeFVuWnFCdVVyV2luNnY5M0RkaE1MZU1OYWEtSy03R0c3R3o5dFB5U0xESzktQnVJQzJIY3NiUVlLYVhmRUNzRkV1a3l0NQ?oc=5",
+        "source": "London Evening Standard",
+        "published": "Thu, 18 Jun 2026 01:19:38 GMT"
       }
     ],
     "fcb": [
@@ -1053,10 +1060,16 @@
         "published": "Wed, 17 Jun 2026 05:30:00 GMT"
       },
       {
+        "title": "Real Madrid Contacts Bayern Munich In Pursuit Of Michael Olise Transfer, MD Reports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZ6aVRSZkRtcERzUkRTcDVZYU9hcm1MdDRWaWh5QmdhcG9jRkFEZ2M0a0tYUXFSZnNrbm5CNThTOWpWUy11NkpEUFVMdGpyNURQZHI0MDJ3VnppLU11VThYOVBoeFl4ODk2Q3B4NTJUYTVITjl5dHBYTmswVXdFVzdvMUZRYUNVaUZV?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 17 Jun 2026 15:04:53 GMT"
+      },
+      {
         "title": "Ismael Saibari agrees €55m transfer to Bayern Munich as medical booked in for Morocco & PSV star",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeE00MGN2SGRxLUVCRXVGaXVpc0pqLVpna1oyUm5US3ZQYnp0MjJaSTJrS19KczJZbkd3TlQwejR2SEVPc19JcWlLN1dOdlpqcFphTEl4eER1REtkSWhJYjFUN3p1OFBOMFdPOU8zTTdhcEVqSjBLYVEwNHN0ZDhwQzIyWGNMdW9qamZTUlRBaFZPVU9VUm9BUTZKbU5za3M0bFVJbzgxMnR2MjVqZW9EaUwtbnRvX1F0OGw3YVFjZG9kV1BCa3ZtNm1LLUZGWXZ0Y2J4c2pvSndGNFg5ODhUbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0RCUW5mWmN4bk1zSWJRaEhKY1M1aHRyNmlEeEUzcDItbU10UHhEMEw2V3pHNGk2T3gxelhNemhkSDFjaFpjc3RDdEZiYnplcmU4WG5WTmJ5Tk9TN09qbFJZc0FCb29aWkwxWHZvSjZHWHd6ZGQwMEZNVVR3RFhpUHVCMUgtbDFFRHdiaVA3Mk1FVjRLOWRYdmVxckZwR19jWmpjbGw0dVNtYVh6SE1UWU1GU3h1QXB6YkgtRUtxY1c2bnQ0NkYtUXBQcnhRcDhmZXN5eGVSbXJQS29kTnNLU3Q4czU?oc=5",
         "source": "Goal.com",
-        "published": "Mon, 15 Jun 2026 10:31:12 GMT"
+        "published": "Mon, 15 Jun 2026 10:31:57 GMT"
       },
       {
         "title": "Marcus Rashford handed Man United exit update as £47m transfer agreed by suitors",
@@ -1069,33 +1082,10 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weUtzT19YbERTQXc3cXFsdXJLMUNHeVU3eTlXVEUwazJ6MllYOTVxSGtNbUpXSS1pNmNZUDczTnhzX2wyb1NqYlNOYjR6MVJOVndIMmR2b0dJNmJpT2ZvejVPTzgzaklwT01wN1h4R00?oc=5",
         "source": "Daily Cannon",
         "published": "Tue, 16 Jun 2026 10:31:00 GMT"
-      },
-      {
-        "title": "Bayern transfer not finalized yet! English clubs in talks over Brown",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGR2c3R6T3JQUmNrTWJhTkdBdk5oaWxWUXVfZHZSRHRtT1RLdEpIZnRma3hOZzdoUmFCUTRYWTVIYS1kX2o1c2lxMGdJaTUzc2ZXR3pzcXlJR2RfTWpHd3g4RGJUMVdmcVYyN0hVVldlWHhLN1FKRkdnN0pUeHZOT2VZdWlWSXhDQTh3aVNBb1VVR1RkWmpMQmVBRHdoblhGVW04?oc=5",
-        "source": "fcbinside.com",
-        "published": "Tue, 16 Jun 2026 11:00:51 GMT"
       }
     ]
   },
   "upcoming": [
-    {
-      "id": 537404,
-      "date": "2026-06-18T02:00:00Z",
-      "group": "GROUP_K",
-      "status": "TIMED",
-      "home": {
-        "name": "Uzbekistan",
-        "flag": "🏳",
-        "lineup": []
-      },
-      "away": {
-        "name": "Colombia",
-        "flag": "🇨🇴",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
     {
       "id": 537329,
       "date": "2026-06-18T16:00:00Z",
@@ -1109,6 +1099,23 @@
       "away": {
         "name": "South Africa",
         "flag": "🇿🇦",
+        "lineup": []
+      },
+      "lineup_status": "Lineup TBA — check back closer to kickoff"
+    },
+    {
+      "id": 537335,
+      "date": "2026-06-18T19:00:00Z",
+      "group": "GROUP_B",
+      "status": "TIMED",
+      "home": {
+        "name": "Switzerland",
+        "flag": "🇨🇭",
+        "lineup": []
+      },
+      "away": {
+        "name": "Bosnia-Herzegovina",
+        "flag": "🏳",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
