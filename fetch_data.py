@@ -29,7 +29,8 @@ OVERRIDES = {
     "rm": {
         "remove": {"David Alaba", "Dávid Alaba", "Daniel Carvajal", "D. Carvajal"},
         "add":    [{"name": "Marc Cucurella", "position": "Defence", "nationality": "Spain"},
-                   {"name": "Bernardo Silva", "position": "Midfield", "nationality": "Portugal"}],
+                   {"name": "Bernardo Silva", "position": "Midfield", "nationality": "Portugal"},
+                   {"name": "Ibrahima Konaté", "position": "Defence", "nationality": "France"}],
     },
     "fcb": {
         "remove": {"Nicolas Jackson", "Raphaël Guerreiro"},
