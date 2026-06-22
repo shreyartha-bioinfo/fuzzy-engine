@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T17:29:28.023835+00:00",
+  "updated": "2026-06-19T19:14:45.641012+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -996,28 +996,104 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Arsenal in Barcola bid; Man Utd £130m double deal; Diomande to Liverpool; Chelsea latest",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamZLRmFxcjZ4UWZfLW85elVjSi1waU5NS2NyYUVMejBNSGZxdl9tOWtDR19CUldveG9Ha3hGVTNMYWlNRXVYMjQwMjNSVzlXa0JQQm9zMXV2TmtZVEpXeEtyV0ZwYmpNcGtZeEtyTkZiTmZ1TjlqdTRDTXNKVXBSbzVtV3ZZa3YybGpYZVh5cWJ3Zy1sVHE2a3BUdHpnaTJ4XzRSMHN1VERqMGV5anprVDJyQnlqRk9DOVlzbHAxVzhBYWY4OGJPZklHSXpMTlJLTVJmag?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 19 Jun 2026 17:50:56 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd Target Valued at $140 Million; Real Madrid Plot Tchouameni Sale",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3pIekhHZ0dERkI5ejE3Vm1NelVObzhJX3hhVmw1UXZXbFRWTlhtbDBLd1A1emRiT1FUZlB0WEU4Vlp3ejVTR1ZjOGZXbGM1LXJnMEdVSDRFVkxvclhFb3NhNm9Xd3QyUUh1OGdsSU04UGthR1AzVHJJVnFhSW9ULWpLbzkzZDFjWmRoWElKc3BpcFU1R0E?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Tue, 16 Jun 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man United transfer news LIVE: Tchouameni meeting, Baturina interest, Fernandes latest",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHg5eUptNGZaMi1Hb1NtYXM1enBya3k3YU9TN0pReWNmLXFRUmNpNU5UUTdDQlRBOU1kNFpOVmt1Snh2Q3ZUY2VMenMxbkZwRDJTdnd3MFJaalVVWkhqZWVIQTNCX3Y1VXJpY2pLdUlTbDlZLXpQWjdMWXN5cXNoTElzUlBMTUNLSXBjOHFacTNxbXl2MWhlNmI5MnJCOWNDZDJWSmI5a9IBrAFBVV95cUxNOWhIdGtSYnU0QWdxZnlnQkU0S1BISlpLb3NDR20yc0s0QnZZZ3hxcTRjZURmbVpRcThodUxlR2hFQ3BTUEJSODV1eHdqaXoydzNNNXJ5ZFZCd2pQa2l3REloaG5Pek82M0Y5eGY4aGFsT2xGN2lfcV9ZM2U2X2FJbDJlRUU2TXdybDJJaGtOSE11dVZ3aldDNUFnM2RVTWVISGJsLXdNWUd0NWJk?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Fri, 19 Jun 2026 16:48:34 GMT"
+      },
+      {
+        "title": "BBC journalist says Man Utd could pull off ‘dream’ transfer – ‘They did it with Cristiano Ronaldo’",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZlJQMGtjd3dvbC1rV2NFbE1pS1UyTU9rcV9oVGpRYnVfV1IzR0t2VXNtenE1TC1CV2xLWDZjMnRmd3VCd0F5bUZtNjFrcEV5MzZBQXhJWUhMb0Z1VXREcTlKWGs0SkdsMFowemxyYWZLWVAzdmRCVFJpTUFUbERQUV9uSmxBRXNqa1A1d0Q3SEpfVG0zeTdF?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 19 Jun 2026 14:51:15 GMT"
+      },
+      {
+        "title": "Man Utd eye £130m superstar striker with Lewandowski also on ‘five-man shortlist’",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGwyejNBVTF5bWVSWE5NUmxTSzdzRWQxM1d2dy1qbWVyNGVQQUpQSF9VN3ZFdFRpbEJPblFTWnBBbzZDQU51aHNzYjlnUVNMTEpGUUd2OFVqNDA3UHpzM21JZE5Ec1RTV0VQc0RmWkdQM3RSRHdGT1M3enVBRk9ZaGNGdG9sYU5yNHlXM0JiQVFuY3RMb3BqOHI3Q2VyRUlEb1RLREF5WQ?oc=5",
+        "source": "Football365",
+        "published": "Fri, 19 Jun 2026 16:37:17 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Transfer rumors, news: Real Madrid eye huge deal for Olise",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm5vd1NSR0RseUJDdU9BSE1BN0dJc21heVllT2VfblhxQl9jSmhDeldOaU1oOEdjeDFZZFVGTHRab3BBZnhvd2RuTmFIR0F5Zk5HWEtsVzVPOUJrbzNJQUd5NG1WcnNPVkhVNDd1M2tHSFd6Zjg3ZGVJMEtuNjVESFdCQWdZcDVKRWxlR3NEVXBvRFJIVnRzYW0tWXRkUEcyOC1abUx0dndKdGVLNnJSV2dUU2JEXzFlV2kxWWdvOVNsUFFjNGJn?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 19 Jun 2026 15:30:00 GMT"
+      },
+      {
+        "title": "Fabrizio Romano says Julián Alvarez bid was a bluff, Real Madrid was always focused on Michael Olise",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdDdKaTFleURHdXpLZU91eFpNb0dCLUpkZXBRdXRUTWViS1BHTWctYWlydlV1YlgxUXd4djNGUXNiQjg3OWNieC1mbW9tbVZvb2NHRk5XNVhFdld0eTltNi0wcGpTUFczODZKNTNneGNNQVY1ZVcwU25HY1o1b2c3NzZOMFhoYWI5d3BWcml1T0lvbTJLd1dRZ3pMUHpBbEtCOGY4ZThfdGE2S1E2SWNMLS1hc1FZRkNVdkxhc294VHRVZ3c2a0xPS0NiMXlzYWRrRktfUGwyeHdsajBycXNVT0N5QVQ4ekI2VWZVS2c4VHhHLV9YaTRLMDFfOEk2V2RJdXNkUzJJZmtRZzg?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 19 Jun 2026 17:45:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Real Madrid eye Michael Olise as Liverpool bid for Yan Diomande",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbENVM2NZbU9oZUx2OGZteDlRYmVRX1Vjak9fNFZnSVdrRVRDM1gtRjZ4YkNMWk5wcEJWU2RiSkowazFCN216WWJ0NlF5emN5NHQ0OHU2bXJ0blUyYnNBdkVMQjZtZk9XZUlaY0lrUUstc2RjVUQydDU4ejlDTzk3TlRseHdVeVhlNkNIN1RPaWU3Z2VjUGN2OWlQWnRVQkxqWWlONjR5dGNRNmktdTUzeld4bXhEeGF0MWZ5OG1Gekk0Sl9Ea2xrXw?oc=5",
+        "source": "Transfermarkt",
+        "published": "Fri, 19 Jun 2026 18:48:58 GMT"
+      },
+      {
+        "title": "Olivier Giroud tips Arsenal's £60m transfer target to join Real Madrid",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjA0dmpzdEpBYW81MUVVVy1LMlhLcFBNMlhtTkFaUVlCcWhtQ0Z5SVdFQU5mNjIzYjJLeVJlTWgtczFvR1I2RnJOSF9YMjMwczJOWVFYUmhEVkE1NWMzUkU2clcxS1FFaGZZSTlUQ1BRMGNNQVFqZG8wemViY1RBZDA4ZldRemlTcXBSX3NPOXNWeFczd0s5c254OWcxVktfcEVrdWFoaEh0Z9IBrwFBVV95cUxOQ3RpbW5wQThRWDNiSDVNTktHTUZ5QWZCSDdyS3ktU2FsZHJQSW5xY3haQ29jWTlVaWVtOUd5WFhTM280U09kVGpCanhfS0JFdzk0WlZEbEtZR1RTbnJ5cHpjVHV0ZXFna0xldjRYN3pmdDFLX1lYR3JZZC1WMEstbm1zZm5HM3I3Y0t1Z0FNX3hBNTdpdGs1VHNxOXE3V2YzUFdDVlU2RjNVT2VKN1Vn?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Thu, 18 Jun 2026 16:01:00 GMT"
+      },
+      {
+        "title": "BBC journalist says Man Utd could pull off ‘dream’ transfer – ‘They did it with Cristiano Ronaldo’",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZlJQMGtjd3dvbC1rV2NFbE1pS1UyTU9rcV9oVGpRYnVfV1IzR0t2VXNtenE1TC1CV2xLWDZjMnRmd3VCd0F5bUZtNjFrcEV5MzZBQXhJWUhMb0Z1VXREcTlKWGs0SkdsMFowemxyYWZLWVAzdmRCVFJpTUFUbERQUV9uSmxBRXNqa1A1d0Q3SEpfVG0zeTdF?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 19 Jun 2026 14:51:15 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Uli Hoeneß breaks down Bayern Munich’s transfer policy",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOczk1YTg3ZURoV244dkZDczA5UHdCTGlucFFVa1c5NUdpeUZhaTdUV1kxWXhBSVVaSHc5VXI3ckE5dmdsN0VaNEpmRWtMT3Y1ekRROGRURzYxY0RIYWhCcUZOck1iSFg1S3BCbkN5UldhX29WMG1zMXJiUW1GZGpsc013RUlkSl9iN0hqeDdvWTluWnAtYzFORXhpY0hyWjloajNvWVFwRHdVcExlZjFES1VCZ09vSHJ0TmtvTDdjWk95bUdpYzk1SmVDb2lSdw?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 19 Jun 2026 11:00:00 GMT"
+      },
+      {
+        "title": "Thomas Muller urges Bayern Munich to sign £43m Man Utd transfer target",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1F4MklmWFJnQzRRdHJsYWpDenhEZ0YzbURmWkdjblZFNHIyd0R3RUFLT1lFaVlBaHdJdEF4cGdjWGR3Q0N2M215elljbFdlRTlkZzRRRzVudmxrajN5b1NlZktGV0J1UUlsRzR5bE9vLTJHU0M0ZkRQOVJjMVFiVG5sZXE1XzB4YjdBVlVYczVaeEh0UHhRQXFKSjNzM3FKbXpkSFJ5RW8zbjDSAbABQVVfeXFMUDVRTGhTRnpZdDZqd0YzWm43TDhvcWFiX3VKZDE3YVZJYzNHTmEyVk5qeHpYQXlXb192c2xwVW0yb215STBWTkktY015RlZ5bHF0anNDUXd5b01mbDJCOHJIejRGWkxtNFJveGZfQXJGenJCMWtSNjhyWjlPcUdnaFZaajNtUWJTOUJpWVlOWGltcFdobmNlTmtuR0dvWDRHNUhna2ZCRll6SlRnWklxdmE?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Fri, 19 Jun 2026 12:26:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Real Madrid eye huge deal for Olise",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm5vd1NSR0RseUJDdU9BSE1BN0dJc21heVllT2VfblhxQl9jSmhDeldOaU1oOEdjeDFZZFVGTHRab3BBZnhvd2RuTmFIR0F5Zk5HWEtsVzVPOUJrbzNJQUd5NG1WcnNPVkhVNDd1M2tHSFd6Zjg3ZGVJMEtuNjVESFdCQWdZcDVKRWxlR3NEVXBvRFJIVnRzYW0tWXRkUEcyOC1abUx0dndKdGVLNnJSV2dUU2JEXzFlV2kxWWdvOVNsUFFjNGJn?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 19 Jun 2026 15:30:00 GMT"
+      },
+      {
+        "title": "Fabrizio Romano says Julián Alvarez bid was a bluff, Real Madrid was always focused on Michael Olise",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdDdKaTFleURHdXpLZU91eFpNb0dCLUpkZXBRdXRUTWViS1BHTWctYWlydlV1YlgxUXd4djNGUXNiQjg3OWNieC1mbW9tbVZvb2NHRk5XNVhFdld0eTltNi0wcGpTUFczODZKNTNneGNNQVY1ZVcwU25HY1o1b2c3NzZOMFhoYWI5d3BWcml1T0lvbTJLd1dRZ3pMUHpBbEtCOGY4ZThfdGE2S1E2SWNMLS1hc1FZRkNVdkxhc294VHRVZ3c2a0xPS0NiMXlzYWRrRktfUGwyeHdsajBycXNVT0N5QVQ4ekI2VWZVS2c4VHhHLV9YaTRLMDFfOEk2V2RJdXNkUzJJZmtRZzg?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 19 Jun 2026 17:45:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Real Madrid eye Michael Olise as Liverpool bid for Yan Diomande",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOVRwaUpIUXo5VTk3eFBtRVlOTGJqWnc0a0RqYlZFQzFhYmk0S3BYOTFFTjJNTktWMUJ5M2pVZzBQTzVjVnF2ZTVoZjJoWU54S1VfQjhJSlFLVGE0UEEwazRRZzBreEU3SmJZOVMyeVlsZjd5REFSUW1fV2xOdEs4MnVjc0U1V21xcDV6Z3Jsbm1LclluaVdWa0dPNzU4d3FRVzE5T2U0OXl6WjZUWmJkSzRUdlJDNHhkUlNtRzYyeWlENWVFYTh2Z0hUYVE?oc=5",
+        "source": "Transfermarkt",
+        "published": "Fri, 19 Jun 2026 18:48:58 GMT"
+      }
+    ]
   },
   "upcoming": [
-    {
-      "id": 537348,
-      "date": "2026-06-19T19:00:00Z",
-      "group": "GROUP_D",
-      "status": "TIMED",
-      "home": {
-        "name": "United States",
-        "flag": "🏳",
-        "lineup": []
-      },
-      "away": {
-        "name": "Australia",
-        "flag": "🇦🇺",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
     {
       "id": 537342,
       "date": "2026-06-19T22:00:00Z",
@@ -1031,6 +1107,23 @@
       "away": {
         "name": "Morocco",
         "flag": "🇲🇦",
+        "lineup": []
+      },
+      "lineup_status": "Lineup TBA — check back closer to kickoff"
+    },
+    {
+      "id": 537341,
+      "date": "2026-06-20T00:30:00Z",
+      "group": "GROUP_C",
+      "status": "TIMED",
+      "home": {
+        "name": "Brazil",
+        "flag": "🇧🇷",
+        "lineup": []
+      },
+      "away": {
+        "name": "Haiti",
+        "flag": "🏳",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
