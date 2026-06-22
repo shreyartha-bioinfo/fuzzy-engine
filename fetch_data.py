@@ -141,8 +141,9 @@ for key, club in CLUBS.items():
 
 # ── WC scorers (goal counts + player discovery) ───────────────────────────────
 scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
-player_info:  dict[int, dict] = {}
-scorer_goals: dict[int, int]  = {}
+player_info:    dict[int, dict] = {}
+scorer_goals:   dict[int, int]  = {}
+scorer_assists: dict[int, int]  = {}
 
 for entry in scorers_raw.get("scorers", []):
     p   = entry.get("player", {})
@@ -150,13 +151,14 @@ for entry in scorers_raw.get("scorers", []):
     if not pid:
         continue
     name = p.get("name", "")
-    player_info[pid]  = {"name": name, "nationality": p.get("nationality", "")}
-    scorer_goals[pid] = entry.get("goals", 0)
+    player_info[pid]    = {"name": name, "nationality": p.get("nationality", "")}
+    scorer_goals[pid]   = entry.get("goals", 0)
+    scorer_assists[pid] = entry.get("assists", 0) or 0
     if pid in PLAYER_CLUBS:
-        print(f"  MATCH (id): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g)")
+        print(f"  MATCH (id): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g {scorer_assists[pid]}a)")
     elif name.lower() in EXTRA_NAMES:
         PLAYER_CLUBS[pid] = EXTRA_NAMES[name.lower()]
-        print(f"  MATCH (name): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g)")
+        print(f"  MATCH (name): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g {scorer_assists[pid]}a)")
 
 print(f"  WC scorers: {len(scorer_goals)} total, "
       f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
@@ -188,22 +190,20 @@ print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
 print(f"  Match goal events found for {len(goal_events)} players "
       f"({'available' if goal_events else 'not available on this API tier'})")
 
-def count_goals(pid: int, join_date: str = "2000-01-01") -> tuple[int, int]:
-    """Return (goals, own_goals) for pid, respecting join_date if match events available."""
+def count_goals(pid: int, join_date: str = "2000-01-01") -> tuple[int, int, int]:
+    """Return (goals, own_goals, assists) for pid, respecting join_date if match events available."""
     og = og_map.get(pid, 0)
+    a  = scorer_assists.get(pid, 0)
     if pid in goal_events:
-        # Per-match data available — filter by join_date
         evts = goal_events[pid]
         g  = sum(1 for e in evts if not e["og"] and e["date"] >= join_date)
         og = sum(1 for e in evts if     e["og"] and e["date"] >= join_date)
+        # assists not date-filterable from match events on free tier; use scorer total
     elif join_date == "2000-01-01":
-        # No date filtering needed — use reliable scorer total
         g = scorer_goals.get(pid, 0)
     else:
-        # Transfer date set but no match events to filter — conservative: count 0
-        # (will self-correct once match event data becomes available)
         g = 0
-    return g, og
+    return g, og, a
 
 # ── Build per-club output ─────────────────────────────────────────────────────
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}, "rumors": rumors}
@@ -219,12 +219,14 @@ for key, club in CLUBS.items():
         name = player_info.get(pid, {}).get("name", "")
         return TRANSFER_DATES.get(name, "2000-01-01")
 
+    total_assists = 0
     for pid in club_pids:
-        g, og = count_goals(pid, join_date_for(pid))
-        if g == 0 and og == 0:
+        g, og, a = count_goals(pid, join_date_for(pid))
+        if g == 0 and og == 0 and a == 0:
             continue
-        total_goals += g
-        total_ogs   += og
+        total_goals   += g
+        total_ogs     += og
+        total_assists += a
         info = player_info.get(pid, {})
         scorers.append({
             "name":        info.get("name", f"Player {pid}"),
@@ -232,9 +234,10 @@ for key, club in CLUBS.items():
             "goals":       g,
             "ownGoals":    og,
             "net":         g - og,
+            "assists":     a,
         })
 
-    scorers.sort(key=lambda x: (-x["net"], -x["goals"]))
+    scorers.sort(key=lambda x: (-x["net"], -x["goals"], -x["assists"]))
 
     squad_out = []
     for p in CLUB_SQUADS[key]:
@@ -243,7 +246,7 @@ for key, club in CLUBS.items():
             pid = next((i for i, info in player_info.items()
                         if info["name"].lower() == p["name"].lower()), None)
         jd = TRANSFER_DATES.get(p["name"], "2000-01-01")
-        g, og = count_goals(pid, jd) if pid else (0, 0)
+        g, og, a = count_goals(pid, jd) if pid else (0, 0, 0)
         squad_out.append({
             "name":        p["name"],
             "position":    p.get("position", ""),
@@ -251,6 +254,7 @@ for key, club in CLUBS.items():
             "goals":       g,
             "ownGoals":    og,
             "net":         g - og,
+            "assists":     a,
         })
 
     output["clubs"][key] = {
@@ -259,6 +263,7 @@ for key, club in CLUBS.items():
         "goals":    total_goals,
         "ownGoals": total_ogs,
         "net":      total_goals - total_ogs,
+        "assists":  total_assists,
         "scorers":  scorers,
         "squad":    squad_out,
     }
