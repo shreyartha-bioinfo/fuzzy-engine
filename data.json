@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T12:45:56.158849+00:00",
+  "updated": "2026-06-18T16:21:51.561313+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -409,6 +409,14 @@
           "net": 0
         },
         {
+          "name": "Ibrahima Konaté",
+          "position": "Defence",
+          "nationality": "France",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0
+        },
+        {
           "name": "Jesús Fortea",
           "position": "Defence",
           "nationality": "Spain",
@@ -676,14 +684,6 @@
           "name": "Éder Militão",
           "position": "Centre-Back",
           "nationality": "Brazil",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0
-        },
-        {
-          "name": "Ibrahima Konaté",
-          "position": "Defence",
-          "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
           "net": 0
@@ -998,16 +998,16 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer news LIVE: Arsenal make Monga bid; Liverpool sign Munoz",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckJvRW10NFBMbFVBM3dsZWJ3UWJTWkNzSjFrdnJBTnBLZ01Qa1QyaFYzWUZGSktDdVF0Y0tJU0VFOG05NFE5a1R3V2tSc2xIWUNlUC1NQkFLemI0Ny13VGdlcjliSEs1bUpQTVdwVFpqbFZfWDJQdUM0ajZBR2V4S1dndV84MWJIZWxxbXFjMm41Q2gxdG90eE9zMHpTa3RIbE5sa2Z6M0VMYWVlRFNOTUpZV0s2aWUwMERJMEhGTQ?oc=5",
+        "source": "London Evening Standard",
+        "published": "Thu, 18 Jun 2026 14:29:26 GMT"
+      },
+      {
         "title": "Man United transfer news LIVE: Aurelien Tchouameni update, Mateus Fernandes latest, £17m move",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHg5eUptNGZaMi1Hb1NtYXM1enBya3k3YU9TN0pReWNmLXFRUmNpNU5UUTdDQlRBOU1kNFpOVmt1Snh2Q3ZUY2VMenMxbkZwRDJTdnd3MFJaalVVWkhqZWVIQTNCX3Y1VXJpY2pLdUlTbDlZLXpQWjdMWXN5cXNoTElzUlBMTUNLSXBjOHFacTNxbXl2MWhlNmI5MnJCOWNDZDJWSmI5a9IBrAFBVV95cUxNOWhIdGtSYnU0QWdxZnlnQkU0S1BISlpLb3NDR20yc0s0QnZZZ3hxcTRjZURmbVpRcThodUxlR2hFQ3BTUEJSODV1eHdqaXoydzNNNXJ5ZFZCd2pQa2l3REloaG5Pek82M0Y5eGY4aGFsT2xGN2lfcV9ZM2U2X2FJbDJlRUU2TXdybDJJaGtOSE11dVZ3aldDNUFnM2RVTWVISGJsLXdNWUd0NWJk?oc=5",
         "source": "Manchester Evening News",
-        "published": "Thu, 18 Jun 2026 12:01:44 GMT"
-      },
-      {
-        "title": "Man Utd Poised for Green Light to Sign 'Best DM in the World' After Transfer Hijack",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWwyRnUxZndxWVloTHluOUhDTTdvUEJpU05HSWZpLTJ0UVJNa1RVQzdCbmh4LWhScGphN3BoWlkxLTF4VllpWGFpMTJvdWNieXZxOHFtWWlPUjZ1MmdqUlo4WGIxNzdIWnRqSHVvVUZDaXQ2M2V3YVgxWnRZZnkyWVUweTJ0M0dXYWliX1FHNWtnWlE?oc=5",
-        "source": "GiveMeSport",
-        "published": "Thu, 18 Jun 2026 06:15:15 GMT"
+        "published": "Thu, 18 Jun 2026 13:41:19 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd Target Valued at $140 Million; Real Madrid Plot Tchouameni Sale",
@@ -1016,16 +1016,16 @@
         "published": "Tue, 16 Jun 2026 23:05:00 GMT"
       },
       {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzVKd3RnN1BEaGdtNkJhZVpfLXFtLWFxQWxlWDJGOEhOY205YjVydUlUY1l1MW5DX29QUTZZbkNUQlRBM1MtNkJyOXp0YklUSV9MaFpQN0o0QjZyZW8zVXl2akhZUTVnMG5DWkRjLTlGNVE0ZzVWLVBkdm5FRlRFME01LVZNYURwWmJ3ZlRsU1pRZnQ5LXMtZUNXUDVSdw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 16 Jun 2026 06:52:41 GMT"
+        "title": "Man Utd Poised for Green Light to Sign 'Best DM in the World' After Transfer Hijack",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWwyRnUxZndxWVloTHluOUhDTTdvUEJpU05HSWZpLTJ0UVJNa1RVQzdCbmh4LWhScGphN3BoWlkxLTF4VllpWGFpMTJvdWNieXZxOHFtWWlPUjZ1MmdqUlo4WGIxNzdIWnRqSHVvVUZDaXQ2M2V3YVgxWnRZZnkyWVUweTJ0M0dXYWliX1FHNWtnWlE?oc=5",
+        "source": "GiveMeSport",
+        "published": "Thu, 18 Jun 2026 06:15:15 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal prepare Barcola bid, deal confirmed; Liverpool sign Munoz; Chelsea, Man Utd latest",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckJvRW10NFBMbFVBM3dsZWJ3UWJTWkNzSjFrdnJBTnBLZ01Qa1QyaFYzWUZGSktDdVF0Y0tJU0VFOG05NFE5a1R3V2tSc2xIWUNlUC1NQkFLemI0Ny13VGdlcjliSEs1bUpQTVdwVFpqbFZfWDJQdUM0ajZBR2V4S1dndV84MWJIZWxxbXFjMm41Q2gxdG90eE9zMHpTa3RIbE5sa2Z6M0VMYWVlRFNOTUpZV0s2aWUwMERJMEhGTQ?oc=5",
-        "source": "London Evening Standard",
-        "published": "Thu, 18 Jun 2026 11:30:26 GMT"
+        "title": "Man Utd set £40m valuation on Marcus Rashford but Liverpool and Man City cannot trigger release clause - sources",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1RyUzBGd0h2WXVidC1BU0IwNmI5c1JkX2lUOU4wcVZRWlJJUkVVWXBpc3F2SW1vWmFkX0ViWUxHeFVvV2VQQzE1ejcyM0oyTVFQRjBFSGJ2QUpDUXozRVRaZVllbTBMYXNjRUE2SFBUVlozZTV1WUw3NC02OVV1NkNHNlNaT2ZQUlRERzY5QjhQR0pfZnlacXhGZktPbFhfWUJXd2hDaVM0SkhVSVBv?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 16 Jun 2026 14:49:00 GMT"
       }
     ],
     "rm": [
@@ -1048,30 +1048,30 @@
         "published": "Wed, 17 Jun 2026 23:54:21 GMT"
       },
       {
-        "title": "Mourinho makes his Real Madrid transfer demands clear: two positions need filled",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDNlcEJwTnBvZkJXMHBjM2RSSklXaE5GTUFMSVVELXdTSkZKWFVoZ1pRQjd1b3E4RlhYY1c0RnNZUXdCdWJ1Zm1WaGdkdm0zWW5ja09lT0Vrem8yWmZ4SzRaVjdGU3h0MExEcVlDWlppRWVWMVFQQk5EZ0hLRU9LNUVJNXdvTEo5TlBpNDR6bWVGM0dVSEdBMlZQT1dUdEZQeF84VXpKMlJKQnZRelpHRGctZktNUdIBygFBVV95cUxNS0JWN3N0LXBaYnB1QzNRRjNRZ29Mc2ZldF94b3F3MXZSc2dwNTQ2ZElhOTduTDdET2phXzVDVHQzSmRZZm1LYkhQSzNZN3ZTVE4xZlZRZlIyQUd6WVpJU3U5dmt5Sm1PTnlfMkM1RmpxOURpT1pzNkxkSndYbEJmU2gyamxuTVlYLXdRYlJjZDBHemY5a0R4VVRNZk5WaUhKTWgta2tjWEVVelZoam9RYjhRUXdQUXVxdFFDRTlDQVlTYnB0WmtYV21n?oc=5",
-        "source": "Diario AS",
-        "published": "Thu, 18 Jun 2026 08:26:42 GMT"
-      },
-      {
         "title": "Bernardo Silva joins Real Madrid on free transfer",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXlQN2hfVG1WR1JFVGtaWGIzQU1DVV9GeWVidjhNMFpaTUUxYzg1WVdhOFE1djRmakliLWJmUVdWR1lfT3VRZnhQcHZIbkJDeTNFVmN4UUxwUm9JUmJvdlhFTk1zYVE?oc=5",
         "source": "BBC",
         "published": "Wed, 17 Jun 2026 09:47:45 GMT"
+      },
+      {
+        "title": "Jose Mourinho tells Real Madrid to sign Chelsea star after Bernardo Silva transfer",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGI2YXZneHEycGs4bmpXX20xbjhtVk9DcU5MSnhXWS1wbDhQTmRRbENIRURuMUR5N2lJRlh4dlc1R3pQOVIwTkkta0EwdHRSU29qVlQzNmk1ZWx3clcydV9Ic3pVWlRDdGptQU41NlNZajN0TmhWdDFwNnB3VnJLRXhVRlJYWkpqSmxpUG45dW9odUs5Vi12SDhyeENmVnY1VjBrZ2RpNjFkUUhpMUZTYm4wMXbSAboBQVVfeXFMUFB1Sk5kS3VWNTg3RUlGSi1tNjctVWh1N2V0RVUzTEJVZ2ZteUR0blFMMWtVLTB4bG1uTkUxSUFrTTY4Z0NQS1REeFVTZXFWek5fOGpCT1pQbVphWHZFV3Q3TS1lSm42YXVHSjhXV0p0dEFuNlZVRTNPTU85T0E4QW5BR3RyMFBrdnlMVGV5anhnZm1ZRzJmbm1CREx5RWdPSUhsZDIyREZsUkR2RC02YzFwdlJzRnVzMVNR?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Wed, 17 Jun 2026 16:51:00 GMT"
       }
     ],
     "fcb": [
+      {
+        "title": "Tottenham ‘in contact’ over £34.7m signing of Belgian gem as battle with Bayern Munich ignites",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFp4VjVkU3MwSnlKZzlZVjY0MTFnbi1TRnQtckhEUjlIeU5QRE42dGJCMy1mWUZiaFRvMEZHTnF6OWN0UmswR1ZXUGhTclpqN3RadkNXQWRJbG41T0lRMHlxYzlJeWtrbkR2dXJaX1NXR3o5QzlzcXphY2JsSkJyTWVxMWp4ci1hRmYtMmZ0LVNkMEZUN3lGaWRZWks5OC1fc0lpWE5ENDNrZktLLWpCZVhaWHhqdw?oc=5",
+        "source": "TEAMtalk",
+        "published": "Thu, 18 Jun 2026 12:22:47 GMT"
+      },
       {
         "title": "Conflicting reports on Bayern Munich’s transfer plans",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTFc3dkhWMGRKNS1KSWdpUWlmOWlXVkxCcWJnaHBqS25Dd1NfTVc5RHJhZFptTmJlbVd5d1pFNmtLeHFrM0g2NzZzZno0cXNJVktlNTNEZ1JLVGdFeEd6SlllcXd2NVVPNXk5RDc5VDBfWnlwR1NQOWQzTmpqclNLQ1hET3JVam5NWHJnQ1R2d1RWNDBlZ1hUR3BiTWNKZUlUbzFDOEt6MWY5aXJyek1RUzBHMU0xVGk4bDNleXBpWUt3MlExWU9la2ZmTTU?oc=5",
         "source": "Bavarian Football Works",
         "published": "Thu, 18 Jun 2026 06:30:00 GMT"
-      },
-      {
-        "title": "Real Madrid Contacts Bayern Munich In Pursuit Of Michael Olise Transfer, MD Reports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZ6aVRSZkRtcERzUkRTcDVZYU9hcm1MdDRWaWh5QmdhcG9jRkFEZ2M0a0tYUXFSZnNrbm5CNThTOWpWUy11NkpEUFVMdGpyNURQZHI0MDJ3VnppLU11VThYOVBoeFl4ODk2Q3B4NTJUYTVITjl5dHBYTmswVXdFVzdvMUZRYUNVaUZV?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 17 Jun 2026 15:04:53 GMT"
       },
       {
         "title": "Arsenal transfer target now set on joining Bayern Munich",
@@ -1095,23 +1095,6 @@
   },
   "upcoming": [
     {
-      "id": 537329,
-      "date": "2026-06-18T16:00:00Z",
-      "group": "GROUP_A",
-      "status": "TIMED",
-      "home": {
-        "name": "Czechia",
-        "flag": "🇨🇿",
-        "lineup": []
-      },
-      "away": {
-        "name": "South Africa",
-        "flag": "🇿🇦",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
-    {
       "id": 537335,
       "date": "2026-06-18T19:00:00Z",
       "group": "GROUP_B",
@@ -1123,6 +1106,23 @@
       },
       "away": {
         "name": "Bosnia-Herzegovina",
+        "flag": "🏳",
+        "lineup": []
+      },
+      "lineup_status": "Lineup TBA — check back closer to kickoff"
+    },
+    {
+      "id": 537336,
+      "date": "2026-06-18T22:00:00Z",
+      "group": "GROUP_B",
+      "status": "TIMED",
+      "home": {
+        "name": "Canada",
+        "flag": "🇨🇦",
+        "lineup": []
+      },
+      "away": {
+        "name": "Qatar",
         "flag": "🏳",
         "lineup": []
       },
