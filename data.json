@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T13:09:10.919862+00:00",
+  "updated": "2026-06-22T17:59:52.646892+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -7,27 +7,31 @@
       "goals": 4,
       "ownGoals": 0,
       "net": 4,
+      "assists": 0,
       "scorers": [
         {
           "name": "Matheus Cunha",
           "nationality": "Brazil",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 0
         },
         {
           "name": "Marcus Rashford",
           "nationality": "England",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         },
         {
           "name": "Amad Diallo",
           "nationality": "Ivory Coast",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         }
       ],
       "squad": [
@@ -37,7 +41,8 @@
           "nationality": "Turkey",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Senne Lammens",
@@ -45,7 +50,8 @@
           "nationality": "Belgium",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Tom Heaton",
@@ -53,7 +59,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Bendito Mantato",
@@ -61,7 +68,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Diego León",
@@ -69,7 +77,8 @@
           "nationality": "Paraguay",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Diogo Dalot",
@@ -77,7 +86,8 @@
           "nationality": "Portugal",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Godwill Kukonki",
@@ -85,7 +95,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Lisandro Martínez",
@@ -93,7 +104,8 @@
           "nationality": "Argentina",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Noussair Mazraoui",
@@ -101,7 +113,8 @@
           "nationality": "Morocco",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Tyler Fredricson",
@@ -109,7 +122,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Amad Diallo",
@@ -117,7 +131,8 @@
           "nationality": "Ivory Coast",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         },
         {
           "name": "Bruno Fernandes",
@@ -125,7 +140,8 @@
           "nationality": "Portugal",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Casemiro",
@@ -133,7 +149,8 @@
           "nationality": "Brazil",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jack Fletcher",
@@ -141,7 +158,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jack Moorhouse",
@@ -149,7 +167,8 @@
           "nationality": "Ireland",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jim Thwaites",
@@ -157,7 +176,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Kobbie Mainoo",
@@ -165,7 +185,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Manuel Ugarte",
@@ -173,7 +194,8 @@
           "nationality": "Uruguay",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Tyler Fletcher",
@@ -181,7 +203,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Chido Obi-Martin",
@@ -189,7 +212,8 @@
           "nationality": "Denmark",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Marcus Rashford",
@@ -197,7 +221,8 @@
           "nationality": "England",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         },
         {
           "name": "Matheus Cunha",
@@ -205,7 +230,8 @@
           "nationality": "Brazil",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 0
         },
         {
           "name": "Shea Lacey",
@@ -213,7 +239,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Ayden Heaven",
@@ -221,7 +248,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Benjamin Šeško",
@@ -229,7 +257,8 @@
           "nationality": "Slovenia",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Bryan Mbeumo",
@@ -237,7 +266,8 @@
           "nationality": "Cameroon",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Harry Maguire",
@@ -245,7 +275,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Joshua Zirkzee",
@@ -253,7 +284,8 @@
           "nationality": "Netherlands",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Leny Yoro",
@@ -261,7 +293,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Luke Shaw",
@@ -269,7 +302,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Mason Mount",
@@ -277,7 +311,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Matthijs de Ligt",
@@ -285,7 +320,8 @@
           "nationality": "Netherlands",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Patrick Dorgu",
@@ -293,7 +329,8 @@
           "nationality": "Denmark",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Tyrell Malacia",
@@ -301,7 +338,8 @@
           "nationality": "Netherlands",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         }
       ]
     },
@@ -311,27 +349,31 @@
       "goals": 5,
       "ownGoals": 0,
       "net": 5,
+      "assists": 2,
       "scorers": [
         {
           "name": "Vinicius Junior",
           "nationality": "Brazil",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 2
         },
         {
           "name": "Kylian Mbappé",
           "nationality": "France",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 0
         },
         {
           "name": "Jude Bellingham",
           "nationality": "England",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         }
       ],
       "squad": [
@@ -341,7 +383,8 @@
           "nationality": "Ukraine",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Fran Gonzalez",
@@ -349,7 +392,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Javi Navarro",
@@ -357,7 +401,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Sergio Mestre",
@@ -365,7 +410,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Thibaut Courtois",
@@ -373,7 +419,8 @@
           "nationality": "Belgium",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Álvaro González",
@@ -381,7 +428,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Antonio Rüdiger",
@@ -389,7 +437,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "David Jiménez",
@@ -397,7 +446,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Diego Aguado",
@@ -405,7 +455,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Fran García",
@@ -413,7 +464,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Ibrahima Konaté",
@@ -421,7 +473,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jesús Fortea",
@@ -429,7 +482,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Joan Martínez",
@@ -437,7 +491,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Lamini Fati",
@@ -445,7 +500,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Manu Serrano",
@@ -453,7 +509,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Marc Cucurella",
@@ -461,7 +518,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Víctor Valdepeñas",
@@ -469,7 +527,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Álvaro Carreras",
@@ -477,7 +536,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Arda Guler",
@@ -485,7 +545,8 @@
           "nationality": "Turkey",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Aurélien Tchouameni",
@@ -493,7 +554,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Bernardo Silva",
@@ -501,7 +563,8 @@
           "nationality": "Portugal",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Brahim Diaz",
@@ -509,7 +572,8 @@
           "nationality": "Morocco",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "César Palacios",
@@ -517,7 +581,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Dani Meso",
@@ -525,7 +590,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Federico Valverde",
@@ -533,7 +599,8 @@
           "nationality": "Uruguay",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Franco Mastantuono",
@@ -541,7 +608,8 @@
           "nationality": "Argentina",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jorge Cestero",
@@ -549,7 +617,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jude Bellingham",
@@ -557,7 +626,8 @@
           "nationality": "England",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         },
         {
           "name": "Manuel Angel",
@@ -565,7 +635,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Thiago Pitarch",
@@ -573,7 +644,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Daniel Yáñez",
@@ -581,7 +653,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Kylian Mbappé",
@@ -589,7 +662,8 @@
           "nationality": "France",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 0
         },
         {
           "name": "Pol Fortuny",
@@ -597,7 +671,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Vinicius Junior",
@@ -605,7 +680,8 @@
           "nationality": "Brazil",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 2
         },
         {
           "name": "Álvaro Leiva",
@@ -613,7 +689,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Dani Carvajal",
@@ -621,7 +698,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Dani Ceballos",
@@ -629,7 +707,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Dean Huijsen",
@@ -637,7 +716,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Eduardo Camavinga",
@@ -645,7 +725,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Ferland Mendy",
@@ -653,7 +734,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Gonzalo García",
@@ -661,7 +743,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Raúl",
@@ -669,7 +752,8 @@
           "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Rodrygo",
@@ -677,7 +761,8 @@
           "nationality": "Brazil",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Trent Alexander-Arnold",
@@ -685,7 +770,8 @@
           "nationality": "England",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Éder Militão",
@@ -693,7 +779,8 @@
           "nationality": "Brazil",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         }
       ]
     },
@@ -703,27 +790,31 @@
       "goals": 4,
       "ownGoals": 0,
       "net": 4,
+      "assists": 1,
       "scorers": [
         {
           "name": "Harry Kane",
           "nationality": "England",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
-        },
-        {
-          "name": "Jamal Musiala",
-          "nationality": "Germany",
-          "goals": 1,
-          "ownGoals": 0,
-          "net": 1
+          "net": 2,
+          "assists": 0
         },
         {
           "name": "Luis Díaz",
           "nationality": "Colombia",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 1
+        },
+        {
+          "name": "Jamal Musiala",
+          "nationality": "Germany",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1,
+          "assists": 0
         }
       ],
       "squad": [
@@ -733,7 +824,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jonas Urbig",
@@ -741,7 +833,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Leon Klanac",
@@ -749,7 +842,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Leonard Prescott",
@@ -757,7 +851,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Manuel Neuer",
@@ -765,7 +860,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Sven Ulreich",
@@ -773,7 +869,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Alphonso Davies",
@@ -781,7 +878,8 @@
           "nationality": "Canada",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Cassiano Kiala",
@@ -789,7 +887,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Dayot Upamecano",
@@ -797,7 +896,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Deniz Ofli",
@@ -805,7 +905,8 @@
           "nationality": "Turkey",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Filip Pavić",
@@ -813,7 +914,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Hiroki Ito",
@@ -821,7 +923,8 @@
           "nationality": "Japan",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jonathan Tah",
@@ -829,7 +932,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Josip Stanišić",
@@ -837,7 +941,8 @@
           "nationality": "Croatia",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Min-Jae Kim",
@@ -845,7 +950,8 @@
           "nationality": "South Korea",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Vincent Manuba",
@@ -853,7 +959,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Aleksandar Pavlović",
@@ -861,7 +968,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Bara Ndiaye",
@@ -869,7 +977,8 @@
           "nationality": "Senegal",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "David Daiber",
@@ -877,7 +986,8 @@
           "nationality": "Portugal",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Erblin Osmani",
@@ -885,7 +995,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Jamal Musiala",
@@ -893,7 +1004,8 @@
           "nationality": "Germany",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 0
         },
         {
           "name": "Joshua Kimmich",
@@ -901,7 +1013,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Konrad Laimer",
@@ -909,7 +1022,8 @@
           "nationality": "Austria",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Lennart Karl",
@@ -917,7 +1031,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Leon Goretzka",
@@ -925,7 +1040,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Maycon Cardozo",
@@ -933,7 +1049,8 @@
           "nationality": "Brazil",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Bastian Assomo",
@@ -941,7 +1058,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Guido Della Rovere",
@@ -949,7 +1067,8 @@
           "nationality": "Italy",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Harry Kane",
@@ -957,7 +1076,8 @@
           "nationality": "England",
           "goals": 2,
           "ownGoals": 0,
-          "net": 2
+          "net": 2,
+          "assists": 0
         },
         {
           "name": "Luis Díaz",
@@ -965,7 +1085,8 @@
           "nationality": "Colombia",
           "goals": 1,
           "ownGoals": 0,
-          "net": 1
+          "net": 1,
+          "assists": 1
         },
         {
           "name": "Michael Olise",
@@ -973,7 +1094,8 @@
           "nationality": "France",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Wisdom Mike",
@@ -981,7 +1103,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Serge Gnabry",
@@ -989,7 +1112,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Tom Bischof",
@@ -997,7 +1121,8 @@
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
-          "net": 0
+          "net": 0,
+          "assists": 0
         }
       ]
     }
@@ -1005,43 +1130,74 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal hijack Man Utd move; new Rogers boost",
+        "title": "Transfer news LIVE: Arsenal get Rogers boost; Man Utd deal agreed",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnphNktkY3htR3dSbk9IQ1pYNWRJMnB3ZEVfMm1PZjlRYWl4R2JoTG4zQVhNN29Kd083NUdLc1VvZWZiUkhzSTkyUHA2Nzc2dTBHRHNwQmE4Q1BCQkQwS01mNy1wbGRHT2s5eVQyZHFXX2FTZW5GMjBwckMyNkRMb19VU3dUaGdDMG9wRHNfZWdkRmt0c3loeTUzanFnQWJTdXk4T3haajZFem9GSmRDSnNNYkt6ZkJnRWYtN1VFX0w3MTZXVDhOeGlPcFl1czlMMW12NWxR?oc=5",
         "source": "London Evening Standard",
-        "published": "Mon, 22 Jun 2026 11:55:20 GMT"
+        "published": "Mon, 22 Jun 2026 15:56:14 GMT"
       },
       {
-        "title": "Transfer news LIVE: Marcus Rashford to Tottenham, Man Utd announcement, Diomande latest",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjJOR2VIa0RaOEJfMGdnTXo2bzlyMF9Ob18zbWVZTHJScHUwdllrT01rUDNGU0NhSnBWaWc1TnVFTjFrZVFCYnl6dnYxVFYyS0pxd00tR0xNVlBIY09qSEJrWm1wS1g5SXhTYks3RjBjLVRwOHY2VXRjSlNtM1FnVFJkeDFPUWNWUmN2OGlERWRPa0nSAZgBQVVfeXFMTmwtUnFFZDZxc3dESTJwVXF6QU1rNHU0b1ZDcGR6Y3dtYjg0MzZDd1dBYk1UX0FINzYxREI0cTZTNG03czFlLWJiWUNCb3JtVjRIZDRWdTZJOUlrWWpvS2NYTWVoNG5tWHQ2ZHRfb1RjRFJqZFdNWFhGMFFHeV9jWnZmQ2dOcFZVZTl5RjJQM2FhRXRHanU2QXY?oc=5",
-        "source": "The Mirror",
-        "published": "Mon, 22 Jun 2026 11:39:19 GMT"
+        "title": "Man Utd agree personal terms with £80m star after Arsenal pull out of race",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU42bTl6NC1uVVJLYXN6MTBBWTVHRlF2ckNJc3pRNGdiZXBwTHVsWThUTl9vN1l2cVAwa25adWs0QklLeU5SV1dkVmpHY3NZMi1iWDBQdUZVanJKMkRMWlJZVHN5cFNfZ2d3YUJpVDc4TVdEN0dNR0pIbUNIa1VSRUFuUlAxbHE0TngtUGZVaFdiNWJBMVVrcHBGMTXSAaIBQVVfeXFMTWl5Tk1Jb3dmNVMwdm9LVmZpcXRGYXIwYlU5QlVRNERjc1k0X2ZodEtkenhGaFBCaWcxOGduRGcxbkt0VUhhZmVjdkpjczhCRGR4TExOa2N5dWU1YV9pS1FaUnVtbUQ4M01DWXZTdHNMY055UDVXSmpMZzRGTV9wTGNjTElPak1uM0psMXVlb0ZCQ09PVEs2ckRDeG4xVTlVMnB3?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Mon, 22 Jun 2026 09:56:00 GMT"
       },
       {
-        "title": "‘Practically Done’—Man Utd Target Confirms Imminent Old Trafford Transfer",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTU1MW5haXQwbUJoaUFEdU1jdTlSVmxLMTF4akNoQjJHbnpyelVVUTJwcXdMQWFHU2pPVUNtTG5tR3ZJM01odzBRbnFDRlpYNmpxd1RxVnNaQWJUSzVmNzJqa3pmT1dDLTA4ZjhxSjlQSTlFU29oOEY3aGktUXdoYVFSWmxlcjQ?oc=5",
+        "title": "Tottenham handed major boost as Sky Sports man shares Morgan Gibbs-White update",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW9rX1RHUmw2TjROQ0o4RGF1ZWI3OUp2dkpIUUZGNWI2TVBMT1c1bkRBc2w1cEJIR25UempnaWkwd0h2dDN5eDhjU2V3REdJVHA1bEFEQUpXWlBYUW5DbVl6RDduRkpZMnhNdHVEZ2R1TnFDUHMwcTU2bDBINHZrTzM2MDBrV3Q5U3F2LVpZblNEb0dRUWwtMHg0TEVCMUprd3hpZEFaeVhRMGFUZmlheDNNT2pxWXVZLXfSAb8BQVVfeXFMTnFtdGVrdDBiaWIwOXJtTUVFZndKZTJyMUlyVlhKQ3BsR0x6YzJkc1Jid2x2WEpFZ0kxaGh1cjFRSUFSbm5JSzc0WE4tZjlBaUFtYjE5Rm85eFZVc0p3bm5kUjRENHhYOElzTmVwSi1DZk83RzZCQ01iN1B3LTdEc0hVMUFxazRJSXc0bXp0TUxreGRrNjNRd0E2aVVLWmFRZEViaDAwdGNjNDRWRU92azBvYjRPQVVtRjRpS1p5aHc?oc=5",
+        "source": "CaughtOffside",
+        "published": "Mon, 22 Jun 2026 15:28:54 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: PSG battle Man United for Summerville",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlo1NGNQeEp5U3hDME1uU0JHN050VjhUZTFPSk1lVk85QjVha2JvY3BqdGo5NE5IU0RaMUE0NTlJbERqaGRPQV9TakQ0UkplQlUzMEdHb01kTjRwVWt2cGotaEdWeWVvSXVzR2YtY3dpZE51SnRObDN4NGFrYmFTZGNjNmNHcm1WQ1l5cDUtTHR0WC1Bd1R2WDM5LXR3YS1QY19BaTBn?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 22 Jun 2026 12:28:00 GMT"
+      },
+      {
+        "title": "Man Utd transfer news LIVE: United eye Summerville, Rashford 'wanted by' Arsenal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTFIeGVfRWlHTU9QQUdyQ3c3ejhFSjlWWU1rTlBEdld2LWh6ZmhMUmE2VHM4RlBPeFZ3cTBVcnQ0QjE0ODVvZUFnYjduM0NLaXZ6d1p5QTc2OVNiNU5xVi1XNDJFSTlRcUlqbWZVQjk0a2VKTDZrbjVlVU1LY0hvSnp6enNmcHpLSkVLZnZjd3FveEw4aHdDVFpTZkhVTlNNMzgwT1VR?oc=5",
+        "source": "The Sun",
+        "published": "Mon, 22 Jun 2026 09:59:31 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Transfer Rumors: Man Utd Target $66 Million Winger; Real Madrid Chase Bouaddi",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQXoweV95YzM4bTU3R2YweG8wN2ROeUdsY0hQSmhud0dYNWtibkJfUXlna21tWDA2dnYwdXotRWhMNURzOXdBLVRmZjB2VVdYU3pYSm03aE1JMThCOUhTU0gwMlRzemFFYVBGVDhybVNOQ2dXSU50a3FyZHJRVDA2MVJ6bVRFM2FBUUJwVGhpRWVZV2hXZ1J6UkN0bTh2VWpwdGc?oc=5",
         "source": "Sports Illustrated",
-        "published": "Mon, 22 Jun 2026 12:05:00 GMT"
+        "published": "Sun, 21 Jun 2026 23:05:00 GMT"
       },
       {
         "title": "Transfer news LIVE: Real Madrid want Ayyoub Bouaddi as Arsenal Morgan Rogers favourites",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenY0TzNNdlRBcEsxWDZSZTNNVlg4VEN5X3B1eVFtb3ExWE1IVUtEbDVZdUJHWDM3UXh1N25fZnBRNkxfajZMMEpaR2dNT1d5QTBNaFA3cC1XVHRSTHc4QXRmRnE4Q0tkel9tbE9DVEFraGpfSllUcjJvTjlxaHVRcDFZUlBXdFdJUTY3eGF3ZGRiOXJrUW9yY0FPOGhoN2ZRQjNwbEpOa01RQWZSakJBSVRFbDI4Rm1iclkza01RSjZJT21haHdRNWVWY050Zw?oc=5",
         "source": "Transfermarkt",
-        "published": "Mon, 22 Jun 2026 12:29:59 GMT"
+        "published": "Mon, 22 Jun 2026 15:30:45 GMT"
       },
       {
-        "title": "Man United transfer news LIVE: Marcus Rashford twist, Mateus Fernandes move, Ederson latest",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkU?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Mon, 22 Jun 2026 11:33:23 GMT"
+        "title": "Man Utd, Liverpool make approach for same Real Madrid star as ‘agreement’ is revealed",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGJDU19uQ1Q1T2FndTc5STdkNVNrbjhYeGVnYWZWQk4yUDFsZlFtNF9FT3ZFdFR6dFl2UnRCb1JnWTFYRUc2WG5oUWtPWjg1TjYyandTMV9wQk5rSzJ5NkdnUU80Zk1rR1JtRmUyZlVSMjJDQ2hGMWQtTGR6WFA5Q2lTQVVLR3VzUnctSjdTUmkyTlZiRElUNGRxazh4Vm1FY0FqeFFkTzBLWUNkSUlucE9LUzhsZw?oc=5",
+        "source": "Football365",
+        "published": "Mon, 22 Jun 2026 11:18:14 GMT"
+      },
+      {
+        "title": "Chelsea star reaches ‘agreement’ to join Real Madrid as £104m transfer takes shape",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNllLYTFTOGNRUXZJVVQtQl8tNFNmT3lPbFo5aHFDS3hPQW9uM1JKc21VVzBQTEJCSS1RTWdCMWVNRm5OcThfazBnSi1tODFsU1NBTG1QZTdvRG9MYm0yM3RFczR5NDV2bC0tTThjREFzRTlJM2l4b3A5U1J2M1Q4cTRKbkJQZw?oc=5",
+        "source": "Football365",
+        "published": "Sun, 21 Jun 2026 13:08:11 GMT"
+      },
+      {
+        "title": "Real Madrid set for €7.5m transfer windfall as defender nears Napoli move",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MQUc3cjVtRHdhd0htRHRtdVdfNk5qb1VQRGZoMFoxOFQteGdGdkw2TTlpcnJFVEVXbXRfbWp3dy1lZVp0UWU1Y3RYZk1jYVBpMTBNMlI5UGNvcGJYd3d2TWNfblNiRFU0anpZOUp0d3AzUVNOdERBSQ?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Mon, 22 Jun 2026 15:15:00 GMT"
       }
     ],
-    "rm": [],
     "fcb": [
       {
-        "title": "Fabrizio Romano says Julián Alvarez bid was a bluff, Real Madrid was always focused on Michael Olise",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdDdKaTFleURHdXpLZU91eFpNb0dCLUpkZXBRdXRUTWViS1BHTWctYWlydlV1YlgxUXd4djNGUXNiQjg3OWNieC1mbW9tbVZvb2NHRk5XNVhFdld0eTltNi0wcGpTUFczODZKNTNneGNNQVY1ZVcwU25HY1o1b2c3NzZOMFhoYWI5d3BWcml1T0lvbTJLd1dRZ3pMUHpBbEtCOGY4ZThfdGE2S1E2SWNMLS1hc1FZRkNVdkxhc294VHRVZ3c2a0xPS0NiMXlzYWRrRktfUGwyeHdsajBycXNVT0N5QVQ4ekI2VWZVS2c4VHhHLV9YaTRLMDFfOEk2V2RJdXNkUzJJZmtRZzg?oc=5",
+        "title": "Real Madrid denies contact with Bayern Munich star Michael Olise",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3p6QjRmTnZNOHZkOUQtelJtcGZucHdrVkkyc21JR0Z6bFdreWR0RWRISG5rcG5xd0xuTzhGaGdsSjVxbFpyYjFwVWRaMTZxcEsxUkFyN2ppcjZickhvVWhIcS01OXhIOF9kenpscDJ4R3NNNTJfdjN0a2hUTXI5a3NJM1NjSGhxRnB3SXVmWEFvcTFHU0p2YTBUVVRoOXF4cXBsLU9jYUZIU2pkcnhveGN3b0k0VGRuZmxIUVZZaERVak9QeW4wU2pXSGpXWFVoWnByb0hQRnlaYlJ5?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Sat, 20 Jun 2026 13:55:40 GMT"
+        "published": "Mon, 22 Jun 2026 11:45:00 GMT"
       },
       {
         "title": "Real Madrid deny contact with Bayern Munich’s Michael Olise despite transfer rumours",
@@ -1056,37 +1212,20 @@
         "published": "Sat, 20 Jun 2026 08:17:06 GMT"
       },
       {
-        "title": "Does Nicolas Jackson want to leave Chelsea? Transfer update on Senegalese striker following Bundesliga title-winning loan spell at Bayern Munich alongside Harry Kane",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRHdBZkM5M0U3LXlaR2ljdHZCQ2ZpNE5nNlVpMkpLLWFkOVhNdkI5UnRMN3g4Y3lrRmZRQU82Y2wwbWdMSzB4SnlURFNxT0UwbGZzTWFwV0cxVl9lUFlXdUZid1dHMGloRU90Q3ZoRGF4MkxnQ2ViMlVONjAwcWE2YzNkNWdZdEthRXoyZi1YZWY0M0JQalFWMVp2MWdYdC1VUE9uMl92WnNKSGNOUHBWVEtWSl9DeHhTUEtrSmQ1eEZ3bUxNYmdvN2Jaa2dGSU5BR0I0ZDFXaEkxOW1PUHNaX2VHdmI3dnAtSXR0WjNxMVVRMnlsYzBsTzNMVzROWk5ud3BMTUZFQzVBLXM?oc=5",
-        "source": "Goal.com",
-        "published": "Sun, 21 Jun 2026 21:39:27 GMT"
+        "title": "No further progress with Nathaniel Brown move for Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUs3d3ZYYldTY1dMRFEzR2NIeXJ4b1B4dmhUdkxVUFpweHgxWkRsZGt5aGt1S3JvdlV1V0FtaGpsUUJHWURJRk02MEJURE5KQ3NWTGNWa0lkYWlTWVdfMV9xbU9GQkc5d3J1T2ZBaGdJM1AxcVBnM1d1ZVF6RFhvNHphTFQwd20ycXVpYjNGZ3ZiMnBfRk5GZ1Z4SlJiX2xHWWhSU2lEcVNJYUxmQXY4WHEyZElPUlB5WEJtT2FzblVWVzFDRmdrckg1M0JsdVBsaVJzc3paZ28tU00?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 22 Jun 2026 16:00:00 GMT"
       },
       {
-        "title": "Bayern Munich’s Michael Olise prefers to play attacking midfield",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0stRW15VFhhb0VSTEUtZ2NzU25JY1NjNWJHelV5Wnh5aHpoS204YVhLNEgwU3BmamRhMFNSdmQ5OWV0eDRQeDgzUDktdGdxZ1lfN0dMZ0E0aG5IUnZTNUR2NHB4VGpOU1dfLW1wLTF5MnhUdzZOYXJ1V0FqTkxxRkVPU3lLdXBQZi1zc3FFUlNDYUpBYmxQajA3OG44NFpsUWk4dG9uUVRheThac2h5Z0pqZjZOak9aMWdBY2NPdmp4cm1nUG5uaWpXaGJJMDI1bVItZ19YdjZyV1k?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Mon, 22 Jun 2026 05:00:00 GMT"
+        "title": "Barcelona make shock Harry Kane transfer approach amid Bayern Munich contract uncertainty",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFhYWlpQdmxnNHNqcHVROVY0b1c0ek9tY2FDb2tJUzVkd0pmUTJYU3NwYm1hZHR2MVhDOExqQWtpYkJXdGhXekx0OE9iZFJORGxwZGdWMzM0V2NZaFlYLUhTMjJMNWN1X1RvRElPalhvNnZRSjhFcWJqb3RPanRKblY5RjZJQUtZZnl0TmFhb3ZGVHMyWERkNlJpS0d2MWQ4cUVSNUpCYlR0WjZXSkI4d0wyNkdjU00zcVgyZ1VOOUkzRGQ5VkM1Ug?oc=5",
+        "source": "Goal.com",
+        "published": "Mon, 22 Jun 2026 15:55:59 GMT"
       }
     ]
   },
   "upcoming": [
-    {
-      "id": 537399,
-      "date": "2026-06-22T17:00:00Z",
-      "group": "GROUP_J",
-      "status": "TIMED",
-      "home": {
-        "name": "Argentina",
-        "flag": "🇦🇷",
-        "lineup": []
-      },
-      "away": {
-        "name": "Austria",
-        "flag": "🇦🇹",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
     {
       "id": 537393,
       "date": "2026-06-22T21:00:00Z",
@@ -1100,6 +1239,23 @@
       "away": {
         "name": "Iraq",
         "flag": "🇮🇶",
+        "lineup": []
+      },
+      "lineup_status": "Lineup TBA — check back closer to kickoff"
+    },
+    {
+      "id": 537394,
+      "date": "2026-06-23T00:00:00Z",
+      "group": "GROUP_I",
+      "status": "TIMED",
+      "home": {
+        "name": "Norway",
+        "flag": "🇳🇴",
+        "lineup": []
+      },
+      "away": {
+        "name": "Senegal",
+        "flag": "🇸🇳",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
