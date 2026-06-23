@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T03:55:21.671412+00:00",
+  "updated": "2026-06-23T07:40:47.564810+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1130,23 +1130,37 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man United transfer news LIVE: Marcus Rashford twist, Mateus Fernandes move, de Gea chance",
+        "title": "Transfer Rumors: Man Utd’s Fernandes Deal Hijacked; Real Madrid Told Olise Price",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm92eTNFdWdvamhSZkVBRlBHZm5zVy1rdFRHQlRwdXpoVzJOQUNJeF9EZk5KY0gySGhKS2htRHNrcFphdkNkVzdrR3FHMW56M2o0R2U5SXJKRVNqaDYxWDVyaDFjYTd4YkFPQjU2a3pfMEU1TVdFekpabmJ1X3hzQmVfWTZBUkEtQXlXdEFTRmJUT2ZENjFn?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 22 Jun 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man United transfer news LIVE: Marcus Rashford twist, Mateus Fernandes move, Camavinga latest",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkXSAbABQVVfeXFMUEFMUnV2VjJxb2h5b1FIQWZsZWJqLXBFYl9PUjIzaENEX2tKQXIyRWp6d0p1M0t1eVZvX24tclRXd3gtQXNwV0pEY0tlekVxZ0ZhMUJfN1pjWDFmWFUwMWowYjNJdk5yWjA1YzN2SFhtSGdMMTBwMm5YWnRybWE1N3NpVlVBLWI4dFBRblVCdnp1RnU2SU40U0poN1FvNUY5NlY2Y01hQ3JPckZIR3h0TS0?oc=5",
         "source": "Manchester Evening News",
-        "published": "Mon, 22 Jun 2026 21:46:57 GMT"
+        "published": "Sun, 21 Jun 2026 19:08:14 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal get Rogers boost; Man Utd deal agreed",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnphNktkY3htR3dSbk9IQ1pYNWRJMnB3ZEVfMm1PZjlRYWl4R2JoTG4zQVhNN29Kd083NUdLc1VvZWZiUkhzSTkyUHA2Nzc2dTBHRHNwQmE4Q1BCQkQwS01mNy1wbGRHT2s5eVQyZHFXX2FTZW5GMjBwckMyNkRMb19VU3dUaGdDMG9wRHNfZWdkRmt0c3loeTUzanFnQWJTdXk4T3haajZFem9GSmRDSnNNYkt6ZkJnRWYtN1VFX0w3MTZXVDhOeGlPcFl1czlMMW12NWxR?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 22 Jun 2026 22:56:41 GMT"
+        "title": "Man Utd agree personal terms with £80m star after Arsenal pull out of race",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU42bTl6NC1uVVJLYXN6MTBBWTVHRlF2ckNJc3pRNGdiZXBwTHVsWThUTl9vN1l2cVAwa25adWs0QklLeU5SV1dkVmpHY3NZMi1iWDBQdUZVanJKMkRMWlJZVHN5cFNfZ2d3YUJpVDc4TVdEN0dNR0pIbUNIa1VSRUFuUlAxbHE0TngtUGZVaFdiNWJBMVVrcHBGMTXSAaIBQVVfeXFMTWl5Tk1Jb3dmNVMwdm9LVmZpcXRGYXIwYlU5QlVRNERjc1k0X2ZodEtkenhGaFBCaWcxOGduRGcxbkt0VUhhZmVjdkpjczhCRGR4TExOa2N5dWU1YV9pS1FaUnVtbUQ4M01DWXZTdHNMY055UDVXSmpMZzRGTV9wTGNjTElPak1uM0psMXVlb0ZCQ09PVEs2ckRDeG4xVTlVMnB3?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Mon, 22 Jun 2026 09:56:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd Target $66 Million Winger; Real Madrid Chase Bouaddi",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQXoweV95YzM4bTU3R2YweG8wN2ROeUdsY0hQSmhud0dYNWtibkJfUXlna21tWDA2dnYwdXotRWhMNURzOXdBLVRmZjB2VVdYU3pYSm03aE1JMThCOUhTU0gwMlRzemFFYVBGVDhybVNOQ2dXSU50a3FyZHJRVDA2MVJ6bVRFM2FBUUJwVGhpRWVZV2hXZ1J6UkN0bTh2VWpwdGc?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 21 Jun 2026 23:05:00 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFlIVzZic2NnVHc2Yjl3SFpQRE1UZjhOYm02NU5aU2pkSlNpYUJkSkpxZFU4bGtoLWZrNXV2TmZYSGF5bHpENjlFaG1Uejh6NHUxOXUtOGZkUXU5ZWVyMHhYLUNXSXBtcDZETkFtdlVLSkNuZGNjZFdsbWRLMmE3LWUwUXlLVjBmUGxMc0EzWG9id19VS3FtRmZjay1rZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 23 Jun 2026 06:45:42 GMT"
       },
+      {
+        "title": "Centre back: Huge update on Man United transfer plans provided",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDhLdk9wRE5jLTRWSmJTYi1iOHlyT0ZiN3RJaDN6WldoR1lUX0JRdUpkS2pUZWVHTzZQWEJGcEQwSjI5N2JqTmVqb28xVUw3R0UzbDdRbmlpMUUzWmJhQ0kza2hmazAzS055T1UtOGFzYzU1Vm5zVjdnUG9WbUM1UnB3?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Tue, 23 Jun 2026 06:10:00 GMT"
+      }
+    ],
+    "rm": [
       {
         "title": "Transfer Rumors: Man Utd’s Fernandes Deal Hijacked; Real Madrid Told Olise Price",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm92eTNFdWdvamhSZkVBRlBHZm5zVy1rdFRHQlRwdXpoVzJOQUNJeF9EZk5KY0gySGhKS2htRHNrcFphdkNkVzdrR3FHMW56M2o0R2U5SXJKRVNqaDYxWDVyaDFjYTd4YkFPQjU2a3pfMEU1TVdFekpabmJ1X3hzQmVfWTZBUkEtQXlXdEFTRmJUT2ZENjFn?oc=5",
@@ -1154,42 +1168,28 @@
         "published": "Mon, 22 Jun 2026 23:05:00 GMT"
       },
       {
-        "title": "Fabrizio Romano reveals Man Utd face ‘double problem’ in signing ‘dream’ player",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU5LWTVxeWxPNGlUWmRzVGhYY0RCWlFqYnBlRTg3ZS11b1FiVWt3dng3UWxwRzFLZWlnT01tc1pMeVoyTGQwc1FGRWtBQkF6eXRlYmJFSXhMWXE4dUltRm1fanU2dFlBTko4YXkxZ3l3WDVad1VLNU54cE5YODR5bVQtcDVVQkczbzBmVVcwcDR0MGdPekZLOFE5b2w2VUk?oc=5",
-        "source": "Football365",
-        "published": "Mon, 22 Jun 2026 19:09:59 GMT"
-      }
-    ],
-    "rm": [
-      {
         "title": "Transfer rumours: Arsenal's Piero Hincapié to Real Madrid",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1ZWeUo4MFFsNml3TzhEalh4bUdJdWZkazN3YzBOOUk4Vzl0cUpEa3RUVkJ0YXFoWnJENTFQTjFGdGJtaXZoTDBGaVFuZFlwYWg3WHFoc0hyVWlRRFRwVjZoOWxZT09mcWpIU3JjZHhZNmtiemVzSk5vZlMxckJRQ3JPU3FnRmg2bDVVYnN6aEg3WFBLTE8xZVRKOVJ2dHZVMDdsYw?oc=5",
         "source": "ESPN",
         "published": "Mon, 22 Jun 2026 21:20:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: Real Madrid want Ayyoub Bouaddi as Arsenal Morgan Rogers favourites",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenY0TzNNdlRBcEsxWDZSZTNNVlg4VEN5X3B1eVFtb3ExWE1IVUtEbDVZdUJHWDM3UXh1N25fZnBRNkxfajZMMEpaR2dNT1d5QTBNaFA3cC1XVHRSTHc4QXRmRnE4Q0tkel9tbE9DVEFraGpfSllUcjJvTjlxaHVRcDFZUlBXdFdJUTY3eGF3ZGRiOXJrUW9yY0FPOGhoN2ZRQjNwbEpOa01RQWZSakJBSVRFbDI4Rm1iclkza01RSjZJT21haHdRNWVWY050Zw?oc=5",
-        "source": "Transfermarkt",
-        "published": "Tue, 23 Jun 2026 03:37:06 GMT"
+        "title": "Transfer rumors, news: Real Madrid want Haaland if Vinicius Jr. leaves",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWgwaDY1dFFfaWszQTQ3RHNnTXp0RDNZVkotX29oZVJjYy02c0o3dklmdTNyNkdjempuY2l6V2xESWp2bVpBeDk1T05LZ19Ya0ozNlV2RTRwNVNpY3VEOERrQzBsVjlsWGdUdWllM2hVMXJVLUt6QVRjUXJ0UTE3OEF6aFJNNlpUR3pNOTM4YWRUUHlpejVWNm5xVXpXNVhkTzRGdFNEWGJuS3hZNzdzTUdn?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 23 Jun 2026 07:18:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd’s Fernandes Deal Hijacked; Real Madrid Told Olise Price",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVludzYzTDFHWUtNMUV4Ym9PSEJvQTNuVmp1ZTVlVDI4TGplVnROc2t5MVJYOElsZFJSY2VNLUk3ZkV0cHh1akxxUV9BREhSeGRNVEpwaWxlUGo4dDdSeklhaHRIT0VMUXF3VVFEd3BfZjkwLTZkYTJYWTRWeDZhNVNZanJ2eGEzb0hrSFc3Nm9Wcng3WDgwOUZ2c2ZjVmNYRmRPMWFuZVZTZ1ZvN3JKclVXajNOUXhjLXBFT2pvWXhudw?oc=5",
-        "source": "FotMob",
-        "published": "Mon, 22 Jun 2026 23:15:38 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFlIVzZic2NnVHc2Yjl3SFpQRE1UZjhOYm02NU5aU2pkSlNpYUJkSkpxZFU4bGtoLWZrNXV2TmZYSGF5bHpENjlFaG1Uejh6NHUxOXUtOGZkUXU5ZWVyMHhYLUNXSXBtcDZETkFtdlVLSkNuZGNjZFdsbWRLMmE3LWUwUXlLVjBmUGxMc0EzWG9id19VS3FtRmZjay1rZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 23 Jun 2026 06:45:42 GMT"
       },
       {
-        "title": "Julian Alvarez: Atletico Madrid striker says he wants to leave club to 'fulfil his dream'",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlJjeDZlNnpaTVhSemtSWEFhVDdyaTNtclppRXlaOUpHSU5KXzN5ZVJsempTV0ctbVJxaGdFWDNQbkswWDhlNlRIWV9rZUcxaC1jaUM5aXl6LUNId1F0am96SUFKVjVYVUFqOUpyMHViLVdWN2E2ZGFfN1NrRHc1N2pYY2xpWG5mOGFfWUNBT083QU9sM3JCV0sySFJuaDU1c1UybWFkSVdyRURCQ3ZQaFlDN09aT2tTbUJKU3hUVHg2S3FJSEpaaDJrU29CRVRYSi1uenozdmk?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 23 Jun 2026 01:45:54 GMT"
-      },
-      {
-        "title": "Julián Alvarez sparks transfer frenzy by telling Atlético Madrid he wants to leave",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXM4dWRoMmlTS3UwODNVRkdhZElINXozS3ZIRmJBV1BEWVNhWTNvMERDYzdIaUZWeTZXTjlMb0l6NjFXMmlWV2MwSTVuNS16ZHVPX3plSENZYkxxRmxHSDRGRzdiRHRpNnFReTVvUzI5b2RwVjBIQjIzLWFMd2RVZFdmZDVaSmI3WnN4eGlkSGdIV2JEVEczenc2VzVQRDk2cnBnUHE0Wk5ZVzBJTlJJem1DcnFWaW5NWG5rSWlFV3A0TGJ4NzNQWERWYw?oc=5",
-        "source": "The Guardian",
-        "published": "Mon, 22 Jun 2026 23:06:35 GMT"
+        "title": "Man Utd Open Talks to Sign 'One of the Best Midfielders in the World'",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXBBQXg3UzhWRlR3OEdzd1Q5cXZNa1YtWXFPcEx0RWJpWkhkc1NuV1M1b2FtOGh5cF8weTYtTzZMeDUydk9JNy1zYnJVT0FrS3VjVmZkNUxQNUZxcHBTaFA5V05VNmxOTGZRLTZZVFdQNjZkQ1pFSXljOGUzZkZZcjRwNzNMOC04WUJWS3hQRQ?oc=5",
+        "source": "GiveMeSport",
+        "published": "Tue, 23 Jun 2026 06:16:14 GMT"
       }
     ],
     "fcb": [
@@ -1212,16 +1212,16 @@
         "published": "Mon, 22 Jun 2026 13:22:32 GMT"
       },
       {
-        "title": "Thomas Muller intervenes in Man United transfer push as Bayern legend instructs £43m star",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObUN6d1hxeWFzVWlPd2dBXzc5R01VdG04eGkyUV9DVTdIcVQwYkFWSDl3QXRpaFJrR1JVYUkycE91QWNKaERsVjJGWXpCWWh0TE5vb3Bad2hiWHo0Mmhic2JCYWdOdFV4ZnN4LTJ4ckJIU2VxSm84N0FxRE5CRE1pQlVkMVJqU0xTbkVFTVN1QkFPN0ZqRFotVXo5WnJLOUg4Q3VqcWVVb2VySGdmenR30gG0AUFVX3lxTE50bVgybnhVOV9ZQ0tVanNJaGtaRkhtbDZEM21KcGgzV2dvX2pDdjZEaVRKdGY4b2lxdlotcUU2U0dqNHBJaEhyd0hubF9uUVY0S21oNUFQQ3BwamdTNHN6aVRlRDdmS0lvTDgxd19YTk03dTJIWkRvYXBsR2hCQzM1aE81QmFUdlNJWW1ybXRENy1ydUZjbEFIcDFhUWgtRGNDY1hKdWs3ZDVSRXVUeHVJQ1hIaA?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 21 Jun 2026 19:41:00 GMT"
-      },
-      {
-        "title": "Real Madrid deny contact with Bayern Munich’s Michael Olise despite transfer rumours",
+        "title": "Real Madrid deny contact with Bayern Munich’s Michael Olise despite transfer rumours - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3BwdGxqODlZakNNSTJlTlRCSVVoMFN2Z0xHZnktcDQyN0x1NmFzeXJpRG5YdVBlQTlEUHhjUDNjQWJQMDBDZFVhRkxPNG5FOTIzNnRzb2FZbm9wRHdNQkRHdE1yTVdFNHozanlYeVgwTjhRcXJGSDE0UWZBWWM5X0FoeHczaUVyLWxaTDNtaTYxcFhtNzFGeklqT2xEZw?oc=5",
         "source": "The New York Times",
         "published": "Sat, 20 Jun 2026 16:48:32 GMT"
+      },
+      {
+        "title": "Real Madrid: No contact with Bayern and France's Michael Olise",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdnl4X1lrTElteGtvczk4dVNJMnd1SFJNZzZfRWxnQ2w0X09zYXQyOXBMS0JZSWM5dlZtcjRCMkljVWIzbEw4azVjUHkzejJ1QzBTRllSa2ZjQi1kbkl1SzdGLWJsOENsM2NHYW9FOWR4WExJblZDY0VyN1lvMXBOXzBJVUd6ODlGbGhtbW1FRVItQy1WTVBEVWVrdTZOSzdJWjhaQ2lR?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 20 Jun 2026 16:52:00 GMT"
       }
     ]
   },
