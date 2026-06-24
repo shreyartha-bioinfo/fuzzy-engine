@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T05:14:42.414661+00:00",
+  "updated": "2026-06-24T08:38:18.458800+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1130,28 +1130,28 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd deal agreed",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVAtdUlSZXF3NmpMclRjYThUS3VkamtpODZGMU92ODZ4MzJDVFFHbkxjaXhhcURUVWdBSGcxRk96c3ZTYU92c1dfczViODNiRDNPeUxrNFE4Yjc1NXRLbk9vVWo4bUFuR3dxekdoeUlZUGY0UWhTRnpnRm91Z0tEclZvTEh3WUJhRGtEUFNIbU9KdmhuZ29PcENIWUE5dDlxN3NJSzg4QkVIYURSQnVoTDdWY0NkQzhYOFNTNkJ3TGl0R1pDNzVJZEVtQTY4Sms?oc=5",
+        "title": "Man United transfer news LIVE: Morgan Rogers update, Mateus Fernandes latest, Brian Brobbey link",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkXSAbABQVVfeXFMUEFMUnV2VjJxb2h5b1FIQWZsZWJqLXBFYl9PUjIzaENEX2tKQXIyRWp6d0p1M0t1eVZvX24tclRXd3gtQXNwV0pEY0tlekVxZ0ZhMUJfN1pjWDFmWFUwMWowYjNJdk5yWjA1YzN2SFhtSGdMMTBwMm5YWnRybWE1N3NpVlVBLWI4dFBRblVCdnp1RnU2SU40U0poN1FvNUY5NlY2Y01hQ3JPckZIR3h0TS0?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Wed, 24 Jun 2026 07:39:18 GMT"
+      },
+      {
+        "title": "Man Utd news: INEOS approve desperate midfielder plan as rivals' opening bid rejected",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3I1NDRBcnJGeEhlR3NzWjJmcTd4NEtpM1V1SlZjSk8tdkl5T0g3a050cFRza1lwV1dheXNZaGFTMU9qTllNd2psU0IwdWV5TUdEeFFLaG9Mejk2VGV0eXBtTUluLW8zNThvZm1URlJGY2lfaG55NU9mZ1BWQUZOdzl1Y2RoaGJwQTE2TVJtTDFrRXFqMnZOSUlvd9IBoAFBVV95cUxNb2Eta0tOcG5fWXU5cVdQT19ibEhLd0xzUHVMOUFmd1dwZWpsWVlKYXppUEtHb0ViUklrbnpHRXFwc3l1NG1qalZIMWVRazAzTTVVYkRlTUNLR1BYTDZuMjE3TVZLOWljZ0MwX2xCTTZaaThXbzBOUy0yTHdDT2lQWW1NeWUzb0pNV2FxOXJfZ0hUWDdwNnNrUEJEQU5wNVZy?oc=5",
+        "source": "The Mirror",
+        "published": "Wed, 24 Jun 2026 03:30:00 GMT"
+      },
+      {
+        "title": "Man Utd transfer rumours: Scott, Fernandes",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTHZwTWJGSGh3TU91WlhRUnJMcy1SMXZzMUFCamdRRWVpRi1JWkJnaXFHWTAwZVFhX08wUWZtMGh5aFVBbHhDVVhGeDlkTVRabTB1X3hSQ2FaRzlVc2dNZzh5VTR2Mk5tZW1zb015Q0Myb0hqQm5OdVV6S1gzb3NwTFdRVmg0ZFNWQV9sbjYzSVRnc1F1N1VYYlhIMzBKUkEwVWF2ck5sdTFTdVJzY3NkYnoyZExqOUktcVZMUjRRcnRkZElBajdxRXFjbG13X3dvbDZfZEwtaDZyTVp0T0g5bnFFSy1scTJpTTVPZDdfZ3k?oc=5",
+        "source": "BBC",
+        "published": "Wed, 24 Jun 2026 07:16:59 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal have Rogers agreement; Chelsea deal today",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFhabzJlQWE0aEQ5V2lhU0tkeTNhSDBjNTZFb1JlLWN0TzNNZUZacFI1QlBlM1I5QWhjWVFaREgxNC03UGhfLTFqclh3QWRxaE1BZE9DTW1Xc20ydVp3ZUFtLVhVX20yRnR0LUViTXB1SEdtZ3BZa1NRZ2xfV0VfQjkxY2ZKMzJOZl83S0xYUHBab2dLSG9sRGlaTUJBbXl2RnlRdDVWQXJGbllGU2gxZUtGalJWSFBPUUpTUDdXdks5WXhkSzFEcEFfRkNNYWNi?oc=5",
         "source": "London Evening Standard",
-        "published": "Tue, 23 Jun 2026 20:38:40 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Man Utd’s Fernandes Deal Hijacked; Real Madrid Told Olise Price",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm92eTNFdWdvamhSZkVBRlBHZm5zVy1rdFRHQlRwdXpoVzJOQUNJeF9EZk5KY0gySGhKS2htRHNrcFphdkNkVzdrR3FHMW56M2o0R2U5SXJKRVNqaDYxWDVyaDFjYTd4YkFPQjU2a3pfMEU1TVdFekpabmJ1X3hzQmVfWTZBUkEtQXlXdEFTRmJUT2ZENjFn?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Mon, 22 Jun 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Man Utd 'reach Mateus Fernandes agreement amid Tottenham interest'",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOW96MzVCUll0ZlJqUVRVN2huZW5rbG9paVQ4VXF4RHZyTGVweXZGaFo3RFhvOVkwZDRwX2g0ejZZYmR4bHYyWkRUQ2xSRFFMUDVRcV9DU1JUaXgxWnk5YWUyaUh4eFdLTE9Bd2JYd2cxblRBaUg4RVVadlZkLXlpSVZkb0pPWEZ2eGJHcFNLRTA0Tl9RZXRGM2V2S1NyZjNodUZKbGxQR2Etdw?oc=5",
-        "source": "London Evening Standard",
-        "published": "Tue, 23 Jun 2026 14:40:02 GMT"
-      },
-      {
-        "title": "Man Utd prep OFFICIAL first bid for Mateus Fernandes - sources reckon Spurs have little chance",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1E4TDRwc1llc1J5dEZLbWlhcG9MdVlpUXZ0NjlBbVhURXMxRFhwVE9abDc2d29CMXFEU0RtLUJOb1RNWm4tTXNXNHhHVHFQQzdVYUh2MUNaaGZUUlI4QV9vZVFGTjNMN1lneUhhRTQxZzk5R2l3bTN1T25VZGtNVXJoWEFCUFpXbkJDcVRBdnhhdVctb0ptMXdiMVFJVWVsMzFhV3Z1dlRKWUUzbFVDRURDSkN6S2lXVlAzaHIyY3NYblFHVHc?oc=5",
-        "source": "TEAMtalk",
-        "published": "Tue, 23 Jun 2026 13:30:44 GMT"
+        "published": "Wed, 24 Jun 2026 05:51:06 GMT"
       },
       {
         "title": "Man United can land themselves unexpected dream transfer to ease Mateus Fernandes pressure",
@@ -1162,34 +1162,34 @@
     ],
     "rm": [
       {
-        "title": "Real sign Schroeder in 'most expensive' women's transfer",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yaHRSWWVnRXdCX3NSWW5ZNGpVN1R3cnpVLTBOUW1RdDd2QXVjR2Vpdk9oT2hYQU5qUWpaekNnZlNtN0VsMTVzSVVVTndoWmhMNlFhRHJKX3dQOHkzMHdoSTUxRzhMWms?oc=5",
-        "source": "BBC",
-        "published": "Tue, 23 Jun 2026 19:54:40 GMT"
-      },
-      {
-        "title": "Enzo Fernández takes center stage in Real Madrid’s transfer rethink",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUZHWFBBRjdwYWtxdnNHbVBuLXNySlR1NlJERW5reXdpSDUzRERPaWItMVBoMmtzM2FwNnp2Y1p3MkM4RjBSeXJpX040amQ5eU1rWVdYWmlZc2gzZmc1Tnk4SHo3eUxvbHF6cUs3dG5sSHRtTGtTTjNiM0dMOU1VNmJfa1ZBMW43TkN0al9LTUJRN0QtV05MRDJiSG9xSXRpYzkyTtIBuAFBVV95cUxQdUlOUi01SmR1WDQ5QWV0ZjFzMTNJckM0LXVYejhya3hBZjJSTXJWQ251VFYtRjVqc1Mxem5EZkNpZTA2V0lTRzJNS1loMERrVmlfdWViNW55V3VxRzlNV0hQMERMdnkxaEN0U3BoSEhQYmNrNUdZVVo2R21PQkMyZkRCNFZpT1pJQWM2VnhMRkFQUzBDRTNyeTFyWW9YN3pMRU00cGU5bk5ZYnNPa0JJV0R1UUxmYmgy?oc=5",
-        "source": "Diario AS",
-        "published": "Tue, 23 Jun 2026 11:22:01 GMT"
-      },
-      {
         "title": "Real Madrid sign Sweden's Schröder in big-money transfer",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVi1vb1RvUWhCX0t2d1ZDU3ZzeTdhaEtiY1IxdlF2WjJKWEtPbUhPVldIUnQ1ajNPYmZrXzkxTU1CM29mX2JXQUlfZ2ZDMXhGQWw1TUFrN0EyY0pQZW5nMjZGLVN2RXRsU2tNVUMxV3pCcE9yQVJNV1JqdlhfMnVIeUhuR3k5OS1UUnd0Rk1rMVN5dkJBMTVEZGVHTHNQOE1WQzFtNg?oc=5",
         "source": "ESPN",
         "published": "Wed, 24 Jun 2026 02:55:00 GMT"
       },
       {
-        "title": "Arsenal latest: Gabriel Martinelli’s exit stance as Real Madrid plot audacious transfer hijack",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2laSjVDQWRJcHJyRmhZTzJaNE42aU03VnBKaGxYMzVNY2tUaVUzZzFwbzJJM0VjVS1fMzJwYVRZTjJUa1hLanNqU0NJUmN3ZWZJWU0xVjl3RTdhQ3dmNTZpTUhVLTBnUW10VUl1UHBhRC1FRXJXSU8zMGtjeHI4VFk5em1tNlRvaDBCWXMtb3BIc2FkOV9lRUI4bHMxdExtNnJzOEhR0gGrAUFVX3lxTFB0cEpnNTZnemRBUjhiX3FlNk0wSUhlbjg1dUlpNkZjRi1ZUldVczFxamtFQ1d4cFozUzRrUnVaTnR6TTFuWU43R29vNWgwWkd0ZEhLZTlRVllMZ0NPYlpsQTdWTEo5NHgwVllhTHl6QWQyeGV6TVlnbUZFc0t4WldLUlNJemRuU3JJZFBIMzZUZ2o3a0VpQ3JwSGtXQWsxVU52RWpjWU9NenhrYw?oc=5",
-        "source": "Football London",
-        "published": "Wed, 24 Jun 2026 04:01:26 GMT"
+        "title": "Real sign Schroeder in 'most expensive' women's transfer",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yaHRSWWVnRXdCX3NSWW5ZNGpVN1R3cnpVLTBOUW1RdDd2QXVjR2Vpdk9oT2hYQU5qUWpaekNnZlNtN0VsMTVzSVVVTndoWmhMNlFhRHJKX3dQOHkzMHdoSTUxRzhMWms?oc=5",
+        "source": "BBC",
+        "published": "Tue, 23 Jun 2026 19:54:40 GMT"
       },
       {
-        "title": "Transfer Rumors: Real Madrid’s Haaland Plan; Chelsea Battle Man Utd for Tchouameni",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm04eVBKRzhCcXJLUzVSc2dwSnQwQXBxbzNhSDgxYXVJdzIyQzF3OUFGWENHU3hiTUs5dWVPRFlUaTltOWZPVTE2cWtqZ1FuNXVFeEJJdGVkM3BsNWd5WWIxdlI0U29qbW00T1k5Wi1sRWlVS3FOVDRBWWZWclhObF9FT0ZZY0hSNVpHLWstd0xFWVhSMVoxcW5JTmhCNzdZQmc?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Tue, 23 Jun 2026 23:05:00 GMT"
+        "title": "Real Madrid sign Felicia Schroder from BK Hacken in ‘most expensive transfer ever’ from BK Hacken",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVBMSHg1c3Fld1ROOE0yOGpxV1NWT2FNNHZDb0R4QUdvNDUtSU9abkh5TmRZQmJPUUlpM215SnlZQi1ZRTFlU2kydDU4RGtGVlNLVERLMnpsd3hnQnpxYjBUcTAzZ1h0QnM5VHJDbHRKWVRtRzNac0pSYzV0eERJNEc4TC1VQWVadVBhRE90LWhCTU5tZHpwaUo5R0lGQQ?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 23 Jun 2026 19:10:40 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFlIVzZic2NnVHc2Yjl3SFpQRE1UZjhOYm02NU5aU2pkSlNpYUJkSkpxZFU4bGtoLWZrNXV2TmZYSGF5bHpENjlFaG1Uejh6NHUxOXUtOGZkUXU5ZWVyMHhYLUNXSXBtcDZETkFtdlVLSkNuZGNjZFdsbWRLMmE3LWUwUXlLVjBmUGxMc0EzWG9id19VS3FtRmZjay1rZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 23 Jun 2026 17:05:55 GMT"
+      },
+      {
+        "title": "Xabi Alonso now has perfect chance to complete Chelsea transfer for £78m star who loves him",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWEySzlFVkNmTlNmRTN1djNnaHRYSzJLYVRFYmllMTByeXY1NTVBdFVDendZRWJkZ2NhQjBwV0lEOWZhTTdnYWJTdWl6YjhMMDk2LU5hcm5ZZGI2YlB6Q1g1TGo3cEx5V0hMS1NVYk5CZGI5enpqUVNMQmowR00wOFVXX3NlNmUwa0tv0gGQAUFVX3lxTFByS1ZqQ3VCNTQ4aTlDUkREbWJWU2ZBRE4wRU1ZSXg3eFN4NVNIYjltZndsWFpsQVpCSGlmS2dCSzdBYTI3dXdpQk94cVNIbTJyYlFXWWc3RG1GcTlPcGVreUM1NUxiRWVJR3A4cjc3TS04WGo2U0VtTThKZzAzWVVzQkQ2WWh1Yk1vckI2SFp4eA?oc=5",
+        "source": "Football London",
+        "published": "Wed, 24 Jun 2026 05:07:23 GMT"
       }
     ],
     "fcb": [
@@ -1206,12 +1206,6 @@
         "published": "Mon, 22 Jun 2026 15:55:59 GMT"
       },
       {
-        "title": "Bayern Munich & Aston Villa: Five Lucas Bergvall transfer options after Tottenham exit request",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcWkzUTVTMTZFQnR0VWw3RW9DdG90RXdMdEhsT2lxMEVrbEdrZlpPdDVZQXByTFBud0F4dEQzZUd2TFRVR1lNM0JHNkdFV2t4bFYyOGpCcEJRMEhSNUJMSFIxLVdCQ1d2V1o4T2VycVNoSFVrSEpOTnVyVXpWQW9EU1ozVzV1WDEwc0UxRDZmQWdLWUNvQmxPZXBCRV92Wk9Qazc5UmRTUHdLTnAxS3lPaXNSQl9DdFlmVFVOQWs1MFMxQ2NhZ3g1ZHNJdjMzTGU2amttcVVwNFVwZw?oc=5",
-        "source": "Transfermarkt",
-        "published": "Mon, 22 Jun 2026 13:22:32 GMT"
-      },
-      {
         "title": "Jurgen Klopp confirms Bayern Munich star he wanted to sign at Liverpool",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUW41Z1NzNWRHWVBnSlBreC1XVGhad3ptYnBTVkg1VlBLUWRTbTktXzYzUWMzb1JaNW9NOHhWWXFfWVFBUTNoVllCX3FKYzltTUFXeXVNeUcxS21NWjdZSmU4R3ZUOE1PclN0azF1LWhVb1U2N280ZTVSUC0yWDV5Zi1qcThnblJaT2lKQ0RpdFJJVFFmX0ZMWkxfWjhZR03SAaQBQVVfeXFMTzJzWlNMc3VlLWZBazB5anVIZkM2anZFYVRycXRnTXBXVmhpQVg2eGdNTkdjSWVXdFBUcFBGRFV6Y3A5WEhGSEc1VFM4WTdIbFJERnhJbldlV2xYemRHanlGRTlfQWQ3aFJfVkNnMFQ1aGZ2VGVlV2QyOTFHZkpvRVg0NjdfM2w2TGdKQmtnQWxiMndBeS1zZ0ZtWG1iLUJTTU1MbDE?oc=5",
         "source": "Liverpool.com",
@@ -1222,6 +1216,12 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5scWFDOUllbGJ2clhUM3h6dHdQMjFhbWRrU3g0VTgwaWxXRlJVR0JlQk42bkh0YXhjQV9DRFI4cXA5SllOVGRyekFCRm1VcExMWjJYTlVHS0g2a0R5SVJUSjVzSzJJOVZOTlZFZml4bVNOTG43dHJ4MzFsSQ?oc=5",
         "source": "Bulinews",
         "published": "Tue, 23 Jun 2026 21:01:00 GMT"
+      },
+      {
+        "title": "Bayern Munich eager to extend Michael Olise’s contract beyond 2029",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHBJRm9lTnM3a05jY25pNnZoZmtnTXVyMzBWUks4T3ZLSkgyVlhHNDBQcmp5U2lwcHJISHR1QXlVY3NPbzl1ZWRvOXBZRHE3OERneURLR1hTQXAxQUtJd2tsZGZMQXZDUEZENmxMR0N3TEV4c0FyNzBWOF9LVFFKaEcyUDlkTTFoeXd3dXh6djNRbklvV09fbUpjdks2dkwxd3Q4ek5QajA0RmZVS25JSUdIZGJWbENhbUlrbU1USmF4bWhxOFIxd2FnRzI3cXFkSnd6UUZ6c3l4VlBYU2c?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Tue, 23 Jun 2026 22:30:00 GMT"
       }
     ]
   },
