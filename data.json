@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:14:30.931480+00:00",
+  "updated": "2026-06-26T21:02:46.670897+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -349,19 +349,19 @@
       "goals": 10,
       "ownGoals": 0,
       "net": 10,
-      "assists": 2,
+      "assists": 3,
       "scorers": [
-        {
-          "name": "Vinicius Junior",
-          "nationality": "Brazil",
-          "goals": 4,
-          "ownGoals": 0,
-          "net": 4,
-          "assists": 1
-        },
         {
           "name": "Kylian Mbappé",
           "nationality": "France",
+          "goals": 4,
+          "ownGoals": 0,
+          "net": 4,
+          "assists": 2
+        },
+        {
+          "name": "Vinicius Junior",
+          "nationality": "Brazil",
           "goals": 4,
           "ownGoals": 0,
           "net": 4,
@@ -671,7 +671,7 @@
           "goals": 4,
           "ownGoals": 0,
           "net": 4,
-          "assists": 1
+          "assists": 2
         },
         {
           "name": "Pol Fortuny",
@@ -1141,7 +1141,7 @@
         "title": "Transfer news LIVE: Arsenal in Guimaraes bid; Tonali deal agreed",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSjFrSjBqbU9EbjBiRjJ6MnpLWmRycGVQMGg2WXdFM01HSDNNT0FVQklmbjFKUFNiUGw1TTItMDZ4ajdKN0lvTGVZa0dDUGlNaGJPMnRmVlZJck5CeXMtRThjVVpHaHRBLXRtcWdYcFBUUm1LX0t4QzNNek5LVHhqcWd3aTZNTzlLMkEzS25WbHU4RHZZNVQwdE55T2FJUVZGOHZwTGt4NmpMQl9oc0JUZGVrcHVVMUVWdEsyYmtqdTRNRmJjRVE4YU9jNWNxajZrWnVKM1hRYWpYdw?oc=5",
         "source": "London Evening Standard",
-        "published": "Fri, 26 Jun 2026 17:41:34 GMT"
+        "published": "Fri, 26 Jun 2026 17:09:02 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal launch Guimaraes move, Man Utd agreement, £69m Liverpool hijack",
@@ -1162,10 +1162,10 @@
         "published": "Fri, 26 Jun 2026 17:56:09 GMT"
       },
       {
-        "title": "Transfer news LIVE: City 'AGREE £116m Anderson deal', Onana 'close to' Utd exit",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHBfdWUxM1hlRjZHdk9qX3lKQ0pPRUU5UmJRcDRaazFuaXFsTUtxcXhNVEhQdXQzLWM4SjJRSzRHQW1KcnJBYTBxZWo4SkVWZWxoWEhPMTVLUDB3N3NIbkNTbk5ITS1kWEFwWUlXbzdsY2xiSFlLakZHS0JOdFJ3SU1OOTlucWdxUl9pYlM4dWpYWGh6MG1YN29zWlVESFF2R0RObWU5QXk?oc=5",
-        "source": "The Sun",
-        "published": "Fri, 26 Jun 2026 19:10:13 GMT"
+        "title": "World-class Man Utd move clears major hurdle as INEOS prep mega contract",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVJTmE3eF80MU8zUTVmS1BLV1RhN0tab3RxWFpUb1R3T0tUcE5uS3h2MkxzT3lwbEN3NjZ1MlcySEdIeWN0NXV3TVQycUpDTzA1MHc4S2Rod1VLa0V5V0JOUlNhYVRPcGJTdXREelh6RnpaTXdiR2dvMkpodGdqeWZNcWtpVW92dkdRMmVHZ01RaFNxSUI3cnhwQ3BaUjNjYWZZVEkyZlljM1VnTWRjZUR5Z0JqNE9nVFFZMW5VMGw4Zw?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 26 Jun 2026 16:45:13 GMT"
       }
     ],
     "rm": [
@@ -1182,16 +1182,16 @@
         "published": "Wed, 24 Jun 2026 23:05:00 GMT"
       },
       {
-        "title": "How Eduardo Camavinga could become best midfielder in the world with £60million Premier League transfer",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjlrZU13dzhnVXJKOEZEdlRGSVpvNHlOVVN6OU9zcEtmdnlRbk1FV1I3QThRUTQ1RFU5a1kzQ2Jqd0c4dWZuekREdmlzU2Y4eXlMU0F0M1BLSE0zYmxEcVN6QWNVcnhvbFBsMmMwTjVPck0wNUZkckxDNEstYjZWTmtzUy1lRTE3RkttS2NMZ3B6OUYxbUQzLWlDalFxcG9OaGVDSm5B?oc=5",
-        "source": "talkSPORT",
-        "published": "Fri, 26 Jun 2026 15:26:39 GMT"
+        "title": "Real Madrid hand Liverpool huge blow in chase for €100m star",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWlNvUkY2ZHNoWDZfc255dklJWU5YSjM2UkxYLVpEVUNvRG9tNEdPblhEajdmNzNxdW45U01pSzIxb01HMTcwSlhyQ2VobGh2RlNMbDNGMk92U1lxWi05R0M5cjQ2OHVoLURldzV3Zk45Ny1pcmplVGQyeHpEem83UHdnRWM1YnRsaDZrU1dZQXQ0M1BiblVQal9Nc0J3Z3A4cTJiRTJNcERGOF9yZC1FYmFn?oc=5",
+        "source": "Anfield Watch",
+        "published": "Fri, 26 Jun 2026 17:30:00 GMT"
       },
       {
-        "title": "Real Madrid star reveals huge Man Utd ‘offer’ to Mbappe as Mourinho ‘asks’ for Red Devils sale",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmVFejA1T1cxWEdYSEJBMkI4bDU1c3VMb0ZfSHdya0hyNjBkSVg5YktPM3Ztc1BTbnlWOGgyMnllSWhacE8yNDVSMEF6Y2VsdHNSTG41NlFQVnlsUzlpcHB4VWNCcFhkQVZsbGROZlFMa080ZDk1cl8xM0c4QlhSdmUyMEc5XzBSSU1qdEp0MTRyMVdycHdOSU5aVzgwRGUtNG9zaWo3Ymk?oc=5",
-        "source": "Football365",
-        "published": "Fri, 26 Jun 2026 15:33:39 GMT"
+        "title": "World-class Man Utd move clears major hurdle as INEOS prep mega contract",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVJTmE3eF80MU8zUTVmS1BLV1RhN0tab3RxWFpUb1R3T0tUcE5uS3h2MkxzT3lwbEN3NjZ1MlcySEdIeWN0NXV3TVQycUpDTzA1MHc4S2Rod1VLa0V5V0JOUlNhYVRPcGJTdXREelh6RnpaTXdiR2dvMkpodGdqeWZNcWtpVW92dkdRMmVHZ01RaFNxSUI3cnhwQ3BaUjNjYWZZVEkyZlljM1VnTWRjZUR5Z0JqNE9nVFFZMW5VMGw4Zw?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 26 Jun 2026 16:45:13 GMT"
       },
       {
         "title": "Explaining Real Madrid’s new €60m Nico Paz deal with Como – and what it means for transfers",
@@ -1214,12 +1214,6 @@
         "published": "Fri, 26 Jun 2026 16:39:51 GMT"
       },
       {
-        "title": "Man Utd, Arsenal see late hijacks fail as Bayern Munich move to tie up £47m deal",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmVZUUwwYWJiWkFvZWMyYUc4RGQ2YWdwN29PYzc4M3ByYjZ0NE1xWjVRYUdpSDZiSzNiSDR3bzRCeWhuaFlWVkRNV1VTdkZmQU9EcjVQall5SDlmcVpTVmR5ZTVtYmtzcVI2YTBMRzhzNFhGb0J2X3U2Z19yd1A3YnhRM0FxckNQeWxieWNIZFN2bEg4R0UyQUMtTTBXTGtiZ1FSN282SU9MTEU5?oc=5",
-        "source": "TEAMtalk",
-        "published": "Fri, 26 Jun 2026 14:37:13 GMT"
-      },
-      {
         "title": "Rio Ngumoha, Liverpool, Bayern and the oddest transfer story of the summer so far - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFl6UVljWUdnTTZ1V2hXdHhmMmJ4d2taV21EZi1wcS00YkdoRzhwWWIzZlUyZnlxOVhmM2xoaWhVMVptZlZZSE1OV0RKWDR4bWVCeUtoZ3RGQXFxQ2UyU1ZuNWlRNlVZcmM2T1ltalhoQnI5RXkxOEI3Y0Z4ekdjbnptNzd3Ql9oN2kxYVhaenl0bFVpNmxZTGpadDA4aWM?oc=5",
         "source": "The New York Times",
@@ -1230,6 +1224,12 @@
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZDNOZ2hva3JzNEd0UjNwcFM4TEVTclUybThNOWp3d3o4alJpLVNyQUdOYm5pakJjU0xCeWY3YThSZUFPbHJTTmxiS2VBbnk5anhqaF9NVk5xWXl5N2NUXy1nYkprS0lrT1RsYUpwdVlIYTU3X0hjNnVEcEZTek5RbHZ3VzZJZjIxaEJ6a3ZTd3NFWmpZSGFNdUttWlBGUjE3d3h4UW85c0todDlYenBqRDZSOXN0dHlJbFN6SVRoRnhhX0gxWkkzUjVPMllIbkZvT2NaUlRubl95ek9tdmFrREtnTFFSY184SmxSSUwtUjBXUGtHTjgzY1cxY3JYZUljdnp6OG9VWmN3LU0?oc=5",
         "source": "Goal.com",
         "published": "Wed, 24 Jun 2026 18:01:47 GMT"
+      },
+      {
+        "title": "Man Utd, Arsenal see late hijacks fail as Bayern Munich move to tie up £47m deal",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmVZUUwwYWJiWkFvZWMyYUc4RGQ2YWdwN29PYzc4M3ByYjZ0NE1xWjVRYUdpSDZiSzNiSDR3bzRCeWhuaFlWVkRNV1VTdkZmQU9EcjVQall5SDlmcVpTVmR5ZTVtYmtzcVI2YTBMRzhzNFhGb0J2X3U2Z19yd1A3YnhRM0FxckNQeWxieWNIZFN2bEg4R0UyQUMtTTBXTGtiZ1FSN282SU9MTEU5?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 26 Jun 2026 14:37:13 GMT"
       }
     ]
   },
