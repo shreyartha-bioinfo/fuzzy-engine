@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:49:40.601057+00:00",
+  "updated": "2026-06-26T02:28:42.295464+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -346,9 +346,9 @@
     "rm": {
       "name": "Real Madrid",
       "flag": "⚪",
-      "goals": 9,
+      "goals": 10,
       "ownGoals": 0,
-      "net": 9,
+      "net": 10,
       "assists": 1,
       "scorers": [
         {
@@ -370,6 +370,14 @@
         {
           "name": "Jude Bellingham",
           "nationality": "England",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1,
+          "assists": 0
+        },
+        {
+          "name": "Arda Guler",
+          "nationality": "Turkey",
           "goals": 1,
           "ownGoals": 0,
           "net": 1,
@@ -543,9 +551,9 @@
           "name": "Arda Guler",
           "position": "Midfield",
           "nationality": "Turkey",
-          "goals": 0,
+          "goals": 1,
           "ownGoals": 0,
-          "net": 0,
+          "net": 1,
           "assists": 0
         },
         {
@@ -1130,10 +1138,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer rumors, news: Arsenal, Man City keen on Sporting captain Hjulmand",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUhJWTJwTHRVelV2VEtOeDY1MVpZMFRHRkxCUXo4WUJiTUYyY3Z2QWhvWVRnTjJWaWRVZWpmVTFuNmVpYk0zdGl4VlF6SWxSbHhucWI3WmZWankwVmtmbjB0MllUQTBVTi1oSmhfSGh3Y3RXb1VkdXNRNG9neXZEaVFIOGdHUk5ZV1VxeUNFSy0tMDNySHhmOXlSQ1FOLUFjdjQ5WURBV1dZQ2tURDhoUWE4RnJyak0?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 25 Jun 2026 18:16:00 GMT"
+        "title": "Man Utd contact Julian Alvarez's representatives to join Arsenal in battle for Atletico Madrid forward - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWVJ5aXZpVWFKODJfOTlDXzR3ZHFIOG1BMF9MUXAzUlBUWlZQdVUyd0dfaU1uUVE5YkpubGJiZERvNmMtTEdXczE3SVUtNU52UEpKdjhQRXdsNEFQaVhfVXowVi1CM0lmNXhlaTVWelZOWmRBQXVtbS1mZ2pBN1hpYmljeUVXSUdHYjdheEVaRHE3eWtGTkFnOXdXNkt6M1VHeURZM1ZXNGY5N0FWN0tQNXB4TkU0Y0t6VmRoaGJVSW9OeG5CeGVPWms3a3pSclZFMDMxVnFlWkhmY081amhXMHRBb2gzcXdQQkJGYjRtaUM2bWhoOHo1TE1tOA?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 26 Jun 2026 01:41:25 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal to make Rogers bid; Man Utd deal hijacked",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGdMQXJ3RTF0NERkeE9EcVg4S3NZZnZKNTlaMWhma0xJTXF2RDJYVk1lNk1nX0RYaFI1LWg4aEVLRGdVQ3NWWWhNSmR3NU5DaS1uTFBJV1ZEUktOaXdSUlhYNzE2cGltNzZsMWZmUGdMQXc4aWRSc0loemstN21Samw2YzRkdW1hRENyaU1hUW5VLUFQQVhuYUZJRF9Gb2FydU5Xa1NtZlZzNnJvLUdWRUZNUkdfMDAyQ21fTGhBcGVSTGU4OFBGdTdPQXhydy1ucGt3?oc=5",
+        "source": "London Evening Standard",
+        "published": "Thu, 25 Jun 2026 19:56:40 GMT"
       },
       {
         "title": "Transfer news LIVE: Elliot Anderson agreement, Bruno Guimaraes to Arsenal, Sandro Tonali update",
@@ -1142,22 +1156,16 @@
         "published": "Thu, 25 Jun 2026 22:59:48 GMT"
       },
       {
-        "title": "Man Utd contact Julian Alvarez's representatives to join Arsenal in battle for Atletico Madrid forward - Paper Talk",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWVJ5aXZpVWFKODJfOTlDXzR3ZHFIOG1BMF9MUXAzUlBUWlZQdVUyd0dfaU1uUVE5YkpubGJiZERvNmMtTEdXczE3SVUtNU52UEpKdjhQRXdsNEFQaVhfVXowVi1CM0lmNXhlaTVWelZOWmRBQXVtbS1mZ2pBN1hpYmljeUVXSUdHYjdheEVaRHE3eWtGTkFnOXdXNkt6M1VHeURZM1ZXNGY5N0FWN0tQNXB4TkU0Y0t6VmRoaGJVSW9OeG5CeGVPWms3a3pSclZFMDMxVnFlWkhmY081amhXMHRBb2gzcXdQQkJGYjRtaUM2bWhoOHo1TE1tOA?oc=5",
-        "source": "Sky Sports",
-        "published": "Thu, 25 Jun 2026 22:41:25 GMT"
+        "title": "Man United transfer news: Julian Alvarez hijack, Mateus Fernandes twist, Guimaraes 'talks'",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkU?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Thu, 25 Jun 2026 22:14:16 GMT"
       },
       {
-        "title": "Bruno Fernandes' stance on summer transfer away from Man Utd revealed with Cristiano Ronaldo's Al-Nassr ready to pounce",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdl9wRGp1d3VENm1QTElWSENqRWdmV1BkVlJ1TEtxVWFQakFyb3h6Z3VORlNBc3BfWlQ4N3BadVZrcmM4ZDF1eExfR3NVSmJybGRCMlU3MFdtNGRMNnlYcDlZcUVVck52aU1SV2xMenk4RUg5TmlFS2ZqTzNGQUtTTW9xOFI5Z0l1RmFmMVBqOW92TzUtc1BOSFlvckpoQlJOS1VQM0NxREdhTUNZNE1LMWRYcVktdDRycnBWM3dVOVR5ZThnTGU1Qno3cGVJb3dpZTJFallyaHhEcC1hamxUNkZWNTJtaVF2OG1rVDd3V3ByTVdHYUE?oc=5",
-        "source": "Goal.com",
-        "published": "Thu, 25 Jun 2026 20:19:20 GMT"
-      },
-      {
-        "title": "Bruno Fernandes makes decision on Manchester United future amid Saudi interest",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWW9vUXJiNkYtLS1UQ2FXUzhlV3BwUVQ1VmZjY3J6UGhWUUxZeUprVllPZ2tVdDBQN2pnWHljdFJxT1dlbUhNQkpyVU4xWEowbG4xSEVmenFqYjlkS01rNk5uanFGZk9tcHF4aGl5VHh4ZDQwc21NendHaUhXeEFXcGxSOENXUVRYYmxfWENVT1FXQmNvTnY2elNB?oc=5",
-        "source": "talkSPORT",
-        "published": "Wed, 24 Jun 2026 14:00:07 GMT"
+        "title": "Transfer Rumors: Eye-Watering Nmecha Price Revealed, Tonali Chooses Next Club",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWRhXzNXd0EyeUgwT0RJb1pFYnNuM1VsdFdrQk50R0ppM0hvazZLcGhJcHVvTjItODhNTmEwMmRTeHBCSE55N3YxU3JqdFdDTC04amtaX2tOYWNNX0F0cHdkMzNfZzduY25uZmFpQmt5MER1ZGw1VzdTSW1MSjV0MF9YdkxWcE8zMHNpTTdhWDMwRWZKM3BGMVZzQ2JnYnRka3Y0?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Thu, 25 Jun 2026 23:35:00 GMT"
       }
     ],
     "rm": [
@@ -1168,28 +1176,28 @@
         "published": "Wed, 24 Jun 2026 23:05:00 GMT"
       },
       {
-        "title": "Enzo Fernández takes center stage in Real Madrid’s transfer rethink",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUZHWFBBRjdwYWtxdnNHbVBuLXNySlR1NlJERW5reXdpSDUzRERPaWItMVBoMmtzM2FwNnp2Y1p3MkM4RjBSeXJpX040amQ5eU1rWVdYWmlZc2gzZmc1Tnk4SHo3eUxvbHF6cUs3dG5sSHRtTGtTTjNiM0dMOU1VNmJfa1ZBMW43TkN0al9LTUJRN0QtV05MRDJiSG9xSXRpYzkyTtIBuAFBVV95cUxQdUlOUi01SmR1WDQ5QWV0ZjFzMTNJckM0LXVYejhya3hBZjJSTXJWQ251VFYtRjVqc1Mxem5EZkNpZTA2V0lTRzJNS1loMERrVmlfdWViNW55V3VxRzlNV0hQMERMdnkxaEN0U3BoSEhQYmNrNUdZVVo2R21PQkMyZkRCNFZpT1pJQWM2VnhMRkFQUzBDRTNyeTFyWW9YN3pMRU00cGU5bk5ZYnNPa0JJV0R1UUxmYmgy?oc=5",
-        "source": "Diario AS",
-        "published": "Tue, 23 Jun 2026 11:22:01 GMT"
-      },
-      {
-        "title": "Chelsea learn Enzo Fernandez to Real Madrid deadline as Jose Mourinho eyes dream transfer",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVh1dEtneDBqSF9lS1J0UkU1WHpIY2FhTHZYSmNiamlfbjRHdFpvT0ZUdm5waEhlZVQ5TWVnMHFXOC05X1FxOTQtMVZTemM1WHlRT1ViT095UmluVlY3MlVjcXhURXotejZoMzIzc3pPN2JUV2ViVU53WkdSVlVFc3JFeklFbGRwWWMtSlBzRUZTbWhvNjlxazVLRdIBoAFBVV95cUxNNlUzOXNYcEprQlJaVUdMTnFTOGlwTzNkWGJkaFpRbDBlNU5LUG1LTVVXRnNSdHJLMTFlTmZPS3BNTFI2ek1ja1NnWXlSOW9JQXhvcnNMMXRhOGFNTUdldFViTTlZc1ZLMnNwY016MXFaa01sS19POG90MVhVZFZYSFl3YnFXNTBYQ2J1Y0N6NGo2OHhCTVZlNjlaZGFuUFMx?oc=5",
-        "source": "Football London",
-        "published": "Thu, 25 Jun 2026 11:36:22 GMT"
-      },
-      {
         "title": "Real Madrid transfers state of play as Jose Mourinho’s summer rebuild gathers pace - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOalFkOV9GRDBjb3BCcXBsa2h1YktkbURIMUhOa3dZUDRrMEJLbFpkTkY0ZlNQSWtDOU5ndmxZdUVhX1lYdXcyQ2g2cDEyY253V1pYNU1wOW1oXzBNNW1YUHNVbmk1WHV1cmtTckV4OXJTcVhwNHNNTXliS2tCN0NndVVhMFJWdVU3OXN2Unl0OW1hQQ?oc=5",
         "source": "The New York Times",
         "published": "Wed, 24 Jun 2026 08:35:45 GMT"
       },
       {
-        "title": "Real Madrid sign Sweden's Schröder in big-money transfer",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVi1vb1RvUWhCX0t2d1ZDU3ZzeTdhaEtiY1IxdlF2WjJKWEtPbUhPVldIUnQ1ajNPYmZrXzkxTU1CM29mX2JXQUlfZ2ZDMXhGQWw1TUFrN0EyY0pQZW5nMjZGLVN2RXRsU2tNVUMxV3pCcE9yQVJNV1JqdlhfMnVIeUhuR3k5OS1UUnd0Rk1rMVN5dkJBMTVEZGVHTHNQOE1WQzFtNg?oc=5",
-        "source": "ESPN",
-        "published": "Wed, 24 Jun 2026 02:55:00 GMT"
+        "title": "José Mourinho explains Real Madrid return and makes bold promise to Mbappé",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGhWT093TFFoRXFFSmlfT0NuNmtSOENJaDFGV2c5WmM2Q1E1TEV6ODBmdVgzWDVYRjZiWjVSUG5sY1B5em9NWDhhZnR4Q0RVcm8wQ3lPUVZoVXA0ZHBFZ3cydU9GZnpMMklRRDZ0TnlmUUNoaktLLWFPYXZpUzhUTWJmV1hyTzJRNngtaTQwd1B2d2VOYjBzTlBWWms3Q2RJV3ozSmRlZEUwZ2RBM2Nv0gHDAUFVX3lxTE9qaU5zR2F3WmdqQmRPNGFxNkRwa2lzZFBFWEktVkNfYXVhLXpxYnVMa2dIT2dzQUplV2V4blcwRmdZOGlDR0ZQUWZNUWR5bE5ITVRXUVpsTmRzSi1sejgtUTVabXI1T2w4SE44dVRMaWNraGhDOW54UXVFLTFoZ3M2dzd5azRHT2ZSckNiV2ROYnhEeldBc2VzU1BhRzd1RHJiRzRHQXpVVFFkUnlNTU9TZDVsMHEydXBhaEYtZkxoSkJYaw?oc=5",
+        "source": "Diario AS",
+        "published": "Wed, 24 Jun 2026 11:10:47 GMT"
+      },
+      {
+        "title": "Real Madrid add £69m Arsenal target to transfer list after Jose Mourinho request",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS09EOG1tYzdZeExmekhaUTMzMTYyZlBnZEhsYnJwaWptekRXeW5wMW9Qc3pBdDNGN2dEZVIyRFhPNXZna1pTWXkxYl9ONTJtMWNUUDM3ZkMyV2c5cmxITWZJbGk2b0huUDlRdlo4LVNUMF82NnFlNVUyWm5Ed2ZycjVQT0FGQUoyZkhhbWxrVHc0Z3VPRER6QThlT185YUl1ZHU0MnVCMzRKSzJITW52RdIBtgFBVV95cUxNanVYWHRfcmFuV3pFMjlDYmhpX3FfNTB5Nl94R19wZi1IX2V0Q3B0aUtsamtoWnE0UFFieW10Z0lJaDRIOGU5Sk5TNWVLVHBhTnB0d0dYX2tSdmhGWXBGdll5dlN0aE5IYUZkeEkweDdHY1BxT21vN1NLaGtTNkplOHk4RmI1dmVqOVBUMW9mQ3J0MTVuOXd1S0dWT0E5d1gyc29jVFc2M3BEM0tPaUIzOHZ1MmhSdw?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Thu, 25 Jun 2026 17:41:00 GMT"
+      },
+      {
+        "title": "Real Madrid trigger Nico Paz’s buyback clause, will sell him to Como for €60 million -report",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVZQTkJTRE9iM2RNU1NMaDRlWVVWYUl1aHZ3dWIwdWxWbUZjQXp2X0EwbzE1VXN4TDV0VWxDMG1TZ3FiN1gxZ1llV2ZlbTlic0paaWI1eHNsTzc4MlN3QmtyNU5hbVo4YkRyNmlwOElWbVdMS0NuTUdWMkk2Qm5Dcw?oc=5",
+        "source": "Managing Madrid",
+        "published": "Thu, 25 Jun 2026 18:18:08 GMT"
       }
     ],
     "fcb": [
@@ -1227,35 +1235,35 @@
   },
   "upcoming": [
     {
-      "id": 537349,
-      "date": "2026-06-26T02:00:00Z",
-      "group": "GROUP_D",
+      "id": 537395,
+      "date": "2026-06-26T19:00:00Z",
+      "group": "GROUP_I",
       "status": "TIMED",
       "home": {
-        "name": "Turkey",
-        "flag": "🇹🇷",
+        "name": "Norway",
+        "flag": "🇳🇴",
         "lineup": []
       },
       "away": {
-        "name": "United States",
-        "flag": "🏳",
+        "name": "France",
+        "flag": "🇫🇷",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
     },
     {
-      "id": 537350,
-      "date": "2026-06-26T02:00:00Z",
-      "group": "GROUP_D",
+      "id": 537396,
+      "date": "2026-06-26T19:00:00Z",
+      "group": "GROUP_I",
       "status": "TIMED",
       "home": {
-        "name": "Paraguay",
-        "flag": "🇵🇾",
+        "name": "Senegal",
+        "flag": "🇸🇳",
         "lineup": []
       },
       "away": {
-        "name": "Australia",
-        "flag": "🇦🇺",
+        "name": "Iraq",
+        "flag": "🇮🇶",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
