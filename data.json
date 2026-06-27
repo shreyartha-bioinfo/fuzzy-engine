@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:54:28.541987+00:00",
+  "updated": "2026-06-27T22:55:14.681136+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -346,10 +346,10 @@
     "rm": {
       "name": "Real Madrid",
       "flag": "⚪",
-      "goals": 10,
+      "goals": 11,
       "ownGoals": 0,
-      "net": 10,
-      "assists": 3,
+      "net": 11,
+      "assists": 4,
       "scorers": [
         {
           "name": "Kylian Mbappé",
@@ -370,10 +370,10 @@
         {
           "name": "Jude Bellingham",
           "nationality": "England",
-          "goals": 1,
+          "goals": 2,
           "ownGoals": 0,
-          "net": 1,
-          "assists": 0
+          "net": 2,
+          "assists": 1
         },
         {
           "name": "Arda Guler",
@@ -632,10 +632,10 @@
           "name": "Jude Bellingham",
           "position": "Midfield",
           "nationality": "England",
-          "goals": 1,
+          "goals": 2,
           "ownGoals": 0,
-          "net": 1,
-          "assists": 0
+          "net": 2,
+          "assists": 1
         },
         {
           "name": "Manuel Angel",
@@ -795,17 +795,17 @@
     "fcb": {
       "name": "Bayern Munich",
       "flag": "🔴",
-      "goals": 4,
+      "goals": 5,
       "ownGoals": 0,
-      "net": 4,
+      "net": 5,
       "assists": 1,
       "scorers": [
         {
           "name": "Harry Kane",
           "nationality": "England",
-          "goals": 2,
+          "goals": 3,
           "ownGoals": 0,
-          "net": 2,
+          "net": 3,
           "assists": 0
         },
         {
@@ -1082,9 +1082,9 @@
           "name": "Harry Kane",
           "position": "Offence",
           "nationality": "England",
-          "goals": 2,
+          "goals": 3,
           "ownGoals": 0,
-          "net": 2,
+          "net": 3,
           "assists": 0
         },
         {
@@ -1144,16 +1144,16 @@
         "published": "Sat, 27 Jun 2026 20:15:13 GMT"
       },
       {
+        "title": "Transfer rumors, news: Arsenal, Man City keen on Sporting captain Hjulmand",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUhJWTJwTHRVelV2VEtOeDY1MVpZMFRHRkxCUXo4WUJiTUYyY3Z2QWhvWVRnTjJWaWRVZWpmVTFuNmVpYk0zdGl4VlF6SWxSbHhucWI3WmZWankwVmtmbjB0MllUQTBVTi1oSmhfSGh3Y3RXb1VkdXNRNG9neXZEaVFIOGdHUk5ZV1VxeUNFSy0tMDNySHhmOXlSQ1FOLUFjdjQ5WURBV1dZQ2tURDhoUWE4RnJyak0?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 25 Jun 2026 18:16:00 GMT"
+      },
+      {
         "title": "Man Utd and Chelsea enter race to hijack £69m Arsenal transfer",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVF3RW96b0xKbUdDUm5hR1pYRXE3TzlXa0VDcDVDRTF6STFhX2pjaXZZNjZYQzZuQXBNbmZvZXNkTkRZZzIzUmlhcTJ5RUVtSmFFQ3hFd0ZGdWhoLVZvMlRxV0FaU0RnZmcxc1dYT18zUzVTYWZRNkhGdnJYcUlUdnJkUG5XVFdkQ3lnejA5d2wzM2NFTmZqbjFoc9IBoAFBVV95cUxPR0EyYlpabHB2VmNYeGI1RHZmeloxdmhOTXR3OG1fUUlpcklyT1Z6U2VobFI4NWVTbXBQazVZZF9pZUNkWkhfcnpqTFVTWF9acXRCOXJJUE9iY2d3YlhjRzNaNEJDZi1zLUhiX0ZrZkdUcVk5WXhoS0VuLUhlQnpYY2pGTkE2a2NsUDdBUjJMa1BYNG9EbTlaWXp5SVFfOFpD?oc=5",
         "source": "Metro.co.uk",
         "published": "Fri, 26 Jun 2026 12:51:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Anderson 'to undergo City MEDICAL', Alonso 'wants' Chelsea",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0ZPT04yNF9kdVE2dGpGRjA4UjZaU0tCODN6cnNLUTM0bU1xQ3ZqbE9xd3BKWW40YmttM3ZWcVJTc09QRDZXYjNYOUEtNmR2eWF3TGJpdXZEdWZXRjFuLWMwMFVxNy1JTS1GZTdHY1lyazUwUDZlNzVaS3d1QThhUmczZDIxOTVHZ0NBcmRZTWEtZk14WVJGTGFQaHVXREl4NVdIWjdR?oc=5",
-        "source": "The Sun",
-        "published": "Sat, 27 Jun 2026 20:40:55 GMT"
       },
       {
         "title": "Man United transfer news LIVE: New Mateus Fernandes talks, £47m star agrees deal, World Cup injury",
@@ -1162,10 +1162,10 @@
         "published": "Sat, 27 Jun 2026 19:47:48 GMT"
       },
       {
-        "title": "€30m Barcelona star reaches decision on Man Utd move amid new Mateus Fernandes offer",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmViX1dPdzRXVnppUzdHeGI2XzVtUkZhYzQzWlRKQW5lRTYzd2JnbFNrS3RYTUl3WC11a05OQWxDcm9TbFUxalVqX2F5Vk1YdUpIU2dvck1lajlVeHZZcEdUMjhqOWtNQ0xqQmc2SkVMb2IxWC1kS1BwQ2RnMVB2Qk56Z0pGYnNnRUVXZHJUMkRldlFTemtwdmtuSFhWb0pvVXphOWVrRFRtOWduRHc?oc=5",
-        "source": "TEAMtalk",
-        "published": "Sat, 27 Jun 2026 17:30:57 GMT"
+        "title": "“Advanced talks” held as Man United & Tottenham transfer saga should be resolved soon",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUZ3czlTQlprek1KRkVSM1M5dzQ2b0tmNllkeFI3SzZ1LW1JNjRkc01xY09EeDU1SEVQcGJ1REo2Ty1vNWRJdF96ZWk3YzBpYXIxSkdGeF9ZTEVFM0pQQXRwN1hCTTY1MDh5aHZNdDZKdlJMTU4yQmtKVmx2ZXRmOEdmZlFiNU1a0gGOAUFVX3lxTE9FT1ZWMElYejNvbXBvTmJMaFYxdGpxM2dBbFljbEZrQ1h2NncwZkVqR3NpbFo4RDNMSWFnUEl4OFBIc1l1aTBfQ1huRmZtbWszcVhsUlNRZ1hmVUZGVWR3MjhSZHZrZ1o4UjFCalB1Y0FDblUxMGRZbW56QThmeEFlVnU4dk03X1FEcGV0WGc?oc=5",
+        "source": "CaughtOffside",
+        "published": "Sat, 27 Jun 2026 19:55:18 GMT"
       }
     ],
     "rm": [
@@ -1220,16 +1220,16 @@
         "published": "Fri, 26 Jun 2026 04:30:40 GMT"
       },
       {
+        "title": "Bayern land Brown as Milan make double striker swoop - Euro Transfer News",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPLWFpVlg4UjhqR2d6VV9XczBrSzlEbDBod3p5Z3kxTElJWG5nZnY1LXZqZGg3S0JrNE5UTUFYeEJ5N3pWZDJ5UjlDOXBfVWdpNVRTTmdoWlRhWU5VTWFjS3NjcmFBTlZKX0pOd3p4dFFpcTItYUNpV3JSenNqLXJBQ0g1eC1qZktsdEhfM1BzNlVMS3hwZDZqYUxxNjN2NWVoSTZpYjBzNVVnOTlpbUVMcndsSjV2U3ZqVHdlNzRudFpyZWIzNFZlMEIyVFRMcHh6V3RSNzhPT0NPNlNWaUZ1T2RWVmtIZFo4NVd6RDRHajNIQ1diZDhGQlg0cmhTMmNucjdOekpR?oc=5",
+        "source": "TNT Sports",
+        "published": "Fri, 26 Jun 2026 17:43:00 GMT"
+      },
+      {
         "title": "Report: Nathaniel Brown transfer still on for Bayern Munich",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUwxNXE5VlBsVE9aa1ptMUxfdFZXbjNZa21uQmhmelFJU2k1UkttWDRSS21kWmRONUFXYVdVaVBUcWNTUWoyVmJpSm5XYWRwM25nbTJQTE5ub1VGYlZQUGhKRzcySnZNY1ZZaGg4V0lncjhVMUl5cmcyUzlnNTZJSDVNTE5WQUI2Zm43Y0RZaw?oc=5",
         "source": "Yahoo Sports",
         "published": "Thu, 25 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Bayern Munich, Konrad Laimer agree to new deal per report",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGUyRXdVQmNFbkkxOGxnOFZQNHJNTmkzMU9kdTdZZ0xlXzg1eTZ1Q1N1dHBWQXhUdkJOT0d0SzN4RW9wdkhucENaMjVobm03Sk1uZl9MSnlwWlhtMkVmcjA0dDZTNERJWEFDakRORm5jMzBuVHkzUlhxbTJNZkR3VG9HNzVEMnVMcTJCRzVRanY5d3VvUFV0dF9rVkh6WVBXRXY0Y3BIbUIyUEp5LTlNbHJTVmVCUTV0WGY0cFB2ZkY2eTRtR1NiZWdudUc5VVZrbzc3dzNfQ0FCcDhZUFE?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sat, 27 Jun 2026 09:45:00 GMT"
       }
     ]
   },
