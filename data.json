@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T02:34:16.938097+00:00",
+  "updated": "2026-06-28T09:53:19.032771+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1138,16 +1138,48 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal up Guimarares bid; Man Utd make huge offer",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTJiaUdvLTcySVVyZFdyME1sdVYtWXZXRnhLTG5xUjZkaW5fOU80Um9kTlc2dGZHRmdWRDhycTVOSDdnb1Baazl5eVRSMTZ2VS1iMVNOdHEzU1JqUWloWjJnSVEtMlBqd2xSaHg0NktNaHU5aTNIUHFsR29xMmoxR3FRYW1LcVc2VnJKSUxNRlo3NklWTHVjNWc3M0FaSk5uQUpHMC03R2g4aTB2RGNMLVh2Nm43REhiOHAtREsxR3pNWjBBNExB?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sun, 28 Jun 2026 01:00:19 GMT"
+        "title": "Man United transfer news LIVE: New Mateus Fernandes talks, £47m star agrees deal, World Cup injury",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdG92VjdmaEc5Y1A5RnNMMEVyQ0RMdk1SRGlLcHJabWxDOXMtUVFNdjRZcWM3cG5qYVJpNXc1Z1NaY0lvR0NyVkZhaHFzdGpqcVpvUThaaFVXU1JFWDVMeDRDRndyckdhdTQxMl9hMW40cXUwajBuc0Voa0l0Rmd3UEdaVEJ5eU5wTFQ5REZ1SzFsell5T245cXhOWnNRT2V2Zm5KdHJUUUJVTms?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 28 Jun 2026 09:13:48 GMT"
       },
       {
-        "title": "Transfer news LIVE: Chelsea move for Granit Xhaka, Bruno Guimaraes to Arsenal and Man Utd updates",
+        "title": "Transfer news LIVE: Marcus Rashford move, Yan Diomande update and Granit Xhaka latest",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXpQeWxtclFxTVY2UnJ4bFBVMVpFM3Q2MWdZUzZjRmgzZ3FMRHBoVEhlLVZZckktOHU1dU9YTm16bDlDTkt0cEZrUVpkUHcxSk5LR1cySVNwY2M4b3ZqWFRWdEw1MFhpeGRQMmVaOXBQS3QzS3B5RlQ0Sld1SzA0ek8yaHpINUx6b3A3TURpaTVhcGvSAZgBQVVfeXFMTktXdXltd3BoajBWYXhnV3ZzQUpXX2JrUV9pTXlpWlRHcTdwMXlsQUx5RjBRdGUyRlJpOEVQTlNPRFBxQ3lLSU9QdzNhS3pVVEctR1VKS19mM0lEU19jZFpDdFJSLWlaam5JM01reHEwWVF1anhJVE94RkVwUlR1VUNnTXdBNXh5Sk9OOVBuS1NOdFdwX2FmYVI?oc=5",
         "source": "The Mirror",
-        "published": "Sat, 27 Jun 2026 23:35:43 GMT"
+        "published": "Sun, 28 Jun 2026 08:49:56 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man United to move for West Ham midfielder",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXNBcnRZVGRnVlhNem9sVmwzak0tYzM1Ui1ZNGFDdWNUbWdvR1R6SFdpQlpzTFVhalBGQ0xxUGZjUnNkUE1sUHU0RS1CeEVYbFR5a0FhMWZfakNKc2E0aXFsWUFpZk5CNTU5VTFzWVJTVEdMSFkxcHVkaGpZTnpyTjVyUGR1Sy1leDRHYmZ5c0hqMnd3Z09lS1o0TGgtbmp4b2lxOEJVMA?oc=5",
+        "source": "ESPN",
+        "published": "Sun, 28 Jun 2026 07:51:00 GMT"
+      },
+      {
+        "title": "Three midfielders and Mateus Fernandes movement - Manchester United Notebook",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVENGNWZ2bTBhTW1KeFM3NGp5RzFOMkJEZ09iM2twZmNsejEwbTBhaVoyWkljMHA5NnpVS19Yd3Y0MHZrdDREdmI5OUZqal9HcTdqQlVFM2Y5NTlpMkZDNmpCcUJac3JqLU9TOGpmbk8tX3cwNHRjME9UR2c4VGlVZjlDZUpUY0JPR2M3NmNKcW1NdVFJXzExV29VUVJCb2RSS2ktcktnSkQwNFU?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 27 Jun 2026 04:00:00 GMT"
+      },
+      {
+        "title": "Man Utd 'make huge offer' to beat Tottenham to Fernandes signing",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjBYbjBjS1NtTGk5b28xM1dGck5qVElVak1jb3dlVEQ5aUQxRk45MVNKRmdwa2p3cU5NaU1Ea2tSOUFNSDBwUmxvOXVhX0ZqTUNVTUY3Q0loakd6MklEU2ZidkhyV1RNQm5KSl95U2FweTU5ZWN4NXpGMjQ5cEtMeGZOblJhTlJzSWdmM3RMMHNnYjQxbGpCakFZOGRyZw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sun, 28 Jun 2026 00:01:31 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "'Man United are waiting' - Aurelien Tchouameni sent Real Madrid transfer message",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkYxOGlwWlZMOEVqWC1pUWFIWUxLS2tnQTJDZENHVVExRTI1ZTMxbTRfT3QtSWNTVTVOcEl1cTFYS1pSQU9pUXE2THRkcm1wOFNpQ29oMFUydzVVdURhLVpySld3dnhzXzNXRUt2bndDRlc0WlBTaHlKMWJxX2dxbGMwYUM2Z09ybGlRQk9CRXZPSGRSRDhpX29MZmxDeTJTZENFR3NQQlZld1M0aEo0OEcyaVByOFpzd0HSAb8BQVVfeXFMTXZnRVRCVXlxZ0VSYWhranFhbktmV0VTMkg3d1dUdEplRERWeTBtN0d6UFNSLTVVX1pqWFJHSmdQX09tQmUwNGUyMlRlOUJuaG83MTJfNTY1ZUdLWGpZV1Z2MmFlYW9Idlp2cU9uc2o5RDk4NXZTYllyWFQ3QWVMb1Q4bGwxZjU0MUdBbzMtSVZGT1pTX1REaS1ibEhscnFBWi1zM2pqdm1jZWFCSmJYUTg3V190REZ5VWkyM0ZVb2s?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 27 Jun 2026 14:45:00 GMT"
+      },
+      {
+        "title": "Jose Mourinho wants to axe Real Madrid star and seal blockbuster Premier League transfer",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGVYZUJlaDRKTTh1bElPUlZldGtfc3BTZm9ja3JybVlYZUZtd0JVR29hOU9wWXA0ZDZQRnZtcGVwUnVyMVVMS3lVaU55aG5jNms2UDRDZXNGSmdXT3ZlSjVVT2ZvVEtRNVlGS3VlNnpYQmowdnRiaTFiS3FiR1FDNmlmWDNKT05JX3NYOTVZd3N5azQ1d1dZXzZ6aU1HVXViV1RudlpR0gGrAUFVX3lxTE5CWnJ1d1RwaFhWUkNKc2tHQlZJYkxIZEJzbHpibURNeVlPd1B1RGNRaEdOQ0IteDBfRGlPN2JkYTN4dGk2endVSmhDNGZFckRDZUlGZVN6OFpCWE9wZXMzZDFtNWpDY1NuSVlpdW1PNG42OGk2X0gtNmppNXlEZzN4TEZnX0VfZmpFaDF0cUEtVE5LSHc0YW9QUjE2RDNIcWQyeEJtS1g3aWFOaw?oc=5",
+        "source": "The Mirror",
+        "published": "Sat, 27 Jun 2026 10:20:00 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd Ready Vinicius Jr Bid; Liverpool Approach Guimaraes",
@@ -1156,48 +1188,16 @@
         "published": "Sat, 27 Jun 2026 23:05:00 GMT"
       },
       {
-        "title": "Man United transfer news LIVE: New Mateus Fernandes talks, £47m star agrees deal, World Cup injury",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdG92VjdmaEc5Y1A5RnNMMEVyQ0RMdk1SRGlLcHJabWxDOXMtUVFNdjRZcWM3cG5qYVJpNXc1Z1NaY0lvR0NyVkZhaHFzdGpqcVpvUThaaFVXU1JFWDVMeDRDRndyckdhdTQxMl9hMW40cXUwajBuc0Voa0l0Rmd3UEdaVEJ5eU5wTFQ5REZ1SzFsell5T245cXhOWnNRT2V2Zm5KdHJUUUJVTms?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sat, 27 Jun 2026 23:52:49 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United tracking Mexico's Mora",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2dvWUtuZ0F2eFhraENhTV9Dc3V4ekxIamJ4Y0g2eTY1dXVsN20xTkU1NUhvaW1adFNrOVVkN1ZKZ3pTNHJPMFotQnQtZVp4R2lIYTZfeTd0VXlOSmVXS1RYTFNLVWNhTFVNTklUNUM4TDAtWFY0ZXZfRlVjZXpYVmppd3N0YWN4Tnd3UkhHS0VjMHNKQi1USEdMT2NROWNRZWc?oc=5",
+        "title": "Transfer rumors, news: Arsenal face competition for young PSG defender",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeG9DQ05sbmx6Q3A3XzV6RHhiQlRKMUo0U0czQmdXbUc2TWotQzhNdGpZUVduVXJFdjhQMWZCcnFsZURkNFcyTVpTajVvcGVzeWJPaTdRNDJ6UjhVT0VzbXdRX212eF9wU3Vvakt5VFhxem1WNFhJem41SXRGNndwREM2RlNycTNHVzVpVWloQUFnVkxfNERWekZwOEdtaEF3dHZ2Ulg3Wm9GSTJPYzJydUNQTWhUSXQyS1c0eTFWVQ?oc=5",
         "source": "ESPN",
-        "published": "Fri, 26 Jun 2026 13:22:00 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Jose Mourinho wants to axe Real Madrid star and seal blockbuster Premier League transfer",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGVYZUJlaDRKTTh1bElPUlZldGtfc3BTZm9ja3JybVlYZUZtd0JVR29hOU9wWXA0ZDZQRnZtcGVwUnVyMVVMS3lVaU55aG5jNms2UDRDZXNGSmdXT3ZlSjVVT2ZvVEtRNVlGS3VlNnpYQmowdnRiaTFiS3FiR1FDNmlmWDNKT05JX3NYOTVZd3N5azQ1d1dZXzZ6aU1HVXViV1RudlpR0gGrAUFVX3lxTE5CWnJ1d1RwaFhWUkNKc2tHQlZJYkxIZEJzbHpibURNeVlPd1B1RGNRaEdOQ0IteDBfRGlPN2JkYTN4dGk2endVSmhDNGZFckRDZUlGZVN6OFpCWE9wZXMzZDFtNWpDY1NuSVlpdW1PNG42OGk2X0gtNmppNXlEZzN4TEZnX0VfZmpFaDF0cUEtVE5LSHc0YW9QUjE2RDNIcWQyeEJtS1g3aWFOaw?oc=5",
-        "source": "The Mirror",
-        "published": "Sat, 27 Jun 2026 10:20:00 GMT"
+        "published": "Sat, 27 Jun 2026 19:36:00 GMT"
       },
       {
-        "title": "What should Chelsea do with Enzo Fernandez?",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRXTzJzRTdaWHJhVXBXbURucXItNDNZOHREVlJBVFlMSDhaSHB6Qy1waVA2Y3VWZWlGbTFrbzhfQkwwb0NELUlrY3dMTzhvenl5YzE3Z0dIV3dqQkt0bmEzRUhHR3djdGZQeDc1MGRQY3I2WC1hRnIxSlJ3cHFTUHo5VVBMazkyNVRBNktScHpLd2ktb2h4bUVIcjA?oc=5",
-        "source": "The New York Times",
-        "published": "Fri, 26 Jun 2026 04:24:42 GMT"
-      },
-      {
-        "title": "Manchester City dropping breadcrumbs about Real Madrid's Enzo Fernandez transfer",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcE5LOXQ2V3h0eWtadlFOcFRCMExZQjRjclkyYlgxeE9wQmszVTlENEEteFlTZjZQWEVOcVdKV3NCXzU2U1FqWGktck9YeHFDOS1qazlkX2R6a2V2cWpfMk5HdEhZZk5XMlNxMGJMLTFUZ1UyVlVYUXl0RjNCRHkxV1pXZC1wWjVJN296YzdwVGoxZ2c1cEEwQkNJZGttd3diVjJ2T1k5aEpyZlUwQ0ZCd3FXaXZnemEtR0ZN?oc=5",
-        "source": "The Real Champs",
-        "published": "Sat, 27 Jun 2026 12:00:01 GMT"
-      },
-      {
-        "title": "Jose Mourinho tells Real Madrid to sign former Man Utd star in £69m transfer",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHdiZjdEYkVtUWpsQTdEb3JoT1FiSFpuTDNsZVhaTnRMdDdhdEp3eElpTTlQLU0zWEJLdE9pYkh2Wm1hXzEzT1dDU21aal9lNVloLV9aNENrWjhlbDBwRUZOZF9RS0VOWlZVMVkxMHJDVkpNYzVSQnpucXMza1RSQWdaMGRXV0ticzVteXI0dm5zcnVCcGVrTzk3VG1EX1BwS21rbDRyZzFXUXpDY1ZV0gG0AUFVX3lxTE5NeFo3NTNHcGVEOERQRnZqWWdCcEFBWFBOWWJTak9lZnZ2U1g3YW9CSnFwZG9kckZFRE04ejJBV2pkbUVTOU1ibnA1OTc0LTlITHJ5V0tYRWw1cVhnVXdycW41YTVFRzg2bXhkYXdKLVc5T0pUYzJ4cWNiN1pKZ3Nfb2pOSGN2T2tRSlJTRkJ1RWZ4TnJ6UjVENmZGb3A4aUw2YmRoYUhLakdxWEZWSm1RTTAzRQ?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Sat, 27 Jun 2026 12:35:00 GMT"
-      },
-      {
-        "title": "Explaining Real Madrid’s new €60m Nico Paz deal with Como – and what it means for transfers",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWGw4UzJrdkp3NU5hZzR1Qm42eTZncV91Q2E3OTJES3NyVmJPbzVuVVM5M0xWLWtCaW4zQ0U2M1NQakpLdUVVMlZUREg5Ml83TGxfbFFlckw3aU1YZUhlWkx5ckFxOGFJVlNXRGVORDVhRnEyRndaRG01SVN6UUxfT2R4VUZBTGJmMjg2Ymc2cFF0ZndIR0pQOXlGc212OHA2TG1NWQ?oc=5",
-        "source": "The New York Times",
-        "published": "Fri, 26 Jun 2026 16:44:56 GMT"
+        "title": "Who is Nico Paz? Subbing for Messi, Argentina star in complex Real Madrid transfer",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVpqaW83SEZ5cU5RTUpUNVRrWUZPWnItd3NiMlpmWUNmVm90VnpGOTRZeHZucGFqTWh4ZlhlVXRMaFRGNWJVRXBEWjkzdWdFWkFMOVpBaE9obFhaVGV6TVlHVXlkenM1OEJRSW9wWUZ6dzZOV2x1YnBSZmlXUlFqakRJOUdKMW42YXp4cXNzZFdVeUxHMHlCQ1pjQ2E1X0hSbE5wRVNrc2xMRHZWbVJwRFRLWGJTSXg1WU9NZm16TmhhZnR1ZlE?oc=5",
+        "source": "USA Today",
+        "published": "Sun, 28 Jun 2026 01:31:00 GMT"
       }
     ],
     "fcb": [
@@ -1214,22 +1214,22 @@
         "published": "Fri, 26 Jun 2026 16:39:51 GMT"
       },
       {
+        "title": "Bayern Munich facing difficulty with Alexander Nübel’s situation",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUdCMnVGVkg0aVhhVjU0U0FVNXVoaHQwWlJXZTcyb0JDWDVXUkRkRDhmWlJ0eGk3ZURKS0NwWkFqUXhVUVI0Z3hpRkYwZGVRemRMQm5HanhYc3pkRjJ5dUM5TXk1aTh0V2N5U2U5b3hHRXFMVlp1aGE3MDN5ek1UekxOcmJhYmFCY29KUjljWmlienp3ak04dmNQQS05ZGx6Zk1Ia2M4VjVNc2xsd0ItcWdlM3phc2ZXTkN3RWU4dnppUQ?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sun, 28 Jun 2026 07:00:00 GMT"
+      },
+      {
         "title": "Rio Ngumoha, Liverpool, Bayern and the oddest transfer story of the summer so far - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFl6UVljWUdnTTZ1V2hXdHhmMmJ4d2taV21EZi1wcS00YkdoRzhwWWIzZlUyZnlxOVhmM2xoaWhVMVptZlZZSE1OV0RKWDR4bWVCeUtoZ3RGQXFxQ2UyU1ZuNWlRNlVZcmM2T1ltalhoQnI5RXkxOEI3Y0Z4ekdjbnptNzd3Ql9oN2kxYVhaenl0bFVpNmxZTGpadDA4aWM?oc=5",
         "source": "The New York Times",
         "published": "Fri, 26 Jun 2026 04:30:40 GMT"
       },
       {
-        "title": "Kusi-Asare signs permanently",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ta0E0MVJwbUtTXzU2aENaUVJfX3QzM3Jqemd1eC1CSGFRYkx4Y3g3dXR1bUkyaFdvNVpHY19NdkNTTDJfazdDNUNXeV8zTG9tZmJtQ2FzVDM5dElTb3JmRWNoYUxCWmVZMnRjd2pGWnZmUkJOX0txWENWdWs?oc=5",
-        "source": "Fulham FC",
-        "published": "Sat, 27 Jun 2026 09:00:00 GMT"
-      },
-      {
-        "title": "Bayern land Brown as Milan make double striker swoop - Euro Transfer News",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPLWFpVlg4UjhqR2d6VV9XczBrSzlEbDBod3p5Z3kxTElJWG5nZnY1LXZqZGg3S0JrNE5UTUFYeEJ5N3pWZDJ5UjlDOXBfVWdpNVRTTmdoWlRhWU5VTWFjS3NjcmFBTlZKX0pOd3p4dFFpcTItYUNpV3JSenNqLXJBQ0g1eC1qZktsdEhfM1BzNlVMS3hwZDZqYUxxNjN2NWVoSTZpYjBzNVVnOTlpbUVMcndsSjV2U3ZqVHdlNzRudFpyZWIzNFZlMEIyVFRMcHh6V3RSNzhPT0NPNlNWaUZ1T2RWVmtIZFo4NVd6RDRHajNIQ1diZDhGQlg0cmhTMmNucjdOekpR?oc=5",
-        "source": "TNT Sports",
-        "published": "Fri, 26 Jun 2026 17:43:00 GMT"
+        "title": "Bayern Munich, Konrad Laimer agree to new deal per report",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGUyRXdVQmNFbkkxOGxnOFZQNHJNTmkzMU9kdTdZZ0xlXzg1eTZ1Q1N1dHBWQXhUdkJOT0d0SzN4RW9wdkhucENaMjVobm03Sk1uZl9MSnlwWlhtMkVmcjA0dDZTNERJWEFDakRORm5jMzBuVHkzUlhxbTJNZkR3VG9HNzVEMnVMcTJCRzVRanY5d3VvUFV0dF9rVkh6WVBXRXY0Y3BIbUIyUEp5LTlNbHJTVmVCUTV0WGY0cFB2ZkY2eTRtR1NiZWdudUc5VVZrbzc3dzNfQ0FCcDhZUFE?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sat, 27 Jun 2026 09:45:00 GMT"
       }
     ]
   },
@@ -1240,13 +1240,13 @@
       "group": null,
       "status": "TIMED",
       "home": {
-        "name": null,
-        "flag": "🏳",
+        "name": "South Africa",
+        "flag": "🇿🇦",
         "lineup": []
       },
       "away": {
-        "name": null,
-        "flag": "🏳",
+        "name": "Canada",
+        "flag": "🇨🇦",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
@@ -1257,13 +1257,13 @@
       "group": null,
       "status": "TIMED",
       "home": {
-        "name": null,
-        "flag": "🏳",
+        "name": "Brazil",
+        "flag": "🇧🇷",
         "lineup": []
       },
       "away": {
-        "name": null,
-        "flag": "🏳",
+        "name": "Japan",
+        "flag": "🇯🇵",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
