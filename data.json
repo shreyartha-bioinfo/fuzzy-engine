@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T13:16:59.577897+00:00",
+  "updated": "2026-06-28T15:00:52.636998+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1136,102 +1136,9 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Transfer news LIVE: Arsenal get Guimaraes boost; Xhaka wants Chelsea; Fernandes to Man Utd; Liverpool twist",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYm1GRzdBV19hSFBUeE9ZRE5qaGFHVWNLQTZHUS03bkoyeXVibmoybFhVZUt5U2JyMDUwbjVqUlNyck1IcVIyUzZESktaWGxrcnJLRUNRSzFCOVBKSlpyWUJHa1ZIcTVvb2NSN2lhUXhyR3UyZWxHdGFaTV9tV0xVRlpUZ1RnRnlra1JIVWEzVncwYzFIS1czQW1URVNjTERUdE9VUTVkcVByMU92WVdvSVAxUFhJMWhPTkFTSklPTEVaUVFNeFFadTFNMjVaelBTZnBN?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sun, 28 Jun 2026 10:40:12 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Mateus Fernandes latest, Vinicius Jr claim, injury blow",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdG92VjdmaEc5Y1A5RnNMMEVyQ0RMdk1SRGlLcHJabWxDOXMtUVFNdjRZcWM3cG5qYVJpNXc1Z1NaY0lvR0NyVkZhaHFzdGpqcVpvUThaaFVXU1JFWDVMeDRDRndyckdhdTQxMl9hMW40cXUwajBuc0Voa0l0Rmd3UEdaVEJ5eU5wTFQ5REZ1SzFsell5T245cXhOWnNRT2V2Zm5KdHJUUUJVTms?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 28 Jun 2026 12:11:40 GMT"
-      },
-      {
-        "title": "‘Ship has sailed’ - Why Man Utd will not be signing Victor Osimhen amid ‘huge money’ transfer links to Galatasaray’s prolific Nigeria international striker",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjJjaXZVNjZoT3ROWHR0Qk8wbzVqS1VXV2lwclQwMVpIMkJMUnRPMlRyaF9icVBVTmZjWjRXR1dud3dDd2JlT3BkY3NKU1BCMm5oT2dLbjVQWEFoT2E2aFZRVjJVUHVwWGJDYmhLOHM1RUp3YVF2SGcwSDhFSEstbkl1aDNCN3ppQkRZQ1V1a1FHZUl2NVRmUjd2aFo2QS1zM20wQ2s3V0J0b01heEpMMVpfWjk1RVVHWXpKTTBJbExyYkE?oc=5",
-        "source": "Goal.com",
-        "published": "Sun, 28 Jun 2026 11:12:23 GMT"
-      },
-      {
-        "title": "Man Utd New Recruitment Structure Revealed",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZy1reU5kc1dub2F6Uzhrc0RvWWxKYUlvYnlCNFdGeGtZSThvZDdCY0RuR1lLbU54cXY3ZGVmTEg5dWF5UmVVMXZfSnZxRHZoZENkVkdJNzhQMlBXaTFRUkpIQXlpTUt0a2NUUzFsVURqbWsySjNCR2ktWmVyVkJpOXZNYkJ2MURyU0wtaW5TNTBYVHF0Q1lZc0ZIMA?oc=5",
-        "source": "GiveMeSport",
-        "published": "Sun, 28 Jun 2026 12:15:15 GMT"
-      },
-      {
-        "title": "Manchester United attacker set for surprise exit as Bundesliga move gathers pace",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVbGdKR2FPc1M5MXI4dGVjVXozRTVPOTFGbVd3V0tWc2xuQ05BVDliTkx6VkNYc0NHTFJNTFFLYlZ3OHpJYm91dk9LN1ktbHJqemphNUdZN0pnRGRvWTF5Vlg4NXpKcklwRUtKQXpfSjBDSktTZzBxSTdRRdIBgAFBVV95cUxQNmxIa2NMRThTOEFPNXRTZEhrOUlZaVFZd2hBSzdXaEpLOWk1ekNyNmZURTRIUVo5VGxtNW1nTTFLQWlEQzcxVXRIeFEzWjhxODEyQnk4YXN3T2NlY0k4cUhNOEs1WHdERDctZHZGalBJM2xBVGxYT3h4ZjVZdzhLZw?oc=5",
-        "source": "CaughtOffside",
-        "published": "Sun, 28 Jun 2026 09:30:00 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Transfer Rumors: Man Utd Ready Vinicius Jr Bid; Liverpool Approach Guimaraes",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHdYUUxCT2l6ZHZpZ0xvM0JJZXlXU2wtNmJUNjMzdWIwWklGVkpGM1hGbjVPY05Dd2xrbE9zNm9FNHBIczhCeHpOczR4emhFeW1zaWFoT1FuSXV5VjVyY1YzTFJKa0loT2dURVplLUpOT0o3UWxGUUhmMFpKM0R0eXctakJqYzV0RElYQ2FR?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 27 Jun 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Man United signed future captain, 289-goal machine and Real Madrid flop in club record deals",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG0tMkhybXcwNXNnX1hwbEg3MExYMXZwMlM5LV9VTlNPR3hCdVBQdWNhVnlUZWpiaWEtd1FwRjlEdHhXdzdHdXpmWFE2WmhyYkhVUzdsWXV2WUg4VWhXUGxfa2xpZ2l6elR5SlJFLTk1bTVQNTFCdEV6dUdOOHpVVDNGTm5LS0R4aThpb2RxdVJrbUVud0hDNElUbFFaT1dkZHgzakJHWEFFMnhQNHY1bDl2dFF0WDRHWFHSAb8BQVVfeXFMUFg3c2VKa0QtVDRZNUJLTHhhTldsQnhPNUdzV0hETjJneUpDTTNVVFZ0U2htS1AwX0s1WnhTMmpiVHdTZFJKcVhaLWhFZVhicXlPNC1raFlYWXlYTWNlTHBjdTdEMEoxOXBER0lSTTRhMG1oX2tRbmV6czl5NXlqMHNOYWJmYXZtbVJqb2x5eFQ3THBGaGV4R3lHWkFOQ05LVWxsN2Q3Wkprc0FMY2w5ZjNmdjBENEUzeTlIVEY2MnM?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 28 Jun 2026 03:30:00 GMT"
-      },
-      {
-        "title": "Jose Mourinho wants to axe Real Madrid star and seal blockbuster Premier League transfer",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGVYZUJlaDRKTTh1bElPUlZldGtfc3BTZm9ja3JybVlYZUZtd0JVR29hOU9wWXA0ZDZQRnZtcGVwUnVyMVVMS3lVaU55aG5jNms2UDRDZXNGSmdXT3ZlSjVVT2ZvVEtRNVlGS3VlNnpYQmowdnRiaTFiS3FiR1FDNmlmWDNKT05JX3NYOTVZd3N5azQ1d1dZXzZ6aU1HVXViV1RudlpR0gGrAUFVX3lxTE5CWnJ1d1RwaFhWUkNKc2tHQlZJYkxIZEJzbHpibURNeVlPd1B1RGNRaEdOQ0IteDBfRGlPN2JkYTN4dGk2endVSmhDNGZFckRDZUlGZVN6OFpCWE9wZXMzZDFtNWpDY1NuSVlpdW1PNG42OGk2X0gtNmppNXlEZzN4TEZnX0VfZmpFaDF0cUEtVE5LSHc0YW9QUjE2RDNIcWQyeEJtS1g3aWFOaw?oc=5",
-        "source": "The Mirror",
-        "published": "Sat, 27 Jun 2026 10:20:00 GMT"
-      },
-      {
-        "title": "Agreement reached over double Chelsea summer deal as Xabi Alonso transfer dilemma solved",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2tmLWZrc1ZnMjViQ2daWFlLSkREam1xTVNzOVF3c0psb1BzV01TVW95V2hUTmhiZ0xjM1RNZXdBa041c29VNmtlNnBtMGUxTEktMXk4X2EtSURWbFI5VWpydWstLUp5NW0tZzFjUkRKRDNlTmpaQ3FIYldSVkk3eGZBYVhYYzg1cTRMVV84NWtMWTZJTEExTS12VDBDSDg40gGmAUFVX3lxTE9xM3BZSzczSWJqQWdHaTlJY0hKb0JEek93Tk14am9jeGxwTkFkeXk2TXUxYW1ZOEVVSWYyZzAxcWc0WUFrcktGNGR0VzVIUUtkOURsbEw1SzNrVW5KbndfMDBvNHNQZTZ5ZTRLa1k5b3JkMVp0aGZXZFZFa2RCODUwR0ppcFl4WkczZTRNZ29QRlE2c21TdkRMdzZ3M2YzSUxuREdGbWc?oc=5",
-        "source": "Football London",
-        "published": "Sun, 28 Jun 2026 11:02:20 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Arsenal face competition for young PSG defender",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeG9DQ05sbmx6Q3A3XzV6RHhiQlRKMUo0U0czQmdXbUc2TWotQzhNdGpZUVduVXJFdjhQMWZCcnFsZURkNFcyTVpTajVvcGVzeWJPaTdRNDJ6UjhVT0VzbXdRX212eF9wU3Vvakt5VFhxem1WNFhJem41SXRGNndwREM2RlNycTNHVzVpVWloQUFnVkxfNERWekZwOEdtaEF3dHZ2Ulg3Wm9GSTJPYzJydUNQTWhUSXQyS1c0eTFWVQ?oc=5",
-        "source": "ESPN",
-        "published": "Sat, 27 Jun 2026 19:36:00 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Bayern Munich facing difficulty with Alexander Nübel’s situation",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUdCMnVGVkg0aVhhVjU0U0FVNXVoaHQwWlJXZTcyb0JDWDVXUkRkRDhmWlJ0eGk3ZURKS0NwWkFqUXhVUVI0Z3hpRkYwZGVRemRMQm5HanhYc3pkRjJ5dUM5TXk1aTh0V2N5U2U5b3hHRXFMVlp1aGE3MDN5ek1UekxOcmJhYmFCY29KUjljWmlienp3ak04dmNQQS05ZGx6Zk1Ia2M4VjVNc2xsd0ItcWdlM3phc2ZXTkN3RWU4dnppUQ?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sun, 28 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Rio Ngumoha transfer truth after Liverpool left 'baffled' by Bayern Munich claim",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlVpOFl0dEhaamhueXpfVVpnTXpEN1k0YUVSVTltVTVjSGFsZzhDWldWdU9TR25OY0pBcE0tVnJ2MTlmSzI5UlNkZmJmQ2w1WlAtUWt2N0dhRGo3UUh3TU1ldmthenJUSDE2cE5rQXNOQUUtWlRoa1p1SjdnaUxBYnFlWE9qMExiOWcyNm9HRFFaNXE2WDFwRzF30gGfAUFVX3lxTE9FSHREUnpIQUFoeUhEX3VoSV9GbEdOVWhnQjFjUEN5b2dFMnd4QW9OZldFdE12SnJMQXBmRVpQLUlUck9lMUZTek1UbUNycmpwNGM4ZVdaN2l5UVlSQVEzV2NfaldsMnZLWUliSHZVbkpZSzF0V3JnVk5wY0twRmtHWXdvcUNqVnJMLUU2d0xjOTV4ZXltU1FDVWNBR2ZQTQ?oc=5",
-        "source": "Liverpool.com",
-        "published": "Fri, 26 Jun 2026 16:39:51 GMT"
-      },
-      {
-        "title": "Rio Ngumoha, Liverpool, Bayern and the oddest transfer story of the summer so far - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFl6UVljWUdnTTZ1V2hXdHhmMmJ4d2taV21EZi1wcS00YkdoRzhwWWIzZlUyZnlxOVhmM2xoaWhVMVptZlZZSE1OV0RKWDR4bWVCeUtoZ3RGQXFxQ2UyU1ZuNWlRNlVZcmM2T1ltalhoQnI5RXkxOEI3Y0Z4ekdjbnptNzd3Ql9oN2kxYVhaenl0bFVpNmxZTGpadDA4aWM?oc=5",
-        "source": "The New York Times",
-        "published": "Fri, 26 Jun 2026 04:30:40 GMT"
-      },
-      {
-        "title": "Konrad Laimer won’t confirm new contract at Bayern Munich, but he might as well have",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdDJWM0Z5U3hlLUNBSEVMbW9WQTl0RUtKTHpNRnZCTkEyNE56ZWtwdDFPYW9JMldCSU1QS2hwYUxBcU9ib0JEMDlZWGhvRmZFNFNwM1VLTURNaS1MV0NIdUR5SHQ1Rm1SNFU5MVFzV25TR1NJdFFVajJIU1NGTS1VRmM1NjNXczZxclk2ZlVkQjZlWGN0YXJHT2xVa2EwcFFjMVlnTU14RFF6WmVhaGpsUmtZVFpQRVVvRVEtd2ZTY3ZsZkU5ZXpUWmpmZjAxRzg4eW9hZXNOblV3M1hydHZNb2VQS3IzSm9kNkFtbFZHQnF6NjBv?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sun, 28 Jun 2026 05:30:00 GMT"
-      },
-      {
-        "title": "Report: Bayern Munich striker talent Jonah Kusi-Asare to leave to Fulham FC for €6m and buy back clause",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYWstdWlKUGZ0UWpuNjlSMlljUFI0TGJ1Y2lzX01wVG9oMWJQUmVEUGs1NjdSZmtwbHpEQjN2SEs2czBQUTc1R0gxUmZaU2VKem5rcW94ampTdlNFRldQRmk4dHRodHZvZEo0VHV1ZTdfR0dSYjZPamFVaF9qSmVxWEk3cm9fVGhILXM2WDVncnpzLVNCcGRnQWU4N2piT1IwUVk2RzZnMG92SGJyUUhXRlJYeVZCT3BTbmRrOEZiUnh6ZDhRSUQ3V3lzY3FXS2J2RDFFQUQzekEzZENkMUJOa2NvVzdHRzJObGRUMDJQdzgyUWFW?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sat, 27 Jun 2026 04:45:00 GMT"
-      }
-    ]
+    "utd": [],
+    "rm": [],
+    "fcb": []
   },
   "upcoming": [
     {
