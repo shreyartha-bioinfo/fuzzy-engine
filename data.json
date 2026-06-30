@@ -1132,6 +1132,16 @@
           "assists": 0
         }
       ]
+    },
+    "ars": {
+      "name": "Arsenal",
+      "flag": "🔴",
+      "goals": 0,
+      "ownGoals": 0,
+      "net": 0,
+      "assists": 0,
+      "scorers": [],
+      "squad": []
     }
   },
   "rumors": {

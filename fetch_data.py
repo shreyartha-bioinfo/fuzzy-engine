@@ -19,6 +19,8 @@ CLUBS = {
             "news_q": "Real+Madrid+transfer"},
     "fcb": {"id": 5,   "league": "BL1", "name": "Bayern Munich",      "flag": "\U0001f534",
             "news_q": "Bayern+Munich+transfer"},
+    "ars": {"id": 57,  "league": "PL",  "name": "Arsenal",             "flag": "🔴",
+            "news_q": "Arsenal+transfer"},
 }
 
 OVERRIDES = {
