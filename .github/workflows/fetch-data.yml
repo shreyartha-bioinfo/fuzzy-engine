@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '*/30 * * * *'   # every 30 minutes
   workflow_dispatch:           # manual trigger from Actions tab
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data.json'           # avoid infinite loop from the bot's own commits
 
 permissions:
   contents: write
