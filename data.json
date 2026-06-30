@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T15:00:52.636998+00:00",
+  "updated": "2026-06-28T16:41:00.202401+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1136,9 +1136,102 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": []
+    "utd": [
+      {
+        "title": "Man United transfer news LIVE: Mateus Fernandes latest, Vinicius Jr claim, Mason Mount truth",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdG92VjdmaEc5Y1A5RnNMMEVyQ0RMdk1SRGlLcHJabWxDOXMtUVFNdjRZcWM3cG5qYVJpNXc1Z1NaY0lvR0NyVkZhaHFzdGpqcVpvUThaaFVXU1JFWDVMeDRDRndyckdhdTQxMl9hMW40cXUwajBuc0Voa0l0Rmd3UEdaVEJ5eU5wTFQ5REZ1SzFsell5T245cXhOWnNRT2V2Zm5KdHJUUUJVTms?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 28 Jun 2026 15:19:57 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal get Guimaraes boost; Xhaka wants Chelsea; Fernandes to Man Utd; Liverpool twist",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYm1GRzdBV19hSFBUeE9ZRE5qaGFHVWNLQTZHUS03bkoyeXVibmoybFhVZUt5U2JyMDUwbjVqUlNyck1IcVIyUzZESktaWGxrcnJLRUNRSzFCOVBKSlpyWUJHa1ZIcTVvb2NSN2lhUXhyR3UyZWxHdGFaTV9tV0xVRlpUZ1RnRnlra1JIVWEzVncwYzFIS1czQW1URVNjTERUdE9VUTVkcVByMU92WVdvSVAxUFhJMWhPTkFTSklPTEVaUVFNeFFadTFNMjVaelBTZnBN?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 03 Jun 2026 05:33:28 GMT"
+      },
+      {
+        "title": "Real Madrid consider selling Manchester United target to fund spree for £120million-rated Premier League star",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjFEYS1QcnoyLXhrWDJ1dmpleV9JOURqRWxZcVdKQ1NmdGk3TXQzdTZMUFlvNU5jdWtrX2lVbUlINWFOWXBXem1pUHJTWVJudUlWUkFGOUtaMXNleG5qcmxQYkRtQzBaVlFmaHd4Z2l3Z0NuRzFJc1JNYXd6ei1GaThFT05WM3ZyQ0x5c3pLSHVoY0RGN0E?oc=5",
+        "source": "talkSPORT",
+        "published": "Sun, 28 Jun 2026 13:27:05 GMT"
+      },
+      {
+        "title": "Man Utd New Recruitment Structure Revealed",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZy1reU5kc1dub2F6Uzhrc0RvWWxKYUlvYnlCNFdGeGtZSThvZDdCY0RuR1lLbU54cXY3ZGVmTEg5dWF5UmVVMXZfSnZxRHZoZENkVkdJNzhQMlBXaTFRUkpIQXlpTUt0a2NUUzFsVURqbWsySjNCR2ktWmVyVkJpOXZNYkJ2MURyU0wtaW5TNTBYVHF0Q1lZc0ZIMA?oc=5",
+        "source": "GiveMeSport",
+        "published": "Sun, 28 Jun 2026 12:15:15 GMT"
+      },
+      {
+        "title": "Man Utd prepare £104m ‘offer’ for Real Madrid star to satisfy Carrick as ‘biggest threat’ is revealed",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1U1cDlwaUdsUmxuYW1VclJ0bTdXZTN5LXlyWmY1UElNLVI1TEQ3UnQxXzJyTlpsM2VMdHA3MlpoWFRrMWFvYVlveGZYWGVjRjFjY0NIS0xLVTVhOXBwOXZONDUwUTdvMFZOQ2RSTmhSZ1NRdWFBa2JSSzNrU0k1VUFxNnk4ZGwyTXBGV1JveEhHWGp5QUhod1ljQlVlX1NvTWFN?oc=5",
+        "source": "Football365",
+        "published": "Sun, 28 Jun 2026 12:10:16 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "'Man United are waiting' - Aurelien Tchouameni sent Real Madrid transfer message",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkYxOGlwWlZMOEVqWC1pUWFIWUxLS2tnQTJDZENHVVExRTI1ZTMxbTRfT3QtSWNTVTVOcEl1cTFYS1pSQU9pUXE2THRkcm1wOFNpQ29oMFUydzVVdURhLVpySld3dnhzXzNXRUt2bndDRlc0WlBTaHlKMWJxX2dxbGMwYUM2Z09ybGlRQk9CRXZPSGRSRDhpX29MZmxDeTJTZENFR3NQQlZld1M0aEo0OEcyaVByOFpzd0HSAb8BQVVfeXFMTXZnRVRCVXlxZ0VSYWhranFhbktmV0VTMkg3d1dUdEplRERWeTBtN0d6UFNSLTVVX1pqWFJHSmdQX09tQmUwNGUyMlRlOUJuaG83MTJfNTY1ZUdLWGpZV1Z2MmFlYW9Idlp2cU9uc2o5RDk4NXZTYllyWFQ3QWVMb1Q4bGwxZjU0MUdBbzMtSVZGT1pTX1REaS1ibEhscnFBWi1zM2pqdm1jZWFCSmJYUTg3V190REZ5VWkyM0ZVb2s?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 27 Jun 2026 14:45:00 GMT"
+      },
+      {
+        "title": "Jose Mourinho wants to axe Real Madrid star and seal blockbuster Premier League transfer",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGVYZUJlaDRKTTh1bElPUlZldGtfc3BTZm9ja3JybVlYZUZtd0JVR29hOU9wWXA0ZDZQRnZtcGVwUnVyMVVMS3lVaU55aG5jNms2UDRDZXNGSmdXT3ZlSjVVT2ZvVEtRNVlGS3VlNnpYQmowdnRiaTFiS3FiR1FDNmlmWDNKT05JX3NYOTVZd3N5azQ1d1dZXzZ6aU1HVXViV1RudlpR0gGrAUFVX3lxTE5CWnJ1d1RwaFhWUkNKc2tHQlZJYkxIZEJzbHpibURNeVlPd1B1RGNRaEdOQ0IteDBfRGlPN2JkYTN4dGk2endVSmhDNGZFckRDZUlGZVN6OFpCWE9wZXMzZDFtNWpDY1NuSVlpdW1PNG42OGk2X0gtNmppNXlEZzN4TEZnX0VfZmpFaDF0cUEtVE5LSHc0YW9QUjE2RDNIcWQyeEJtS1g3aWFOaw?oc=5",
+        "source": "The Mirror",
+        "published": "Sat, 27 Jun 2026 10:20:00 GMT"
+      },
+      {
+        "title": "Nico Paz’s father opens up on transfer saga: ‘Real Madrid wanted him, but he wanted to stay at Como’",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbS1SZS1IY0Y0b0RzMk1FQTVqc1E3b0pES3k4LVN2Q0pqOWlTYXZ0YkZrQ1BsYW5FV213dUVWRlk0OHo3LV96RzBvX1R3ZF94WThMZGlFSEFNQmJRQnNOU3V0dmhWQVJ2LTQ3YkJZNXhwdmQ1dmlpSmJlbFlxQkp2SllOV1JIUQ?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 28 Jun 2026 14:05:00 GMT"
+      },
+      {
+        "title": "Man Utd prepare £104m ‘offer’ for Real Madrid star to satisfy Carrick as ‘biggest threat’ is revealed",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1U1cDlwaUdsUmxuYW1VclJ0bTdXZTN5LXlyWmY1UElNLVI1TEQ3UnQxXzJyTlpsM2VMdHA3MlpoWFRrMWFvYVlveGZYWGVjRjFjY0NIS0xLVTVhOXBwOXZONDUwUTdvMFZOQ2RSTmhSZ1NRdWFBa2JSSzNrU0k1VUFxNnk4ZGwyTXBGV1JveEhHWGp5QUhod1ljQlVlX1NvTWFN?oc=5",
+        "source": "Football365",
+        "published": "Sun, 28 Jun 2026 12:10:16 GMT"
+      },
+      {
+        "title": "Real Madrid consider selling Manchester United target to fund spree for £120million-rated Premier League star",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjFEYS1QcnoyLXhrWDJ1dmpleV9JOURqRWxZcVdKQ1NmdGk3TXQzdTZMUFlvNU5jdWtrX2lVbUlINWFOWXBXem1pUHJTWVJudUlWUkFGOUtaMXNleG5qcmxQYkRtQzBaVlFmaHd4Z2l3Z0NuRzFJc1JNYXd6ei1GaThFT05WM3ZyQ0x5c3pLSHVoY0RGN0E?oc=5",
+        "source": "talkSPORT",
+        "published": "Sun, 28 Jun 2026 13:27:05 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern Munich facing difficulty with Alexander Nübel’s situation",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUdCMnVGVkg0aVhhVjU0U0FVNXVoaHQwWlJXZTcyb0JDWDVXUkRkRDhmWlJ0eGk3ZURKS0NwWkFqUXhVUVI0Z3hpRkYwZGVRemRMQm5HanhYc3pkRjJ5dUM5TXk1aTh0V2N5U2U5b3hHRXFMVlp1aGE3MDN5ek1UekxOcmJhYmFCY29KUjljWmlienp3ak04dmNQQS05ZGx6Zk1Ia2M4VjVNc2xsd0ItcWdlM3phc2ZXTkN3RWU4dnppUQ?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sun, 28 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Rio Ngumoha transfer truth after Liverpool left 'baffled' by Bayern Munich claim",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlVpOFl0dEhaamhueXpfVVpnTXpEN1k0YUVSVTltVTVjSGFsZzhDWldWdU9TR25OY0pBcE0tVnJ2MTlmSzI5UlNkZmJmQ2w1WlAtUWt2N0dhRGo3UUh3TU1ldmthenJUSDE2cE5rQXNOQUUtWlRoa1p1SjdnaUxBYnFlWE9qMExiOWcyNm9HRFFaNXE2WDFwRzF30gGfAUFVX3lxTE9FSHREUnpIQUFoeUhEX3VoSV9GbEdOVWhnQjFjUEN5b2dFMnd4QW9OZldFdE12SnJMQXBmRVpQLUlUck9lMUZTek1UbUNycmpwNGM4ZVdaN2l5UVlSQVEzV2NfaldsMnZLWUliSHZVbkpZSzF0V3JnVk5wY0twRmtHWXdvcUNqVnJMLUU2d0xjOTV4ZXltU1FDVWNBR2ZQTQ?oc=5",
+        "source": "Liverpool.com",
+        "published": "Fri, 26 Jun 2026 16:39:51 GMT"
+      },
+      {
+        "title": "Bayern Munich reach agreement to sign Germany defender Nathaniel Brown",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDZvZVFScm9fZDUzSkR5OXRPZ2VTYnFUUV9VQWVVNDRaRU5yTUFKRTBOa2p1c3U5SlMyT0Jud3BMWFlSUGlmcFFPR293VkYya0dTZG9LT1pkb3FBUW1kMFB1Z1JCYmxkSUVNbVF0dG5lZFdyZlVZdTdNenZ3eDB3bmFPQlJsMnJaZzZ0cUVuX0JuTzZ0WkE?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 25 Jun 2026 23:51:47 GMT"
+      },
+      {
+        "title": "Konrad Laimer won’t confirm new contract at Bayern Munich, but he might as well have",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdDJWM0Z5U3hlLUNBSEVMbW9WQTl0RUtKTHpNRnZCTkEyNE56ZWtwdDFPYW9JMldCSU1QS2hwYUxBcU9ib0JEMDlZWGhvRmZFNFNwM1VLTURNaS1MV0NIdUR5SHQ1Rm1SNFU5MVFzV25TR1NJdFFVajJIU1NGTS1VRmM1NjNXczZxclk2ZlVkQjZlWGN0YXJHT2xVa2EwcFFjMVlnTU14RFF6WmVhaGpsUmtZVFpQRVVvRVEtd2ZTY3ZsZkU5ZXpUWmpmZjAxRzg4eW9hZXNOblV3M1hydHZNb2VQS3IzSm9kNkFtbFZHQnF6NjBv?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sun, 28 Jun 2026 05:30:00 GMT"
+      },
+      {
+        "title": "Report: Bayern Munich striker talent Jonah Kusi-Asare to leave to Fulham FC for €6m and buy back clause",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYWstdWlKUGZ0UWpuNjlSMlljUFI0TGJ1Y2lzX01wVG9oMWJQUmVEUGs1NjdSZmtwbHpEQjN2SEs2czBQUTc1R0gxUmZaU2VKem5rcW94ampTdlNFRldQRmk4dHRodHZvZEo0VHV1ZTdfR0dSYjZPamFVaF9qSmVxWEk3cm9fVGhILXM2WDVncnpzLVNCcGRnQWU4N2piT1IwUVk2RzZnMG92SGJyUUhXRlJYeVZCT3BTbmRrOEZiUnh6ZDhRSUQ3V3lzY3FXS2J2RDFFQUQzekEzZENkMUJOa2NvVzdHRzJObGRUMDJQdzgyUWFW?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sat, 27 Jun 2026 04:45:00 GMT"
+      }
+    ]
   },
   "upcoming": [
     {
