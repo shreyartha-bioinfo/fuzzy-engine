@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T21:51:51.228473+00:00",
+  "updated": "2026-06-24T22:59:02.617816+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -346,11 +346,19 @@
     "rm": {
       "name": "Real Madrid",
       "flag": "⚪",
-      "goals": 7,
+      "goals": 9,
       "ownGoals": 0,
-      "net": 7,
+      "net": 9,
       "assists": 1,
       "scorers": [
+        {
+          "name": "Vinicius Junior",
+          "nationality": "Brazil",
+          "goals": 4,
+          "ownGoals": 0,
+          "net": 4,
+          "assists": 1
+        },
         {
           "name": "Kylian Mbappé",
           "nationality": "France",
@@ -358,14 +366,6 @@
           "ownGoals": 0,
           "net": 4,
           "assists": 0
-        },
-        {
-          "name": "Vinicius Junior",
-          "nationality": "Brazil",
-          "goals": 2,
-          "ownGoals": 0,
-          "net": 2,
-          "assists": 1
         },
         {
           "name": "Jude Bellingham",
@@ -678,9 +678,9 @@
           "name": "Vinicius Junior",
           "position": "Offence",
           "nationality": "Brazil",
-          "goals": 2,
+          "goals": 4,
           "ownGoals": 0,
-          "net": 2,
+          "net": 4,
           "assists": 1
         },
         {
@@ -1133,7 +1133,7 @@
         "title": "Man United transfer news LIVE: Mateus Fernandes 'agreement', Morgan Rogers update, two new targets",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkXSAbABQVVfeXFMUEFMUnV2VjJxb2h5b1FIQWZsZWJqLXBFYl9PUjIzaENEX2tKQXIyRWp6d0p1M0t1eVZvX24tclRXd3gtQXNwV0pEY0tlekVxZ0ZhMUJfN1pjWDFmWFUwMWowYjNJdk5yWjA1YzN2SFhtSGdMMTBwMm5YWnRybWE1N3NpVlVBLWI4dFBRblVCdnp1RnU2SU40U0poN1FvNUY5NlY2Y01hQ3JPckZIR3h0TS0?oc=5",
         "source": "Manchester Evening News",
-        "published": "Wed, 24 Jun 2026 20:35:06 GMT"
+        "published": "Wed, 24 Jun 2026 21:30:33 GMT"
       },
       {
         "title": "Transfer news LIVE: Man Utd 'reach agreement', £69m Arsenal boost, Tottenham confirm deal",
@@ -1142,22 +1142,22 @@
         "published": "Wed, 24 Jun 2026 21:24:15 GMT"
       },
       {
+        "title": "Transfer news LIVE: Arsenal to make Rogers bid; Chelsea deal agreed",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFhabzJlQWE0aEQ5V2lhU0tkeTNhSDBjNTZFb1JlLWN0TzNNZUZacFI1QlBlM1I5QWhjWVFaREgxNC03UGhfLTFqclh3QWRxaE1BZE9DTW1Xc20ydVp3ZUFtLVhVX20yRnR0LUViTXB1SEdtZ3BZa1NRZ2xfV0VfQjkxY2ZKMzJOZl83S0xYUHBab2dLSG9sRGlaTUJBbXl2RnlRdDVWQXJGbllGU2gxZUtGalJWSFBPUUpTUDdXdks5WXhkSzFEcEFfRkNNYWNi?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 23 Jun 2026 20:53:28 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFlIVzZic2NnVHc2Yjl3SFpQRE1UZjhOYm02NU5aU2pkSlNpYUJkSkpxZFU4bGtoLWZrNXV2TmZYSGF5bHpENjlFaG1Uejh6NHUxOXUtOGZkUXU5ZWVyMHhYLUNXSXBtcDZETkFtdlVLSkNuZGNjZFdsbWRLMmE3LWUwUXlLVjBmUGxMc0EzWG9id19VS3FtRmZjay1rZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 23 Jun 2026 17:05:55 GMT"
+      },
+      {
         "title": "Man Utd transfer news: Bruno Fernandes set to stay with goalkeeper targets revealed - Paper Talk",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalFmcENnQWQzTXBYRVVaNlpRbVdLNmY2aW9DdmpnYUhlRUhLOWpuY0pYbGlzQ2FLb3NrWVpqTVRjSTE1ZUJIcmFIOWhRUlI4dm1DVFMwN2U0N2ZHWjNYckxkX1FJSlU5UklCVUdnbk1mdXcxNlJhN3FXcURZYWJueTM2WWFuV0laNnR2MlQtbGY2SldrZEFoQnJ4bzhybjFsbjdvUEpReHhWTTRVWWRna1NBUWIySDdUb1pqNDh3Y1dyUWZ0MkYzWUJKXzhSSjYtRUxXelMyS3ZKRURLUnlyUXlR?oc=5",
         "source": "Sky Sports",
         "published": "Wed, 24 Jun 2026 21:14:28 GMT"
-      },
-      {
-        "title": "Man Utd or nothing! David de Gea makes ‘only club’ transfer stance clear amid Fiorentina exit talk",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjZ6S3FCXzFCYl84VUxNTXRab0RLV1M4M3F4SUdnVzV4cHVQb254MU9fY0t3X3FfQUV0eUNGdVJXbmN4b1VjVEJnX3FHc3V3UjgtS0lxX01TLWdvRmQ0N0hLVk05SGNZQlhqYV95M3BvZjVyaVpWb0hjZkFIWUwwVzgwVnoyY2dZaU5oNTY0ZUNDbTZaUUZnUlE0RFp5d0kyTmczbDBxU0xSUHg1MVhzcHRB?oc=5",
-        "source": "Goal.com",
-        "published": "Wed, 24 Jun 2026 18:40:33 GMT"
-      },
-      {
-        "title": "Man Utd Want 'One of The Best Strikers in Europe' as Bargain Price Revealed",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEJCVTdHNDVhVHJrM1dYS08tWDdXaWxEems5dWI2aE9sZkRRS1NJTlNlRjdzeWg4akNXZjFJUW9oNTQ1NnFzYU4tc3k2dmQxcU9kYWFLNUVUcVBYa0lLWFlaWGo4MWJYUjcxR01VYUFpckFXZVRPM0ZiR1ZzRDBXWA?oc=5",
-        "source": "GiveMeSport",
-        "published": "Wed, 24 Jun 2026 19:46:15 GMT"
       }
     ],
     "rm": [
@@ -1197,7 +1197,7 @@
         "title": "Inside Bayern Munich’s secret agreement with Real Madrid",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEc2Z1BScDdfR0t2ZFQwUmtnR3pYRl9CaXVQT25qUTlMSlI0MHZLblNlbl91Vndudjl6WUNaWUpWSjhGSjUydXVITEpvd3pZMFJadlVPYVkxOF9PV19TUEJCWExOZDU5NEtMS3FPc0JqZ3NURzVMU3ZDV3h4NTBPczQ4QjE5bXlLNkh5Y1d0eS1odExwWkRqckhVS2hLcUhMZnNrN0toeEs1a3RubGlJYVJTSUxkMFhfRUItdjFmTTBfeTd5MlluemYyRkxLbG9S?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Wed, 24 Jun 2026 15:30:00 GMT"
+        "published": "Wed, 24 Jun 2026 21:00:00 GMT"
       },
       {
         "title": "Club identified: Nübel informs Bayern of transfer wish",
@@ -1227,35 +1227,35 @@
   },
   "upcoming": [
     {
-      "id": 537344,
-      "date": "2026-06-24T22:00:00Z",
-      "group": "GROUP_C",
+      "id": 537331,
+      "date": "2026-06-25T01:00:00Z",
+      "group": "GROUP_A",
       "status": "TIMED",
       "home": {
-        "name": "Morocco",
-        "flag": "🇲🇦",
+        "name": "Czechia",
+        "flag": "🇨🇿",
         "lineup": []
       },
       "away": {
-        "name": "Haiti",
-        "flag": "🏳",
+        "name": "Mexico",
+        "flag": "🇲🇽",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
     },
     {
-      "id": 537343,
-      "date": "2026-06-24T22:00:00Z",
-      "group": "GROUP_C",
+      "id": 537332,
+      "date": "2026-06-25T01:00:00Z",
+      "group": "GROUP_A",
       "status": "TIMED",
       "home": {
-        "name": "Scotland",
-        "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "name": "South Africa",
+        "flag": "🇿🇦",
         "lineup": []
       },
       "away": {
-        "name": "Brazil",
-        "flag": "🇧🇷",
+        "name": "South Korea",
+        "flag": "🇰🇷",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
