@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T18:18:36.864649+00:00",
+  "updated": "2026-06-23T20:29:45.117543+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1128,28 +1128,104 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd deal agreed",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVAtdUlSZXF3NmpMclRjYThUS3VkamtpODZGMU92ODZ4MzJDVFFHbkxjaXhhcURUVWdBSGcxRk96c3ZTYU92c1dfczViODNiRDNPeUxrNFE4Yjc1NXRLbk9vVWo4bUFuR3dxekdoeUlZUGY0UWhTRnpnRm91Z0tEclZvTEh3WUJhRGtEUFNIbU9KdmhuZ29PcENIWUE5dDlxN3NJSzg4QkVIYURSQnVoTDdWY0NkQzhYOFNTNkJ3TGl0R1pDNzVJZEVtQTY4Sms?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 23 Jun 2026 16:52:01 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd’s Fernandes Deal Hijacked; Real Madrid Told Olise Price",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm92eTNFdWdvamhSZkVBRlBHZm5zVy1rdFRHQlRwdXpoVzJOQUNJeF9EZk5KY0gySGhKS2htRHNrcFphdkNkVzdrR3FHMW56M2o0R2U5SXJKRVNqaDYxWDVyaDFjYTd4YkFPQjU2a3pfMEU1TVdFekpabmJ1X3hzQmVfWTZBUkEtQXlXdEFTRmJUT2ZENjFn?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 22 Jun 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Lewis Hall: Man United take incredible transfer stance on Newcastle star",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGVCakE1ekhRN3VVUVJsSlNCeWRmZGN3dHp4VDVCdnJxWWRnZFg5REV4RF9aY1JUcXNGTkxmWmhmNUs4Wm9CZ3gtdjhuelpSRkhPNklyd3JVem80UXE3Q3dkMF9nNlU3WnF1M3g1b2hpVDM5dDVrWTBZcGpNUW9Db2JnSGVyOVU?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Tue, 23 Jun 2026 19:35:00 GMT"
+      },
+      {
+        "title": "Man Utd Ready to Sign 'Magical' Premier League Forward on Free Transfer",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTNuWVpQaGhCTHhoUnhYakI3N09IMkNJSG9sb045YVJQelZMYnlidnFmdDFRRjBrQkpGb0ZIbi1KbjRzRi1mQlRPZ1NSQWdzYlNya1B0NE52WVNXVjVKbXJaY2xGaGNLemRHeTJFR2U3LTdEdmpCQS0tX3hac3FtbHhVSkRjeUNFTmVGVlVn?oc=5",
+        "source": "GiveMeSport",
+        "published": "Tue, 23 Jun 2026 17:45:18 GMT"
+      },
+      {
+        "title": "Man Utd 'reach Mateus Fernandes agreement amid Tottenham interest'",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOW96MzVCUll0ZlJqUVRVN2huZW5rbG9paVQ4VXF4RHZyTGVweXZGaFo3RFhvOVkwZDRwX2g0ejZZYmR4bHYyWkRUQ2xSRFFMUDVRcV9DU1JUaXgxWnk5YWUyaUh4eFdLTE9Bd2JYd2cxblRBaUg4RVVadlZkLXlpSVZkb0pPWEZ2eGJHcFNLRTA0Tl9RZXRGM2V2S1NyZjNodUZKbGxQR2Etdw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 23 Jun 2026 11:25:26 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFlIVzZic2NnVHc2Yjl3SFpQRE1UZjhOYm02NU5aU2pkSlNpYUJkSkpxZFU4bGtoLWZrNXV2TmZYSGF5bHpENjlFaG1Uejh6NHUxOXUtOGZkUXU5ZWVyMHhYLUNXSXBtcDZETkFtdlVLSkNuZGNjZFdsbWRLMmE3LWUwUXlLVjBmUGxMc0EzWG9id19VS3FtRmZjay1rZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 23 Jun 2026 17:05:55 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd’s Fernandes Deal Hijacked; Real Madrid Told Olise Price",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm92eTNFdWdvamhSZkVBRlBHZm5zVy1rdFRHQlRwdXpoVzJOQUNJeF9EZk5KY0gySGhKS2htRHNrcFphdkNkVzdrR3FHMW56M2o0R2U5SXJKRVNqaDYxWDVyaDFjYTd4YkFPQjU2a3pfMEU1TVdFekpabmJ1X3hzQmVfWTZBUkEtQXlXdEFTRmJUT2ZENjFn?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 22 Jun 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man Utd handed major Aurelien Tchouameni transfer boost as Real Madrid make call",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUNxeWd2d2R3LUpoQ0lXX2tWOUJMMjhGaWF6bmxUMlg2RlkwY1hMdFZYdmVHU05RNE1PU0NMR0tWbTBlTVE1TGYxdVFLOXVTTkZnQUJtOTcwS2V0Vmo4dmo4Y1lTYU5KRXdSVmtBSmVlT0hiUXVnWE1Fb0Y0ekp5eFE3b1ZTX3RFUHNNSGwwYS1hdnFYTkhuNUlzSdIBoAFBVV95cUxON0lkNWQzTlRqLUUyOTV1NHdWd0dZMG9HTTZ3Vmt2cmowVG81RzM1T0tEZ2VsQUJRRW43c0JIdUJPanRxbU5lVWFzaVNOdThrVXRmaFp3RnV4Zk92LTI4THRIaFV6V2hYSzRVUEJPRlo5TkY1TG1MUjV4bkttaWhWY3A2b21LVWdLbFNvSGdJblpqNUl0TERTcFBIQ3hSbmhS?oc=5",
+        "source": "The Mirror",
+        "published": "Tue, 23 Jun 2026 15:39:00 GMT"
+      },
+      {
+        "title": "Tottenham 'overtake' Man Utd for Fernandes who 'prefers' Spurs move as Real Madrid pull plug",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVJfdnVMVF9yUHVlRC1XMFoyZTFuZGR6VnBtMFo1a1VSM1dwbFNRaFhhUUVFMnBQRVlfVXVkV0xhT1BLZkJrMV84WWFSWUswd1p0SGMxMXlFbXNjR2pweURKZnhfOVdQcUJTNlpIYlItendpQTNGZW5HRUpXRVJRbndHem5SeWNiQi1SYTdSMGZsU2ZmVnVveFFkMHdjUXA3?oc=5",
+        "source": "Football365",
+        "published": "Tue, 23 Jun 2026 14:04:06 GMT"
+      },
+      {
+        "title": "Real sign Schroeder in 'most expensive' women's transfer",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yaHRSWWVnRXdCX3NSWW5ZNGpVN1R3cnpVLTBOUW1RdDd2QXVjR2Vpdk9oT2hYQU5qUWpaekNnZlNtN0VsMTVzSVVVTndoWmhMNlFhRHJKX3dQOHkzMHdoSTUxRzhMWms?oc=5",
+        "source": "BBC",
+        "published": "Tue, 23 Jun 2026 19:54:40 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "No further progress with Nathaniel Brown move for Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUs3d3ZYYldTY1dMRFEzR2NIeXJ4b1B4dmhUdkxVUFpweHgxWkRsZGt5aGt1S3JvdlV1V0FtaGpsUUJHWURJRk02MEJURE5KQ3NWTGNWa0lkYWlTWVdfMV9xbU9GQkc5d3J1T2ZBaGdJM1AxcVBnM1d1ZVF6RFhvNHphTFQwd20ycXVpYjNGZ3ZiMnBfRk5GZ1Z4SlJiX2xHWWhSU2lEcVNJYUxmQXY4WHEyZElPUlB5WEJtT2FzblVWVzFDRmdrckg1M0JsdVBsaVJzc3paZ28tU00?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 22 Jun 2026 23:15:00 GMT"
+      },
+      {
+        "title": "Barcelona make shock Harry Kane transfer approach amid Bayern Munich contract uncertainty",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFhYWlpQdmxnNHNqcHVROVY0b1c0ek9tY2FDb2tJUzVkd0pmUTJYU3NwYm1hZHR2MVhDOExqQWtpYkJXdGhXekx0OE9iZFJORGxwZGdWMzM0V2NZaFlYLUhTMjJMNWN1X1RvRElPalhvNnZRSjhFcWJqb3RPanRKblY5RjZJQUtZZnl0TmFhb3ZGVHMyWERkNlJpS0d2MWQ4cUVSNUpCYlR0WjZXSkI4d0wyNkdjU00zcVgyZ1VOOUkzRGQ5VkM1Ug?oc=5",
+        "source": "Goal.com",
+        "published": "Mon, 22 Jun 2026 15:55:59 GMT"
+      },
+      {
+        "title": "Bayern Munich & Aston Villa: Five Lucas Bergvall transfer options after Tottenham exit request",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcWkzUTVTMTZFQnR0VWw3RW9DdG90RXdMdEhsT2lxMEVrbEdrZlpPdDVZQXByTFBud0F4dEQzZUd2TFRVR1lNM0JHNkdFV2t4bFYyOGpCcEJRMEhSNUJMSFIxLVdCQ1d2V1o4T2VycVNoSFVrSEpOTnVyVXpWQW9EU1ozVzV1WDEwc0UxRDZmQWdLWUNvQmxPZXBCRV92Wk9Qazc5UmRTUHdLTnAxS3lPaXNSQl9DdFlmVFVOQWs1MFMxQ2NhZ3g1ZHNJdjMzTGU2amttcVVwNFVwZw?oc=5",
+        "source": "Transfermarkt",
+        "published": "Mon, 22 Jun 2026 13:22:32 GMT"
+      },
+      {
+        "title": "Real Madrid deny contact with Bayern Munich’s Michael Olise despite transfer rumours - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3BwdGxqODlZakNNSTJlTlRCSVVoMFN2Z0xHZnktcDQyN0x1NmFzeXJpRG5YdVBlQTlEUHhjUDNjQWJQMDBDZFVhRkxPNG5FOTIzNnRzb2FZbm9wRHdNQkRHdE1yTVdFNHozanlYeVgwTjhRcXJGSDE0UWZBWWM5X0FoeHczaUVyLWxaTDNtaTYxcFhtNzFGeklqT2xEZw?oc=5",
+        "source": "The New York Times",
+        "published": "Sat, 20 Jun 2026 16:48:32 GMT"
+      },
+      {
+        "title": "Jurgen Klopp confirms Bayern Munich star he wanted to sign at Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUW41Z1NzNWRHWVBnSlBreC1XVGhad3ptYnBTVkg1VlBLUWRTbTktXzYzUWMzb1JaNW9NOHhWWXFfWVFBUTNoVllCX3FKYzltTUFXeXVNeUcxS21NWjdZSmU4R3ZUOE1PclN0azF1LWhVb1U2N280ZTVSUC0yWDV5Zi1qcThnblJaT2lKQ0RpdFJJVFFmX0ZMWkxfWjhZR03SAaQBQVVfeXFMTzJzWlNMc3VlLWZBazB5anVIZkM2anZFYVRycXRnTXBXVmhpQVg2eGdNTkdjSWVXdFBUcFBGRFV6Y3A5WEhGSEc1VFM4WTdIbFJERnhJbldlV2xYemRHanlGRTlfQWQ3aFJfVkNnMFQ1aGZ2VGVlV2QyOTFHZkpvRVg0NjdfM2w2TGdKQmtnQWxiMndBeS1zZ0ZtWG1iLUJTTU1MbDE?oc=5",
+        "source": "Liverpool.com",
+        "published": "Tue, 23 Jun 2026 16:28:53 GMT"
+      }
+    ]
   },
   "upcoming": [
-    {
-      "id": 537411,
-      "date": "2026-06-23T20:00:00Z",
-      "group": "GROUP_L",
-      "status": "TIMED",
-      "home": {
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lineup": []
-      },
-      "away": {
-        "name": "Ghana",
-        "flag": "🇬🇭",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
     {
       "id": 537412,
       "date": "2026-06-23T23:00:00Z",
@@ -1163,6 +1239,23 @@
       "away": {
         "name": "Croatia",
         "flag": "🇭🇷",
+        "lineup": []
+      },
+      "lineup_status": "Lineup TBA — check back closer to kickoff"
+    },
+    {
+      "id": 537406,
+      "date": "2026-06-24T02:00:00Z",
+      "group": "GROUP_K",
+      "status": "TIMED",
+      "home": {
+        "name": "Colombia",
+        "flag": "🇨🇴",
+        "lineup": []
+      },
+      "away": {
+        "name": "Congo DR",
+        "flag": "🏳",
         "lineup": []
       },
       "lineup_status": "Lineup TBA — check back closer to kickoff"
