@@ -15,6 +15,7 @@
     --utd-red: #DA291C;
     --rm-gold: #FEBE10;
     --fcb-red: #DC052D;
+    --ars-red: #EF0107;
     --green: #22c55e;
     --red: #ef4444;
     --amber: #f59e0b;
@@ -93,6 +94,7 @@
   .club-card.utd { border-top: 3px solid var(--utd-red); }
   .club-card.rm  { border-top: 3px solid var(--rm-gold); }
   .club-card.fcb { border-top: 3px solid var(--fcb-red); }
+  .club-card.ars { border-top: 3px solid var(--ars-red); }
   .club-badge { font-size: 2.4rem; line-height: 1; }
   .club-name {
     font-size: 0.72rem; font-weight: 700;
@@ -107,6 +109,7 @@
   .club-card.utd .club-goals { color: var(--utd-red); }
   .club-card.rm  .club-goals { color: var(--rm-gold); }
   .club-card.fcb .club-goals { color: var(--fcb-red); }
+  .club-card.ars .club-goals { color: var(--ars-red); }
   .club-sub { font-size: 0.72rem; color: var(--muted); margin-top: 0.2rem; }
 
   .content {
@@ -387,6 +390,12 @@
     <div class="club-goals" id="score-fcb">—</div>
     <div class="club-sub"  id="sub-fcb">— goals · — OG</div>
   </div>
+  <div class="club-card ars">
+    <div class="club-badge">🐊</div>
+    <div class="club-name">Arsenal</div>
+    <div class="club-goals" id="score-ars">—</div>
+    <div class="club-sub"  id="sub-ars">— goals · — OG</div>
+  </div>
 </div>
 
 <div class="content">
@@ -411,6 +420,7 @@
         <button class="roster-tab active" onclick="switchTab('utd',this)">Man Utd</button>
         <button class="roster-tab" onclick="switchTab('rm',this)">Real Madrid</button>
         <button class="roster-tab" onclick="switchTab('fcb',this)">Bayern</button>
+        <button class="roster-tab" onclick="switchTab('ars',this)">Arsenal</button>
       </div>
       <div id="roster-list" class="roster-list">
         <div class="empty-state" style="padding:1.5rem">Loading…</div>
