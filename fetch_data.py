@@ -43,6 +43,12 @@ OVERRIDES = {
 # Example: {"Bernardo Silva": "2026-06-15"}
 TRANSFER_DATES: dict[str, str] = {}
 
+# departure_date (YYYY-MM-DD): player is removed from their club's squad on/after this date.
+# Format: {"Player Name": ("club_key", "YYYY-MM-DD")}
+DEPARTURE_DATES: dict[str, tuple] = {
+    "Casemiro": ("utd", "2026-07-01"),
+}
+
 COUNTRY_FLAGS = {
     "Spain": "🇪🇸", "Cabo Verde": "🇨🇻", "Cape Verde": "🇨🇻", "Belgium": "🇧🇪", "Egypt": "🇪🇬",
     "Saudi Arabia": "🇸🇦", "Uruguay": "🇺🇾", "Iran": "🇮🇷", "New Zealand": "🇳🇿",
@@ -100,9 +106,16 @@ PLAYER_CLUBS: dict[int, str] = {}
 CLUB_SQUADS:  dict[str, list] = {key: [] for key in CLUBS}
 EXTRA_NAMES:  dict[str, str]  = {}
 
+today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
 for key, club in CLUBS.items():
     ovr     = OVERRIDES.get(key, {})
     removes = {n.lower() for n in ovr.get("remove", set())}
+    # Apply scheduled departures that are due today or earlier
+    for player_name, (dep_club, dep_date) in DEPARTURE_DATES.items():
+        if dep_club == key and today >= dep_date:
+            removes.add(player_name.lower())
+            print(f"  DEPARTURE: {player_name} removed from {club['name']} (effective {dep_date})")
     adds    = ovr.get("add", [])
 
     league_data = fetch(f"/competitions/{club['league']}/teams?season=2025")
