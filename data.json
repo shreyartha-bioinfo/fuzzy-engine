@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T14:06:40.083536+00:00",
+  "updated": "2026-06-24T16:36:39.189247+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1130,16 +1130,22 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man United transfer news LIVE: Morgan Rogers update, Mateus Fernandes latest, Brian Brobbey link",
+        "title": "Man United transfer news LIVE: Mateus Fernandes 'agreement', Morgan Rogers update, two new targets",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkXSAbABQVVfeXFMUEFMUnV2VjJxb2h5b1FIQWZsZWJqLXBFYl9PUjIzaENEX2tKQXIyRWp6d0p1M0t1eVZvX24tclRXd3gtQXNwV0pEY0tlekVxZ0ZhMUJfN1pjWDFmWFUwMWowYjNJdk5yWjA1YzN2SFhtSGdMMTBwMm5YWnRybWE1N3NpVlVBLWI4dFBRblVCdnp1RnU2SU40U0poN1FvNUY5NlY2Y01hQ3JPckZIR3h0TS0?oc=5",
         "source": "Manchester Evening News",
-        "published": "Wed, 24 Jun 2026 13:42:32 GMT"
+        "published": "Wed, 24 Jun 2026 16:30:06 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal have Rogers agreement; Chelsea deal today",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFhabzJlQWE0aEQ5V2lhU0tkeTNhSDBjNTZFb1JlLWN0TzNNZUZacFI1QlBlM1I5QWhjWVFaREgxNC03UGhfLTFqclh3QWRxaE1BZE9DTW1Xc20ydVp3ZUFtLVhVX20yRnR0LUViTXB1SEdtZ3BZa1NRZ2xfV0VfQjkxY2ZKMzJOZl83S0xYUHBab2dLSG9sRGlaTUJBbXl2RnlRdDVWQXJGbllGU2gxZUtGalJWSFBPUUpTUDdXdks5WXhkSzFEcEFfRkNNYWNi?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 24 Jun 2026 11:49:39 GMT"
+        "title": "Transfer news: Man Utd and Tottenham battling for West Ham's Mateus Fernandes and Arsenal target Alex Scott",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUFRc1BKcXlBamtxUHp5bmdESzI1alRYREg0aExlajJuQUNFUmxvd3RVTEphakZwaFY1azZBaERORVA5eHBMSFNJV2xBbW1ZTDNCV3JicUl2STBiNHRpVWVvUXZqbktkTUNRTldBaWw0dDRFeFg1cGdGWFpmclpMZE5qR1dDdXpPV05sSm93aENUS2JJOGVJcWR0eEx4TEdJcUlPX204QTZhWUlIVi1sdmlvVFM3dUFxWnJXSjZUTFpzTGNoWEZIbVNLZ1N5U3kyUzdad0pURGtNVmpzZUd2TzV0c29XZ2pmN09WZ3gzTU9tQQ?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 24 Jun 2026 14:04:14 GMT"
+      },
+      {
+        "title": "Man Utd prep OFFICIAL first bid for Mateus Fernandes - sources reckon Spurs have little chance",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1E4TDRwc1llc1J5dEZLbWlhcG9MdVlpUXZ0NjlBbVhURXMxRFhwVE9abDc2d29CMXFEU0RtLUJOb1RNWm4tTXNXNHhHVHFQQzdVYUh2MUNaaGZUUlI4QV9vZVFGTjNMN1lneUhhRTQxZzk5R2l3bTN1T25VZGtNVXJoWEFCUFpXbkJDcVRBdnhhdVctb0ptMXdiMVFJVWVsMzFhV3Z1dlRKWUUzbFVDRURDSkN6S2lXVlAzaHIyY3NYblFHVHc?oc=5",
+        "source": "TEAMtalk",
+        "published": "Tue, 23 Jun 2026 13:30:44 GMT"
       },
       {
         "title": "Where Man U stand with 6 transfer targets as Carrick plots £200m spending spree",
@@ -1148,16 +1154,10 @@
         "published": "Wed, 24 Jun 2026 12:15:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: Julian Alvarez row turns ugly, Morgan Rogers to Arsenal, Man Utd updates",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTd5TXA0UTViN3BCeUUwWkVDOGpMOTVGMVFwN3FpS2JDMW5YbVJIYTAyc0FPLTNJYVlBOURoR1NINnByNVZQYk45amlXNHYtc05Mb2FiXzJCeFNNa3Rrelk2WmdrLW53WlJMUzBUVFVzb29xQ2doVjdzVE01UFprSlM3SkRmMFhfaFF3YWFjLWNkYkt1b2NSbGJxY9IBoAFBVV95cUxPNC16Nlpzb1JNYURGb1FnOGxGUTc2VmR6c2J3MnJQQ2RUZFR4WnN0dzdSNnc0emxadWlXbm40X3NReDR6UWdtREdsSVBMV3g0Mi12cHU4YnhOV3Ezbl9TWE5sUTVaZ0FRalo5aVVsNndJS1B0eDJWdzNhZjN3WGtVRWdZU0N2MENvOU84ZzRuSXJaVUNiblh5NUlHeFVUZzUy?oc=5",
-        "source": "The Mirror",
-        "published": "Wed, 24 Jun 2026 13:30:50 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Chelsea close on Atalanta defender",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzVyc1lLdWpfWWZyaVc2dzA3SEhsT0FFUm1NLTVzR3hpd1RFcFJ1T3BZN3RjX3JPZmYzTmJFeW9iWWpKcnd1NVB4aWRmMFRyTXg5MTBkalBJUUxGMUxudmF2bFRvdnh2ZDduU2xtWUtmRUNKaGNUNk1Nb0pZd0FDT3RMZ0FNdDMxS2UzVnNjMFRUSThRbUtCWnJlTHVLOU92aFE?oc=5",
+        "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth star",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2o4c2EybXZBMVVxbTZYMllNd1FXR085b0F5QTRWeFdwODVOVkk2QkF3dl9uOWFvVUJfOFJ1NnRMYUhKLTdfdGNBOC1QY1RQZ0NXS0JzaXF6M0dSS3VIdjZHN3RlRTJZam9salBFMXU5ZlVmaER6WGRNTjRHSFluaG93UmdXZGtUd0NkSUF6ak9GUlY1QWg0M1dfWUlCMkx4UTZfVjJQcHM0Qkk0?oc=5",
         "source": "ESPN",
-        "published": "Wed, 24 Jun 2026 11:57:00 GMT"
+        "published": "Wed, 24 Jun 2026 13:16:00 GMT"
       }
     ],
     "rm": [
@@ -1186,18 +1186,18 @@
         "published": "Tue, 23 Jun 2026 19:10:40 GMT"
       },
       {
-        "title": "Chelsea Offer Huge Hint Over Xabi Alonso’s Tactics After $68 Million Transfer Hijack",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFg4M2hmOVQ1UlVXc3gxeEdBNGZXMXZQNWc3U2haOVMwckw0MGVmSlpoUHRqMWdQRG0wUGFTLTVhLXc0MFdNb01EX1d0XzZnODBTbFB5QlJFSVF0LXJJMEkyTUJNUlhSNXR4ajBzWTNmY1ltUkFPY2wtUGJKcWFBWExMRXNEdG9OS19vOVViRmhnUmJo?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Wed, 24 Jun 2026 12:30:00 GMT"
+        "title": "Enzo Fernández takes center stage in Real Madrid’s transfer rethink",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUZHWFBBRjdwYWtxdnNHbVBuLXNySlR1NlJERW5reXdpSDUzRERPaWItMVBoMmtzM2FwNnp2Y1p3MkM4RjBSeXJpX040amQ5eU1rWVdYWmlZc2gzZmc1Tnk4SHo3eUxvbHF6cUs3dG5sSHRtTGtTTjNiM0dMOU1VNmJfa1ZBMW43TkN0al9LTUJRN0QtV05MRDJiSG9xSXRpYzkyTtIBuAFBVV95cUxQdUlOUi01SmR1WDQ5QWV0ZjFzMTNJckM0LXVYejhya3hBZjJSTXJWQ251VFYtRjVqc1Mxem5EZkNpZTA2V0lTRzJNS1loMERrVmlfdWViNW55V3VxRzlNV0hQMERMdnkxaEN0U3BoSEhQYmNrNUdZVVo2R21PQkMyZkRCNFZpT1pJQWM2VnhMRkFQUzBDRTNyeTFyWW9YN3pMRU00cGU5bk5ZYnNPa0JJV0R1UUxmYmgy?oc=5",
+        "source": "Diario AS",
+        "published": "Tue, 23 Jun 2026 11:22:01 GMT"
       }
     ],
     "fcb": [
       {
-        "title": "Inside Bayern Munich’s secret agreement with Real Madrid",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEc2Z1BScDdfR0t2ZFQwUmtnR3pYRl9CaXVQT25qUTlMSlI0MHZLblNlbl91Vndudjl6WUNaWUpWSjhGSjUydXVITEpvd3pZMFJadlVPYVkxOF9PV19TUEJCWExOZDU5NEtMS3FPc0JqZ3NURzVMU3ZDV3h4NTBPczQ4QjE5bXlLNkh5Y1d0eS1odExwWkRqckhVS2hLcUhMZnNrN0toeEs1a3RubGlJYVJTSUxkMFhfRUItdjFmTTBfeTd5MlluemYyRkxLbG9S?oc=5",
+        "title": "Bayern Munich makes contact with reps for Felix Nmecha",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUURzRzRpTFo4M28xOGhMbDdhT0R5RTBfWk1SNVFZNzVRZVIwUEJoZzUxRmNuX1lmYVM2ZVdyV2tUNUoyX2Z0XzROWnJ1OEdleXIyZjY0Rjg5dTJ2LXFabWQxVUhnZEpxSng3OTJfakcyVDQ0cS1teDhDaHJ3MEJUWVNuUEVMdzFEVW5rSkp6YjVSYmtDV1JQenJXcU1ZVXRCUVozZ3dOY0RpdjhpdVhveTlrWVNwdS0yN1JxREtBMWM2bUtPTDNPb2JfaFFEbjQ?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Wed, 24 Jun 2026 13:30:00 GMT"
+        "published": "Wed, 24 Jun 2026 12:30:00 GMT"
       },
       {
         "title": "Club identified: Nübel informs Bayern of transfer wish",
@@ -1206,16 +1206,16 @@
         "published": "Tue, 23 Jun 2026 21:01:00 GMT"
       },
       {
-        "title": "Barcelona make shock Harry Kane transfer approach amid Bayern Munich contract uncertainty",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFhYWlpQdmxnNHNqcHVROVY0b1c0ek9tY2FDb2tJUzVkd0pmUTJYU3NwYm1hZHR2MVhDOExqQWtpYkJXdGhXekx0OE9iZFJORGxwZGdWMzM0V2NZaFlYLUhTMjJMNWN1X1RvRElPalhvNnZRSjhFcWJqb3RPanRKblY5RjZJQUtZZnl0TmFhb3ZGVHMyWERkNlJpS0d2MWQ4cUVSNUpCYlR0WjZXSkI4d0wyNkdjU00zcVgyZ1VOOUkzRGQ5VkM1Ug?oc=5",
-        "source": "Goal.com",
-        "published": "Mon, 22 Jun 2026 15:55:59 GMT"
-      },
-      {
         "title": "Real Madrid have Michael Olise transfer pact in place with Bayern Munich",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTR4MWxyT3JOR0g1VGhod0JSRUFMeGZDeFUxdjJCWlRRNnFrbDFiejRnZ2lPT3VoYUNsanctZ2d3aGJ1VElpZ0JDX0t6ekxZOXlPMDVIdnVJYTdfT3Q2a0JBTnd1bTlQZ2RKb0dURVFMcnNuUjVYTUNHbUhOaHdzSTlzWjN3dTBCc2JJ?oc=5",
         "source": "Yahoo Sports",
         "published": "Wed, 24 Jun 2026 09:10:00 GMT"
+      },
+      {
+        "title": "Barcelona make shock Harry Kane transfer approach amid Bayern Munich contract uncertainty",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFhYWlpQdmxnNHNqcHVROVY0b1c0ek9tY2FDb2tJUzVkd0pmUTJYU3NwYm1hZHR2MVhDOExqQWtpYkJXdGhXekx0OE9iZFJORGxwZGdWMzM0V2NZaFlYLUhTMjJMNWN1X1RvRElPalhvNnZRSjhFcWJqb3RPanRKblY5RjZJQUtZZnl0TmFhb3ZGVHMyWERkNlJpS0d2MWQ4cUVSNUpCYlR0WjZXSkI4d0wyNkdjU00zcVgyZ1VOOUkzRGQ5VkM1Ug?oc=5",
+        "source": "Goal.com",
+        "published": "Mon, 22 Jun 2026 15:55:59 GMT"
       },
       {
         "title": "Jurgen Klopp confirms Bayern Munich star he wanted to sign at Liverpool",
