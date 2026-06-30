@@ -794,9 +794,9 @@
     "fcb": {
       "name": "Bayern Munich",
       "flag": "🔴",
-      "goals": 5,
+      "goals": 6,
       "ownGoals": 0,
-      "net": 5,
+      "net": 6,
       "assists": 1,
       "scorers": [
         {
@@ -817,6 +817,14 @@
         },
         {
           "name": "Jamal Musiala",
+          "nationality": "Germany",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1,
+          "assists": 0
+        },
+        {
+          "name": "Leon Goretzka",
           "nationality": "Germany",
           "goals": 1,
           "ownGoals": 0,
@@ -1045,9 +1053,9 @@
           "name": "Leon Goretzka",
           "position": "Midfield",
           "nationality": "Germany",
-          "goals": 0,
+          "goals": 1,
           "ownGoals": 0,
-          "net": 0,
+          "net": 1,
           "assists": 0
         },
         {
