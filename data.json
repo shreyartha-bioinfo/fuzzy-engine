@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-24T22:59:02.617816+00:00",
+  "updated": "2026-06-25T00:14:27.930660+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
       "flag": "🔴",
-      "goals": 4,
+      "goals": 5,
       "ownGoals": 0,
-      "net": 4,
+      "net": 5,
       "assists": 0,
       "scorers": [
         {
           "name": "Matheus Cunha",
           "nationality": "Brazil",
-          "goals": 2,
+          "goals": 3,
           "ownGoals": 0,
-          "net": 2,
+          "net": 3,
           "assists": 0
         },
         {
@@ -228,9 +228,9 @@
           "name": "Matheus Cunha",
           "position": "Offence",
           "nationality": "Brazil",
-          "goals": 2,
+          "goals": 3,
           "ownGoals": 0,
-          "net": 2,
+          "net": 3,
           "assists": 0
         },
         {
@@ -1139,25 +1139,25 @@
         "title": "Transfer news LIVE: Man Utd 'reach agreement', £69m Arsenal boost, Tottenham confirm deal",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTd5TXA0UTViN3BCeUUwWkVDOGpMOTVGMVFwN3FpS2JDMW5YbVJIYTAyc0FPLTNJYVlBOURoR1NINnByNVZQYk45amlXNHYtc05Mb2FiXzJCeFNNa3Rrelk2WmdrLW53WlJMUzBUVFVzb29xQ2doVjdzVE01UFprSlM3SkRmMFhfaFF3YWFjLWNkYkt1b2NSbGJxY9IBoAFBVV95cUxPNC16Nlpzb1JNYURGb1FnOGxGUTc2VmR6c2J3MnJQQ2RUZFR4WnN0dzdSNnc0emxadWlXbm40X3NReDR6UWdtREdsSVBMV3g0Mi12cHU4YnhOV3Ezbl9TWE5sUTVaZ0FRalo5aVVsNndJS1B0eDJWdzNhZjN3WGtVRWdZU0N2MENvOU84ZzRuSXJaVUNiblh5NUlHeFVUZzUy?oc=5",
         "source": "The Mirror",
-        "published": "Wed, 24 Jun 2026 21:24:15 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal to make Rogers bid; Chelsea deal agreed",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFhabzJlQWE0aEQ5V2lhU0tkeTNhSDBjNTZFb1JlLWN0TzNNZUZacFI1QlBlM1I5QWhjWVFaREgxNC03UGhfLTFqclh3QWRxaE1BZE9DTW1Xc20ydVp3ZUFtLVhVX20yRnR0LUViTXB1SEdtZ3BZa1NRZ2xfV0VfQjkxY2ZKMzJOZl83S0xYUHBab2dLSG9sRGlaTUJBbXl2RnlRdDVWQXJGbllGU2gxZUtGalJWSFBPUUpTUDdXdks5WXhkSzFEcEFfRkNNYWNi?oc=5",
-        "source": "London Evening Standard",
-        "published": "Tue, 23 Jun 2026 20:53:28 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFlIVzZic2NnVHc2Yjl3SFpQRE1UZjhOYm02NU5aU2pkSlNpYUJkSkpxZFU4bGtoLWZrNXV2TmZYSGF5bHpENjlFaG1Uejh6NHUxOXUtOGZkUXU5ZWVyMHhYLUNXSXBtcDZETkFtdlVLSkNuZGNjZFdsbWRLMmE3LWUwUXlLVjBmUGxMc0EzWG9id19VS3FtRmZjay1rZw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 23 Jun 2026 17:05:55 GMT"
+        "published": "Wed, 24 Jun 2026 23:58:05 GMT"
       },
       {
         "title": "Man Utd transfer news: Bruno Fernandes set to stay with goalkeeper targets revealed - Paper Talk",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalFmcENnQWQzTXBYRVVaNlpRbVdLNmY2aW9DdmpnYUhlRUhLOWpuY0pYbGlzQ2FLb3NrWVpqTVRjSTE1ZUJIcmFIOWhRUlI4dm1DVFMwN2U0N2ZHWjNYckxkX1FJSlU5UklCVUdnbk1mdXcxNlJhN3FXcURZYWJueTM2WWFuV0laNnR2MlQtbGY2SldrZEFoQnJ4bzhybjFsbjdvUEpReHhWTTRVWWRna1NBUWIySDdUb1pqNDh3Y1dyUWZ0MkYzWUJKXzhSSjYtRUxXelMyS3ZKRURLUnlyUXlR?oc=5",
         "source": "Sky Sports",
         "published": "Wed, 24 Jun 2026 21:14:28 GMT"
+      },
+      {
+        "title": "Transfer news: Man Utd and Tottenham battling for West Ham's Mateus Fernandes and Arsenal target Alex Scott",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUFRc1BKcXlBamtxUHp5bmdESzI1alRYREg0aExlajJuQUNFUmxvd3RVTEphakZwaFY1azZBaERORVA5eHBMSFNJV2xBbW1ZTDNCV3JicUl2STBiNHRpVWVvUXZqbktkTUNRTldBaWw0dDRFeFg1cGdGWFpmclpMZE5qR1dDdXpPV05sSm93aENUS2JJOGVJcWR0eEx4TEdJcUlPX204QTZhWUlIVi1sdmlvVFM3dUFxWnJXSjZUTFpzTGNoWEZIbVNLZ1N5U3kyUzdad0pURGtNVmpzZUd2TzV0c29XZ2pmN09WZ3gzTU9tQQ?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 24 Jun 2026 14:04:14 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal to make Rogers bid; Chelsea deal agreed",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHhURXh0RDF2eDh2a0tJeV9hbDdxRTdHOXFud2xvSlU3QmItaV9VWS1QQVlYTXRIV3Y3WUJLX2x0ajlWaHhRS1dOSVlNc0ZIdkJOUW9PN2ZMQnhmVXBhZjJreE14Q1ZmOWduWS05Ul9DejQyU1lWTF92TTd1RFotQXB4bVljRGs3OFZzQ3JCdkZlRnFZNGdFRU93QUQ2eG10NDBsNVNCZnVOWlhSbEhtWG1mMW94Q2pmRV8zT09yaDJTRmp3blJDMmQ1TWlwNmxELUNLbm5teHUtdw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 24 Jun 2026 22:52:27 GMT"
       }
     ],
     "rm": [
@@ -1169,7 +1169,7 @@
       },
       {
         "title": "Enzo Fernández takes center stage in Real Madrid’s transfer rethink",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUZHWFBBRjdwYWtxdnNHbVBuLXNySlR1NlJERW5reXdpSDUzRERPaWItMVBoMmtzM2FwNnp2Y1p3MkM4RjBSeXJpX040amQ5eU1rWVdYWmlZc2gzZmc1Tnk4SHo3eUxvbHF6cUs3dG5sSHRtTGtTTjNiM0dMOU1VNmJfa1ZBMW43TkN0al9LTUJRN0QtV05MRDJiSG9xSXRpYzkyTg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUZHWFBBRjdwYWtxdnNHbVBuLXNySlR1NlJERW5reXdpSDUzRERPaWItMVBoMmtzM2FwNnp2Y1p3MkM4RjBSeXJpX040amQ5eU1rWVdYWmlZc2gzZmc1Tnk4SHo3eUxvbHF6cUs3dG5sSHRtTGtTTjNiM0dMOU1VNmJfa1ZBMW43TkN0al9LTUJRN0QtV05MRDJiSG9xSXRpYzkyTtIBuAFBVV95cUxQdUlOUi01SmR1WDQ5QWV0ZjFzMTNJckM0LXVYejhya3hBZjJSTXJWQ251VFYtRjVqc1Mxem5EZkNpZTA2V0lTRzJNS1loMERrVmlfdWViNW55V3VxRzlNV0hQMERMdnkxaEN0U3BoSEhQYmNrNUdZVVo2R21PQkMyZkRCNFZpT1pJQWM2VnhMRkFQUzBDRTNyeTFyWW9YN3pMRU00cGU5bk5ZYnNPa0JJV0R1UUxmYmgy?oc=5",
         "source": "Diario AS",
         "published": "Tue, 23 Jun 2026 11:22:01 GMT"
       },
