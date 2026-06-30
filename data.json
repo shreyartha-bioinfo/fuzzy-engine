@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T17:59:52.646892+00:00",
+  "updated": "2026-06-22T20:52:28.824092+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1130,22 +1130,16 @@
   "rumors": {
     "utd": [
       {
+        "title": "Man United transfer news LIVE: Marcus Rashford twist, Mateus Fernandes move, de Gea chance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbElIUEVjZlVETjlPd1NHTHllYVliUkQ5dFpSRDBLMWdHMXYtcDBweDZQR1lGenF6RS13cHVfVnk4aEZhYzFHQjdiaERFNlFBSy1vVUJ5TjlKT0s4WkN5MUdmM2lSelE3c0p5cjJ0OVptV3BNWXVoam5UeU8yeWtfWWZxLVpHTTlyVEZWcmk2cDU5UHRXVm5pNDBoa0FONWFjOW1mQ3FOamktZkU?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Mon, 22 Jun 2026 19:31:41 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal get Rogers boost; Man Utd deal agreed",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnphNktkY3htR3dSbk9IQ1pYNWRJMnB3ZEVfMm1PZjlRYWl4R2JoTG4zQVhNN29Kd083NUdLc1VvZWZiUkhzSTkyUHA2Nzc2dTBHRHNwQmE4Q1BCQkQwS01mNy1wbGRHT2s5eVQyZHFXX2FTZW5GMjBwckMyNkRMb19VU3dUaGdDMG9wRHNfZWdkRmt0c3loeTUzanFnQWJTdXk4T3haajZFem9GSmRDSnNNYkt6ZkJnRWYtN1VFX0w3MTZXVDhOeGlPcFl1czlMMW12NWxR?oc=5",
         "source": "London Evening Standard",
-        "published": "Mon, 22 Jun 2026 15:56:14 GMT"
-      },
-      {
-        "title": "Man Utd agree personal terms with £80m star after Arsenal pull out of race",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU42bTl6NC1uVVJLYXN6MTBBWTVHRlF2ckNJc3pRNGdiZXBwTHVsWThUTl9vN1l2cVAwa25adWs0QklLeU5SV1dkVmpHY3NZMi1iWDBQdUZVanJKMkRMWlJZVHN5cFNfZ2d3YUJpVDc4TVdEN0dNR0pIbUNIa1VSRUFuUlAxbHE0TngtUGZVaFdiNWJBMVVrcHBGMTXSAaIBQVVfeXFMTWl5Tk1Jb3dmNVMwdm9LVmZpcXRGYXIwYlU5QlVRNERjc1k0X2ZodEtkenhGaFBCaWcxOGduRGcxbkt0VUhhZmVjdkpjczhCRGR4TExOa2N5dWU1YV9pS1FaUnVtbUQ4M01DWXZTdHNMY055UDVXSmpMZzRGTV9wTGNjTElPak1uM0psMXVlb0ZCQ09PVEs2ckRDeG4xVTlVMnB3?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Mon, 22 Jun 2026 09:56:00 GMT"
-      },
-      {
-        "title": "Tottenham handed major boost as Sky Sports man shares Morgan Gibbs-White update",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW9rX1RHUmw2TjROQ0o4RGF1ZWI3OUp2dkpIUUZGNWI2TVBMT1c1bkRBc2w1cEJIR25UempnaWkwd0h2dDN5eDhjU2V3REdJVHA1bEFEQUpXWlBYUW5DbVl6RDduRkpZMnhNdHVEZ2R1TnFDUHMwcTU2bDBINHZrTzM2MDBrV3Q5U3F2LVpZblNEb0dRUWwtMHg0TEVCMUprd3hpZEFaeVhRMGFUZmlheDNNT2pxWXVZLXfSAb8BQVVfeXFMTnFtdGVrdDBiaWIwOXJtTUVFZndKZTJyMUlyVlhKQ3BsR0x6YzJkc1Jid2x2WEpFZ0kxaGh1cjFRSUFSbm5JSzc0WE4tZjlBaUFtYjE5Rm85eFZVc0p3bm5kUjRENHhYOElzTmVwSi1DZk83RzZCQ01iN1B3LTdEc0hVMUFxazRJSXc0bXp0TUxreGRrNjNRd0E2aVVLWmFRZEViaDAwdGNjNDRWRU92azBvYjRPQVVtRjRpS1p5aHc?oc=5",
-        "source": "CaughtOffside",
-        "published": "Mon, 22 Jun 2026 15:28:54 GMT"
+        "published": "Mon, 22 Jun 2026 14:58:19 GMT"
       },
       {
         "title": "Transfer rumors, news: PSG battle Man United for Summerville",
@@ -1158,26 +1152,20 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTFIeGVfRWlHTU9QQUdyQ3c3ejhFSjlWWU1rTlBEdld2LWh6ZmhMUmE2VHM4RlBPeFZ3cTBVcnQ0QjE0ODVvZUFnYjduM0NLaXZ6d1p5QTc2OVNiNU5xVi1XNDJFSTlRcUlqbWZVQjk0a2VKTDZrbjVlVU1LY0hvSnp6enNmcHpLSkVLZnZjd3FveEw4aHdDVFpTZkhVTlNNMzgwT1VR?oc=5",
         "source": "The Sun",
         "published": "Mon, 22 Jun 2026 09:59:31 GMT"
+      },
+      {
+        "title": "Crysencio Summerville to Man Utd transfer could face sudden twist after World Cup impact",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUw0Y0dqbU5rZ01HVGpnQW9ieWRGQWpKOU5qRTVfNVUzdUxWU1c5Z1A4VEk1WTRNYzRvZmZ1VEgyVVZYTHlkWlZBTUR1c0M1bW84c1RqTllxY1dyNFprUlFNQWhnZmg1TXc1NmwxQWxuekdCNG4tV21vU1dkMXRxWEtRMHNxNndtQkNzZEMwT3dQdDAxTXhxRjA3dEgzQ3lMWWFpRmxlUVHSAa4BQVVfeXFMTTFLenhKSlBBZ3NRZmIyZ2xuT2JuZjAyR2JBd2NhZ29jYnR3Q2NEb2lpYnAxekxtbm9xbF9DVFQ3X0JDUDFWVmw3RzJRbG00dTFPVVFMdHJxeFJucXlSM1oyWS16aUxuSmlmcTEyT2hqWXljakxpSVZfQjlsT1c5V2tIUkIxelZNUGpuVmtfM3piRG00d3kzWkZMNzd5Nl84NGJ4bjF2ZHVsbl9QNkhB?oc=5",
+        "source": "The Mirror",
+        "published": "Sun, 21 Jun 2026 10:44:00 GMT"
       }
     ],
     "rm": [
       {
-        "title": "Transfer Rumors: Man Utd Target $66 Million Winger; Real Madrid Chase Bouaddi",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQXoweV95YzM4bTU3R2YweG8wN2ROeUdsY0hQSmhud0dYNWtibkJfUXlna21tWDA2dnYwdXotRWhMNURzOXdBLVRmZjB2VVdYU3pYSm03aE1JMThCOUhTU0gwMlRzemFFYVBGVDhybVNOQ2dXSU50a3FyZHJRVDA2MVJ6bVRFM2FBUUJwVGhpRWVZV2hXZ1J6UkN0bTh2VWpwdGc?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 21 Jun 2026 23:05:00 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Real Madrid want Ayyoub Bouaddi as Arsenal Morgan Rogers favourites",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenY0TzNNdlRBcEsxWDZSZTNNVlg4VEN5X3B1eVFtb3ExWE1IVUtEbDVZdUJHWDM3UXh1N25fZnBRNkxfajZMMEpaR2dNT1d5QTBNaFA3cC1XVHRSTHc4QXRmRnE4Q0tkel9tbE9DVEFraGpfSllUcjJvTjlxaHVRcDFZUlBXdFdJUTY3eGF3ZGRiOXJrUW9yY0FPOGhoN2ZRQjNwbEpOa01RQWZSakJBSVRFbDI4Rm1iclkza01RSjZJT21haHdRNWVWY050Zw?oc=5",
         "source": "Transfermarkt",
-        "published": "Mon, 22 Jun 2026 15:30:45 GMT"
-      },
-      {
-        "title": "Man Utd, Liverpool make approach for same Real Madrid star as ‘agreement’ is revealed",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGJDU19uQ1Q1T2FndTc5STdkNVNrbjhYeGVnYWZWQk4yUDFsZlFtNF9FT3ZFdFR6dFl2UnRCb1JnWTFYRUc2WG5oUWtPWjg1TjYyandTMV9wQk5rSzJ5NkdnUU80Zk1rR1JtRmUyZlVSMjJDQ2hGMWQtTGR6WFA5Q2lTQVVLR3VzUnctSjdTUmkyTlZiRElUNGRxazh4Vm1FY0FqeFFkTzBLWUNkSUlucE9LUzhsZw?oc=5",
-        "source": "Football365",
-        "published": "Mon, 22 Jun 2026 11:18:14 GMT"
+        "published": "Mon, 22 Jun 2026 18:31:00 GMT"
       },
       {
         "title": "Chelsea star reaches ‘agreement’ to join Real Madrid as £104m transfer takes shape",
@@ -1186,10 +1174,22 @@
         "published": "Sun, 21 Jun 2026 13:08:11 GMT"
       },
       {
-        "title": "Real Madrid set for €7.5m transfer windfall as defender nears Napoli move",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MQUc3cjVtRHdhd0htRHRtdVdfNk5qb1VQRGZoMFoxOFQteGdGdkw2TTlpcnJFVEVXbXRfbWp3dy1lZVp0UWU1Y3RYZk1jYVBpMTBNMlI5UGNvcGJYd3d2TWNfblNiRFU0anpZOUp0d3AzUVNOdERBSQ?oc=5",
+        "title": "Real Madrid set for another sell-on clause transfer boost",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVVteTlKN3cya1d1QlFPcUFoZE5Nb2pjcmtuZllLTEdkMFF3QTJHRUVSc1NTZE1McHVvYXE5SUV1NU9FclUtQ3BKeXNiRjItN29IelZTYzVYUEh6a29yNVVQNlFmTlQzaVFZb2RBWTFnZ0tuZHZxUTZ4MHhydzVaN2hUZw?oc=5",
         "source": "Yahoo Sports",
-        "published": "Mon, 22 Jun 2026 15:15:00 GMT"
+        "published": "Mon, 22 Jun 2026 19:05:00 GMT"
+      },
+      {
+        "title": "Arsenal want €100m to sell ‘sought-after’ star to Real Madrid",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmo5V2R5MVd3RE1WSGZhWU1lb0ZaMzBoVUhHaFBGNUlydFdUODM3WXRic2ZDNzAtR2hqTzFBOW9QZk1aam5HQTdMeFRtX0tlNDBKR01fRkM4ZlpKVGEzd3JxOXNWMW1jTWVnYl9kbUt2VGx2UF9qNFNuQThfVFdIVW5QUnFLbTBWTGViS25LZUh3aTQxdWRj?oc=5",
+        "source": "TEAMtalk",
+        "published": "Mon, 22 Jun 2026 18:20:47 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd Target $66 Million Winger; Real Madrid Chase Bouaddi",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQXoweV95YzM4bTU3R2YweG8wN2ROeUdsY0hQSmhud0dYNWtibkJfUXlna21tWDA2dnYwdXotRWhMNURzOXdBLVRmZjB2VVdYU3pYSm03aE1JMThCOUhTU0gwMlRzemFFYVBGVDhybVNOQ2dXSU50a3FyZHJRVDA2MVJ6bVRFM2FBUUJwVGhpRWVZV2hXZ1J6UkN0bTh2VWpwdGc?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sun, 21 Jun 2026 23:05:00 GMT"
       }
     ],
     "fcb": [
@@ -1212,16 +1212,16 @@
         "published": "Sat, 20 Jun 2026 08:17:06 GMT"
       },
       {
-        "title": "No further progress with Nathaniel Brown move for Bayern Munich",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUs3d3ZYYldTY1dMRFEzR2NIeXJ4b1B4dmhUdkxVUFpweHgxWkRsZGt5aGt1S3JvdlV1V0FtaGpsUUJHWURJRk02MEJURE5KQ3NWTGNWa0lkYWlTWVdfMV9xbU9GQkc5d3J1T2ZBaGdJM1AxcVBnM1d1ZVF6RFhvNHphTFQwd20ycXVpYjNGZ3ZiMnBfRk5GZ1Z4SlJiX2xHWWhSU2lEcVNJYUxmQXY4WHEyZElPUlB5WEJtT2FzblVWVzFDRmdrckg1M0JsdVBsaVJzc3paZ28tU00?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Mon, 22 Jun 2026 16:00:00 GMT"
-      },
-      {
         "title": "Barcelona make shock Harry Kane transfer approach amid Bayern Munich contract uncertainty",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFhYWlpQdmxnNHNqcHVROVY0b1c0ek9tY2FDb2tJUzVkd0pmUTJYU3NwYm1hZHR2MVhDOExqQWtpYkJXdGhXekx0OE9iZFJORGxwZGdWMzM0V2NZaFlYLUhTMjJMNWN1X1RvRElPalhvNnZRSjhFcWJqb3RPanRKblY5RjZJQUtZZnl0TmFhb3ZGVHMyWERkNlJpS0d2MWQ4cUVSNUpCYlR0WjZXSkI4d0wyNkdjU00zcVgyZ1VOOUkzRGQ5VkM1Ug?oc=5",
         "source": "Goal.com",
         "published": "Mon, 22 Jun 2026 15:55:59 GMT"
+      },
+      {
+        "title": "No further progress with Nathaniel Brown move for Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUs3d3ZYYldTY1dMRFEzR2NIeXJ4b1B4dmhUdkxVUFpweHgxWkRsZGt5aGt1S3JvdlV1V0FtaGpsUUJHWURJRk02MEJURE5KQ3NWTGNWa0lkYWlTWVdfMV9xbU9GQkc5d3J1T2ZBaGdJM1AxcVBnM1d1ZVF6RFhvNHphTFQwd20ycXVpYjNGZ3ZiMnBfRk5GZ1Z4SlJiX2xHWWhSU2lEcVNJYUxmQXY4WHEyZElPUlB5WEJtT2FzblVWVzFDRmdrckg1M0JsdVBsaVJzc3paZ28tU00?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 22 Jun 2026 16:00:00 GMT"
       }
     ]
   },
