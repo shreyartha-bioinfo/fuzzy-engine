@@ -156,11 +156,6 @@ for key, club in CLUBS.items():
 
 # ── WC scorers (goal counts + player discovery) ───────────────────────────────
 scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
-# DEBUG: print top-level keys and first entry to discover available fields
-if scorers_raw.get("scorers"):
-    first = scorers_raw["scorers"][0]
-    print(f"  DEBUG scorers keys: {list(first.keys())}")
-    print(f"  DEBUG first entry: {first}")
 player_info:    dict[int, dict] = {}
 scorer_goals:   dict[int, int]  = {}
 scorer_assists: dict[int, int]  = {}

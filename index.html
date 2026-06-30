@@ -634,9 +634,8 @@ function render() {
 
   for (const [key, club] of Object.entries(data.clubs)) {
     document.getElementById(`score-${key}`).textContent = Math.max(0, club.net);
-    const assists = club.assists || 0;
     document.getElementById(`sub-${key}`).textContent =
-      `${club.goals} goal${club.goals !== 1 ? "s" : ""} · ${assists} assist${assists !== 1 ? "s" : ""} · ${club.ownGoals} OG`;
+      `${club.goals} goal${club.goals !== 1 ? "s" : ""} · ${club.ownGoals} OG`;
   }
 
   const logEl  = document.getElementById("goal-log");
@@ -662,7 +661,7 @@ function render() {
               <div class="g-name">${esc(p.name)}${p.ownGoals > 0 ? `<span class="og-pill">&minus;${p.ownGoals} OG</span>` : ""}</div>
               ${p.nationality ? `<div class="g-nat">${esc(p.nationality)}</div>` : ""}
             </div>
-            <div class="g-count" style="color:${color}">${p.net > 0 ? "+" : ""}${p.net}${p.assists ? ` <span style="font-size:.75rem;color:var(--muted)">(${p.assists}a)</span>` : ""}</div>
+            <div class="g-count" style="color:${color}">${p.net > 0 ? "+" : ""}${p.net}</div>
           </div>`;
       });
     }
