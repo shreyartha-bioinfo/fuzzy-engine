@@ -27,7 +27,7 @@ OVERRIDES = {
         "add":    [{"name": "Marcus Rashford", "position": "Offence", "nationality": "England"}],
     },
     "rm": {
-        "remove": {"David Alaba", "Dávid Alaba", "Daniel Carvajal", "D. Carvajal"},
+        "remove": {"David Alaba", "Dávid Alaba", "Daniel Carvajal", "D. Carvajal", "Dani Ceballos"},
         "add":    [{"name": "Marc Cucurella", "position": "Defence", "nationality": "Spain"},
                    {"name": "Bernardo Silva", "position": "Midfield", "nationality": "Portugal"},
                    {"name": "Ibrahima Konaté", "position": "Defence", "nationality": "France"}],
