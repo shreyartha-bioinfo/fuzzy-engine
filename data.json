@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:42:55.240612+00:00",
+  "updated": "2026-07-01T18:55:01.497498+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -777,17 +777,17 @@
     "fcb": {
       "name": "Bayern Munich",
       "flag": "🔴",
-      "goals": 5,
+      "goals": 7,
       "ownGoals": 0,
-      "net": 5,
+      "net": 7,
       "assists": 1,
       "scorers": [
         {
           "name": "Harry Kane",
           "nationality": "England",
-          "goals": 3,
+          "goals": 5,
           "ownGoals": 0,
-          "net": 3,
+          "net": 5,
           "assists": 0
         },
         {
@@ -1064,9 +1064,9 @@
           "name": "Harry Kane",
           "position": "Offence",
           "nationality": "England",
-          "goals": 3,
+          "goals": 5,
           "ownGoals": 0,
-          "net": 3,
+          "net": 5,
           "assists": 0
         },
         {
@@ -1500,22 +1500,22 @@
         "published": "Tue, 30 Jun 2026 11:21:46 GMT"
       },
       {
-        "title": "Man Utd transfers LIVE – Announcement close, 2 deals can speed up, Nmecha latest",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3VLUUdNTk1XR3hIM0cxakxtQ2ZVQnJLSW9LU0hMWk9mV2JyTWQ2VW1ObVhrUTFYbUt3aVJtcUhuckFoRHl3dWM4SjNISFlPaks0UHZaRGg4YWZCLVB5Y20wb1FnOWZjSS1jbHdoZEQ1Sms2OWUtTlVVUUhNMmVUOW5VaWROaGQ2bTZVZ1pqNnQ2VGxDT3dQbFRGOUhlUGlVSV9KUkp3OHA5YlE?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Wed, 01 Jul 2026 13:38:29 GMT"
+        "title": "Mateus Fernandes transfer news: Midfielder set for medical after Spurs beat Man Utd to £85m deal",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVHpjUDVlZ1BTNTdtNlM1VjBYdXFrTWpvOWZhcEp0Z25GZmdoSUpLVVB1cWkycl81R2I3N0p4aDRKbE9Tb3VEVDN4VXVhdktNc1M0Y1JNQW5xYWNjLS1FZnEyaWRRcGcwMHdjUk12eHNWeHR6R3E2V01yZzd3ZEl5TGxzaTktNU05Nm5mX21TLWNKOUFMXzVXT1lWMUNkRzZwYWR2OFpWRXV2Y3lGaDZURnliekxqUVZpY2xPbFFaX3Vwc3F0NDNzcHZod3EteXRiNlJ6ZWZrR3k2d1N3bVh2cXFxR0xVNGhobVJQcDlOaXZoek9rQ0E?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 30 Jun 2026 19:43:47 GMT"
       },
       {
-        "title": "Man Utd step up pursuit of £80m Arsenal and Chelsea target after missing Mateus Fernandes deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzV0eVpmSGl4UjQ1alhOY24tVHM3VVN5SkhBMWwzd0t4ZkRNVzFKaTJBekloYXZIb29kNXJyTG1OQlUydGtlcGxDbkhjMElFUVRwTXQzQXg0aWhGdndHbE12dXQwX280dFVwa2FDQzRrdU8zbkJTcUxEVHhuQTZLMUFLQVkzTkRVSk8zbUkzRzlyOEpXMUN5ZWhjaFVqMU1sUTY3bEpxRlJwUGJlQmRRLXpxelQ2UlYxd3fSAb8BQVVfeXFMUDB1U3lvdDIwdkhMZFZWdXNOaDNQSU80cW5mY2M3a05SSXJWQWs0TXFJa1pJT2JkRTBoVkdabklUYktPVjB2NzBfZG9CbUFwaGxsTzBVRzdfMkNNeDFnZ1VtX0htWWUxYXNSUzJ6czVJN3l2cjlScXpXLTVjemt3N0NEa2FNbXhkQl9WbnVNX3hhRTdBb0pWS1Q4V0ZmT3REUWNCc2Z3bWoxMktCbVpXQWFnRDgxWlFGYUVSQ1hWcGM?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Wed, 01 Jul 2026 13:06:00 GMT"
+        "title": "How Tottenham beat Man United to £85m Mateus Fernandes transfer after late twist",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkNVRUUtTkNpbzI3WjFEak5IMmkzVF9QX3Rsa3Z2alRoYmw4T0FUY0hzVkFyeWxFNlEyeUpJUmo1MktmdDVaQUczOWQ2eGh0RV93WWFoZU92OFdpZ3ByQVJ3QzVvTHFHbjRIR1hkOGRLVzNhRXJVT1hmSEZnOEtQa29sSXF1enRVeFIzYnBhSGIzUdIBlwFBVV95cUxQNDRjVlhWRGNvdHB5MklIQTNFRDd2TEx2NE5QYnRNMnFWX0VHcFNrX0ZJbThBMHdydHpvMlN2ckpndEI0VklxREJ1UHNfZDJGVW92VWdjdlFkRVh3cWZfOHMzM3ZESHBZRnhMcUltMHdsX3pQNUpweEQxSnFvV3hCcUp6bEp6d0tuWUp0R2dVQnFTODVaM3NB?oc=5",
+        "source": "The Mirror",
+        "published": "Wed, 01 Jul 2026 10:53:00 GMT"
       },
       {
-        "title": "Crysencio Summerville emerges as a ‘leading’ transfer target for Man Utd - but Marcus Rashford will influence any raid on West Ham",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1hPUWhQdGFHMWswV3RDSktQRlEzcFdtSlhPbWhwVnVJdlpISzJnZnJua1NfVTFSSW02TkY4MDJNSGtaYW40TXpJR05OSl9DZGVaN1lMclJYMGcxMENubm9IMkZFZWFzUVl1ZFB2RWtPTE44OXU4dlk3NFBrdDFNX0IzZlc0cGl5QWRhR3diZ2hGZjVPekdrYjctUU8tOThna3RzY1dUdG92NXRjT0pqMGZnd0U0R3VRaHFKZ3I1TVg?oc=5",
-        "source": "Goal.com",
-        "published": "Tue, 30 Jun 2026 21:36:02 GMT"
+        "title": "Mateus Fernandes Man Utd Rumors Persisted, But Did They Ever Really Want Him?",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXo3eXpKV2JLQzZ1d2U5NzBPWHZ5NXlmQXFNd2ZUd0tTTzFELXZMZlJDUjZBSDRQcFA3RXdlek1LRHBBekdjRjNtdjU2NXVIX2JpUnl0bTVNSDF5TlV3VDNKQjc0aVVLV3cwUlZMdGJLZFMxYlk0ZGR3dWRiQXI5V3luV1N0VnFyenc?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 01 Jul 2026 17:15:00 GMT"
       }
     ],
     "rm": [
@@ -1526,28 +1526,28 @@
         "published": "Tue, 30 Jun 2026 23:05:00 GMT"
       },
       {
-        "title": "New deal, transfer talk, Real Madrid factor - Man City face big decisions on five players",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjhtY1I1ZnVhR3M0dVRpdkY0dkkzWjhQWnVlRUdyeThpTUtyZDVqMnpZQ3o5X3N3VldyS29tMi1leXVvZTVfVW1zYnplYW9VUGowWE54YTRnSmRDTW5wZEstMkFpaDY5XzZrVVFpbm4xR2tSQW9LcHp2Nl9HeGY5WmZwQ2huQ2QyS3VaT2FZYm84TGk4MnIwb2lwb2s3cnRXQ3ZsY25vWTY?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Wed, 01 Jul 2026 04:00:00 GMT"
+        "title": "Real Madrid Preparing ‘Scandalous’ World Record Transfer Offer, Reports SPORT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1R2RU5FUUQwNlJ5NlFOc3NrQkYzSW5qSjBWbVp2dmJOSEE0VzNMckNRRUVrb3UxNW01UVZUM051eGROaWlUTFdCS0VvOWFkaUtJVHlrMkxwYVdsMTI5LUF6WFQtVUMtYWF4cUh6LTR0Z1B4SEkwV2hKQzNTYS15ODZFT3c1TVlZSm1LcklDQng1ZlVaS3Y0Tll5dzc4REpxdXVzeVlBMTZrUDFvVTBKdU1WbG4?oc=5",
+        "source": "Forbes",
+        "published": "Wed, 01 Jul 2026 07:59:22 GMT"
+      },
+      {
+        "title": "Agent Mbappe convincing Olise to complete record-destroying Real Madrid switch – report",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVRtcnVzRXN2LWxpT0FBTWR2Y1pIaDdFSXVqM1NrcVdlZ1VOeWlkTTdkMTdoVDRpRmF2bDZpcURDVktaSmNSaDRqOW9uTlc0bTFpbWZjWXBkcVNZaVptSGNNSngtN2VFOUdzTmFodnVRdHQ2OEVJczYyQXJIQVMtYUJxR0twTUx5TVJ2QS1LS0p5NjN0Q1BXZkpPMVI2WkZjcnZyRWl2eGhOU2JkaThJ?oc=5",
+        "source": "TEAMtalk",
+        "published": "Wed, 01 Jul 2026 17:32:47 GMT"
+      },
+      {
+        "title": "Revealed: Terms of Real Madrid's record-breaking Michael Olise bid - with raid on Bayern Munich for French winger set to eclipse Neymar’s historic €222m transfer",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0szLXB2QWFDWWNGQ0ZBTXRlQ2xuMEZuc3gxTl9Edl9NUU1UN0ZpMzhiX3lwSkZXZ2ExWi1lamFWaGJGekhFY1V6NVVYaXlwSFZOOWtCT0dUTDRjS2RpcUJ3dnlsU1h5R0QzY2ZxcHlNTi1XSWYxMFY1elN4a3FYNzV6MU9LbTF2cEtXMmFuXzVZQ29xaUlydTE2NXJwWktwMWQ0WVNsWjZBVVVtc3pkOE5oaVVPRlowZ0pFYURQVWVJRmlhZDJyb3ljMm5ZU016OWJ4LWFpdw?oc=5",
+        "source": "Goal.com",
+        "published": "Tue, 30 Jun 2026 16:13:05 GMT"
       },
       {
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
         "source": "The New York Times",
         "published": "Tue, 30 Jun 2026 11:21:46 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: PSG eye USMNT's Balogun as Ramos replacement",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1FrbWg5R0U1NWo2MEFYR2FrZXhiZGNlVC1uRFlUSUZrRDR1Q0Z4UXoyV3BaNHd5Um9MSHNSc2NIc3ZjRXFKcWhDU0VnWG9ueW91SjBvbTRlNkYxVEg5Q3pmQlVRYTQyNV9fVEIxSzRhZV91MndsZUxxNDA0U29KQWd2Mk9IZFNqWUZoa3dTWnVJZmVkUDBBcmx2eHZVNmFTYURsNmE0T2pHTHU2UlVaVFlEYlFXRDZNbmQ0SW0tSkgyWHhHSGFDcG9R?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 30 Jun 2026 19:57:00 GMT"
-      },
-      {
-        "title": "Real Madrid Preparing ‘Scandalous’ World Record Transfer Offer, Reports SPORT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1R2RU5FUUQwNlJ5NlFOc3NrQkYzSW5qSjBWbVp2dmJOSEE0VzNMckNRRUVrb3UxNW01UVZUM051eGROaWlUTFdCS0VvOWFkaUtJVHlrMkxwYVdsMTI5LUF6WFQtVUMtYWF4cUh6LTR0Z1B4SEkwV2hKQzNTYS15ODZFT3c1TVlZSm1LcklDQng1ZlVaS3Y0Tll5dzc4REpxdXVzeVlBMTZrUDFvVTBKdU1WbG4?oc=5",
-        "source": "Forbes",
-        "published": "Wed, 01 Jul 2026 07:59:22 GMT"
       }
     ],
     "fcb": [
@@ -1558,28 +1558,28 @@
         "published": "Wed, 01 Jul 2026 13:00:00 GMT"
       },
       {
-        "title": "Boost for Liverpool? Expert no longer sees Bayern Munich star signing a new contract",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZVNMMC1OYTk1ekplTXBIWEZnT3JHWEtTc3FIR3ZRSHFXMXRVMHExcEVBVElaTEtyQ3RMd3VIRjNObzdjZnlaZ3Jfa3UtT0FmY0VYdFhjX2U4eHRwYmczSDc4THl0Q2hvZzVlek1RWkVzVkgxeWRnSy1FbkxBd9IBgwFBVV95cUxPZGtVV3JTaGVwME5MU3JMNGtUWnZPa0xTb0t1LUsxOEh0cXFlODBDTnJFaGxSanc0YWxJZWhRMU9uY1VDXy02ZjNEUmlJNEd5T0FqcWtaS1ZkczJzOWlCaWJmWTdNSDV4N3FSS0FEdGd2TUktMXlYRE1VbXNCTExOSGQxYw?oc=5",
-        "source": "CaughtOffside",
-        "published": "Wed, 01 Jul 2026 13:29:10 GMT"
-      },
-      {
         "title": "Revealed: Terms of Real Madrid's record-breaking Michael Olise bid - with raid on Bayern Munich for French winger set to eclipse Neymar’s historic €222m transfer",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOHpLa1hRUUFCcl8wTVUtcXFoMVFUVDdfNHJhLUJpMnhnYm1qLUVidGJ4a19aQmg4eGVRZV8wRUhoSnFsNlVDSVMtLXg0eDlsZzhKMmpYOVRFbXBITGo3Y3MxOXd0YmVPYVJVY0F4aGFLYjVkUVJaRm5yaDhDb2dXMEF2Q0xsV3BCTVJvVWo1VVhMZ3ZLRWw4U3dNdkpYbE1FNVNqSUgwWGtVMnJiV2dJMk5lcnREdUJ4dVM5YWQ2Y0xKSmFzd3J5UVBzaEVSTXJDQVROblZHSkplUGM?oc=5",
         "source": "Goal.com",
         "published": "Tue, 30 Jun 2026 16:09:14 GMT"
       },
       {
-        "title": "Transfer rumors, news: PSG eye USMNT's Balogun as Ramos replacement",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1FrbWg5R0U1NWo2MEFYR2FrZXhiZGNlVC1uRFlUSUZrRDR1Q0Z4UXoyV3BaNHd5Um9MSHNSc2NIc3ZjRXFKcWhDU0VnWG9ueW91SjBvbTRlNkYxVEg5Q3pmQlVRYTQyNV9fVEIxSzRhZV91MndsZUxxNDA0U29KQWd2Mk9IZFNqWUZoa3dTWnVJZmVkUDBBcmx2eHZVNmFTYURsNmE0T2pHTHU2UlVaVFlEYlFXRDZNbmQ0SW0tSkgyWHhHSGFDcG9R?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 30 Jun 2026 19:57:00 GMT"
+        "title": "Transfer news LIVE: Michael Olise considers Bayern exit as Villa set Rogers asking price",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE40V2tjbUUydkh4XzdZSGV4NlJLQjYtQ3dlQjNEd05URTNIVTBsSFJPeDFOemZlZGVpR3ZZeW5CT29IemhuSlo4ZmVRTGtDTm9ZOUNnQUU2VVE2Mmp0eE1JR2FVMzl2YTFkMEFXcjB5bVhmazZOS0tHZkZBbkN2ZXVjZ3ZQd3AxOVBfTVYwTkhpRS15YVZXR2FDcXFuY0pSSVJfSEhaNl9UdkxqZHN6SC1SaUV1TmpZX2VuUTdMNFg4UQ?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 01 Jul 2026 06:05:19 GMT"
       },
       {
-        "title": "Harry Kane approached by Barcelona over shock transfer",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXQ1NWEwMGRmSmdTQkVqYi1hN0dDZkoydE0yZl9MTFRyM2xkWEpad2R0R1JGZjNxdVdEYlVjX2lfYzNKQV9mR1VwOGVkdkMwR0s4Q0ktSkhNTUtYeG5uMGR0UlpOeUcyTlpxWm9zUmdrUFR3NktXYUNnanhYOElEdUVxQW55RURPSFRLZWdKS3ZqT3JkZ3Aw?oc=5",
-        "source": "talkSPORT",
-        "published": "Mon, 29 Jun 2026 15:49:06 GMT"
+        "title": "Official: Bayern Munich announced signing of Ismael Saibari",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUUpaYTFYYlpxU3cxM0JpYmVMaEoteDRoRHJ4TG96RGloN0JXUUZ0NFQ0RGk3bk81NEJaZzBnZlR2YlZZaDltbHFYdW5BYlJ4ejZmcm1Xdm5FYVF4ZGEwaHlZMUJEMTNYQVhKUFRQMURaOFNuRmJUN08yWmRhQ1UwWVhmZlhTeGN6aUpheVFsb2JydGFac2phenJ2WmdyLTVGU2V6d3o3T2ExaXF6UXNvX0kxbUtuZVkxSUZIUWlncWplWHNtYWNwWXIzcS1acU5SVTFiNmZZSU5faVhwSlJwckJscG9HaW8?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Wed, 01 Jul 2026 16:09:44 GMT"
+      },
+      {
+        "title": "World Cup star: Bayern Munich sign Ismael Saibari from PSV for €50m fee",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjBicjdPaGVIcVBmVV9xVTJteTdyaDRtV2NaUW1aTV9kMmV2bkdESzBUamNOZHQ0MS1OczRxWklzRTVSRmJ6c2ptMXhXRWZDUHdieFRaVDY2N2I3M0pMS3M2YkJidU1XV2QxcWpYUnA2QVBiMzdvXzFjbUwxM0dMQjRNeEN0VnBUQTFQQ3RTOFg2bGdDdC1xd1d3M0ZxTUxZVXJfdzZXQ3pBQ29FSERsV2dhMlRKMWFNOVRmbEl3?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 01 Jul 2026 16:17:09 GMT"
       }
     ],
     "ars": [
