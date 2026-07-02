@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T20:45:32.482583+00:00",
+  "updated": "2026-07-01T22:12:42.286936+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1122,7 +1122,7 @@
       "goals": 7,
       "ownGoals": 0,
       "net": 7,
-      "assists": 2,
+      "assists": 3,
       "scorers": [
         {
           "name": "Kai Havertz",
@@ -1138,7 +1138,7 @@
           "goals": 2,
           "ownGoals": 0,
           "net": 2,
-          "assists": 0
+          "assists": 1
         },
         {
           "name": "Viktor Gyökeres",
@@ -1390,7 +1390,7 @@
           "goals": 2,
           "ownGoals": 0,
           "net": 2,
-          "assists": 0
+          "assists": 1
         },
         {
           "name": "Martinelli",
@@ -1488,34 +1488,34 @@
   "rumors": {
     "utd": [
       {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 30 Jun 2026 11:21:46 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal make Barcola move; two new Man Utd targets",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhZMXdoODNyeHFVd0dNQkZwNVNZRHBsdHFXUWxJWHlsVjNNQmxzT1BudzNGeTlySVpKMXhvVWUtc3p4REU1cGY3LUZVZFFqRFVzcWtKSm5nVDctVDB3RnJWY1gzNEIwYm42Vy1pVVp5R0dqVWdMV252U2VnWnEwYWRmQW1ISjQ3ZmVEVFRSUk9ENi16bnJqTjFveUU5a3pLT1QyV2wxeGphMjlydWFTLTBfOXM4WjUxYVlSbWNvY1E5YUxuWDNFbjJmTUQ?oc=5",
         "source": "London Evening Standard",
         "published": "Wed, 01 Jul 2026 06:22:04 GMT"
       },
       {
-        "title": "Man Utd transfers LIVE – Announcement close, 2 deals can speed up, Nmecha latest",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3VLUUdNTk1XR3hIM0cxakxtQ2ZVQnJLSW9LU0hMWk9mV2JyTWQ2VW1ObVhrUTFYbUt3aVJtcUhuckFoRHl3dWM4SjNISFlPaks0UHZaRGg4YWZCLVB5Y20wb1FnOWZjSS1jbHdoZEQ1Sms2OWUtTlVVUUhNMmVUOW5VaWROaGQ2bTZVZ1pqNnQ2VGxDT3dQbFRGOUhlUGlVSV9KUkp3OHA5YlE?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Wed, 01 Jul 2026 16:05:49 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 30 Jun 2026 11:21:46 GMT"
       },
       {
-        "title": "Mateus Fernandes transfer news: Midfielder set for medical after Spurs beat Man Utd to £85m deal",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVHpjUDVlZ1BTNTdtNlM1VjBYdXFrTWpvOWZhcEp0Z25GZmdoSUpLVVB1cWkycl81R2I3N0p4aDRKbE9Tb3VEVDN4VXVhdktNc1M0Y1JNQW5xYWNjLS1FZnEyaWRRcGcwMHdjUk12eHNWeHR6R3E2V01yZzd3ZEl5TGxzaTktNU05Nm5mX21TLWNKOUFMXzVXT1lWMUNkRzZwYWR2OFpWRXV2Y3lGaDZURnliekxqUVZpY2xPbFFaX3Vwc3F0NDNzcHZod3EteXRiNlJ6ZWZrR3k2d1N3bVh2cXFxR0xVNGhobVJQcDlOaXZoek9rQ0E?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 30 Jun 2026 16:48:29 GMT"
+        "title": "Man United chiefs fire clear message to fans after double transfer blow",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNzEzNjJ2TXJYY05NMnNuT2ZQR3J6enp3M1pYeDBnMm00ZjhFS3BEdDhKRmRPTFNDT3VCUlJNRWJEOUFXcUhwRWFMZlV0VEFfenE3TmQtV1lkWEhWaHRGbENnN1NxaGhsTU9fcUpHTk9ZZkk3UXVBdlBaMWhmZXpGV3hB?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Wed, 01 Jul 2026 19:10:00 GMT"
       },
       {
-        "title": "Mateus Fernandes Man Utd Rumors Persisted, But Did They Ever Really Want Him?",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXo3eXpKV2JLQzZ1d2U5NzBPWHZ5NXlmQXFNd2ZUd0tTTzFELXZMZlJDUjZBSDRQcFA3RXdlek1LRHBBekdjRjNtdjU2NXVIX2JpUnl0bTVNSDF5TlV3VDNKQjc0aVVLV3cwUlZMdGJLZFMxYlk0ZGR3dWRiQXI5V3luV1N0VnFyenc?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Wed, 01 Jul 2026 17:15:00 GMT"
+        "title": "Man Utd Now Leading Race to Sign £103m Star After Fernandes Snub",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZm1KaG1JZ2NZTzZoR2hGUUhHaFMwN20tSWhIT0x0N3M0NUZfRURPQUtTZXFNTW5GMjZIM3hqZ1pzcUM4cEpuZ0VPWko5VXhVeXhMSGdHV05GWmJySkhWWUljQjBLSGFnVUlKYUNPTk1vWVdXa0N0YkZkWGNwUnlWNFVtOWVsQ1g2VEhhTVRsUQ?oc=5",
+        "source": "GiveMeSport",
+        "published": "Wed, 01 Jul 2026 19:15:14 GMT"
+      },
+      {
+        "title": "Man Utd on pole for €100m next Jude Bellingham as Liverpool join race – report",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0JWVUxCejNwSkt1Xy03MzlENl9FeUpLejhVNlRKYzJFLWk4UDRsX0I5NXBUQ0FnUW0zRk56WGZ5WVpGaWJTSmFtMGctaVNBM1FPX3dhdWYySDhxa25sNnZMdkxNYWxRdjdad2FYVXZFTlc1cG04NWxFaVVHaEpWSnhIeS1uYW93MTNOdW1VcnRTWVV5WVFYa3FKc1Q5WGxGc2ZUcmJR?oc=5",
+        "source": "TEAMtalk",
+        "published": "Wed, 01 Jul 2026 11:28:29 GMT"
       }
     ],
     "rm": [
@@ -1544,19 +1544,13 @@
         "published": "Tue, 30 Jun 2026 19:57:00 GMT"
       },
       {
-        "title": "Aurelien Tchouameni vs Alex Scott - Manchester United transfer verdict after £85million blow",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVFDNnRaTGdtMThJOWVHTWhreHVaY0Q3c2lPSUR5T2M4SzFmaEtSQmU1MzlJV0plUUtSNjJXc3N5U1BkTkRPMXNpRnV3TGhiakNYU3BJM2VFYXZ0QXdLNGdCLVItTjFTSGJfWDdmOEUyRlRkQmtFZjRLS0sxcVZYTUYtMWc0MmxEdnlQVWlaM3d4d2RhVEY4dmpzeGx3dTlTcGNZN0Jn0gGrAUFVX3lxTE5acmUwU1hYMXlGQURENzBzVFBwRkM4UU5wcDBlZC1lc2VBU2dBcHBXOXRKSV9oUmZ1UDduNlJRR04zdDV0aEc2eXd2Z2l1dWVsRndlVW5XaGlwQjZJalJmQUFRU0c5bTJ4RDNOT3lmSGtoamxhNmZ3cy1YNnR4b0xkZk9jUDFhTW9ZdXlISk91QnNyWXF4dkdSazdDbFhoWl9Kdk5aVmx3QWt4SQ?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Wed, 01 Jul 2026 11:07:00 GMT"
+        "title": "Fabrizio Romano drops bombshell on Man Utd signing Aurelien Tchouameni from Real Madrid",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2s3RFc0czM5dmxLT2RydEt6MmNfX1hXa0s2NldCdkR5YmxfZDVYeEFfU2s0NEt3M01rdHYtajZhQ21kMkFWLTRueUFrSWNHR3pJZnBTTXFIRUd5RDdXZ3FfZlFSQ1NJTUVIZUZwMmJJRk9tbGs4VmwybmkyMVhCVWwzUldxNEZBUm1QQnJ4OGJxNm82bFhKZUltQmUxclpHcVgzOUJWRHd4QUNGT1FheDVZWnIyZGNHVXBKTnp4bkM?oc=5",
+        "source": "TEAMtalk",
+        "published": "Wed, 01 Jul 2026 07:50:13 GMT"
       }
     ],
     "fcb": [
-      {
-        "title": "Official: Bayern Munich announces signing of Ismael Saibari",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUUpaYTFYYlpxU3cxM0JpYmVMaEoteDRoRHJ4TG96RGloN0JXUUZ0NFQ0RGk3bk81NEJaZzBnZlR2YlZZaDltbHFYdW5BYlJ4ejZmcm1Xdm5FYVF4ZGEwaHlZMUJEMTNYQVhKUFRQMURaOFNuRmJUN08yWmRhQ1UwWVhmZlhTeGN6aUpheVFsb2JydGFac2phenJ2WmdyLTVGU2V6d3o3T2ExaXF6UXNvX0kxbUtuZVkxSUZIUWlncWplWHNtYWNwWXIzcS1acU5SVTFiNmZZSU5faVhwSlJwckJscG9HaW8?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 01 Jul 2026 18:45:00 GMT"
-      },
       {
         "title": "Should Bayern Munich start getting concerned about Michael Olise?",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTEFONjJ2SU1IbjJJZDV2UHpDdTRITnlZTU5xS3FiTnRHb1Z1eWFzVUhUSVpjM0EwSVRJeExON2E5ZkhMY3UyaEdxdkVnZlJmMUZfMGIxYnlLUE53TGc3RGRjSk8yX0VSMnY4Q1JOSjI4MjNUVFRRTk1BSmQ5QVlHUHJ5ejhsVjJoS2QtVU4tYU4ySWZWWmdsMmI0Z1dVNlNBeXEzc0pBMFZpUldYdHBzaHN5QWNxMXg4MUdJNnV4OTJqWUxaNlR0R3Z6SUtHV2RkamNhSEV3Y3NCUTds?oc=5",
@@ -1580,6 +1574,12 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWg4cUNIakptVURJNmhqdzZjWE5SajV6aDRoczBrbGExOVRnSzZJUjQ2TGRPZllmUjVUSTJKLTFSQTVsOUtobkVucTIzREp6akM4ZXJDTmVhekpQeGxJMUZGYmQxeTBRNlI2OVFzbFU0VFVQSXFJTVloMzJfeXZhNm45ZVJ6Q3ROaVpqd2ZTQ1p0WFNralpwMFNuSEZQaUtTLTdyYzl6SnJPT0R2OHZDdWxRU19TdXA2NUdPRGl0dG1yeWh5Y1FkVDRzU013VjFzWEY1ci04M2lVZUROcEUyUzVjMUdRdVJTR2RUbmxWaERvQlowNGc?oc=5",
         "source": "Bavarian Football Works",
         "published": "Wed, 01 Jul 2026 18:30:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: PSG eye USMNT's Balogun as Ramos replacement",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1FrbWg5R0U1NWo2MEFYR2FrZXhiZGNlVC1uRFlUSUZrRDR1Q0Z4UXoyV3BaNHd5Um9MSHNSc2NIc3ZjRXFKcWhDU0VnWG9ueW91SjBvbTRlNkYxVEg5Q3pmQlVRYTQyNV9fVEIxSzRhZV91MndsZUxxNDA0U29KQWd2Mk9IZFNqWUZoa3dTWnVJZmVkUDBBcmx2eHZVNmFTYURsNmE0T2pHTHU2UlVaVFlEYlFXRDZNbmQ0SW0tSkgyWHhHSGFDcG9R?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 30 Jun 2026 19:57:00 GMT"
       }
     ],
     "ars": [
