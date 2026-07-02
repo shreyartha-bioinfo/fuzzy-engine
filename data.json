@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:12:42.286936+00:00",
+  "updated": "2026-07-01T23:49:54.698039+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1488,16 +1488,16 @@
   "rumors": {
     "utd": [
       {
+        "title": "Man Utd transfers LIVE – Announcement close, Tonali interest, Nmecha latest",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3VLUUdNTk1XR3hIM0cxakxtQ2ZVQnJLSW9LU0hMWk9mV2JyTWQ2VW1ObVhrUTFYbUt3aVJtcUhuckFoRHl3dWM4SjNISFlPaks0UHZaRGg4YWZCLVB5Y20wb1FnOWZjSS1jbHdoZEQ1Sms2OWUtTlVVUUhNMmVUOW5VaWROaGQ2bTZVZ1pqNnQ2VGxDT3dQbFRGOUhlUGlVSV9KUkp3OHA5YlE?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Wed, 01 Jul 2026 22:36:57 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal make Barcola move; two new Man Utd targets",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhZMXdoODNyeHFVd0dNQkZwNVNZRHBsdHFXUWxJWHlsVjNNQmxzT1BudzNGeTlySVpKMXhvVWUtc3p4REU1cGY3LUZVZFFqRFVzcWtKSm5nVDctVDB3RnJWY1gzNEIwYm42Vy1pVVp5R0dqVWdMV252U2VnWnEwYWRmQW1ISjQ3ZmVEVFRSUk9ENi16bnJqTjFveUU5a3pLT1QyV2wxeGphMjlydWFTLTBfOXM4WjUxYVlSbWNvY1E5YUxuWDNFbjJmTUQ?oc=5",
         "source": "London Evening Standard",
         "published": "Wed, 01 Jul 2026 06:22:04 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 30 Jun 2026 11:21:46 GMT"
       },
       {
         "title": "Man United chiefs fire clear message to fans after double transfer blow",
@@ -1544,10 +1544,10 @@
         "published": "Tue, 30 Jun 2026 19:57:00 GMT"
       },
       {
-        "title": "Fabrizio Romano drops bombshell on Man Utd signing Aurelien Tchouameni from Real Madrid",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2s3RFc0czM5dmxLT2RydEt6MmNfX1hXa0s2NldCdkR5YmxfZDVYeEFfU2s0NEt3M01rdHYtajZhQ21kMkFWLTRueUFrSWNHR3pJZnBTTXFIRUd5RDdXZ3FfZlFSQ1NJTUVIZUZwMmJJRk9tbGs4VmwybmkyMVhCVWwzUldxNEZBUm1QQnJ4OGJxNm82bFhKZUltQmUxclpHcVgzOUJWRHd4QUNGT1FheDVZWnIyZGNHVXBKTnp4bkM?oc=5",
-        "source": "TEAMtalk",
-        "published": "Wed, 01 Jul 2026 07:50:13 GMT"
+        "title": "Romano reacts to Man Utd signing Tchouameni after Real Madrid need exits",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVVLSDEzTDR2QS0zRU1GNktoYXVRQzhFNUNTOW94UVMzeVVNUEl3NlY5SFcxemxnQy1wU3gyaEZzN1pac1dFS0g5WmtYd3lkN2tNUi1adHc0QVhJMXk4V2tfVTdlbnJ0X2dBR1FUWjBmRkdIOFJsTmRXX2pvbGFLclN3UmlibUp1TUVKYlhzMnBrU0ttQ1FJRHRBMmZvME9mbWJLbUY2YXpRM1E?oc=5",
+        "source": "Football365",
+        "published": "Wed, 01 Jul 2026 09:51:59 GMT"
       }
     ],
     "fcb": [
@@ -1555,7 +1555,7 @@
         "title": "Should Bayern Munich start getting concerned about Michael Olise?",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTEFONjJ2SU1IbjJJZDV2UHpDdTRITnlZTU5xS3FiTnRHb1Z1eWFzVUhUSVpjM0EwSVRJeExON2E5ZkhMY3UyaEdxdkVnZlJmMUZfMGIxYnlLUE53TGc3RGRjSk8yX0VSMnY4Q1JOSjI4MjNUVFRRTk1BSmQ5QVlHUHJ5ejhsVjJoS2QtVU4tYU4ySWZWWmdsMmI0Z1dVNlNBeXEzc0pBMFZpUldYdHBzaHN5QWNxMXg4MUdJNnV4OTJqWUxaNlR0R3Z6SUtHV2RkamNhSEV3Y3NCUTds?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Wed, 01 Jul 2026 13:00:00 GMT"
+        "published": "Wed, 01 Jul 2026 21:15:00 GMT"
       },
       {
         "title": "Revealed: Terms of Real Madrid's record-breaking Michael Olise bid - with raid on Bayern Munich for French winger set to eclipse Neymar’s historic €222m transfer",
@@ -1570,16 +1570,16 @@
         "published": "Wed, 01 Jul 2026 06:05:19 GMT"
       },
       {
-        "title": "Transfer shocker: Brighton & Hove Albion pulls off deal for coveted Tottenham prospect",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWg4cUNIakptVURJNmhqdzZjWE5SajV6aDRoczBrbGExOVRnSzZJUjQ2TGRPZllmUjVUSTJKLTFSQTVsOUtobkVucTIzREp6akM4ZXJDTmVhekpQeGxJMUZGYmQxeTBRNlI2OVFzbFU0VFVQSXFJTVloMzJfeXZhNm45ZVJ6Q3ROaVpqd2ZTQ1p0WFNralpwMFNuSEZQaUtTLTdyYzl6SnJPT0R2OHZDdWxRU19TdXA2NUdPRGl0dG1yeWh5Y1FkVDRzU013VjFzWEY1ci04M2lVZUROcEUyUzVjMUdRdVJTR2RUbmxWaERvQlowNGc?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 01 Jul 2026 18:30:00 GMT"
-      },
-      {
         "title": "Transfer rumors, news: PSG eye USMNT's Balogun as Ramos replacement",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1FrbWg5R0U1NWo2MEFYR2FrZXhiZGNlVC1uRFlUSUZrRDR1Q0Z4UXoyV3BaNHd5Um9MSHNSc2NIc3ZjRXFKcWhDU0VnWG9ueW91SjBvbTRlNkYxVEg5Q3pmQlVRYTQyNV9fVEIxSzRhZV91MndsZUxxNDA0U29KQWd2Mk9IZFNqWUZoa3dTWnVJZmVkUDBBcmx2eHZVNmFTYURsNmE0T2pHTHU2UlVaVFlEYlFXRDZNbmQ0SW0tSkgyWHhHSGFDcG9R?oc=5",
         "source": "ESPN",
         "published": "Tue, 30 Jun 2026 19:57:00 GMT"
+      },
+      {
+        "title": "World Cup star: Bayern Munich sign Ismael Saibari from PSV for €50m fee",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjBicjdPaGVIcVBmVV9xVTJteTdyaDRtV2NaUW1aTV9kMmV2bkdESzBUamNOZHQ0MS1OczRxWklzRTVSRmJ6c2ptMXhXRWZDUHdieFRaVDY2N2I3M0pMS3M2YkJidU1XV2QxcWpYUnA2QVBiMzdvXzFjbUwxM0dMQjRNeEN0VnBUQTFQQ3RTOFg2bGdDdC1xd1d3M0ZxTUxZVXJfdzZXQ3pBQ29FSERsV2dhMlRKMWFNOVRmbEl3?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 01 Jul 2026 16:17:43 GMT"
       }
     ],
     "ars": [
@@ -1596,6 +1596,12 @@
         "published": "Wed, 01 Jul 2026 06:22:04 GMT"
       },
       {
+        "title": "Transfer Rumors: Man Utd Target Turns Down Move; Arsenal Making Good Rogers Progress",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3gwMFhmMHFqZW5ydU1YQ0I3bUEwU2tlU0J4MmhWcEdZeldXcUt3eVRVT1ZZZG81UFdTaXZWa2Zad3B3Q21MWjdxTXl3QlI4aHFMNjNmeFFvQXNGTnpSSDdZVlJYNnFOZDNXT2ljcmp3dEdBbzlORWFwNmk0UkdnM1RtSmxMQUFScnBfQTNMTm9WZUoxcFZ4RzJfeG0?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 01 Jul 2026 23:05:00 GMT"
+      },
+      {
         "title": "Northern Ireland youngster officially completes Arsenal transfer",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzM0dDZLdUJkS0ZRRHJPcHRmOXB5bGU0Z21ZcVZvSDZCSGFxZjhDVi1nRTNzSjlORlNmay05RHpVQWFsLTZ5YkZQbFRxcHZMemE5NDhxUHRQam55OHFVQ0Vna2hxNFRVaGM0SG5qN2pEQU1JZFVnVzNXQ0pWOXF4dnk5VnNLVTJiZkx0ckpfSkxlbVRRN3JOZHRRQ0s?oc=5",
         "source": "Yahoo Sports",
@@ -1606,12 +1612,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZjdrQV9HTi1kS0Y1RmxFV25SQ3huY2xmYWxjbHMtT2RBMjU3UHhkTW81QnNaMTJ2ek9faTV5RW1qSU10QVJMTjV4VUV6M2dfWHhaSHRRVnFBS3hTaVJFVGdzd0dORkE?oc=5",
         "source": "BBC",
         "published": "Wed, 01 Jul 2026 08:32:00 GMT"
-      },
-      {
-        "title": "Arsenal transfer news: Gunners poised to make offer for Newcastle's Bruno Guimaraes",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dDFaVk1fdWZ3c2R3dUpkLWg1NDVyLTJyUHM3dHVubHZQbVNqWWVNUzdaRHRvcTdRRWU0amtoUXUyeldsT2JLUllLQldBWk5lNC1rR2NYRl9qWnZoTlY5SnV3ZTVXTEE?oc=5",
-        "source": "BBC",
-        "published": "Fri, 26 Jun 2026 15:08:16 GMT"
       }
     ]
   },
