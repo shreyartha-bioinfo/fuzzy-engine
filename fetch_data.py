@@ -36,7 +36,7 @@ OVERRIDES = {
     },
     "fcb": {
         "remove": {"Nicolas Jackson", "Raphaël Guerreiro"},
-        "add":    [],
+        "add":    [{"name": "Ismael Saibari", "position": "Midfield", "nationality": "Morocco"}],
     },
 }
 
