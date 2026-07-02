@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:12:16.840704+00:00",
+  "updated": "2026-06-30T22:47:46.626773+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -354,17 +354,17 @@
     "rm": {
       "name": "Real Madrid",
       "flag": "⚪",
-      "goals": 11,
+      "goals": 13,
       "ownGoals": 0,
-      "net": 11,
+      "net": 13,
       "assists": 4,
       "scorers": [
         {
           "name": "Kylian Mbappé",
           "nationality": "France",
-          "goals": 4,
+          "goals": 6,
           "ownGoals": 0,
-          "net": 4,
+          "net": 6,
           "assists": 2
         },
         {
@@ -676,9 +676,9 @@
           "name": "Kylian Mbappé",
           "position": "Offence",
           "nationality": "France",
-          "goals": 4,
+          "goals": 6,
           "ownGoals": 0,
-          "net": 4,
+          "net": 6,
           "assists": 2
         },
         {
@@ -1508,45 +1508,45 @@
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
         "source": "The New York Times",
-        "published": "Tue, 30 Jun 2026 11:21:46 GMT"
+        "published": "Tue, 30 Jun 2026 11:21:00 GMT"
       },
       {
         "title": "Man United transfer news LIVE - Mateus Fernandes deal reached, £85m bid, Marcus Rashford twist",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3VLUUdNTk1XR3hIM0cxakxtQ2ZVQnJLSW9LU0hMWk9mV2JyTWQ2VW1ObVhrUTFYbUt3aVJtcUhuckFoRHl3dWM4SjNISFlPaks0UHZaRGg4YWZCLVB5Y20wb1FnOWZjSS1jbHdoZEQ1Sms2OWUtTlVVUUhNMmVUOW5VaWROaGQ2bTZVZ1pqNnQ2VGxDT3dQbFRGOUhlUGlVSV9KUkp3OHA5YlE?oc=5",
         "source": "Manchester Evening News",
-        "published": "Tue, 30 Jun 2026 19:22:55 GMT"
+        "published": "Tue, 30 Jun 2026 22:02:38 GMT"
       },
       {
-        "title": "Mateus Fernandes transfer news: Midfielder set for medical after Spurs beat Man Utd to £85m deal",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVHpjUDVlZ1BTNTdtNlM1VjBYdXFrTWpvOWZhcEp0Z25GZmdoSUpLVVB1cWkycl81R2I3N0p4aDRKbE9Tb3VEVDN4VXVhdktNc1M0Y1JNQW5xYWNjLS1FZnEyaWRRcGcwMHdjUk12eHNWeHR6R3E2V01yZzd3ZEl5TGxzaTktNU05Nm5mX21TLWNKOUFMXzVXT1lWMUNkRzZwYWR2OFpWRXV2Y3lGaDZURnliekxqUVZpY2xPbFFaX3Vwc3F0NDNzcHZod3EteXRiNlJ6ZWZrR3k2d1N3bVh2cXFxR0xVNGhobVJQcDlOaXZoek9rQ0E?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 30 Jun 2026 19:43:47 GMT"
-      },
-      {
-        "title": "'Openness all around' for Marcus Rashford reintegration at Man Utd as third loan transfer ruled out",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUU1X05aVmkwWF93bVVXb0lURHFuTjFOYTBaMFItbG5XczdSMUF2bjVuVmY4U1VzOGVhVkhzODFDb1YzaEJnc2NxbmhwSzJmMzNtc213TnFTeTNHREtCdzNhNW1CSkdMYWN6Nm80VEJvMXpnaEVnUDhvUHA4ZWxTRHkwT3lPWHpuOGYwZ29RSnFvaFI5QlNXSnlBc0VPcFlaY1FGLVE1RERyVE1ySWo0QTByQnVkNHhHclVlUTRSekNUUnZXZFZTSA?oc=5",
+        "title": "Crysencio Summerville emerges as a ‘leading’ transfer target for Man Utd - but Marcus Rashford will influence any raid on West Ham",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUNqNTFxZ01ZQTRucDFDbTlxTWJoNlpZZVg4SmhHUFlTLU5fTGxvSExjVWlJVWJtUTI5VXZDVmw5ZTF3VDVmX2RSVTNsN0hRYXJaQVpzTHV0TW1NZndYOUtnaENPWklQdUh1NUhqNTc1WGx6b3gzY184cU5CeDl3ZHFIMVlFbmRHLTBYRHZNb1ZsSzZzNUZreThVenVlV0xxYzdDX1I4Y2RwZFcyRjFyaVR3ajNEc0Q0by1pUA?oc=5",
         "source": "Goal.com",
-        "published": "Tue, 30 Jun 2026 12:06:33 GMT"
+        "published": "Tue, 30 Jun 2026 21:23:39 GMT"
       },
       {
-        "title": "He'll Explode Under Carrick: Man Utd to Save £100m+ as Romano Confirms Transfer Plan",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlA1RGQzemVhcDhacFVfUG11Z2V1aS13NDdfejNpYXVuVm5nbzJobXAwLUpXYUUwMGN6dVVlT1ZsalB0U1ZTSjdhNkVfdVQzd2pjRWFxSmNnc2RTbmJ4SUNnNldwZzF6eVFETU5aWUUwVVBGakd5dUFhaS1odkt6VFRzMnhGY0FEN1NNeVRHdWs?oc=5",
-        "source": "GiveMeSport",
-        "published": "Tue, 30 Jun 2026 16:35:16 GMT"
+        "title": "Man Utd transfer news LIVE: Mount 'wanted' by Amorim, United 'in Nmecha race'",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGR1MTFZWFhxaURZRXN4dVFWYjlIejhlUU5KNTN0d0VUZmN2YzVhLXh4TGpCZEZYM1l2QU5VYlg0Mi1oT1VCNXY4X0lqcGRPRjFCZ3VwOVptUWdNQzhYbU9SdDdZNEtEM1YtNzYtNFJvQWYxR2huZzVseGU1T3dvQ0RMSC1ianZwamJPMXE4YXFMX3BaaW1uTFpzOVk0Q2IyWlhIRw?oc=5",
+        "source": "thesun.co.uk",
+        "published": "Tue, 30 Jun 2026 16:27:28 GMT"
+      },
+      {
+        "title": "Man Utd now have green light they need to secure £50million summer transfer",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnJmZlhqM2d1VWtVV0gzVGI5VG43ajNXdXppZWVCd2ZCd1drY1RDaGx0enZxRlYwZEdFWk40V2c3WGhZUXc1b3lpMjl0OWhackd1RlJjRnV5cHJiTDFlUXFxcXVZaEx1UGlNWHg0eUdDUGhyNGJBeVpjZWtkSmFZbWFvWW1EcF9UeC1vRGZZSXPSAZYBQVVfeXFMTkRZbGdYZFpsci1xUnM4RTVvMUsxSzNUR0o5RjdKVGM1bWNXQ3RINDBoU1hWRl8zQkJfYnBESzg5LUYxS3FWTkhTSS0tXzIyR1RnTk5tcjFhTEgtTjJHWjlnbjJFaWJRWWZqd29WanRpaXRuNF9CWnFMV2VHRjdpUC02MWtVSGZpNXptYnhObVpyaksybjBB?oc=5",
+        "source": "The Mirror",
+        "published": "Tue, 30 Jun 2026 16:47:00 GMT"
       }
     ],
     "rm": [
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 30 Jun 2026 11:21:00 GMT"
+      },
       {
         "title": "Alexis Mac Allister clarifies Liverpool position amid Real Madrid transfer twist",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXliS0VFZ3JKOFJvaGw1aXRVS2ltcWtJM3ZORjJYOUhLR3RDaHNFYUZnMlhWT0dLRVhIRVlaQWczYlhJcV9uYjZON3lINUZ2RVNHT2QzMlZtdlBNNThoWEg2bTJBTmlCQ0xkdmJ4ZzB6WG5nN25uU1dGNWxaMFdkbVViM1ZmZ29udHZBSFdhaW1GcnJVdEVhckZfSGpGekpxZy1YODVjaVRydkctZmfSAbMBQVVfeXFMUGRpdnNVMVBCb2VibnhUZ0RnSDJXOTRXdEoxTTRUX2c4MGxEVEN1MjBPeVVPaExFdkJJdmRRaFFCTWF0bUd6ZE9wMDcwSFhrUXJER2l5djhtaHFnckg4RnNHY3pDd1ZIVThCb0k3MnRULW9LUTNkbU9pRnViSTlmMHd1S3ctLUtIcDlSMkRTdHc1TWliWUlMa25tNno1ZWxVRVMtcUdIOEN2TEhvSGs5bWdiMlU?oc=5",
         "source": "Liverpool Echo",
         "published": "Mon, 29 Jun 2026 15:06:00 GMT"
-      },
-      {
-        "title": "Liverpool transfer news: Contact made with £52m Real Madrid star as chiefs jet in for meeting",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXpsM1JxdjIwZE0yTng1X3Fsc3FkeWlqQXdmM0lRUmg3SGx4bnRENTV4cEtpckJsMU5sZEcwcmhhZGxVaDN1NWhSZDVmcVVraXh0T2pUNV9NZmFWZklwVE82NVVtbzFfZEp0V2ZYY2xoYVRnUEw5QmtXQ2NjaHliaE14OGpHN1EyazRUVmVsbHdILW9VNGt2djRhUmMwUmNL0gGmAUFVX3lxTE53UE8zeEQ2dk80VER5SDYtOUdlRVFDa2dsdEhpM0Z4aDZpVVVEdEpHbUFHdEpWRjVmM016ZjFOREVycWEwSUphd0pRelhjRGRPYzRmR0Y2UGFxRFhCeW5FTVkyUVBpbW13aWpRSzNTV0tnbmpmZXZTeDMtclRINWtDZm50Rmt6eGpaUWZkazl1dmtoTFdpV0NFTDNTb09ibmxxYzVGN2c?oc=5",
-        "source": "The Mirror",
-        "published": "Mon, 29 Jun 2026 06:04:00 GMT"
       },
       {
         "title": "‘I’m going to eat him alive’ - Lamine Yamal teases Marc Cucurella after Real Madrid transfer and talks Dani Carvajal spat",
@@ -1555,16 +1555,16 @@
         "published": "Tue, 30 Jun 2026 18:30:00 GMT"
       },
       {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 30 Jun 2026 11:21:46 GMT"
+        "title": "Real Madrid now leading the race to sign Barcelona transfer target",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMlFpWElnVzI1MkRWWi1ITEJfR0s0bThhYTdOQnFORThPalJwdVB4MHZtOERqUlZvYkxhREV4d1I2dWpiaW1wMTNfZTZzU09ERlBlQjFZY2JqaWhYTjBZYjJrX0p2X1Z1RndhVFZCVk0wdnVPR0dOWi1naHdxTXVVVHF3?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Tue, 30 Jun 2026 17:50:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Real Madrid Eye Kvaratskhelia; Man Utd Lead Fernandes Race Again",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2ZfM1VpSWhtS0RJNmdhdS1UMUFYbGktU05HYjRsalpyNUxaNU9TWmg5VW9rUzN1Y19odUJTWi16UDZMaFZtRElXV1ZyWV8wSVNYcU8yMGIxYlB2M01XNEV1dW95dGNQdU9YWjladk1WeEYzOFJGdzlpZzlLMmdkYmUtY1lFTG9sSEhJSFln?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Mon, 29 Jun 2026 23:05:00 GMT"
+        "title": "Transfer rumors, news: Olise asks for Bayern meeting amid Madrid, PSG interest",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1FrbWg5R0U1NWo2MEFYR2FrZXhiZGNlVC1uRFlUSUZrRDR1Q0Z4UXoyV3BaNHd5Um9MSHNSc2NIc3ZjRXFKcWhDU0VnWG9ueW91SjBvbTRlNkYxVEg5Q3pmQlVRYTQyNV9fVEIxSzRhZV91MndsZUxxNDA0U29KQWd2Mk9IZFNqWUZoa3dTWnVJZmVkUDBBcmx2eHZVNmFTYURsNmE0T2pHTHU2UlVaVFlEYlFXRDZNbmQ0SW0tSkgyWHhHSGFDcG9R?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 30 Jun 2026 10:29:00 GMT"
       }
     ],
     "fcb": [
@@ -1604,7 +1604,7 @@
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
         "source": "The New York Times",
-        "published": "Tue, 30 Jun 2026 11:21:46 GMT"
+        "published": "Tue, 30 Jun 2026 11:21:00 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal learn Rogers twist; Fernandes picks Spurs; new Man Utd target; Chelsea done deal",
@@ -1613,22 +1613,22 @@
         "published": "Tue, 30 Jun 2026 06:18:37 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal plot huge Rogers bid; Man Utd medical booked",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUnhHRHMtV01hTjhlcDNoRTZRWmc1QnRzQVlGNXN6SWxBU0tEUXBvTGNfbS1lVGl5WFRrYzVFU3lHekt1TjdYYkhILW1tWFRFMEdWOGo2S0REVDRCNzBOOGtDX19haXJJQjEyVG5qQmptdzlzdVlpQXRFbl9xcGpYT3dTNUdQX2xYR0FDY0wxZ21XNFRqV3ZrS08wZlo1ck41MVREM0x0TGNnMDA3SlJPd2VxR1F1dmRhbmR1ZmxramxvTU84c29WbjRFZ3J3VXM?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 29 Jun 2026 05:45:32 GMT"
-      },
-      {
-        "title": "Arsenal transfer news: Gunners poised to make offer for Newcastle's Bruno Guimaraes",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dDFaVk1fdWZ3c2R3dUpkLWg1NDVyLTJyUHM3dHVubHZQbVNqWWVNUzdaRHRvcTdRRWU0amtoUXUyeldsT2JLUllLQldBWk5lNC1rR2NYRl9qWnZoTlY5SnV3ZTVXTEE?oc=5",
-        "source": "BBC",
-        "published": "Fri, 26 Jun 2026 15:08:16 GMT"
-      },
-      {
-        "title": "Does Arsenal transfer target have £60m release clause?",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1JVZ3RqSUJ1SzhMMlFBNmJjaFJmUWpqcWNOUXVTYnBTODdjOFA1ODRYejhOcXVOLTkzUklIX2pMLXFpZUl4ZUxoUlNVbzRHZEw3MkNkNTRuMG9hYTdFM0FrMUEyNVhRcFFHTzlfT183MzVSbkdBR29JNHNYLXQzNzZBTHU4NGFK?oc=5",
+        "title": "Germany's failures proved Arsenal dodged a huge bullet in the transfer window",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVlLc2ZBcEtYVlNfVEhoZ212eHk3ZzFMZ3ItRWdTTWtkczI2Z2l2Rms1eGN1MkVOLWRHamJIb2QwVGNnS2VrcVgtTWhLRkZDSXhRNUxvR2UtVm0wZ2RabUU5UGhzR0hHUXB0RmVpTENWOXpYcDJqTmUzZUowbkxZN0VwZGlYVXpYSEFPbXJ3Q0dYdw?oc=5",
         "source": "Yahoo Sports",
-        "published": "Tue, 30 Jun 2026 14:15:00 GMT"
+        "published": "Tue, 30 Jun 2026 16:57:20 GMT"
+      },
+      {
+        "title": "Arsenal star Leandro Trossard sets firm stance on future as first transfer offer arrives",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN054RUg5UXBqRWNtXzhCa2sxcjVHZTcwZDByMGZvNW5hOHNzNlVOYlpmZlZKZGx1VHRrX1NKcGZvWXNudkM5eFZCN0c3Q0xQTGV5MmpKQmc5UzdvOEZvMC1uZVJVV2xkY08tdWxZOG5obTM5aDd2UTl2N3V1Y0N6VDhic2lFZi16Si1hWFFucFkxckpPcjROMWhWSG54MnZaSFHSAacBQVVfeXFMTUdHbDF1VXcyS1JGRDJWLW10ZHdNUTBFOXNMcUVYZ3dXRjBPam5JSmE2QlZKdW5PVXB1VmdJN09fYXdnNXBwYXRTRmdvTzY2OVdCOU1abzhmWGJnWFFmeXEtN2F1QkhhaURoVmowMUxyNmhvS3Q3S3ZOSWpDVW5KMWI4T0hoSVZZLTBtc0FlVklDd1VENi1mTm1aUmdWTmZ1VUFzdFVSY2c?oc=5",
+        "source": "Football London",
+        "published": "Tue, 30 Jun 2026 15:25:08 GMT"
+      },
+      {
+        "title": "Lille make demand to Arsenal and Liverpool over Ayyoub Bouaddi transfer",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNU5hQTVacmc3VE90WGpnMFF0X0x0MElfQndPQlA3WGdxdmlyWW9BaWJFZ3haUDR3Sm1nSzJmSW93WDE2MHNWOHZVTFFXVnVVNUdXY05mcS1oSTN6QS1JbmVFcHVBOVpFNWNJUXk4NDFlMExhaU10dWphY1RJbWwxbTZ2YWpqeWw3TFdrVV9IM0dvOHZ0T1lKQjRsZ01qZmFBX0HSAacBQVVfeXFMUDRWT1V6VGluY29oeGtuWnlKdlpKUjhvZnF0SDJaSjhLRjFpenNPaFR1TjViZ1c4UFdFUFNyYXlnLWhKeEF0QVlBYTlDX200aWhQbFJhWC1oTFItZHZJNkE2Mmh2MmNHblEzVGhuWGlFTFdqWk82ckJMLXRlNG9JekY3eV9LdzZCRVdGa0Job19vdldnMXFfLU5ybnBWX2FRNHcwenlwNlk?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Tue, 30 Jun 2026 17:23:00 GMT"
       }
     ]
   },
