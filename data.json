@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T00:17:46.849457+00:00",
+  "updated": "2026-07-02T00:19:07.321902+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -777,9 +777,9 @@
     "fcb": {
       "name": "Bayern Munich",
       "flag": "🔴",
-      "goals": 10,
+      "goals": 7,
       "ownGoals": 0,
-      "net": 10,
+      "net": 7,
       "assists": 1,
       "scorers": [
         {
@@ -788,14 +788,6 @@
           "goals": 5,
           "ownGoals": 0,
           "net": 5,
-          "assists": 0
-        },
-        {
-          "name": "Ismael Saibari",
-          "nationality": "Morocco",
-          "goals": 3,
-          "ownGoals": 0,
-          "net": 3,
           "assists": 0
         },
         {
@@ -1000,9 +992,9 @@
           "name": "Ismael Saibari",
           "position": "Midfield",
           "nationality": "Morocco",
-          "goals": 3,
+          "goals": 0,
           "ownGoals": 0,
-          "net": 3,
+          "net": 0,
           "assists": 0
         },
         {
