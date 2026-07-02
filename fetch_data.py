@@ -43,7 +43,9 @@ OVERRIDES = {
 # join_date (YYYY-MM-DD) per player name for mid-tournament transfers.
 # Goals scored before this date won't count for that club.
 # Example: {"Bernardo Silva": "2026-06-15"}
-TRANSFER_DATES: dict[str, str] = {}
+TRANSFER_DATES: dict[str, str] = {
+    "Ismael Saibari": "2026-07-02",
+}
 
 # departure_date (YYYY-MM-DD): player is removed from their club's squad on/after this date.
 # Format: {"Player Name": ("club_key", "YYYY-MM-DD")}
