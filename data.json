@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:35:44.406260+00:00",
+  "updated": "2026-07-03T21:56:36.715251+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1497,16 +1497,22 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer news LIVE: Arsenal double deal; Xhaka makes Chelsea decision",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOellyaWN1amNHSkduUEZtdDJZUEhqSTB3ZjhxS2ktcEdENE8wd2VsaFZfNzN0ZS1HcHpqVWZxUTg5dkhYbFJsZ2FsX1U5SkNaWWlIVERVN0w3QUxISWNGcU9hZ245UkN6WHFCM0IyLUViY0hIWUlER3BiUEplOFdzOVdTMkNxT1JmeDhPQWVZNE5IVzFnQlR5eDhHLWVrLTBpc2l0QXlWWFIxYnlMS0w1aXBBZ0VjWjFPNHZDd01TMTMwbXEyN0p0d3Q2OHZiLXZlUmc?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 03 Jul 2026 21:20:49 GMT"
+      },
+      {
         "title": "Aurelien Tchouameni and Alex Scott remain high on Manchester United's list of midfield targets.",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ3F1SGlNazEzQXgxYUNTT01wVDFxSVl5M1pwS0Jsd1hnU09rMmhzdzVUb1REMFZnSWNTRlg4amJFSVRZMFUtSDZKVlFzMjFoMjFoSlk1X0hKb3Zvc0NWNWZsOHRfSHo2RXF6Rnp0WFM4YjJaRTA1cUpjSktyRkJwR0c1RGgwZXpMQ1dkc2h6bUM2WlVaZFQyYktfdnNma05HcVFzZUg0SFhEZUo1RUhRTGRnX2Flb0JNS09GdDBnN0dSdmJrY0pSN2RuQjlXOFIwR19Id0RRU195SlAtaGpoZWpwQ1lVNkVLemZaSG1wMHo5YlBodmkyUE5jQUxGZmdHR2tVN1Z3?oc=5",
         "source": "Sky Sports",
         "published": "Fri, 03 Jul 2026 11:04:03 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal double deal; Xhaka makes Chelsea decision",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOellyaWN1amNHSkduUEZtdDJZUEhqSTB3ZjhxS2ktcEdENE8wd2VsaFZfNzN0ZS1HcHpqVWZxUTg5dkhYbFJsZ2FsX1U5SkNaWWlIVERVN0w3QUxISWNGcU9hZ245UkN6WHFCM0IyLUViY0hIWUlER3BiUEplOFdzOVdTMkNxT1JmeDhPQWVZNE5IVzFnQlR5eDhHLWVrLTBpc2l0QXlWWFIxYnlMS0w1aXBBZ0VjWjFPNHZDd01TMTMwbXEyN0p0d3Q2OHZiLXZlUmc?oc=5",
-        "source": "London Evening Standard",
-        "published": "Fri, 03 Jul 2026 17:20:02 GMT"
+        "title": "Man Utd in three-way transfer battle for 35-year-old international star and Premier League veteran available on free",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DTURxZUV3WTJJT0VwbWtWaWw5Si0wOWxzM0w2cFlTNXNiV3JmeElRRXdGaVhGa29ON3hxZmV0TXdCUkgyR1lmdEV0eEhSeHozWkp2cmo0MWJPczhBWDZKeEQ4aThOU1d1UDhaY25VZjZxMDhIVmtYVA?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 03 Jul 2026 18:11:00 GMT"
       },
       {
         "title": "Man Utd news: Free agents and unwanted transfer links - have your say",
@@ -1519,20 +1525,14 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjJra09HMUx5QVV3QUlDWFZUSDF3ZWVjeHpHVVluMUprVlJRbWhlQWVVZ1hYTXdzNU9FX2N1ZjFMT0xoZ3hJMU04MzBnRU1kWVpXVmVPWW9Gc2dYTl9GeHhpQjRRanpiOWE1b1FRV0RRcGJxUzdrM2dKY3VCVU5Wa2FmZUhtQkRDNFo4aUNMUG9qYTlEMThmeWhJSVpPY0c2Vng1SE8tNUhidzQ?oc=5",
         "source": "Manchester Evening News",
         "published": "Fri, 03 Jul 2026 15:42:33 GMT"
-      },
-      {
-        "title": "Man Utd handed major boost as 'transfer agreement reached' after agent meeting",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFBaeVAzRU1rZDJaWkdjZHpBc1o5WTVGS3NmbV9fdzh2dzJOeHRmN0ZRM2psT1pUeEU4V0FmUVN0TzZ0MXhQNE0zdEd2a3RjOGFUNHdBdkJselB0S0xyTVpnZ0d1aVJGek80eVF6TWdJaUNmUkM1ZlRPRlYyM1otcVY1ONIBiAFBVV95cUxNUUxTbUw3cmx4YXV3SWU0RW9PNFM4V2M4WWF1aFVtbU5LUi13aENGUVR5MVNjaUZZZ1RhdmRhRF9laGJkdnRVY1A4Q0J4YUwyZmJJWkMtWFJ1QVBIVlZZek4zbTVpM0tlbkZZZ1l5dHZRU2p4V1FBMHB1NldSMnV0Q0VQYUU3S0VK?oc=5",
-        "source": "Daily Express",
-        "published": "Fri, 03 Jul 2026 17:42:00 GMT"
       }
     ],
     "rm": [
       {
-        "title": "Transfer news LIVE: Chelsea 'dealt Xhaka BLOW', Real Madrid DENY Fernandez links, AC Milan 'target' Van Dijk",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUxBcnhBUzhoa0F4d2I5TlVIQUd5TXdQVnNWT3d5Qm5tY3BkWF9aUWE4VkZSbTRvTkRqekZWSWctRER1UDFZMllqN0dSTzFGREhmbktMZDdFczk3akNCUkJpWDk5UFByczNIdXYyclNKU1JGOTBCSkFhUzFUcjc1NHVzNC1zWVhoN1RualB6bHlGdnNmc0V4UHFvSXBUcFVjQm5tczNJS20?oc=5",
-        "source": "The Sun",
-        "published": "Fri, 03 Jul 2026 19:36:14 GMT"
+        "title": "Real Madrid ‘categorically’ deny interest in Chelsea midfielder Enzo Fernandez - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDdNZmVTTVhtQVpRdDJ5RVpFRDJQcVlQcVJyc1phU2wtNFY1V0hQaTl6VVJGTTdtc3RQTk52d29TcV9XVEtGQ1RxU2MyNmFMX1dRcXZ0YUZ1WVQ3Uk8xYUk0Z0dPQi1ZNDNhWF9ubjdEQWUzZEVYWWJDcUdyRU5uOU9aS05WVkNTY3I1N2Q2VW03WEN6cl8xS1VuaU5rQQ?oc=5",
+        "source": "The New York Times",
+        "published": "Fri, 03 Jul 2026 11:08:27 GMT"
       },
       {
         "title": "Transfer Rumors: Real Madrid’s World Record Olise Bid; European Giants Want Van Dijk",
@@ -1541,10 +1541,10 @@
         "published": "Thu, 02 Jul 2026 23:05:00 GMT"
       },
       {
-        "title": "Real Madrid ‘categorically’ deny interest in Chelsea midfielder Enzo Fernandez - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDdNZmVTTVhtQVpRdDJ5RVpFRDJQcVlQcVJyc1phU2wtNFY1V0hQaTl6VVJGTTdtc3RQTk52d29TcV9XVEtGQ1RxU2MyNmFMX1dRcXZ0YUZ1WVQ3Uk8xYUk0Z0dPQi1ZNDNhWF9ubjdEQWUzZEVYWWJDcUdyRU5uOU9aS05WVkNTY3I1N2Q2VW03WEN6cl8xS1VuaU5rQQ?oc=5",
-        "source": "The New York Times",
-        "published": "Fri, 03 Jul 2026 11:08:27 GMT"
+        "title": "Transfer news LIVE: Chelsea 'dealt Xhaka BLOW', Real Madrid DENY Fernandez links, AC Milan 'target' Van Dijk",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUxBcnhBUzhoa0F4d2I5TlVIQUd5TXdQVnNWT3d5Qm5tY3BkWF9aUWE4VkZSbTRvTkRqekZWSWctRER1UDFZMllqN0dSTzFGREhmbktMZDdFczk3akNCUkJpWDk5UFByczNIdXYyclNKU1JGOTBCSkFhUzFUcjc1NHVzNC1zWVhoN1RualB6bHlGdnNmc0V4UHFvSXBUcFVjQm5tczNJS20?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 03 Jul 2026 19:36:14 GMT"
       },
       {
         "title": "'Best in the world' - Arsenal star backed for Real Madrid transfer",
@@ -1573,12 +1573,6 @@
         "published": "Thu, 02 Jul 2026 07:02:02 GMT"
       },
       {
-        "title": "Germany World Cup star lands 'dream' £47million transfer just days after humiliating penalty shootout defeat",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21STzFHZHFicTBVel9SRlVqaVBndXBJRF81X0RYTjJjV0xzX0ZYX3lGQXpRclBnZVFqYU5RZU4wbVE3dTk1T0w3WncwRlZpR29XT0YtVWdoektYZjVtc3p0RHRKTHdnd2VIT2hjNDZkaG90Ujh0a0RablREbWR2c2h3b3JOZ0J0VTBzYXlXVUdfU2Ftd1E?oc=5",
-        "source": "The Sun",
-        "published": "Thu, 02 Jul 2026 20:47:00 GMT"
-      },
-      {
         "title": "Boost for Liverpool? Expert no longer sees Bayern Munich star signing a new contract",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZVNMMC1OYTk1ekplTXBIWEZnT3JHWEtTc3FIR3ZRSHFXMXRVMHExcEVBVElaTEtyQ3RMd3VIRjNObzdjZnlaZ3Jfa3UtT0FmY0VYdFhjX2U4eHRwYmczSDc4THl0Q2hvZzVlek1RWkVzVkgxeWRnSy1FbkxBd9IBgwFBVV95cUxPZGtVV3JTaGVwME5MU3JMNGtUWnZPa0xTb0t1LUsxOEh0cXFlODBDTnJFaGxSanc0YWxJZWhRMU9uY1VDXy02ZjNEUmlJNEd5T0FqcWtaS1ZkczJzOWlCaWJmWTdNSDV4N3FSS0FEdGd2TUktMXlYRE1VbXNCTExOSGQxYw?oc=5",
         "source": "CaughtOffside",
@@ -1589,6 +1583,12 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDVUUFZ3eW5TeURXelNueGUtdTYwUWFoMXYxMjlISll4QllOQVhFNk8tcFlIYnNuMThxN1BOcVNTUmluZG9sRVNpVzZhNHJFWUdhV3VOdjIyUHdsejFMQmZEcEpLbGZ0eENfQUcxaElBS3l4Ylp5Z0xBN21VamFYUk12alYzWVpVZktPT1BnQmpmQjBoR3JsdXViSzlRSWNSTjU3ZGVvMkhpX2F3N0RvNDVucVplbXBjVmVoWV8wUEZMRElBaktn?oc=5",
         "source": "Goal.com",
         "published": "Tue, 30 Jun 2026 20:38:44 GMT"
+      },
+      {
+        "title": "Transfer shocker: Brighton & Hove Albion pulls off deal for coveted Tottenham prospect Luka Vušković",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWg4cUNIakptVURJNmhqdzZjWE5SajV6aDRoczBrbGExOVRnSzZJUjQ2TGRPZllmUjVUSTJKLTFSQTVsOUtobkVucTIzREp6akM4ZXJDTmVhekpQeGxJMUZGYmQxeTBRNlI2OVFzbFU0VFVQSXFJTVloMzJfeXZhNm45ZVJ6Q3ROaVpqd2ZTQ1p0WFNralpwMFNuSEZQaUtTLTdyYzl6SnJPT0R2OHZDdWxRU19TdXA2NUdPRGl0dG1yeWh5Y1FkVDRzU013VjFzWEY1ci04M2lVZUROcEUyUzVjMUdRdVJTR2RUbmxWaERvQlowNGc?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 03 Jul 2026 02:00:00 GMT"
       }
     ],
     "ars": [
@@ -1596,7 +1596,13 @@
         "title": "Transfer news LIVE: Arsenal double deal; Xhaka makes Chelsea decision",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOellyaWN1amNHSkduUEZtdDJZUEhqSTB3ZjhxS2ktcEdENE8wd2VsaFZfNzN0ZS1HcHpqVWZxUTg5dkhYbFJsZ2FsX1U5SkNaWWlIVERVN0w3QUxISWNGcU9hZ245UkN6WHFCM0IyLUViY0hIWUlER3BiUEplOFdzOVdTMkNxT1JmeDhPQWVZNE5IVzFnQlR5eDhHLWVrLTBpc2l0QXlWWFIxYnlMS0w1aXBBZ0VjWjFPNHZDd01TMTMwbXEyN0p0d3Q2OHZiLXZlUmc?oc=5",
         "source": "London Evening Standard",
-        "published": "Fri, 03 Jul 2026 17:20:02 GMT"
+        "published": "Fri, 03 Jul 2026 21:20:49 GMT"
+      },
+      {
+        "title": "Why Arsenal walked away from Jeremy Monga deal and the £105m transfer decision",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHdMb2xTVDRRYjJZYk1Va0dsSFRJT0xVdGdTQ3RKWVB5cjVXYl85Njc0UTVjcU80RXloOFlWcEg4TGhZeXBrWTRVd19ZWGR3RUQxU0xlNnV1OWZadjBoXzVSbUhyRUZJVlo2X1hQY1R5MXVTR29xcnc1MkxKenJlUHlMSDV3bjM1WHM0VzFxRGgzSE5Oa2NFcURR0gGfAUFVX3lxTE1RMGh6QWNCSjNER2RUdEJxbEdqTEFoM3p6aFdqVExpOWFqSmFvcS1iSzAyYkNBUlFfazM1dFVRd203RDdWc2pJcUZNUlBxSF9kalZvQlVpVzZhVWhPT1BIWnR5SkNtRGhUdDVwY3FEc0laYTBvUHRLQWFhU1czaFFxakQ5cUxvaURxUmczRlYzNy14ZWpReEptdWZIbTJyMA?oc=5",
+        "source": "Football London",
+        "published": "Fri, 03 Jul 2026 10:53:33 GMT"
       },
       {
         "title": "Transfer rumors, news: Arsenal eye £130m move for Villa duo Rogers, Konsa",
@@ -1615,12 +1621,6 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUlaMVNHb0ZHR3ExUTN0aTl5czZWRWFpczBtMjNxV3dKY1M5dzk1SFJCTEpGaGVnY25FdXdOT0EyRGtaNVF0MnVKSGQ4dG03YV9zeGotSm4wa01vMklmUUloRWNPc1VoZGE0Qk1nZldhbGstWHFIVEpnaEJSSzRheGM3NGVaMXRRMkZTRmpSRVFGM3BmUGxpS0dQblhXd9IBowFBVV95cUxQOTFYTEtrRFJibXJfdlZNQjRtc2F5X3Y4QWRMdW10eE9WTzhITjlES1V5bVpnRWRYUkRwY0NkNHhZTUlucmM4WTFaUjlZT0ttMHc0aDF0b0hLeGZDYlhFRHJFakhZbWhQYkZ2aEtBOHlDcjZKWTZZazRQVExwNzdzbmg5UXMwRmJvTXB0elJXelhFNXVlcnctbEJfbV9ueG9oVlo4?oc=5",
         "source": "Football London",
         "published": "Fri, 03 Jul 2026 17:29:15 GMT"
-      },
-      {
-        "title": "England star Georgia Stanway joins Arsenal on free transfer",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0lfVWM0ZUZOUUxRQXVNWXg1Z1B2WGNUTFZ4RERyQllyb2hiWVFfNnROSkpLaThhZ1ZQNlN0NHhOTk1mUWhySDV6OGJOM1BQNWJjTkdQdnFVWUhnM1FHU3YzNnlQOG44N0lyVVRUcW5ib3dwU1dyVFBSTF96c3BsU0I1V1JsYkY3cy1TbElfVHdFZmdlaG9TbjVreENiREVFcUw3UXdFYlROUmxv?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 03 Jul 2026 08:00:00 GMT"
       }
     ]
   },
