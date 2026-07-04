@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:57:08.675949+00:00",
+  "updated": "2026-07-04T19:01:37.441479+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1512,10 +1512,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Arsenal agree £17.1m deal, Rashford update, Liverpool target £43m ace",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3g4T0htWk1Jcm9MQnpHTFNiV2RnWkx5X0RUUENRcHdKRC1LU2QxZWxjUk41bTZIWlNQNGtDejR3dW84SzZqcGVpU2h0azNzakFfS1NlQlJvQTRsNXZWMTVkZlczNmRiMWF4Y1hpNUhDV1FrZmdIS3hMMHNLZmZyb21nS0h5bl9wR1dnNEhhZUktN1HSAZgBQVVfeXFMTkdWalpzSFdRUExlelp1aEFhZlV1eWNGeTdYNk9Vamo2VnRmZlZsSWNYQzFEeHI5WUVIcnRjZnpBdDVBbHM5YUFWOFllX1hSbXU5X3lIX0tYVHdPR2I2WWxLRUNHUnJ1WExoZFpCSE5YZ09NcGh5ZUtZblhBUXZiRHEwY0k5Qmk4VUFjbjBEcWIyRXNoUlN4VWo?oc=5",
+        "source": "The Mirror",
+        "published": "Sat, 04 Jul 2026 17:55:47 GMT"
+      },
+      {
+        "title": "Man United transfer news LIVE: Alex Scott latest, Carlos Baleba stance, Marcus Rashford message",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnBmYzNrbktoTHRNb2ZsWXhPcjR6b2pFTlVWOS1jLXUwWFpoZjFGbDVldFNvZlNGbV82blFVUGJFRnBfTi1GR3h6UTZ3QjgwYU80VDBtWEM4c3NGdGJCOG5acm9ZM0Vxc24wQ0FnVHk3Q0J1cXNlU0RzNlJKZVVUNXBaWlVpd2JRTE03YXNYLXc1ZUhHS2pTaHhWcjY1aXBxcDM0cVZzWmQ4MDTSAbABQVVfeXFMUHBKbFd6eDI0Uk03b2RONU1KWkRaeGVXQUlxcVBiaWZacjQ4aEZ3dmFYdHdLaGxJWVpLSzVrNFk4X3J6S05URzZBOWNuV3lZM1dRekpoQm55MUhMa1Y1YmhsUF9qX0RaT2tqbkNNVDgtSlNaOGlZbnpFTEl6TUZLWFozZWVid0xRY01pTHNhYjM0Tk5KSEkxcEVaWGxPdW92ZlhwV0tpNGVrMXlVbjAybWY?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 04 Jul 2026 16:18:59 GMT"
+      },
+      {
+        "title": "Aurelien Tchouameni and Alex Scott remain high on Manchester United's list of midfield targets.",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ3F1SGlNazEzQXgxYUNTT01wVDFxSVl5M1pwS0Jsd1hnU09rMmhzdzVUb1REMFZnSWNTRlg4amJFSVRZMFUtSDZKVlFzMjFoMjFoSlk1X0hKb3Zvc0NWNWZsOHRfSHo2RXF6Rnp0WFM4YjJaRTA1cUpjSktyRkJwR0c1RGgwZXpMQ1dkc2h6bUM2WlVaZFQyYktfdnNma05HcVFzZUg0SFhEZUo1RUhRTGRnX2Flb0JNS09GdDBnN0dSdmJrY0pSN2RuQjlXOFIwR19Id0RRU195SlAtaGpoZWpwQ1lVNkVLemZaSG1wMHo5YlBodmkyUE5jQUxGZmdHR2tVN1Z3?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 03 Jul 2026 20:47:41 GMT"
+      },
+      {
+        "title": "Real Madrid midfielder Aurelien Tchouameni - and England star who narrowly missed out on World Cup squad - remain high on Man Utd transfer wishlist",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPam8wYzlPeWRuVS1mYVpDdHFtcGs2QWRIUmlkRllVYzVtNklvRVFrbVdHelhHdkNjcFV4dWJfb2IxODYxX201UkVzU3lWTWVPblRVRzd4MWRuR0p0YWd1TUl0V3B5a24xWmJCckp0bTcxdUZteTg3S3BvV0tqcHJIajhhQmZkNDlKZ3FyOV9BQmVNSGh1LXJrY0VPRkY0bEdqODhMdEFabWNNNnRjQm44MlFiU1JtbjJyWHB5dUVWc3g?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 04 Jul 2026 15:29:59 GMT"
+      },
+      {
+        "title": "New No 1 midfielder target for Man Utd revealed after INEOS are beaten to three deals",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXVDbkNUSEx1MG4tQ3QxeHZpUGJpb1BfSmFDR2JNVDNOVnRrYUhHTXdNZlExeXBTcjlJSm1taGU0R1RqZXlYRWh6TkJra3BaQW5kSGpBaWI2VzlxemFIQ001Y05XZmcwV3I2UFQ3aFMtMmV2UHBlNXU0ejl0dVlITTl3blc?oc=5",
+        "source": "Football365",
+        "published": "Sat, 04 Jul 2026 10:00:18 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Granit Xhaka signs and Real Madrid swap deal in dream Chelsea 25-man squad",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVDRpTk5Td2lWckRJd2lOMDRfNjRvLTVkdXg0Yk1yM1J2dl9lMnVUQ2pzN3FGM3RJRVM1SHY1anU3QlprQkJfTUhSVkZtTHpia2lNLTJWU25Tb1loek1UYkk1N3QzSU9GWkpnSXBsUVRCSXVSMXJWQzlvMHBGQWtQd0FPX2I2d1ZRa3A5YUwwNmNYRGdKaG5B0gGcAUFVX3lxTE05aUM1a09QR2dwODU5RFpTbWdaWTJETGVUNV9WWEgxN2hkdnVveTZWUVR5bEVJanpSUXBrTWVNcmlBaFNadV9LTmdhY2R1QU9SOWhXcDJNX2RkbXgxc21fWl9oWllzZm5NTnNnV0d0UTRHMERGY2FvNTZuVDRxeGkybVVwcm9ua2QzNGNUOTB6MGtxUGFMR1RLRGpNeg?oc=5",
+        "source": "Football London",
+        "published": "Fri, 03 Jul 2026 12:53:42 GMT"
+      },
+      {
+        "title": "'Best in the world' - Arsenal star backed for Real Madrid transfer",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1NYR2xIQ2x3SnN3Zm5aQTd1NF9QYW5YNGd5M21hZ1JXRWlWTTlrVERtVFRab0w5X2l4dTBsRzI3NDJfRk9obDdUbzFKeUZBRFc5M255Q1cwOGk2SzlRZmxFSVVvb3JVWi1jZVdYZzM5RERSb1JOZ3VQV3lGSTdmMUh1Z2NGTUR2M0ppZF9KbjluMENZZHYw0gGcAUFVX3lxTE5kU1JReHdrYXBfcThHZTdsRW1iTFJTckY0RlFhSVloZEFxOWZGSGZ2czBzYjlsOEp5RVcweTZ6YTgtZ1o0Z1dLUGNELVZtVkJLeVcwTHFUVjVNN0VGNWZaOUx3R3QwRUxGdnZvdHc5a3Vyei15eGM5R1YyYUMtLXhRSUdvMjhhbGNLUXNRSXRxdmVYWDduRURTd0lkaw?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Thu, 02 Jul 2026 14:34:00 GMT"
+      },
+      {
+        "title": "'The door is open' - Arsenal's William Saliba tipped for Real Madrid transfer by France legend",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzl3TjJkay11YmtiQ3c1ZDBjcnZJaDdFRkhQTDVQdS03bXZ0WEI4NDBaWTZkTzc0MU5nUWJ0dFhxcjhncDRWcXQyQ0RKTGQ4cjB6ZU16dHBreUhUV2U5XzJCZXlBMHlzcEpiTDZ6bzdCV1EwWk1PZ1ZYbkt3WTlyLUhNQkVYRE54RElqZk1SeWp5TEVvQ2hMMHVMdGY0TjZYTXRVZW05WlVoeFEySDcxMGF2QnNoWlZyWlVLTlFBc0NYR3dVTE5mcDdPSjBrUnRGSS1RREhuVQ?oc=5",
+        "source": "Goal.com",
+        "published": "Thu, 02 Jul 2026 21:36:58 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Real Madrid’s World Record Olise Bid; European Giants Want Van Dijk",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1RmU1hJYWFMYnVkQzJxMVllRDlFRV9OWTNtU1RTSGY5eWRBS3VsaXVSZ1Q1bFRzY3VGRGtzekJpc09ldmxsTS0wUV80SHRxRWdybDRULV83N1dxdEI4SnIzSUluNlFYUEJXNE10NmpLNk5oMVhpMmQwbVpZR29yNzdiamRKZE5LY0EyRUtQQlpnNTNvSUVNZTNxSWpLdXdWY0s5SHhWNVNxdw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Thu, 02 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Real Madrid president willing to spend entire transfer budget on Bayern Munich rising star – report",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWJsMG12YjZDNTZmSTlSZzBkOEt3VktJQXZsWnhWajFNMTlrd1F4TFMzZE52Ri1fdjEyVDJoMER1ZUhObFJsWDFTUFFwbVZQRUlKZFM4MEJHNHdZVlNmTXl4VjByZ25LdFBtR1BWdVN1anpENU9WRzcwYWVsQXFEcTZQRzZLRUZ0OUhR?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Sat, 04 Jul 2026 17:10:00 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Transfer Watch: João Palhina likely to head back to Sporting CP",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTFOT1FDX1kwd3R6OEE4bWFwYnA1aXhNeG9McHo3bnFfVlE0QjZqaWxpU090OVRpcGJyVTZCczM0YmZ5RzZZbHctNFNQWmZwQWRKODNzMnBLdDh6QkoxdDFsaHd1R0dldHpaREJMOFJxcDA3cWs2RkhPdS1TN1lpZmRZTjNUVHV6S1dyZTExc0FpbEpIWjFORE92U18zcUNDNHBXTklIZ1NtblZYVGIyY1hZTl9HTXNjYWNhdVRKQV9pZTY2OXJkLVMzVEE5SXJwMG42MExsaFFiZw?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sat, 04 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Nathaniel Brown arrives for medical ahead of Bayern transfer",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1BwSmFmLUxOSjhNdTEtNjdIODljeWV6MUVXa2hVSW5HaDFHQTVRX05Bb1l6eUJKUmFsaVIxb0hJejV3b0xoR3haeU9hWUxGeVplbC1OSkRKSnEwQlhlWnpSZ19Tc3NJOHVqdmgtd05DZXdQaHVPVTZtQTJrSjVrbmhZM24?oc=5",
+        "source": "Bulinews",
+        "published": "Thu, 02 Jul 2026 07:02:02 GMT"
+      },
+      {
+        "title": "Barcelona make final Harry Kane transfer decision as Liga champions seek Robert Lewandowski replacement",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVUdRNTVpd1NCcWl3cDYxMjVkeHJMbUQzUE14TDc5WXZtSGxKaW13dEdKQkV2Y0RZdktfckFPLWVyOG5ZZjQ2ZG5rc3gzMEZXYks0MklITVhONXpXem1xSG1TYUFKU2NkV2Rra1hlSGdiWEs5d1UwcGxZeVpzYU4xMnBUMEtvRk1zTEtVdW9WSC1uRS1UZEEtcS1EWEpXeUtYYTh1bkttbmx6cTFDc0Yyd1JJQ0h2a0xPYm8xblA2MFZQZ0hmc1lGbmlJQ0NuV2N6RXUwNmU4R2ZqQ01iNk1MMEVXY3ZuR1BZaldJZg?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 04 Jul 2026 13:59:02 GMT"
+      },
+      {
+        "title": "Boost for Liverpool? Expert no longer sees Bayern Munich star signing a new contract",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoZVNMMC1OYTk1ekplTXBIWEZnT3JHWEtTc3FIR3ZRSHFXMXRVMHExcEVBVElaTEtyQ3RMd3VIRjNObzdjZnlaZ3Jfa3UtT0FmY0VYdFhjX2U4eHRwYmczSDc4THl0Q2hvZzVlek1RWkVzVkgxeWRnSy1FbkxBd9IBgwFBVV95cUxPZGtVV3JTaGVwME5MU3JMNGtUWnZPa0xTb0t1LUsxOEh0cXFlODBDTnJFaGxSanc0YWxJZWhRMU9uY1VDXy02ZjNEUmlJNEd5T0FqcWtaS1ZkczJzOWlCaWJmWTdNSDV4N3FSS0FEdGd2TUktMXlYRE1VbXNCTExOSGQxYw?oc=5",
+        "source": "CaughtOffside",
+        "published": "Wed, 01 Jul 2026 13:29:10 GMT"
+      },
+      {
+        "title": "Bayern Munich prez says Real Madrid denied Michael Olise interest",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ3VHMi1ZaEpXMTFINVJNNjV2d3BSRjhaMkZId3l4cmNnSlE2OXEtenMzMGdkVHhUcnF5ODlIUHFNbkdHRFpqWDM2aEFaQTJEbHJvMVNrcFdQVlZOb1NEMmJRcUcwUFZTUEk1ekZiXzR2U2RKUXZFU1RDWlNiRzAtaXNhY3VraEUxU2JzTDBpVVM1eE96dzlQRVVsX3JwWTV4M2ctcHlyQk5ZQzVUSmc0Ml9BTEdFRHhZUlV3VlB0OFN5b2xkUENDUmZFOGxNQmZMMXNxZmsxc3FKWFZkdXc?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Wed, 01 Jul 2026 22:00:00 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Man Utd backed to hijack move for Arsenal transfer target: 'He is better'",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjlDTF9jcl8zTTY4aWlybk1Na1BwTmloRG9XbFZRdEdXeW51NUNhbGc3WnExRmR3TEJ1dy1BNS1Ob1FYaXVhb0tvdlFoWHRwWHptZUJKSk4yb3IwSHlBb3o4dHM2YUJDejlfbllQODNubW1TcUQ3cVRMTGlOVWFwbndJTEc4SDFKUklrN095UWw4REw1bnRsaUczbVJlem9WemJn0gGoAUFVX3lxTE9sell0VmkydTZQaFJjeEhseDhTUWVnU3ZWTnkyQU1fYjJyZlpTLXZ1Q2IyLVI3cXl6OFVkSHBQWWg5c0Z6OW00dXJIV3Z4SjNLd24xMllLZUN0VEs1UkhPcUdVaC10SjVHQTVkbU5fa0E3eFg5TTZkc2FYXzc3VUZNdFlDa2l0YXB6dlVHekJ2MmxUdXk4clFtOFo4Q3ZCLXA1RnBPMEFxRA?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Sat, 04 Jul 2026 09:56:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Rogers to Arsenal latest; Man Utd want Tchouameni",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXppM19DdEwtcjZ3bkc4Y2lmUXlSb1JObkJGUmRIVm1HOGpzRXdrRERNRFA0ZEJFZlNvR2xfa3dUVjVVX3pobGkzUFMtbmtYcmw5b01sbkxsaV8zVW9BbndheDhIY3JLM0dVZ25YZVRVMGtHNWY1aTE1NVVwOVlvZ3Y2U1BXM1lZQ1UxX2pxeHcxa3ZWY3lSbUxKeVNDbzY2Z2lXQTd2c2JOMUdHazFEZGZsNXUyM0xDVnZESnhrSXZwNjN2TmJxdmNR?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 03 Jul 2026 01:36:40 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man United eye move for Palace's Sarr",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE14QXVRS1lWTFpMYzNuUmxlbmVSUm10YXg5RnRmQzhJMGlIMHJPWmFqQm9abzdIT2JQLTYyWENxb0VpLVNKMUtMdUE5Y0NuNWZ2WGVKOEVRWnpUZ2NXT3lyNzhkYTROeGhHN3FsOGdqaWNIMHg0dVhjYVU5bElMVlNsbHpOZmRJdkpxYjhpRVdheE1WM2ppREFselowMGZmdmhUaTNLTmptMUVGWUw4dw?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 04 Jul 2026 00:15:00 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Arsenal Plot Fernandez Move; Amad Offered Man Utd Exit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR05hRGRqNWdaMWFYTFFTUWV3NTdaaVFsRVJvT3kzUC03QlZ6MWgxeUR0SDZVSUxVNGZibFQtdTRRdmVZYUw4TlQwQVVWS0xnUEV3M0cxemV6UUhOV043NUZTQ0h0RG9IakxYbFJsVktIaTAtY3Y4NzVLRTRRRWx1U3NvaTVOMU9LMURZWFUwYl9YdjZMYzhQelpybw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 03 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Report: Besiktas agree terms with Arsenal for Trossard transfer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlHWXhzOEphX1FxM0xicmpYSjZZRHdlNEhaRjBoWnRzUURNRHhucDk3eEdxaFFyYThTZHpONlJYRDNPMjZuX0x6anM2Z09YYVFHZWVseGRCQVdrWENoUzV6R1VlZUdfbHZ6bmVLQlJaNmpEemYxUzdrMndueHRIY2VFTjRzNXVjZ09XVXo1WHQxOWZfMlJMTg?oc=5",
+        "source": "Arseblog News",
+        "published": "Sat, 04 Jul 2026 16:04:43 GMT"
+      }
+    ]
   },
   "upcoming": [
     {
