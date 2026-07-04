@@ -19,7 +19,7 @@ CLUBS = {
             "news_q": "Real+Madrid+transfer"},
     "fcb": {"id": 5,   "league": "BL1", "name": "Bayern Munich",      "flag": "\U0001f534",
             "news_q": "Bayern+Munich+transfer"},
-    "ars": {"id": 57,  "league": "PL",  "name": "Arsenal",             "flag": "🔴",
+    "ars": {"id": 57,  "league": "PL",  "name": "Arsenal",             "flag": "\U0001f534",
             "news_q": "Arsenal+transfer"},
 }
 
@@ -36,15 +36,16 @@ OVERRIDES = {
     },
     "fcb": {
         "remove": {"Nicolas Jackson", "Raphaël Guerreiro"},
-        "add":    [{"name": "Ismael Saibari", "position": "Midfield", "nationality": "Morocco"}],
+        "add":    [{"name": "Ismael Saibari", "position": "Midfield", "nationality": "Morocco"},
+                   {"name": "Nathan Brown", "position": "Defence", "nationality": "Germany"}],
     },
 }
 
 # join_date (YYYY-MM-DD) per player name for mid-tournament transfers.
 # Goals scored before this date won't count for that club.
-# Example: {"Bernardo Silva": "2026-06-15"}
 TRANSFER_DATES: dict[str, str] = {
     "Ismael Saibari": "2026-07-02",
+    "Nathan Brown":   "2026-06-15",
 }
 
 # departure_date (YYYY-MM-DD): player is removed from their club's squad on/after this date.
@@ -105,7 +106,7 @@ def fetch_rumors(query: str, limit: int = 5) -> list[dict]:
         print(f"  RSS parse error: {e}")
     return items
 
-# ── Build player->club map + squad lists ──────────────────────────────────────
+# ── Build player->club map + squad lists ────────────────────────────────
 PLAYER_CLUBS: dict[int, str] = {}
 CLUB_SQUADS:  dict[str, list] = {key: [] for key in CLUBS}
 EXTRA_NAMES:  dict[str, str]  = {}
@@ -115,12 +116,11 @@ today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 for key, club in CLUBS.items():
     ovr     = OVERRIDES.get(key, {})
     removes = {n.lower() for n in ovr.get("remove", set())}
-    # Apply scheduled departures that are due today or earlier
     for player_name, (dep_club, dep_date) in DEPARTURE_DATES.items():
         if dep_club == key and today >= dep_date:
             removes.add(player_name.lower())
             print(f"  DEPARTURE: {player_name} removed from {club['name']} (effective {dep_date})")
-    adds    = ovr.get("add", [])
+    adds = ovr.get("add", [])
 
     league_data = fetch(f"/competitions/{club['league']}/teams?season=2025")
     for team in league_data.get("teams", []):
@@ -149,14 +149,14 @@ for key, club in CLUBS.items():
     else:
         print(f"  WARNING: {club['name']} not found in {club['league']} teams")
 
-# ── Transfer rumors ───────────────────────────────────────────────────────────
+# ── Transfer rumors ─────────────────────────────────────────────────
 rumors = {}
 for key, club in CLUBS.items():
     items = fetch_rumors(club["news_q"])
     rumors[key] = items
     print(f"  {club['name']} rumors: {len(items)} items")
 
-# ── WC scorers (goal counts + player discovery) ───────────────────────────────
+# ── WC scorers ───────────────────────────────────────────────────────────
 scorers_raw = fetch("/competitions/WC/scorers?season=2026&limit=200")
 player_info:    dict[int, dict] = {}
 scorer_goals:   dict[int, int]  = {}
@@ -178,11 +178,9 @@ for entry in scorers_raw.get("scorers", []):
         print(f"  MATCH (name): {name} -> {CLUBS[PLAYER_CLUBS[pid]]['name']} ({entry.get('goals',0)}g {scorer_assists[pid]}a)")
 
 print(f"  WC scorers: {len(scorer_goals)} total, "
-      f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our 3 clubs")
+      f"{sum(1 for p in scorer_goals if p in PLAYER_CLUBS)} from our clubs")
 
-# ── Per-match goal events (for TRANSFER_DATES date-filtering + OGs) ───────────
-# goal_events[pid] = [{"date": "YYYY-MM-DD", "og": bool}, ...]
-# Note: free-tier API may return empty goals lists; we fall back to scorer_goals.
+# ── Per-match goal events (OGs + date filtering) ─────────────────────────
 goal_events: dict[int, list] = {}
 og_map:      dict[int, int]  = {}
 
@@ -204,41 +202,33 @@ for match in matches_raw.get("matches", []):
             og_map[pid] = og_map.get(pid, 0) + 1
 
 print(f"  Own goals: {sum(og_map.values())} across {len(og_map)} players")
-print(f"  Match goal events found for {len(goal_events)} players "
-      f"({'available' if goal_events else 'not available on this API tier'})")
 
 def count_goals(pid: int, join_date: str = "2000-01-01") -> tuple[int, int, int]:
-    """Return (goals, own_goals, assists) for pid, respecting join_date if match events available."""
     og = og_map.get(pid, 0)
     a  = scorer_assists.get(pid, 0)
     if pid in goal_events:
-        evts = goal_events[pid]
-        g  = sum(1 for e in evts if not e["og"] and e["date"] >= join_date)
-        og = sum(1 for e in evts if     e["og"] and e["date"] >= join_date)
-        # assists not date-filterable from match events on free tier; use scorer total
+        evts = [e for e in goal_events[pid] if e["date"] >= join_date]
+        g  = sum(1 for e in evts if not e["og"])
+        og = sum(1 for e in evts if     e["og"])
     elif join_date == "2000-01-01":
         g = scorer_goals.get(pid, 0)
     else:
         g = 0
     return g, og, a
 
-# ── Build per-club output ─────────────────────────────────────────────────────
+# ── Build per-club output ───────────────────────────────────────────────
 output = {"updated": datetime.now(timezone.utc).isoformat(), "clubs": {}, "rumors": rumors}
 
 for key, club in CLUBS.items():
-    total_goals = total_ogs = 0
+    total_goals = total_ogs = total_assists = 0
     scorers = []
     club_pids = {p["id"] for p in CLUB_SQUADS[key] if p["id"] is not None}
     club_pids |= {pid for pid, ck in PLAYER_CLUBS.items() if ck == key}
 
-    # Resolve join dates: look up by player name in TRANSFER_DATES
-    def join_date_for(pid: int) -> str:
-        name = player_info.get(pid, {}).get("name", "")
-        return TRANSFER_DATES.get(name, "2000-01-01")
-
-    total_assists = 0
     for pid in club_pids:
-        g, og, a = count_goals(pid, join_date_for(pid))
+        name = player_info.get(pid, {}).get("name", "")
+        jd = TRANSFER_DATES.get(name, "2000-01-01")
+        g, og, a = count_goals(pid, jd)
         if g == 0 and og == 0 and a == 0:
             continue
         total_goals   += g
@@ -286,7 +276,7 @@ for key, club in CLUBS.items():
     }
     print(f"  {club['name']}: {total_goals}G − {total_ogs}OG = {total_goals - total_ogs}")
 
-# ── Upcoming fixtures (next 2 scheduled WC matches + lineups) ─────────────────
+# ── Upcoming fixtures ─────────────────────────────────────────────────────
 upcoming = []
 try:
     sched_raw = fetch("/competitions/WC/matches?season=2026&status=SCHEDULED")
