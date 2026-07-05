@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:55:55.047753+00:00",
+  "updated": "2026-07-05T17:57:06.660546+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1514,22 +1514,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Aurelien Tchouameni and Alex Scott remain high on Manchester United's list of midfield targets.",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ3F1SGlNazEzQXgxYUNTT01wVDFxSVl5M1pwS0Jsd1hnU09rMmhzdzVUb1REMFZnSWNTRlg4amJFSVRZMFUtSDZKVlFzMjFoMjFoSlk1X0hKb3Zvc0NWNWZsOHRfSHo2RXF6Rnp0WFM4YjJaRTA1cUpjSktyRkJwR0c1RGgwZXpMQ1dkc2h6bUM2WlVaZFQyYktfdnNma05HcVFzZUg0SFhEZUo1RUhRTGRnX2Flb0JNS09GdDBnN0dSdmJrY0pSN2RuQjlXOFIwR19Id0RRU195SlAtaGpoZWpwQ1lVNkVLemZaSG1wMHo5YlBodmkyUE5jQUxGZmdHR2tVN1Z3?oc=5",
-        "source": "Sky Sports",
-        "published": "Fri, 03 Jul 2026 20:47:41 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Andrey Santos update, Tchouameni talks, Greenwood offer",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnBmYzNrbktoTHRNb2ZsWXhPcjR6b2pFTlVWOS1jLXUwWFpoZjFGbDVldFNvZlNGbV82blFVUGJFRnBfTi1GR3h6UTZ3QjgwYU80VDBtWEM4c3NGdGJCOG5acm9ZM0Vxc24wQ0FnVHk3Q0J1cXNlU0RzNlJKZVVUNXBaWlVpd2JRTE03YXNYLXc1ZUhHS2pTaHhWcjY1aXBxcDM0cVZzWmQ4MDTSAbABQVVfeXFMUHBKbFd6eDI0Uk03b2RONU1KWkRaeGVXQUlxcVBiaWZacjQ4aEZ3dmFYdHdLaGxJWVpLSzVrNFk4X3J6S05URzZBOWNuV3lZM1dRekpoQm55MUhMa1Y1YmhsUF9qX0RaT2tqbkNNVDgtSlNaOGlZbnpFTEl6TUZLWFozZWVid0xRY01pTHNhYjM0Tk5KSEkxcEVaWGxPdW92ZlhwV0tpNGVrMXlVbjAybWY?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 05 Jul 2026 16:30:52 GMT"
-      },
-      {
-        "title": "Rio Ferdinand gives Man United transfer target advice after ‘private conversations’",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdPVURFMlZyR0FuVm1taGZVYnRNa1liNUQ4RDBpSUNvcjF0cnh4MWJ2SE5HRVM1anBZaDJ1cUlQcGpJZ2hNV3EtY3J5aDN0Q1M4RUl4cGRjSXd1eU5XQmxzMENPX21KQWJUbXZNOS02Y2pEMmlxS09LN0lTdWt5VHZxQ1o0QUZURDc4NTRsVVJianRDeFk4bEdlUlQ4RG9vSmc?oc=5",
-        "source": "talkSPORT",
-        "published": "Sat, 04 Jul 2026 21:29:18 GMT"
+        "title": "Transfer news LIVE: Arsenal deal agreed; Man Utd move for Chelsea star",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckJKcHFmQ2V6ZGRyR3NyM2llNXlZcGJNUzRiRzBqMHBEXzdQbGtjWnM4R21uSDlUaUpIcUlqOGRvaVFJdDVKV3JpZGxzSFpOR29KNmZ3RDFqdzFveEZRRDY1ZEdXbC03RTAxVFJEcGkwUzdfQlRid0pLNVZ3cWRVMGx4LTA3VmhqRUVjREd6SlBLVzhlTnFuQlRXNWlJcDA1Sjl6NGVndjhhblhOMnBfdW1IZTQ4ZThieGZKUWZuaURvMWZrYThwZTJqSkRELVlRbzJ0dw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sun, 05 Jul 2026 17:30:16 GMT"
       },
       {
         "title": "Transfer news LIVE: £100m Arsenal demand, Man Utd push ahead with £86m deal, Chelsea agreement",
@@ -1538,10 +1526,22 @@
         "published": "Sun, 05 Jul 2026 15:31:42 GMT"
       },
       {
-        "title": "Man Utd transfer news LIVE: Baleba move 'considered', Summerville latest",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2JyNmhFQy1LZ2k4VV8yMEVCendBV3R5UlN3SzRodlRzSWgtR2VCaTI3ZklsRGRwdDRRM2RFdk5QZVhrVmdoZlduYlByNXFBS1FoX1dZSnhTTXRBWFVIZUtpODFOMk5CM2Y2NmxUbFRLcmZ3bi1XY1BZTDB4WDBtcVFuVFNEOHNRMTExSUZkME1XbTRMbG1iVmFHaUNIQ25oanJpakFVNHo?oc=5",
-        "source": "The Sun",
-        "published": "Sun, 05 Jul 2026 16:37:29 GMT"
+        "title": "Transfer Rumors: Arsenal Plot Fernandez Move; Amad Offered Man Utd Exit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR05hRGRqNWdaMWFYTFFTUWV3NTdaaVFsRVJvT3kzUC03QlZ6MWgxeUR0SDZVSUxVNGZibFQtdTRRdmVZYUw4TlQwQVVWS0xnUEV3M0cxemV6UUhOV043NUZTQ0h0RG9IakxYbFJsVktIaTAtY3Y4NzVLRTRRRWx1U3NvaTVOMU9LMURZWFUwYl9YdjZMYzhQelpybw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 03 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man United transfer news LIVE: Andrey Santos update, Tchouameni talks, Greenwood offer",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnBmYzNrbktoTHRNb2ZsWXhPcjR6b2pFTlVWOS1jLXUwWFpoZjFGbDVldFNvZlNGbV82blFVUGJFRnBfTi1GR3h6UTZ3QjgwYU80VDBtWEM4c3NGdGJCOG5acm9ZM0Vxc24wQ0FnVHk3Q0J1cXNlU0RzNlJKZVVUNXBaWlVpd2JRTE03YXNYLXc1ZUhHS2pTaHhWcjY1aXBxcDM0cVZzWmQ4MDTSAbABQVVfeXFMUHBKbFd6eDI0Uk03b2RONU1KWkRaeGVXQUlxcVBiaWZacjQ4aEZ3dmFYdHdLaGxJWVpLSzVrNFk4X3J6S05URzZBOWNuV3lZM1dRekpoQm55MUhMa1Y1YmhsUF9qX0RaT2tqbkNNVDgtSlNaOGlZbnpFTEl6TUZLWFozZWVid0xRY01pTHNhYjM0Tk5KSEkxcEVaWGxPdW92ZlhwV0tpNGVrMXlVbjAybWY?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 05 Jul 2026 16:30:52 GMT"
+      },
+      {
+        "title": "Man Utd: Who will club turn to as they address midfield issues?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iMUR2aGNXaFJKUk0yV043aFJVM19pc2V5S3VJNndpbnBfd0ZFV1lPNjhiM1hkTXdOWG9hUFRERkxjZ0J4RTFCZnk3WTdGaF9oNjFwZTRoRnFsemhkWHNNRmFfdUhHak0?oc=5",
+        "source": "BBC",
+        "published": "Sun, 05 Jul 2026 15:39:07 GMT"
       }
     ],
     "rm": [
@@ -1558,16 +1558,16 @@
         "published": "Sun, 05 Jul 2026 15:05:00 GMT"
       },
       {
+        "title": "Transfer rumors, news: Chelsea, Madrid, Barça chase Man City's Dias",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVVJZXcwUkNUTUphd3Y2eEM1X2FITUtZelpjaW82VkhPVWJ3eEFfc05FdVktcW9jTF9lUThkOUlsNHhrX25QZzV1NU91V1d3ZVdGS1RRYUVra2N0MGFUTTFPSUNVRkhTdEswNVBYNzdEYlRMVUhSbk1iVlFza2MtNXRqeENJY19mTl9JcEprdGt0MlVTUWFuYnpYOW0tbmRxZGxpVkF4NDFycEFMTmNyV2VIYUtCMW5DVHQ1Y1hsRnk4QQ?oc=5",
+        "source": "ESPN",
+        "published": "Sun, 05 Jul 2026 08:33:00 GMT"
+      },
+      {
         "title": "Real Madrid sign Denzel Dumfries from Inter Milan on four-year contract",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTlyaUR4dlhPQnVIMU4xQ0lkeWpfYkFJNWdKVjl4Z3MyX0c2cnB1ZjR4MXBmS1c4NTlfSDFheS1WbVJTLWhpMm5oY3lCRmx3UTF3bUFYa0dxNTR6LVA2dHVQd05TQ3JFUmNMSTlkbmdNVFFVOFBmcUk4Q0dQZDkyOEVaMXVZWHFRbTRuMjZUX0swLXBHdks3X2NoTm14Z1I1dENiWi1IcDYtRG9uUXZ4Yg?oc=5",
         "source": "ESPN",
         "published": "Sun, 05 Jul 2026 10:57:00 GMT"
-      },
-      {
-        "title": "Real Madrid confirm €20m signing of Denzel Dumfries - with Trent Alexander-Arnold facing fresh competition in bid to fill the Blancos’ right-back berth",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2ZsRGJEckctSGhidm81bGJOMXlvSHhFbmtNQ1hyelQ3VEk2TktmU0pFS1JRQWp2NFR1NHNSZUVZclZSenBwdFU3dUlnd2JPTzlGY21KSjF0aGk1aER1a2dpNlNFVVlDOFZrX3ZkVk54MWgtMXl3LXVRbmhDYnNCc3FyTUp2QXZUZDJteC1JSXltekU3YkU2Q0daME9wbG5CSjJn?oc=5",
-        "source": "Goal.com",
-        "published": "Sun, 05 Jul 2026 12:15:08 GMT"
       },
       {
         "title": "Real Madrid complete signing of Denzel Dumfries from Inter",
@@ -1610,10 +1610,22 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Arsenal hijack, Rogers talks; Man Utd offered star",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlxYkNuUk9YWmRRV255eEtxdHBiZTFKTGVDcVhhZ3o0M0J1YlRSdWNNZnYwSktoN0Y4d2EyUllZN29Ia3k1M2RUMVVIbk54RmxLX3VDWHhweGxremhvdGlPOVJ6NDNmamdWQWdHYTBvekxqSTNaUWt4WUNlWjh2YkwzQTFnR2tQS25wVGJBUWI5aHltSENxeUNCTUNXVzJNSklFUTQtSEgzSHBVQVdtSVVMei1NVE1RUmVZSU9qdTltMVZCQWlDMURR?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 04 Jul 2026 15:56:02 GMT"
+        "title": "Transfer rumors, news: Man United eye move for Palace's Sarr",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE14QXVRS1lWTFpMYzNuUmxlbmVSUm10YXg5RnRmQzhJMGlIMHJPWmFqQm9abzdIT2JQLTYyWENxb0VpLVNKMUtMdUE5Y0NuNWZ2WGVKOEVRWnpUZ2NXT3lyNzhkYTROeGhHN3FsOGdqaWNIMHg0dVhjYVU5bElMVlNsbHpOZmRJdkpxYjhpRVdheE1WM2ppREFselowMGZmdmhUaTNLTmptMUVGWUw4dw?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 04 Jul 2026 00:15:00 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3ZJOGhmbjNOUWRXa3NTYWZxbVJaVU5rbmpUOU9WTldDLTdJSEoxelJOZllYMmpJemdCb2I0aGluMkxuTER2bzVDd1Zfd0VDN21SdlV4QUdUM2pOUWJBRzlIbVk3d3RLblpZZkpLekM4UjI3Sy1nb0wza1Z0Zk5UQjh4V0QzRllNcm4wVzFvRkxqZw?oc=5",
+        "source": "The New York Times",
+        "published": "Wed, 01 Jul 2026 03:27:53 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Arsenal Plot Fernandez Move; Amad Offered Man Utd Exit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR05hRGRqNWdaMWFYTFFTUWV3NTdaaVFsRVJvT3kzUC03QlZ6MWgxeUR0SDZVSUxVNGZibFQtdTRRdmVZYUw4TlQwQVVWS0xnUEV3M0cxemV6UUhOV043NUZTQ0h0RG9IakxYbFJsVktIaTAtY3Y4NzVLRTRRRWx1U3NvaTVOMU9LMURZWFUwYl9YdjZMYzhQelpybw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 03 Jul 2026 23:05:00 GMT"
       },
       {
         "title": "Arsenal given 'priceless' Bruno Guimaraes transfer verdict as Newcastle eye next move",
@@ -1622,22 +1634,10 @@
         "published": "Sun, 05 Jul 2026 04:32:41 GMT"
       },
       {
-        "title": "Report: Besiktas agree terms with Arsenal for Trossard transfer",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlHWXhzOEphX1FxM0xicmpYSjZZRHdlNEhaRjBoWnRzUURNRHhucDk3eEdxaFFyYThTZHpONlJYRDNPMjZuX0x6anM2Z09YYVFHZWVseGRCQVdrWENoUzV6R1VlZUdfbHZ6bmVLQlJaNmpEemYxUzdrMndueHRIY2VFTjRzNXVjZ09XVXo1WHQxOWZfMlJMTg?oc=5",
-        "source": "Arseblog News",
-        "published": "Sat, 04 Jul 2026 16:04:43 GMT"
-      },
-      {
         "title": "Besiktas agree €20million deal with Arsenal for Leandro Trossard move - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXUySWRwTjBPNVp1cHBabnlIWkkzS2VsU3BWNWNIRHYyWEtyMTFBN0w0MUYwN1J3Sm50ZHBJSmhPWXYzdW9Ia0w5dDRfMWNHdV9ORUdZN2k1Ums3X3VLajZNeDQ4MEdVVWlhbklqN0FYS2ttVUx3b2oxLU5MNGxUUnhZcEYxLWhqcXNQQ19BYU9ncTFVNGlwOWM4c0xBQ1FDbnc?oc=5",
         "source": "The New York Times",
         "published": "Sat, 04 Jul 2026 15:28:24 GMT"
-      },
-      {
-        "title": "‘Agreed’—Arsenal Set to Bank Healthy Transfer Fee for Expendable Winger",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHRROVFOZGw2WDBTa0hodWw1NzMzMHo0M3I2SmZpN1ZkLTFHcVh2WlV5dUJETmpYSTl6YUZoS0pPNjFBc1VkX2k4emE3Q0dJRTZ4TWNnWUdtUDJVSHp0bEN4TUF5aHQyWm5pcFVoaXFuS2k5di00QmFJbVFQcC1rbmZxcFlQMjlD?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 04 Jul 2026 20:30:00 GMT"
       }
     ]
   },
