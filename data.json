@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T17:59:52.646892+00:00",
+  "updated": "2026-07-05T00:00:00.000000+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -687,6 +687,15 @@
           "name": "Álvaro Leiva",
           "position": "Offence",
           "nationality": "Spain",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Denzel Dumfries",
+          "position": "Right-Back",
+          "nationality": "Netherlands",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
