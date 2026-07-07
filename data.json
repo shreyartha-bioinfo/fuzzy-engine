@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T21:15:51.916076+00:00",
+  "updated": "2026-07-07T22:35:25.956885+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1520,10 +1520,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Arsenal done deal; Man Utd get Santos boost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkQ1dUMyWnFfci1aZ2RRRHc0QUhadGxfSEFfOWx0c2dpYVFKei1QVUxvM0l6NjFHeUtHSmdHcnl3d1l4VU5sY3pQYnJ2UjdtMmwtNHFoY2NfVlZVTkJ6MzhwMkZmMTNYYzViWkhLOVVDUlpqanJWOUU0RW8xX3kyaTRHLWtPNGxpbGRZODN5X25vRGhHWDJqZDU4WnQybHd2U1BWYlJ0Vm5VYnR0ZWJXOG96SzM1RGJ0S3ppWm96aVk2TlZUSkI3N2JKeW00dw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 07 Jul 2026 21:39:20 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Spurs confirm Tonali, Man Utd line up £86m deal, Thuram to Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3g4T0htWk1Jcm9MQnpHTFNiV2RnWkx5X0RUUENRcHdKRC1LU2QxZWxjUk41bTZIWlNQNGtDejR3dW84SzZqcGVpU2h0azNzakFfS1NlQlJvQTRsNXZWMTVkZlczNmRiMWF4Y1hpNUhDV1FrZmdIS3hMMHNLZmZyb21nS0h5bl9wR1dnNEhhZUktN1HSAZgBQVVfeXFMTkdWalpzSFdRUExlelp1aEFhZlV1eWNGeTdYNk9Vamo2VnRmZlZsSWNYQzFEeHI5WUVIcnRjZnpBdDVBbHM5YUFWOFllX1hSbXU5X3lIX0tYVHdPR2I2WWxLRUNHUnJ1WExoZFpCSE5YZ09NcGh5ZUtZblhBUXZiRHEwY0k5Qmk4VUFjbjBEcWIyRXNoUlN4VWo?oc=5",
+        "source": "The Mirror",
+        "published": "Tue, 07 Jul 2026 17:13:15 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGxHRlhHeVg3WXhsdzV2QllUUG5WRnI3cXphMkhHbVJ0Z0tETjZHeVQwWEJ6bEFJRWJDLW9kZTZTN3ZnSTRaeU5tdmxzME5nSXEwQUJPTEtiRzJ3MXpqc3o1UjdBUXkzb0Z2V3FlbFd3WnQwMzN1WHBpSnRHb3FZUkk3WTBvZDhPZlA5LW9vM29DM1hrajJDdkR2WEtJek10eWFhLXRzQzBBeWVrYlE?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 07 Jul 2026 16:11:08 GMT"
+      },
+      {
+        "title": "Man United transfer news LIVE: £80m move pursued, Tchouameni 'contact', Santos deal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnBmYzNrbktoTHRNb2ZsWXhPcjR6b2pFTlVWOS1jLXUwWFpoZjFGbDVldFNvZlNGbV82blFVUGJFRnBfTi1GR3h6UTZ3QjgwYU80VDBtWEM4c3NGdGJCOG5acm9ZM0Vxc24wQ0FnVHk3Q0J1cXNlU0RzNlJKZVVUNXBaWlVpd2JRTE03YXNYLXc1ZUhHS2pTaHhWcjY1aXBxcDM0cVZzWmQ4MDTSAbABQVVfeXFMUHBKbFd6eDI0Uk03b2RONU1KWkRaeGVXQUlxcVBiaWZacjQ4aEZ3dmFYdHdLaGxJWVpLSzVrNFk4X3J6S05URzZBOWNuV3lZM1dRekpoQm55MUhMa1Y1YmhsUF9qX0RaT2tqbkNNVDgtSlNaOGlZbnpFTEl6TUZLWFozZWVid0xRY01pTHNhYjM0Tk5KSEkxcEVaWGxPdW92ZlhwV0tpNGVrMXlVbjAybWY?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Tue, 07 Jul 2026 19:29:18 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Real Madrid Step Up Haaland Pursuit; Man Utd Prepare Tchouameni Bid",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2VndFdOWUxrcDQwclVsLVExMHlDTE9OZHYzcVpYb2FSdExZdWRWcFZWM3M0RUhUMi02M1h6djVjNEhJejh4Rl9OT0pSQkZib1ZzSnY3cUhpcEk5cHBEajhMTGxaSE0yMFpmQzNZUXJnTVpmZUhwWmMyQ1ZabFhMYWk3eW1FLWE1UU1hZmtBMV9KYWVZSDZTcEFlSTZycmFZNHBuZ3NUTVpMX1NT?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 06 Jul 2026 23:05:00 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Transfer Rumors: Real Madrid Step Up Haaland Pursuit; Man Utd Prepare Tchouameni Bid",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2VndFdOWUxrcDQwclVsLVExMHlDTE9OZHYzcVpYb2FSdExZdWRWcFZWM3M0RUhUMi02M1h6djVjNEhJejh4Rl9OT0pSQkZib1ZzSnY3cUhpcEk5cHBEajhMTGxaSE0yMFpmQzNZUXJnTVpmZUhwWmMyQ1ZabFhMYWk3eW1FLWE1UU1hZmtBMV9KYWVZSDZTcEFlSTZycmFZNHBuZ3NUTVpMX1NT?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 06 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Chelsea, Madrid, Barça chase Man City's Dias",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVVJZXcwUkNUTUphd3Y2eEM1X2FITUtZelpjaW82VkhPVWJ3eEFfc05FdVktcW9jTF9lUThkOUlsNHhrX25QZzV1NU91V1d3ZVdGS1RRYUVra2N0MGFUTTFPSUNVRkhTdEswNVBYNzdEYlRMVUhSbk1iVlFza2MtNXRqeENJY19mTl9JcEprdGt0MlVTUWFuYnpYOW0tbmRxZGxpVkF4NDFycEFMTmNyV2VIYUtCMW5DVHQ1Y1hsRnk4QQ?oc=5",
+        "source": "ESPN",
+        "published": "Sun, 05 Jul 2026 08:33:00 GMT"
+      },
+      {
+        "title": "Inside Real Madrid's transfer plans: Mourinho pulling strings to build 'win now' team",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTlJM3UxYmdmaFRVanA2YWk5U0U5Vlc5NGxBQ0NMZTZDWVVnTk5US3lNMy01a3dWbEpYMnlMU3ZnREFVTTByQjFiWkNRMEJpVFA1X0FtSnlLVUx0a1JZVnppc3NBaERULUdfT19fU3JGVlZXbUpmMHhpTjNqOW42TkxKSTk0TGhPdnd0Ul9aaWZUN1JLdEtXN3NqZlhidDhVcUJJNWJLbjNJaU1NTGhjV1ZBRHFXN25oUXpDVHMzQlJ1ZVk?oc=5",
+        "source": "ESPN",
+        "published": "Sun, 05 Jul 2026 13:09:00 GMT"
+      },
+      {
+        "title": "Real Madrid transfer plans revealed after Mourinho reshapes strategy",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmloN1NEQzkwQ2RNdzFMcFI2MDdfY0JqS0ZzV1hpNXdqMUFWTk8yS2NHb2R1a0c1UERORkNMdGxpOE8tUlVrZkg2Z19MRXZWczlTU2NuaHJrcll3TVM5a0RrTHQzblVTeXcxUjZfLWx4MUtjdERuTHdnaFNzUS1fd2NfR2puSmwxVjN0OA?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 01 Jul 2026 10:30:00 GMT"
+      },
+      {
+        "title": "Real Madrid receive blunt Michael Olise transfer message from Bayern Munich & France defender Dayot Upamecano as rumours of record-breaking €223m deal rage",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkJicHZpMWlzYVNlWHg2TFgwYXRMSVFVRXNXLUFjWWxGYkpWZXpNdF9MdUdiblZwRUp2SU1nZnZpYk5vU1huQTE4aU9BSkVkUkF3N0w2eUtKQjBycktieFF4UDhPQTRiWE42MVhsVmJVSm5JY01qc1FhMjgxTXN5c2h4ZkhCUEZrMGFoOGI0cFp4WjhQUDVNelB4SUNvYU8wWExwc2xEMExIVWdfZlUwRU1fbU9aZmF2SEVjdmVqcw?oc=5",
+        "source": "Goal.com",
+        "published": "Sun, 05 Jul 2026 13:41:20 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern Munich likely to make up difference in pay for Alexander Nübel",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeHZJS1RaNG9sZjdreEQtVWNNbzVucklVVGhhZmV0M1p1NmY2alhVRVg0NzB1STNQZk4xbTVRMlRDS1lBa0xJRkZ5Q3JvWlFmSTVEUG92VVhkeXc5U3R1NmJLZHB3OEJjSlBlNER6MzJKbzBOOUZFVS1McUpxRXN0QWdkeDFnd2J4NVRCX3dLT0FsTE9FTWk4dS04eDkxV1FHZjBEdGdXN21IM3ZaekhzOHZ4UFJ3U3dwdGxlR0FCdW9ZSTN3Zzg4RlFGU0tCWkQxZWx6bHh6b1dodmg4a2dqZ0Y3aw?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Tue, 07 Jul 2026 20:45:00 GMT"
+      },
+      {
+        "title": "Real Madrid receive blunt Michael Olise transfer message from Bayern Munich & France defender Dayot Upamecano as rumours of record-breaking €223m deal rage",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkJicHZpMWlzYVNlWHg2TFgwYXRMSVFVRXNXLUFjWWxGYkpWZXpNdF9MdUdiblZwRUp2SU1nZnZpYk5vU1huQTE4aU9BSkVkUkF3N0w2eUtKQjBycktieFF4UDhPQTRiWE42MVhsVmJVSm5JY01qc1FhMjgxTXN5c2h4ZkhCUEZrMGFoOGI0cFp4WjhQUDVNelB4SUNvYU8wWExwc2xEMExIVWdfZlUwRU1fbU9aZmF2SEVjdmVqcw?oc=5",
+        "source": "Goal.com",
+        "published": "Sun, 05 Jul 2026 13:41:20 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Bayern Munich Approach Vinicius Jr; Haaland Wants Man City Exit",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjNUdl9mamRZZm5takpLOWM5TnlfQVZvdnZxcmhOYUxtTkRqY3lZSmk3a1JNUlpYeDNIQURDdWJXWjFyT1JtY2s4S3F5eTNmUy1nb2FiVm1JaTJwR3FIZTQ1NTlqMFdEWVpicnplajJUb2k1UUVfN2ZyUDViaDlQRmdjY0xMZVZ6d0lOTkRSb0cyUHBIS1c4YjAzR3JqUk0?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sat, 04 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Bayern teammate gives two-word Olise transfer update amid Madrid interest",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEdna2VkdzRTQUN3S1lNTXZmUjhqV3FuTVpFN3NRZGZrSWxMQVJDeG9nZTZlRDRTY1N6d3ljTXlaSTJzYTVpcGVwYmVxM3ZqZVVDbG5kUVlGTTBZTU51ZHV5ZlBaWDZpZnY2Q3VQbUM0MThiNzV0MmYtc1ZuakhYMHJQaFNJNlNrVkdkbW4zcWJ4WGhia0tBY0k5ZUF1LVNIb3c?oc=5",
+        "source": "talkSPORT",
+        "published": "Sun, 05 Jul 2026 14:08:45 GMT"
+      },
+      {
+        "title": "Bayern Munich star deals Real Madrid a transfer blow",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2dZVGJTNGpOMXR0VTFGLW5RMDVpOWxWZFVxajZlV3ZSZUxSN3ZsQThha3hRM0hzR18yZUJjOUt6bU1MbWI4NFZtaGFESzUwQ2dybjBUbTZjLTZvS0ZhVjFYMi1pSkRwT2RlVHVZWkN5amRfaEJCb0FXem9kaUpST0lkLUktYTRvdkpianhZWQ?oc=5",
+        "source": "Get Spanish Football News",
+        "published": "Sun, 05 Jul 2026 17:10:00 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Arsenal set to sign Meslier on free transfer after Leeds exit",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4SDhvY1d5YzY3Smh0Zk5mUjA4QVFFeFU5U1FnbmZNTHFrUTgyS2YyNjFoa1NkQndwaTBXZFN5aVhaODRsRFZsV1NHVGwyQTNnQUE1VXZwYk5YOFY5R1p3bXpUSzNVczQ?oc=5",
+        "source": "BBC",
+        "published": "Tue, 07 Jul 2026 17:32:49 GMT"
+      },
+      {
+        "title": "Illan Meslier to Arsenal: Gunners set to sign former Leeds goalkeeper on free transfer",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSTZHbDFpWHk4Tm9uaGExRm1xZTU2djBTbUNiS251VjRYcnlseFJqX2Y4TFY3MDdld2RqR2JUSzZETnZGeFZ3NnFyZTdXbjdzd2U0Zk5FeDVicTRQVTNhQXNSa25pNEpRR0xfRFd0a3gyVTdhODdpOWxGRGloTEIwQmxWY1BTZmppcXR2LXNuUHhjdUNGLXNDMVpaUWNZYTZ2VkRkWGdQVlNiSEJmZWpzaURjN3NyNU5fMW95bHh3WXotc2dTV0xENXVCd1VlYVZKSlJfd3B3NA?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 07 Jul 2026 20:40:18 GMT"
+      },
+      {
+        "title": "Meslier deal tees up Setford loan exit",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wektudXlOLVduQndzZ21pSUczQmJCTE1Jd0lvbDk3cEhuS1p3Sk9kSUVubnpaWjhLWUxDbE01Vi0tSEx1c3l2cjFzS29kZXI3b2tReTRZZURoaUtHNFlkdk40SHg2U2l2anhrczg0YVZ3aXNMMzk3SQ?oc=5",
+        "source": "Arseblog News",
+        "published": "Tue, 07 Jul 2026 15:07:15 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man United eye move for Chelsea's Santos",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbE1wdElaaHd5dUpHZmZTVjJmc2tEQUZqWGY5SnFQLXJXWS0wbnhINm50X00yYjFxVUI0T1gtdTZLVEFFYUdWV1dFWWR3ZHBTd0t2b056bjBWSjBiMmV6SDA3UjhSaURiSFk5N0RiSnFEekdVaDExSkViQjc5TzEtM1lSSnBlUlJEOGRFQkZPZ0tnNUJ3blpyRldwTVZWOU9UWHd1RDFkWDd3dXJLdUhn?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 06 Jul 2026 23:25:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal done deal; Man Utd get Santos boost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkQ1dUMyWnFfci1aZ2RRRHc0QUhadGxfSEFfOWx0c2dpYVFKei1QVUxvM0l6NjFHeUtHSmdHcnl3d1l4VU5sY3pQYnJ2UjdtMmwtNHFoY2NfVlZVTkJ6MzhwMkZmMTNYYzViWkhLOVVDUlpqanJWOUU0RW8xX3kyaTRHLWtPNGxpbGRZODN5X25vRGhHWDJqZDU4WnQybHd2U1BWYlJ0Vm5VYnR0ZWJXOG96SzM1RGJ0S3ppWm96aVk2TlZUSkI3N2JKeW00dw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 07 Jul 2026 21:39:20 GMT"
+      }
+    ]
   },
   "upcoming": [
     {
