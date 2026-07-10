@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:14:17.811130+00:00",
+  "updated": "2026-07-10T21:32:18.681932+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1145,9 +1145,9 @@
     "ars": {
       "name": "Arsenal",
       "flag": "🔴",
-      "goals": 8,
+      "goals": 9,
       "ownGoals": 0,
-      "net": 8,
+      "net": 9,
       "assists": 4,
       "scorers": [
         {
@@ -1167,6 +1167,14 @@
           "assists": 2
         },
         {
+          "name": "Mikel Merino",
+          "nationality": "Spain",
+          "goals": 2,
+          "ownGoals": 0,
+          "net": 2,
+          "assists": 0
+        },
+        {
           "name": "Viktor Gyökeres",
           "nationality": "Sweden",
           "goals": 1,
@@ -1177,14 +1185,6 @@
         {
           "name": "Martinelli",
           "nationality": "Brazil",
-          "goals": 1,
-          "ownGoals": 0,
-          "net": 1,
-          "assists": 0
-        },
-        {
-          "name": "Mikel Merino",
-          "nationality": "Spain",
           "goals": 1,
           "ownGoals": 0,
           "net": 1,
@@ -1376,9 +1376,9 @@
           "name": "Mikel Merino",
           "position": "Midfield",
           "nationality": "Spain",
-          "goals": 1,
+          "goals": 2,
           "ownGoals": 0,
-          "net": 1,
+          "net": 2,
           "assists": 0
         },
         {
@@ -1522,10 +1522,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man United transfer news LIVE: Ederson deal 'off', Tchouameni update, Joao Gomes rumour",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMC00eTB0ZGVxVzNCVy1tY0hiTjgxNG5LUEZHS09UZU5ySUdGMUV5dFAzemdQQkZwZzdWS2FFY0RrUlpRMk1uTFl1cVVGNERJYU9aMzFyeTBQSGtScXI4WjJwdTRCbTZUazZtSHI1d2JIWGpNd0R0NG1OMU9SM0c1T2N3T2FuN1VESi0zV2pldExXN21hd3B2ZFpzUVJ4cGxibDl2MklyNGtDWnfSAbABQVVfeXFMTnF3clAyVHNHSUNlMGE2TlFiUzhMeExZczlRTlN2ZjlaaWtVcDk4ZldxUDVyQURNdENQWHRIYXhrN2g4WjlVSXJ3RlZIY08zVlYtbjVjNkptZE9LSjl1T1VPYXJiU2JaMGxKMTJyMmFiQnNpWjYzbHZrSlJSTkpTbXY5cC1KOFMzdWFBd3g4WVZ4dGpMNFIwbU9zanBTaG5RYVRQb25WaXQ2b0hXdUNraEM?oc=5",
+        "title": "Man United make stance clear on Ederson 'deal off' claims as £38m transfer doubts raised",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVNEamRjemt6Y1VXTnE3YWsyOEtrc0JlSGxNenFGZDJIXzlnSVhkd1lXeXpDdm0yMXVrSVlpd0loUGpXdFdmbVR2cXpGbXlqSERVVl9nWWh3MkNpSFY0NGhwYkJ1YTN3RE5zWTVWaE9WSmttWkNWWjRhcmhwSENnSzdGaEdHU2Q2a1gtY1d3Z2RVeUNwbG1XTnctOEtKMWhIcUVCcnNNTW91c0Q5Y1Fn0gG0AUFVX3lxTE1GdWdFR0ttQ0ZiNm5hRUxvUGs2WWItNllmVjVtclNveE8yOGFUcnBPdkhMZ2l6UXVxUzJORWlqVmpzT2JPaWdBb2c4TnctdXNidG4wZnRwOWxSVUIzZHcwTXR4elpjZElQdlNKb1hGU0VhM3BKYmx0QzR1ZGR0M2syc3Vnd2YxRk5zTFdlRzhHcnRHcUZfN3c3REZzRVY0eDROOHUzRUJoY0xhLUFfS3hwTVFxeA?oc=5",
         "source": "Manchester Evening News",
-        "published": "Fri, 10 Jul 2026 18:55:11 GMT"
+        "published": "Fri, 10 Jul 2026 19:45:00 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal signing close; Man Utd agree double deal",
@@ -1534,36 +1534,36 @@
         "published": "Thu, 11 Jun 2026 06:30:24 GMT"
       },
       {
-        "title": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSV92d0NzNnd3YjRuT0lhOFdMVUdWdXIwY0NkR2lsVXhyM1pJWVhrVTBraEFMdUg1SlpHRFRtUDNRMTRnWjBRai1NdkEwS19MVm1HbElCcHNBUlpzeVJUUXprVFR3Nkg5TER3dmxjbHJtNUdkTFdsWVB6QmVYcFVSOF9pSnBHMG5hWlRHakdIcHc4d3hpSnBaZm5iR0VUbVJzN2Zyd1ViY0VyWVNZSTdtblJZV1dGaC1K?oc=5",
+        "title": "Transfer news LIVE: Man Utd deal 'OFF', Guimaraes 'agrees' Arsenal terms, £80m Liverpool move",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWVnMzFpWm5ubGRIOXNpTTlENHE5U2ZhNlljTFk2M1d4d053V3V2a0tENTZuOTFGbEdSM0xPb0dHUDhUT19LOTdoLWhRdWN3dDZEV1ZIVEE1MEJGLXpsUS1wRjRSZzl6UTF2RjRwNnJFTE56eHNMdUZCcXlRTEw1dWlnMTByZW1xbVlkYXBBMVJfRHc?oc=5",
+        "source": "The Mirror",
+        "published": "Fri, 10 Jul 2026 19:59:09 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man United, Newcastle eye Nottingham Forest's Williams",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUxsWEptV1doeXd1bGpWOVNxR1lVRmE4bHZheENhV3owYTZPcVZWNHh6eFc1LUc5V2s5V19sN3kzdnJjQXdsejhmMGY3aXFrZVRZRnRJM1Y5SlBScUMyTzN4YTU1VmFHSVllazg5ZTBOS0FoejltYVdzSWZ2THdFb3hzWlRwT0wzNURHS25KVjR5dHZaOTFNSmFtVEM0S3UzT2ZMYlAxOVlDUWpKSXFDanVRRkpnSnlXdnFucHV0Y2RRR1E?oc=5",
         "source": "ESPN",
-        "published": "Fri, 10 Jul 2026 16:31:00 GMT"
+        "published": "Fri, 10 Jul 2026 15:12:00 GMT"
       },
       {
-        "title": "Ederson to Man United transfer update as move in doubt after 'deal off' claims",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVNEamRjemt6Y1VXTnE3YWsyOEtrc0JlSGxNenFGZDJIXzlnSVhkd1lXeXpDdm0yMXVrSVlpd0loUGpXdFdmbVR2cXpGbXlqSERVVl9nWWh3MkNpSFY0NGhwYkJ1YTN3RE5zWTVWaE9WSmttWkNWWjRhcmhwSENnSzdGaEdHU2Q2a1gtY1d3Z2RVeUNwbG1XTnctOEtKMWhIcUVCcnNNTW91c0Q5Y1Fn0gG0AUFVX3lxTE1GdWdFR0ttQ0ZiNm5hRUxvUGs2WWItNllmVjVtclNveE8yOGFUcnBPdkhMZ2l6UXVxUzJORWlqVmpzT2JPaWdBb2c4TnctdXNidG4wZnRwOWxSVUIzZHcwTXR4elpjZElQdlNKb1hGU0VhM3BKYmx0QzR1ZGR0M2syc3Vnd2YxRk5zTFdlRzhHcnRHcUZfN3c3REZzRVY0eDROOHUzRUJoY0xhLUFfS3hwTVFxeA?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Fri, 10 Jul 2026 19:08:59 GMT"
-      },
-      {
-        "title": "Man Utd cancel £35m Ederson transfer",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnEyNTlHMjdfRmowbWxyczZzdzRGbGVmdE9rZndFaThScG05cDJsU2Z2c3JZQWFWTVRaSlVqWmtPX2RUNjZUVVdQNlNVelkyalN4Tmd3c2g2STdBYkR6T3k0TUt2NVptSWpyYy1vTDhLS1BxWnlyYnNSbGhkbHJnVnRn0gGHAUFVX3lxTE5tbS1TdjVwYWdUamdrX1lOUTJaOFlMVFdvLVAyR2JpNHlUUnhNRjZHWHpmdFd6ZHZyd1dqZlItcGVZamZoV3ZuSWhQcjV3UXFCak92a2o1UVFvSlA0dS0tVjJ4bmRRTE1PbFBzSU9aRDladldMMHFNelF6b1RfN0ljVEZYa2dYOA?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Fri, 10 Jul 2026 18:41:00 GMT"
+        "title": "Man Utd make first move for £24m Forest star who’d solve TWO Carrick issues",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa09QOVdMWEJlZlJacGJuTnBsbV9KUUFtbFlURUNzVTRUdWJaZEVMWmNfN0d4QUpKTjNfSHhuOXlvUjQ4QTJDcFNFREJpZjc5bFdQOFpMc1JodkRteVNlNGhIWVR6TENtOHYzRTM1YUdhNkE5VWMyTGpaSnU3OHdBZ3d6RUNQYlY4SjRn?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 10 Jul 2026 07:59:37 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "It didn't take long for Enzo Fernandez to give Real Madrid transfer regret",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXZURW5mTGY4NnB4V2tYNWVEOGY5WHpBam9rYjM3QmRmLVlaRWFTSm5vbXh3dl9oVnBCRkFrWUNybW84UzU1TnFwcjRLT29DVWV1T2ZlZzVsT3o2Y213SlVVeERBdXhFOExVSm8yUVhEbnpwcXpYb0lkeWNUWDZGZHN4QkFsVTR5ZTc0SlZaRHFvcFYwU3JYdnZyMXlabWNNN2dnM18tcEVzbjdGWGJnM3czTQ?oc=5",
-        "source": "The Real Champs",
-        "published": "Tue, 07 Jul 2026 18:27:24 GMT"
-      },
       {
         "title": "Real Madrid decide which midfielder to sell in move which will spark Premier League transfer scramble",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDdBUllQLVhUSXFDTUptRXlMaDNDY3pZN1VXLWpQU1F1dkNaUkJiNWVsUVdrZzBSamRTUzJxV3RucWllRXFiX05udzZLNExyUXByeEJNVFBvMWREQ2N6ZkdlT183LUlzSHV6aExxSlYzaTk0Yno5SXM1MjN3eTMzQUV0a0FQX09WNmFINVM3blpzWHQxQ0Jnby0wTUNlQ0pIOVY1bS0yLVlzQjA?oc=5",
         "source": "SPORTbible",
         "published": "Wed, 08 Jul 2026 17:19:26 GMT"
+      },
+      {
+        "title": "Fabinho makes Real Madrid transfer claim as Jose Mourinho plots summer moves",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVRXR0tlOGFNenJBMmdyVkpwOEh1Sml4VkhfQUJlU3pybVA0aWpleWlHUWdYYVpQVnJieHRkaTBLM0FMbExKaEx4cWx6VWRqX2VKTzhKWlFrV2lBYnBqR1N1dE1Xc1d6dEV4RkhuMTNRQ2YzZUpnVlV2ZW9Qa011enJmRmZHSTJWbzhsb3BsbE1BTXhzWVFVT1JNc9IBoAFBVV95cUxNVmZWUi1wT3B5ODlhb2pLSzRwM1dlaTZrdVFrRjBLclVHOVRVSXVuMG82VllkRlBabENJQkNjejhpSUltdFRrcWZFMk9Va3NVQjNsbmZTZXpIRUNRNlhuMEYtd2lXOUJvZ1lhYkFkM01wdVc2eWdITG51MHJCODRGTEJ1Tzd4bV9XalNPZnZUZGhENk1aTjhTSUpSWDJqX3Y3?oc=5",
+        "source": "Liverpool.com",
+        "published": "Wed, 08 Jul 2026 08:54:19 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd’s Fresh Rashford Dilemma; Real Madrid Plot Mac Allister Move",
@@ -1572,16 +1572,16 @@
         "published": "Thu, 09 Jul 2026 23:05:00 GMT"
       },
       {
+        "title": "Transfer news LIVE: Arsenal pursue Christos Tzolis as AC Milan in Luka Modrić talks",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzhNb2k1WjQyZmwzUGhkM05rQzN5VkJmc0VpOC1nZVNoMXQ3LU12bS1nd1BKUDZKd0JwUEYzMC1yYjYwQ1JIT0dyU3pjU2hLbmVJUjJBcnNTUXBicWVic0dnTmFDRDhWWGg5eW10el9iWTh5bzE4bl9ZV1NINWRVbl9uZjVTUTJvWWYyNk01SC1pWVBUVGFCQklVXzdLUG1NVFFwellJeWNMSG5SX05PM3pfT3Z0N0hOVDl4LUEzSmwzeFpacXBEag?oc=5",
+        "source": "Transfermarkt",
+        "published": "Fri, 10 Jul 2026 21:21:25 GMT"
+      },
+      {
         "title": "Real Madrid reportedly considering a potential Vinicius Jr. sale",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3k3XzByVmhHT2dPNkdzTjBRSDdRSVVzT0Y3OXA2QUJSd3ROVWN4NjExMG9rOFFpcWlQanBlTVE3UkxSbWFRZ1NFVTN0OVJrOERyQnZOX1dVMy14aFdoczgxMGUyek05NXJzTF93dHh5cGREd1FQYzR4Ync3akdLNkdYRmNORW8zemxlOXVaTkQxZEpiYjREQWd1bHZHVTQ5Zy1rQ2YwWmQ0V19ValBMT05ZU1dCbU1WcE9BWmgyeGdYMXFPWnVB0gHHAUFVX3lxTE9WbVVTRDdyTnhYVDB5OXFNOUtrUHYxWHQwUF90LUVQMXJ5TVFxRUVDSUNjSFZEMEtDQ3BuTzhRZWlEYm92YmlURXczX01ySXkzbnB1aGhzbWd4T2x6RVk5a002UkF2UC1qMlFhRC1ORG4zenRWZVlVMGxBX01HeUxkQWdwdUFqOU1udjROeHhRTGdHVE5JWlFJQlBXaGJDLXVlOUowdENSTHNxYTNKVW1IREk4Qk9MUnZaZHIxbEEySkJMWlgtLXM?oc=5",
         "source": "MARCA",
         "published": "Thu, 09 Jul 2026 20:11:42 GMT"
-      },
-      {
-        "title": "Man United-linked Aurélien Tchouaméni agrees new Real Madrid deal - sources",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1FCRlYzVlFrU0JYenh2di1NOTcyYUVIaUQwbGpKZ2tDUE9UQkRGdm5LSnJKTFJXcU1sY0g1UGpYVnZ5c3M0QWRwOC1oaDcybWVIM2FSbFNFSFpQRHJVRXpZbUtSRUloMHhhR0E5SWlXQ1N3SEFyRENobWJFUjl6X1JSMWlQMFNfVlhQTVd1Ym0xOFJwSG1idFlPVmowUDdja0s2NFVB?oc=5",
-        "source": "ESPN",
-        "published": "Wed, 08 Jul 2026 21:42:00 GMT"
       }
     ],
     "fcb": [
@@ -1592,10 +1592,10 @@
         "published": "Fri, 10 Jul 2026 12:30:00 GMT"
       },
       {
-        "title": "Breaking: FC Barcelona, Borussia Dortmund agree to deal for Karim Adeyemi",
+        "title": "FC Barcelona, Borussia Dortmund agree to deal for Karim Adeyemi per reports",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMnNXZmZ3STQyWnQ2bHZ0d2tTM0lab0QySmtfUWRiZEFBSUY0YjY5d29JWi1IdGxBUHF6ZW9Ta05XZTJOUGRPbjVnbnVEdTkwVlFDQWNCNHVYdzJmQ3Rublo1OHZfT2NBT0hoMGRTNXkyUVpIcDQ3TE1oQ250R1JUV1JHc2lJZ3NrSlhVWEtKT19yWk1IU3JLLU5sWm5WTGhoWG1tOS1mVXlmV19rM2lDTU4zYnFVNmlPNURFaHVoNUtDdzVBdklyWmxZc1lPMW8wX3VCUXlaRVJMRndyV25hNmhjOHlmUQ?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Fri, 10 Jul 2026 17:02:18 GMT"
+        "published": "Fri, 10 Jul 2026 19:15:00 GMT"
       },
       {
         "title": "‘I’d buy Michael Olise tomorrow’ - Real Madrid legend Ivan Zamorano welcomes talk of €223m transfer raid on Bayern Munich for French World Cup superstar",
@@ -1618,34 +1618,34 @@
     ],
     "ars": [
       {
-        "title": "Illan Meslier transfer news: free agent goalkeeper joins Arsenal",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMElCeFVnWVRHaGI5VU5QV2M1X0VuWUpIbzRXV2RubFVldUpjWXBUVVpmWC1PUzBIY0hwWk5CNWRObzlSTmlNZWY1WVhXaGVhSVhJYU1VVEZxTWFDMTdGNEJnRTl6R3M?oc=5",
-        "source": "BBC",
-        "published": "Thu, 09 Jul 2026 14:33:22 GMT"
-      },
-      {
-        "title": "Arsenal announce shock signing of ex-Leeds goalkeeper Illan Meslier in free transfer",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTR5bEpUWC1kU1RpcVBYNlNSSENRRnFXeGc2NFJCbkkwRWJEQWdfNUJtUEpqVEh1clh6anpvVkVRdHhFdWlmYjNFTjFJalRjWi1JT3A2VDI1eUtUdU04aDVFcXpvbl9BX2ZObEh5dEM1UW4zSEtOY21NX0htNDdfQjFRUjBjWGJPNWd3amZfbFJXR3FlX080M2k2ZzhEejlPeDF2TksxZDZ4ekdWMzFsMnI4NA?oc=5",
-        "source": "Goal.com",
-        "published": "Fri, 10 Jul 2026 06:41:53 GMT"
-      },
-      {
-        "title": "Arsenal complete Illan Meslier signing after Leeds exit - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFxUG5ySWxpRGl1UXNXN1JWM3hZd19fZ0ZWbDQ1NVlWM0R5dkgyVm9PSW8zWjFPV0V6U2RSQjE5SGEyb0phMVp5dW83cjJnYlpDcUVJeEJOa200cllTSFBtSjBKX2tJS0xBLU1lSUxzczl5Q3E0bWtOX0hJNTN2NVk0TjhmTi1fb0VSb1M1aGYwZw?oc=5",
-        "source": "The New York Times",
-        "published": "Thu, 09 Jul 2026 16:46:00 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal signing close; Man Utd agree double deal",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX19fVkhkY1ptVXdlczBNeUlYYVV0YjhFcEc0NzhyUHpNZ2RFLUdpSFpZQ0hMX283ZFFQemN5ZEpVUWxwekw3dXB3WjFQWXQtQzNyMDNVYlI0ZkNKbmpXZ0NwNU1iZVVJQ0ZJOGNsWUNBVTAydVB5VUYxOHJPN1RmLVF5SF9pbGdRVHcwMXdybDAycnhOOWQwODJVR3Q4OGRMc01Ub041cmVtMzcwa1VJaFRsYUVfMkNxcmd2YTZRSXdlbDJrWE1IVVZzaTNwVV8tZ0FyWHBDTUE?oc=5",
         "source": "London Evening Standard",
         "published": "Thu, 11 Jun 2026 06:30:24 GMT"
       },
       {
-        "title": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSV92d0NzNnd3YjRuT0lhOFdMVUdWdXIwY0NkR2lsVXhyM1pJWVhrVTBraEFMdUg1SlpHRFRtUDNRMTRnWjBRai1NdkEwS19MVm1HbElCcHNBUlpzeVJUUXprVFR3Nkg5TER3dmxjbHJtNUdkTFdsWVB6QmVYcFVSOF9pSnBHMG5hWlRHakdIcHc4d3hpSnBaZm5iR0VUbVJzN2Zyd1ViY0VyWVNZSTdtblJZV1dGaC1K?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 10 Jul 2026 16:31:00 GMT"
+        "title": "Transfer news LIVE: Arsenal pursue Christos Tzolis as AC Milan in Luka Modrić talks",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzhNb2k1WjQyZmwzUGhkM05rQzN5VkJmc0VpOC1nZVNoMXQ3LU12bS1nd1BKUDZKd0JwUEYzMC1yYjYwQ1JIT0dyU3pjU2hLbmVJUjJBcnNTUXBicWVic0dnTmFDRDhWWGg5eW10el9iWTh5bzE4bl9ZV1NINWRVbl9uZjVTUTJvWWYyNk01SC1pWVBUVGFCQklVXzdLUG1NVFFwellJeWNMSG5SX05PM3pfT3Z0N0hOVDl4LUEzSmwzeFpacXBEag?oc=5",
+        "source": "Transfermarkt",
+        "published": "Fri, 10 Jul 2026 21:21:25 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Man Utd deal 'OFF', Guimaraes 'agrees' Arsenal terms, £80m Liverpool move",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWVnMzFpWm5ubGRIOXNpTTlENHE5U2ZhNlljTFk2M1d4d053V3V2a0tENTZuOTFGbEdSM0xPb0dHUDhUT19LOTdoLWhRdWN3dDZEV1ZIVEE1MEJGLXpsUS1wRjRSZzl6UTF2RjRwNnJFTE56eHNMdUZCcXlRTEw1dWlnMTByZW1xbVlkYXBBMVJfRHc?oc=5",
+        "source": "The Mirror",
+        "published": "Fri, 10 Jul 2026 19:59:09 GMT"
+      },
+      {
+        "title": "Illan Meslier transfer news: free agent goalkeeper joins Arsenal",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMElCeFVnWVRHaGI5VU5QV2M1X0VuWUpIbzRXV2RubFVldUpjWXBUVVpmWC1PUzBIY0hwWk5CNWRObzlSTmlNZWY1WVhXaGVhSVhJYU1VVEZxTWFDMTdGNEJnRTl6R3M?oc=5",
+        "source": "BBC",
+        "published": "Thu, 09 Jul 2026 14:33:22 GMT"
+      },
+      {
+        "title": "Arsenal complete Illan Meslier signing after Leeds exit - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFxUG5ySWxpRGl1UXNXN1JWM3hZd19fZ0ZWbDQ1NVlWM0R5dkgyVm9PSW8zWjFPV0V6U2RSQjE5SGEyb0phMVp5dW83cjJnYlpDcUVJeEJOa200cllTSFBtSjBKX2tJS0xBLU1lSUxzczl5Q3E0bWtOX0hJNTN2NVk0TjhmTi1fb0VSb1M1aGYwZw?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 09 Jul 2026 16:46:00 GMT"
       }
     ]
   },
