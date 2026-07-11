@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T07:06:13.577373+00:00",
+  "updated": "2026-07-11T09:04:13.109458+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1522,43 +1522,37 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Ederson to United latest, Arsenal and Guimaraes 'agreement'",
+        "title": "Man United transfer news LIVE: Ederson deal 'off' claims, Tchouameni latest, Joao Gomes rumour",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMC00eTB0ZGVxVzNCVy1tY0hiTjgxNG5LUEZHS09UZU5ySUdGMUV5dFAzemdQQkZwZzdWS2FFY0RrUlpRMk1uTFl1cVVGNERJYU9aMzFyeTBQSGtScXI4WjJwdTRCbTZUazZtSHI1d2JIWGpNd0R0NG1OMU9SM0c1T2N3T2FuN1VESi0zV2pldExXN21hd3B2ZFpzUVJ4cGxibDl2MklyNGtDWnc?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 11 Jul 2026 07:04:39 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Ederson to Man Utd latest, Arsenal and Bruno Guimaraes 'agreement'",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWVnMzFpWm5ubGRIOXNpTTlENHE5U2ZhNlljTFk2M1d4d053V3V2a0tENTZuOTFGbEdSM0xPb0dHUDhUT19LOTdoLWhRdWN3dDZEV1ZIVEE1MEJGLXpsUS1wRjRSZzl6UTF2RjRwNnJFTE56eHNMdUZCcXlRTEw1dWlnMTByZW1xbVlkYXBBMVJfRHc?oc=5",
         "source": "The Mirror",
-        "published": "Sat, 11 Jul 2026 06:45:00 GMT"
+        "published": "Sat, 11 Jul 2026 08:08:48 GMT"
       },
       {
-        "title": "Man Utd news: Doubts emerge as £50m transfer target has medical and star makes contract claim",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFdRRGZpb3ZKSHVnNmh6a05kUXh1UER0RE1PakhnOUNhbkw5bHJ6dFNqOE1wTGdkbUEwT1Q5b1UySHlDZ0hwQzVHUGlFQUZseWVSSHNTRmQyYVhVcmJtbGNIRjk5RG5waWdWMzZaV1pDMURqWnVwa2s2WW5GdDA3WkFDWHBvX25MS0hpdTVvV0pjbDFnRVBB0gGcAUFVX3lxTE9LOVhKX3BWRS1tZDlXMm81b2w1S0VhTnNzYkctS3Z4cTJlalJrMjdGUEhzT3ZFTUZrdmxmdVU2ZnlnTncwVHRIQzB6WDZhZnE3S2pjcG5nNUJmTjdTSVJOSzNLdzB1QmpVakR1aWo1X1dMZmVKUGdSejY0ckhoUi1MV1hLZkZ6U1FsQVVhTFUzYWpyVWk5amxIRldIeQ?oc=5",
-        "source": "The Mirror",
-        "published": "Sat, 11 Jul 2026 03:30:00 GMT"
+        "title": "Transfer news LIVE: Arsenal agree Guimaraes deal; Man Utd medical; Barcola decision; Chelsea, Liverpool latest",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRW9nVWxWZHRyc0RlR3g2OXY3SVphM3MxZDhtSjVYeERLaHY2aDRHdFZNN2xBOTNkMS1Ca1h4T2V6SUpEdHlDVms4QnkzQzZpMGNrVl9sWm93MXpzUXYwY1JDT3R3WkRMRlVjaUtYa3phVTdtT05yQ1FIMWN5TjJHZVpJdHQ4c19ySjkybWRLYU82WlRMSDBLRVlkRXZsR2FKcTNzaGd1dDludlRtTjhwcmtFRXFCYV9TZU9hMXZfNXFzREltbVJLb1RYempRcUI4b0JtZmJB?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 11 Jul 2026 07:17:12 GMT"
       },
       {
-        "title": "Next Man United transfer after Andrey Santos 'decided' as £80m statement signing made",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdExNemxRUFZISF9jX0Y0SGNMRnhsQ0dZdlZNcXpKdlFFWTV3WjZDM3U4WlZtb3BJVGtBLWU0cUdaWGZHcDRsU3V3VnFIemRVSXZDaUpRUDZkT2QxMTc4WkhmajZBRGxVaE4xYmRqenc3QUlnMmhhZmxqa21Mb2gtYkJNWXcxcll6QTdwUVlSWWNQbmU2VUtPNUZaYkRxMk5HUUpSX19pVVI3ZThBYlllSV9R0gG3AUFVX3lxTE1Wcm51UGJsOTNYRk1CRHJURjZLV3lBY2FhRXAwUWoxbWNVeEJBeGlEOXFZRnlrWTNuYWZMLUQxNGp2ZnYwalVuVU01cExHZnZjRlJqdnpqNlZpNW5JbXV5ZFFXUVZ4ZF8zNnlXZl94MEotYU5HYkJnbUtnNTRhXzVPbE1RY25fcGtFNVlRQmJpNHhQNlFhODgzejlYeEVzbkJpN2ZzenNodlllcE14YUhOY3JSMGoyQQ?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sat, 11 Jul 2026 06:37:00 GMT"
+        "title": "Chelsea immediately gazump rivals with contract offer to £34m star after agreeing Man Utd deal",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDIxU0J6d01DbjNnYkJFR214cTQyNUwwcGhUME02N1lJMGUydXBuVGdhX0NmVXFmbk5tR3NHUTJITXNoMWhTakxtU0phbV9rNEJwT2lPN0Frc3lVYzRuZDZveDNPYlZSZEt2SUVvMFdJZmpLUzc2bEFxY1BSZVR0RXZlbVhISi00c2lYTUZRSFRsa25lZm8tQkh4WFdGdXQ0X1ow0gGoAUFVX3lxTFBoOGYzMUl4VlozWFc2eFVrSkJqMGgyNlJ6LW9MaEFYQ3pqTE1jUEM5R1U2Ty14VDZ5c1NkZUFzdTJQNWVCcDFuX25JNWV4dW9IUXZGbHQ1XzdfVWw0WTZKSzRsdlpSbkpJSnVnRTVudGpuVDlrWlRTQmp0M2NrdUdDY0NXQ2hTWmNnTndaMmlIS0hVWWhlZTNUazhOUk04bkdUcUFTek0wcw?oc=5",
+        "source": "Football London",
+        "published": "Fri, 10 Jul 2026 14:19:27 GMT"
       },
       {
-        "title": "Manchester United reach agreement to sign Andrey Santos from Chelsea - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDhMcGMwZ191bW1fWUlKTnpjSFFzenFXQXgzOTBHYUNDalFOUmxuY3prSlp2WjdfekhDY0Zuc1Q0VXJwUGpqQmd4Wl9uY193aHpoWHd1LVJ2dTRNM0RGM3NkdDNPaE5SOTlrX0pib3E2Sk9TYTRjNHJWUG9kSTAtTW1pM3Zja1VDRURieDdLR3d4RXVicVoyU0FwcHY?oc=5",
-        "source": "The New York Times",
-        "published": "Wed, 08 Jul 2026 20:35:03 GMT"
-      },
-      {
-        "title": "Man United make stance clear on Ederson 'deal off' claims as £38m transfer doubts raised",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVNEamRjemt6Y1VXTnE3YWsyOEtrc0JlSGxNenFGZDJIXzlnSVhkd1lXeXpDdm0yMXVrSVlpd0loUGpXdFdmbVR2cXpGbXlqSERVVl9nWWh3MkNpSFY0NGhwYkJ1YTN3RE5zWTVWaE9WSmttWkNWWjRhcmhwSENnSzdGaEdHU2Q2a1gtY1d3Z2RVeUNwbG1XTnctOEtKMWhIcUVCcnNNTW91c0Q5Y1Fn0gG0AUFVX3lxTE1GdWdFR0ttQ0ZiNm5hRUxvUGs2WWItNllmVjVtclNveE8yOGFUcnBPdkhMZ2l6UXVxUzJORWlqVmpzT2JPaWdBb2c4TnctdXNidG4wZnRwOWxSVUIzZHcwTXR4elpjZElQdlNKb1hGU0VhM3BKYmx0QzR1ZGR0M2syc3Vnd2YxRk5zTFdlRzhHcnRHcUZfN3c3REZzRVY0eDROOHUzRUJoY0xhLUFfS3hwTVFxeA?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Fri, 10 Jul 2026 19:45:00 GMT"
+        "title": "Transfer rumors, news: Could Man United sign Paraguay GK as Lammens competition?",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3NrZjZ4cEV4cWhxRi05OXNHTkNCVk9JM2V6S0R1RHlCOU1uODNjRk40LV9uOU9MbFlIRUFSZXFYOHVZelZtNVowX3ZiXzJyS2FvbWpxSUxfaGNoWTE0RGlGYmVpZ3h0T3RMTnBGc05naG5lZ0FTZF9MUndpOFhtaHBXY3dFZVVZc3RYdDJxQTJYUUoxdU9OeGU5Tmwxdm5lNk1HMW54RmZlTVdCVllyZVJxS3EwcS16blZSNktIQQ?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 11 Jul 2026 08:16:00 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "Real Madrid transfer news: Jose Mourinho 'urging' Los Blancos chiefs to sign Portugal international",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMm9rYXE5Qi1oMnVwblgxOWlQRlpmb1JQc1ZfSzRXVFpNS01GNm1ETngxVXNVSm15cTMwLXpKaGtWWHFYSkpucGZubFVIUERrRWlvbEswNzRHNXZkbGtfT0NYamlvWDlJWElXczFSNE1tR1REMzF6NXpUcHdZRDRkbEJFeFRINC1ZcEE3alFOcnBhcnJjaE9GRkRVZGtfT1dIVUUxcjk0ZEExb1o1eDVIN1g3d2YtUlBoamtiRDhYWVliaHZ0OU1TYU9vN3lxemJMU3ByeVZQa3ZJQWR4TjM0?oc=5",
-        "source": "Sports Mole",
-        "published": "Fri, 10 Jul 2026 06:32:00 GMT"
-      },
       {
         "title": "Real Madrid decide which midfielder to sell in move which will spark Premier League transfer scramble",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDdBUllQLVhUSXFDTUptRXlMaDNDY3pZN1VXLWpQU1F1dkNaUkJiNWVsUVdrZzBSamRTUzJxV3RucWllRXFiX05udzZLNExyUXByeEJNVFBvMWREQ2N6ZkdlT183LUlzSHV6aExxSlYzaTk0Yno5SXM1MjN3eTMzQUV0a0FQX09WNmFINVM3blpzWHQxQ0Jnby0wTUNlQ0pIOVY1bS0yLVlzQjA?oc=5",
@@ -1566,16 +1560,22 @@
         "published": "Wed, 08 Jul 2026 17:19:26 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd’s Fresh Rashford Dilemma; Real Madrid Plot Mac Allister Move",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1hreHg0dmFWNUNTb1BIVVJjUXNtY1Nac2JqNzFQYldyaDkxdnFxOVg2Y1otSHdJRVNBZ2d1YzBaUDJKZXJieEdMai03SGt6ZzlNODRmSEtYbm5kdTE4M24tLWMxcnhIQjluRWx2Zzg3UUw1THlFMEdoYk9pN1FJNE1TanRESnllQjJ1LU9TZnZXd3M?oc=5",
+        "title": "Transfer Rumors: Vinicius Jr’s Two Premier League Offers; Ederson’s Man Utd Move in Danger",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hHTVRMZ0ZvWGlHWVpIOXVrWEpBbTIzekwxN2Qtd2FUN2w4eWY4ZGFuV0RZVXNMXzZHMEpHSU43c1BPSGNocWJ0LVR5VDFrQ3BBVFlMb09SSTBad0ljdFVPTlVpQ3ZIQm1kdkhMZ3BjS0huczhzbWpzVXpENXg2Yk5jZUpzQTlpdzNyY1NIRzdBZ01VLV92Qzdma2I1ZGlFY2hOZA?oc=5",
         "source": "Sports Illustrated",
-        "published": "Thu, 09 Jul 2026 23:05:00 GMT"
+        "published": "Fri, 10 Jul 2026 23:05:00 GMT"
       },
       {
-        "title": "Real Madrid to receive €10 million as Mario Gila completes AC Milan move",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlMxaG9KQWZ5ZmlGMjQwcVZaZU5kZ3U5QzRUNVN2Vk1ERU96dkh2aWVIWlI3cTZJU3k2MFZSZTQwaTVuWVZhc1VCNE52RDNYTGYxaGhWQTdxS19iMU0ycm9zb2F6RHhmMWVaQ2VIZlVqZkpoYXlmaW0tSGZ4Mi01Q0dYb0ZkVTgtSk5EUTBlNjJCS05hd0F1Yko2Z0lzRW9sU1k4YjZLSFRtX1ZPb2xndHlJX1JYM1NKUDZxelpoRVlseFdXVVZNV2VlRHpfSzdKNmtaZXZn?oc=5",
-        "source": "Managing Madrid",
-        "published": "Sat, 11 Jul 2026 01:19:00 GMT"
+        "title": "Man Utd Hold Talks to Sign £350,000-a-Week Real Madrid Superstar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXE1WU44QURvSGExNDI2Nmd2WWFPaEcxLTJ4WHVITzVPRGRPQnNnZW1PMnpJZFVyZ2M3OUpDM0loMHdSYnM1MWRYYTVYVkk4OXVZT1Rhc3Eya3FrUzNzdjRYYjE3MW9LSk5wbE4wSXNUX3ZWSjJIRjVJd29tN01iOGh5cmtpUQ?oc=5",
+        "source": "GiveMeSport",
+        "published": "Sat, 11 Jul 2026 06:16:14 GMT"
+      },
+      {
+        "title": "Real Madrid reportedly considering a potential Vinicius Jr. sale",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3k3XzByVmhHT2dPNkdzTjBRSDdRSVVzT0Y3OXA2QUJSd3ROVWN4NjExMG9rOFFpcWlQanBlTVE3UkxSbWFRZ1NFVTN0OVJrOERyQnZOX1dVMy14aFdoczgxMGUyek05NXJzTF93dHh5cGREd1FQYzR4Ync3akdLNkdYRmNORW8zemxlOXVaTkQxZEpiYjREQWd1bHZHVTQ5Zy1rQ2YwWmQ0V19ValBMT05ZU1dCbU1WcE9BWmgyeGdYMXFPWnVB0gHHAUFVX3lxTE9WbVVTRDdyTnhYVDB5OXFNOUtrUHYxWHQwUF90LUVQMXJ5TVFxRUVDSUNjSFZEMEtDQ3BuTzhRZWlEYm92YmlURXczX01ySXkzbnB1aGhzbWd4T2x6RVk5a002UkF2UC1qMlFhRC1ORG4zenRWZVlVMGxBX01HeUxkQWdwdUFqOU1udjROeHhRTGdHVE5JWlFJQlBXaGJDLXVlOUowdENSTHNxYTNKVW1IREk4Qk9MUnZaZHIxbEEySkJMWlgtLXM?oc=5",
+        "source": "MARCA",
+        "published": "Thu, 09 Jul 2026 20:11:42 GMT"
       },
       {
         "title": "Man United-linked Aurélien Tchouaméni agrees new Real Madrid deal - sources",
@@ -1595,7 +1595,7 @@
         "title": "Chelsea teenager a \"backup option\" for Bayern Munich according to top insider",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPekZPaDBBV1pCTFV6MExqNDNFSGxUaTlGZWJwSDJBOTIzUEhpbnNRaGJOYnZRVDBySEE4LXN1aHROWHh5dXdRcUFyZ2RyNGtqSGRwRUZzVS1RMEh6WG5SSldDdUlNNi1zdFV4TllJcDJBd1ctVlhYQ2NoQ3FnaHFNM2xtdVFSQ21qYzNj?oc=5",
         "source": "Talk Chelsea",
-        "published": "Fri, 10 Jul 2026 14:16:20 GMT"
+        "published": "Fri, 10 Jul 2026 14:22:46 GMT"
       },
       {
         "title": "‘I’d buy Michael Olise tomorrow’ - Real Madrid legend Ivan Zamorano welcomes talk of €223m transfer raid on Bayern Munich for French World Cup superstar",
@@ -1613,7 +1613,7 @@
         "title": "FC Barcelona, Borussia Dortmund agree to deal for Karim Adeyemi per reports",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMnNXZmZ3STQyWnQ2bHZ0d2tTM0lab0QySmtfUWRiZEFBSUY0YjY5d29JWi1IdGxBUHF6ZW9Ta05XZTJOUGRPbjVnbnVEdTkwVlFDQWNCNHVYdzJmQ3Rublo1OHZfT2NBT0hoMGRTNXkyUVpIcDQ3TE1oQ250R1JUV1JHc2lJZ3NrSlhVWEtKT19yWk1IU3JLLU5sWm5WTGhoWG1tOS1mVXlmV19rM2lDTU4zYnFVNmlPNURFaHVoNUtDdzVBdklyWmxZc1lPMW8wX3VCUXlaRVJMRndyV25hNmhjOHlmUQ?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Thu, 09 Jul 2026 12:16:37 GMT"
+        "published": "Sat, 11 Jul 2026 02:30:00 GMT"
       }
     ],
     "ars": [
