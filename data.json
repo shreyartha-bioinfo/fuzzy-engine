@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T23:14:13.139771+00:00",
+  "updated": "2026-07-13T00:59:08.519184+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1522,16 +1522,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal reach Guimaraes agreement; Man Utd medical",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2tMdHUzX29RSTl4bERfd0ZsVXRkVXpSQjg2YjlDeTc2ZTd2QVpmNWFZUXg1UUQyRzFjNEtISWVvZ3c0YzhReFE3Wkt6V1Utc3FxdEJ5cllBODlpUThOdURTeGVsdXptb1lVU05mdW95UVlmM3Zrcmd4eVNyX1FrbG9pbWpETUZ1dklkd3JORllQQUktTHY5Vmtpc1UweExOclh5elVuckFiR3JhdFUtanQzbGswS1FxaGtFeDBLcGZCMzFmdzRCalpkeXI?oc=5",
-        "source": "standard.co.uk",
-        "published": "Sun, 12 Jul 2026 15:29:46 GMT"
-      },
-      {
         "title": "Man United transfer news LIVE: Joao Gomes latest, Ederson claims, Andrey Santos updates",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVBud09ITWxwVDNoMktsWkFRWjZFcTRfSjJsOFB4cUJqd2RJckpILWR1cG5OcV9qSGhBM1dwQlJhQ3M0WGRJMFFRVUprcHhrNmlkTDM1WUt6cmFXdkZUa29yd3ZkNDJiRGo2VXlENHBRQ1FFWUpXdjBod3Q2MVJtRE5OZERaMVpZMk9QRnFMRE91R1dMeVB5U1NSbjlLM211S3NtWnBfOHZaYnPSAbABQVVfeXFMTWFEMXl2VDA3a1gxamZtME1hbWRFd1BVMVpyd2tYdUtyczEza1ZYMlJGWTZCTnl5TWZteHhBX2Z0b2xpWldrRDZ3X2EwZ0hWbWxxYjZQSG1DQ2FfdS1Hc05hX0NZT3VQeG5QeTEya1hTeFR4eWNXODJQM1BDX0JnNG9nMThfckRFRDdzamt5TFhidmdaazF0aFdSMXBCVV8xaFA3NVBlbUozR1hPTnM3a2U?oc=5",
         "source": "Manchester Evening News",
-        "published": "Sun, 12 Jul 2026 21:00:03 GMT"
+        "published": "Sun, 12 Jul 2026 21:48:48 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Man Utd triple deal, Newcastle move off, Arsenal's Guimaraes agreement",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUhxQTR2aVUxdkRwaGViaThrWk02SEpmM1lOZkt6eHh3NHN1Z2szSUZ6Y2VXbGJ0TmhlZmdfanY2dU54djhOSU96MHJzcTJGYmJmTnllYmN6dGMzTDdPRkcxVFZNR3MwM3U2R0JZb2hQUVBOS0p1clVacFNURjZwTzhzcWJFWktrSEhuZ19RRkdvRzBBVEw0?oc=5",
+        "source": "The Mirror",
+        "published": "Sun, 12 Jul 2026 22:00:06 GMT"
       },
       {
         "title": "Transfer rumors, news: Chelsea eye Bologna winger as attacking reinforcement",
@@ -1540,19 +1540,25 @@
         "published": "Sun, 12 Jul 2026 19:00:00 GMT"
       },
       {
+        "title": "Transfer news LIVE: Arsenal reach Guimaraes agreement; Man Utd medical",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2tMdHUzX29RSTl4bERfd0ZsVXRkVXpSQjg2YjlDeTc2ZTd2QVpmNWFZUXg1UUQyRzFjNEtISWVvZ3c0YzhReFE3Wkt6V1Utc3FxdEJ5cllBODlpUThOdURTeGVsdXptb1lVU05mdW95UVlmM3Zrcmd4eVNyX1FrbG9pbWpETUZ1dklkd3JORllQQUktTHY5Vmtpc1UweExOclh5elVuckFiR3JhdFUtanQzbGswS1FxaGtFeDBLcGZCMzFmdzRCalpkeXI?oc=5",
+        "source": "standard.co.uk",
+        "published": "Sun, 12 Jul 2026 15:29:46 GMT"
+      },
+      {
         "title": "Transfer Rumors: Man Utd Plot Kane Move; Arsenal Step Up Alvarez Chase",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Hc25nZ2RUcWtCTFh2YUp6elJ4RHdRNjNZZ0FHdk04anhMLXV4dFhyUnpZY2l4QVliTHprODNnZDMxY2tCMV9mTVY0RDhtSEhBUV8wUVgxMzNsYWw5Wll3Zl8tV0NPb0dRNXFnNEFhZExuRllLOXdoVVZR?oc=5",
         "source": "Sports Illustrated",
         "published": "Sun, 12 Jul 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Man Utd transfer news LIVE: Red Devils 'join' Rogers race, Ederson deal now off",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSllXelRLNzR3U0J1NklnUFRMOFRQdXhwMkxZSWpfZ25PaTJUZ0pfamxuQ3hVVm1SUTZxck9lYjVjWGk4SDlXZThDTTJvUURkWnRVaXZScDRpcGFNT29pVHZoMzVYM09zOXNlVDIxejFYdHBva2I3aDRhU1RFTnA5T0pTbUkwX08tX2NPbDRmNUkxbHRydWYzQVJmYTlPZw?oc=5",
-        "source": "The Sun",
-        "published": "Sun, 12 Jul 2026 23:02:20 GMT"
       }
     ],
     "rm": [
+      {
+        "title": "Michael Olise ‘requests meeting’ with Bayern Munich amid Real Madrid transfer talk as Kylian Mbappe, Aurelien Tchouameni & Ibrahima Konate play agent roles",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeDA0RWRDa3RlVzN1Ni01OGpIQXJISlZVSWpIYTdvVU0wYzRzUUstVzlzVXU5MUt1clI4eVFvdlZ1Y3NYODRkNE1vTUR2RzVNczlEajdOaFBHMnQ5QmFQdVlGTE5Fdm9vd3ZKUlRBUDZnbWFBNTJubExyLWVYQUppLUpQVE83Z3g0cFE2MEs0TXM2N21DUnA3dEZpR3llaFg1d1JMY0lIb2p0WEdwMVJBZUppaUo5NHZqd2ZkWmNoWFRXWi05Y1cybV9VQV9aTHFzVHZTY0hJZ3R4TlhwNWo3NzRhSWpiZ1VKVGFlVWdPNllxWGxSXzR1MFNuT2s5VVgzNEN3aGwtcDhtN2JKODh2UTllRHhuVjdxM1JXLUJqdTVNZjdfai1TclRkZ0M?oc=5",
+        "source": "Goal.com",
+        "published": "Sun, 12 Jul 2026 20:55:27 GMT"
+      },
       {
         "title": "Fabrizio Romano confirms news Real Madrid fans will be very pleased to hear",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT19pWlJ6a2pzRjBXUW05c0tlb1dmYXFWQlB5NXpIZHlha3dFZXhjLUxLTHRXU0FPanZCV2ZyVnlpVUVmcGswTmxVbGJpMVowT2tiVHh3ZWRmLUJUSWZpMS1PLVJsNW5PRndKcldOZ3IxUjhMSGFMdXpWUmlydTJNUTdYcW1GVktwZjE0VW1pbXFMTTk0bmk2NGd1M0N0bFZuZGc1SUNYU2Q1WVZTMl85d0Jzc0c?oc=5",
@@ -1560,10 +1566,10 @@
         "published": "Sun, 12 Jul 2026 04:00:00 GMT"
       },
       {
-        "title": "Michael Olise ‘requests meeting’ with Bayern Munich amid Real Madrid transfer talk as Kylian Mbappe, Aurelien Tchouameni & Ibrahima Konate play agent roles",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdWtqd2o4MkRqVXU0TlVjNDFnQk1oZ3ZvQ1hQeldQSlBFQ0k1Yml6MHBuQnNlWDI2VjVQOXRNVFBXTVZ3bTJhUXlKbnFLaFdicTZzUTNCc1BMM1JtRzV0Yi1uSVVUOG54bVFnZzIyaXZ5QzhCQ0duWExLRFhZTmJzeUwxX1IyZWdONkhiYy12bjJDZlVxRGtucjlBVk1TUGNhekxjRktYMHgtdzBuUy1ib1B4c2gtZlBVdUVERGFpZmdsa1VocDhpV3UxTkJqMDlKcUhkdlQyYUx0LV9VUGNrYVh0TC1nTEdLOS1xNlFPd3NZR2djYlR3eXdjRHBpdTBmeVliMVVrRk5tRHdaaUZfZkFRc3dzSnN0aTlEZkszS21scmJjdURGckk2SXVjenNV?oc=5",
-        "source": "Goal.com",
-        "published": "Sun, 12 Jul 2026 20:55:37 GMT"
+        "title": "Transfer news LIVE: Mo Salah offered MLS switch as Man Utd and Liverpool battle for Brazil ace",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYjJ1bm5zNWNZTHFPaUdXWWxsQk9SYjJ3cnBPT1BvWnNkaTV4Y1dyT0V3b0Mxa3Y1cHphYTZMdWVFR2o4R3NBTDhTbm8xR3k0amtMd0pFUTlwVW04NjVqVTR2UWVTYlNVa3JPa0pDb0p2eUhnWWJiR2VUZ2JlbnRJTTIzMktfeldLZW5lYjlTRVJIYTZSY1BnUWw4cFQ5Vzc1b1prNWE1QndsdWtrMk02SncteXRFZF9ROGs5VXdyUVZYRzVYS3VROUl1eTFfQ3BrbjNjNXRoWQ?oc=5",
+        "source": "Transfermarkt",
+        "published": "Mon, 13 Jul 2026 00:41:14 GMT"
       },
       {
         "title": "Chelsea make £21m offer for Real Madrid star after Xabi Alonso request",
@@ -1572,16 +1578,10 @@
         "published": "Sun, 12 Jul 2026 19:57:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: Mo Salah offered MLS switch as Man Utd and Liverpool battle for Brazil ace",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTnRyVkFwNFZ0anNxSDVsUmhJZkN2a29HNjVRQWU2TlQ0UjdZdldDOE9ia09FaWlnSTEyRWtYek1FMDhDRW9oempEZGtycVBoZjdkQzBMTjZ5M3ByYi1mV05HTzBwVmo3T19JV3QwVUJuMEQ4V1FrSzctemJxck4yaFdwMVFBS3hGWXdOeWZ5VFpQZVdIMTJVUHR0SUJfM3BGb1Q5WE11M09FYkxrNTQ3NEhkTW9QaXliTjJ1TmNpSmY4QjJlUENHZmkxWjNKM2RxQWxQcFVndw?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sun, 12 Jul 2026 13:11:18 GMT"
-      },
-      {
-        "title": "Vinicius, Real Madrid will negotiate contract extension later this month -report",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWE1wVW03Y1JmdGhjYm5hN0R6bEdtZXJnSk1PU1dLR1A5aHFOSE16TkJDREV6X0tXRmIwc3d6MnRGZl9KWWZHN3N4THZibmNRWlRXTkJhOW4tOFBhT2Q3aW9wc3NURzB3NmtNX0MtMTdHS285OUtCTFZ2S0txRXBRSll5UHZNYXdINjh5V2tn?oc=5",
+        "title": "Real Madrid to receive €10 million as Mario Gila completes AC Milan move",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlMxaG9KQWZ5ZmlGMjQwcVZaZU5kZ3U5QzRUNVN2Vk1ERU96dkh2aWVIWlI3cTZJU3k2MFZSZTQwaTVuWVZhc1VCNE52RDNYTGYxaGhWQTdxS19iMU0ycm9zb2F6RHhmMWVaQ2VIZlVqZkpoYXlmaW0tSGZ4Mi01Q0dYb0ZkVTgtSk5EUTBlNjJCS05hd0F1Yko2Z0lzRW9sU1k4YjZLSFRtX1ZPb2xndHlJX1JYM1NKUDZxelpoRVlseFdXVVZNV2VlRHpfSzdKNmtaZXZn?oc=5",
         "source": "Managing Madrid",
-        "published": "Sat, 11 Jul 2026 14:17:48 GMT"
+        "published": "Sat, 11 Jul 2026 01:19:00 GMT"
       }
     ],
     "fcb": [
@@ -1604,16 +1604,16 @@
         "published": "Sun, 12 Jul 2026 20:55:37 GMT"
       },
       {
+        "title": "Aston Villa trying to hijack Johan Manzambi deal",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWNvcE1UMGlmUkJzNVBwcW1GYTc2Qm1maXltTUZ0YVh5d2E4ZkdJWS01WkNvck9ZbG1UUXNheVJpWmo5djlIV0ZJS1hSSFVRZ0JHcHBBZFVRV3JPWXZNNkpYeDQzaGRfZUE2MUNYUFI4eFR5OWswSFpjdUxNX0xkZ2hFSEZfdXlPX21vNTMteDBUdnRjM2dCMW94ZkdUQnQyakJFRHJYOG55Z0VBb004SUw4ckNjVGYyd3hsUkMxX3BFV2FaVWVr?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sun, 12 Jul 2026 20:30:00 GMT"
+      },
+      {
         "title": "Tottenham Hold Talks to Sign 'Best Footballer in the World' in Sensational Move",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkxBUWM3TlVxMVVudjI0ejdqVVdSSVkwbzVSUkdzYzdPeVlqV1JvckJDTGVrQmJ0aWtHSDNYSHBTUkRrQ0w5WHJkRi1ldFNrd0tBWkVqQm96M0NTNWhPQ2dONjRGbDFHNXdvWDFyUVhybjlEaFZadkhGTzRhX00wbk5PbGRLVjRFcnZpWDlPS0k4TkpxMXh3ZHZB?oc=5",
         "source": "GiveMeSport",
         "published": "Sun, 12 Jul 2026 19:15:14 GMT"
-      },
-      {
-        "title": "Tottenham waiting to re-sign Harry Kane as new Bayern deal a case of 'when, not if'",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRm16bV9iMXlHUkhEb2NoSlQyQmhLQ3hobk05c1ZHMEx1N3A2TVZ0NkFJMnZldFl0T0VxZERtMGpLRVZzVkdIMUxLbVlYWGFubTZtejZkaWtPSEllU0hEb3ZuOVZpbzhVYkQ3bmtUOTMtY2RnTWVEdXgyMFVYSEphOFdJZ2ZYcGhvZWlZQUJYZmNiZG45QjRNM3NGT2k0ZG02RVk2ZTFNNWZiaXFCbnd3REV6VQ?oc=5",
-        "source": "TEAMtalk",
-        "published": "Sun, 12 Jul 2026 11:06:04 GMT"
       }
     ],
     "ars": [
@@ -1622,18 +1622,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmJKV1gyZktoSEU3WWJlSGx3ajF5RDRHLWhxRm84T3FiY0dHampJOFFOUm9vQmFLcEdtVVRvUW1SakxZR01GYVdxWFQ5UFBLMWU4YXl3ZVN5aU9QV1BHZFdMWXR2dzBYM3FDYmI5X1FGa1ZBdjFncGQ3aWN4a1c2M1RRQmhBaG05dXBZQ0t6VWhhSkViV0M3N2V3QQ?oc=5",
         "source": "The Independent",
         "published": "Sun, 12 Jul 2026 11:49:00 GMT"
-      },
-      {
-        "title": "Arsenal ‘pushing’ to beat Barcelona to Julian Alvarez transfer",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVRIYUVGM0RIZEJsZlBfN240Rmc1dE1KQ1ZUY2dyRjBBUHZxQmV1TkdFMjdpdjVKaFo0NzVVeTdRWmxGU1pqeUR0WFg3Mkl0cWEyTk1ub3ZDY1V0YTVKV1JDNnltZVMxSWljaEdQUzdYZ05XeHdOeDVJc2hkREI4T3BxMkxVa1lBckhzNkRlZ3pwek9POGVnekxtQzhuTlE2MVp1dmZRVkdZN1IwR0lCcV9LZHVLbFBPSWc0OFNIMGUtWlpBM2h1Tmt3aDNoZw?oc=5",
-        "source": "Barca Blaugranes",
-        "published": "Sun, 12 Jul 2026 16:16:23 GMT"
-      },
-      {
-        "title": "Arsenal attempting to get Julian Alvarez transfer over the line BEFORE pre-season as Atletico Madrid refuse to do business with Barcelona",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1hIaVVmQl9WLXhteWl5SXRyVFV3X2YwTEViajAydVBsOHlIYlh5MC0xRmhRcF9GbEFaZFZjNzV4N1ZpeUdtQURyZVFSZ0pGQ3I5V19sOEtxbTFyQkRlY0dneWVUUmgtc1VDZ3hPaG5ZQlF3MTVrZlExWWJBMzhxMWhjbF8xRC1ERVZUNUwydnFsajB0QkE?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sun, 12 Jul 2026 14:27:18 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal reach Guimaraes agreement; Man Utd medical",
@@ -1646,6 +1634,18 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTnRyVkFwNFZ0anNxSDVsUmhJZkN2a29HNjVRQWU2TlQ0UjdZdldDOE9ia09FaWlnSTEyRWtYek1FMDhDRW9oempEZGtycVBoZjdkQzBMTjZ5M3ByYi1mV05HTzBwVmo3T19JV3QwVUJuMEQ4V1FrSzctemJxck4yaFdwMVFBS3hGWXdOeWZ5VFpQZVdIMTJVUHR0SUJfM3BGb1Q5WE11M09FYkxrNTQ3NEhkTW9QaXliTjJ1TmNpSmY4QjJlUENHZmkxWjNKM2RxQWxQcFVndw?oc=5",
         "source": "Transfermarkt",
         "published": "Sun, 12 Jul 2026 22:46:08 GMT"
+      },
+      {
+        "title": "Man United discover asking price to sign World Cup star who 'agreed terms with Arsenal'",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWpNdFBINnZWMlBRcjRtZDdMVW9pR2VQczJMTUpxYV9ra0plU1ltaHE0TVdIb0pUaG9SZENLWVAwYTJJLXYzWlZ0YzRMWWZVMEQyZDdLYjVhUVJ1eklrYmpON0dhMWhib0VILUxLNkVxYkM2SEY5eVRlUXFmYUdJa0VMbHp2QmMzREZyWXBLUFQ0SU56S0gwN245NkZTZDRhYU5YeVk1Q0xRWVHSAbABQVVfeXFMUHY5NFNUem13aFZ1aC1FU0RsOEM3UGhkTUZBcE5nbHZQYXNWVFdTRGNFTmJ6c2psRVFJbEVFak5ITTY4N2ZvR2xKTmdjZHRkWXBoeGxfTWJoSnBManA5eVBjOFVvUV9BekxkUHg0OTR5Ujc3MEVyQW5GbUJrUWdWSHFlUnEwVHk0ZFJERGdKNDRaOFBlY3EyZjk5UmNOdXpOa3llaW5YdVl6YmJWbmlTUnM?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 12 Jul 2026 16:17:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSV92d0NzNnd3YjRuT0lhOFdMVUdWdXIwY0NkR2lsVXhyM1pJWVhrVTBraEFMdUg1SlpHRFRtUDNRMTRnWjBRai1NdkEwS19MVm1HbElCcHNBUlpzeVJUUXprVFR3Nkg5TER3dmxjbHJtNUdkTFdsWVB6QmVYcFVSOF9pSnBHMG5hWlRHakdIcHc4d3hpSnBaZm5iR0VUbVJzN2Zyd1ViY0VyWVNZSTdtblJZV1dGaC1K?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 10 Jul 2026 18:32:00 GMT"
       }
     ]
   },
