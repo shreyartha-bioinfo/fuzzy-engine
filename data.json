@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T21:44:50.440217+00:00",
+  "updated": "2026-07-13T22:44:46.288164+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1522,24 +1522,6 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer Rumors: Man Utd Plot Kane Move; Arsenal Step Up Alvarez Chase",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Hc25nZ2RUcWtCTFh2YUp6elJ4RHdRNjNZZ0FHdk04anhMLXV4dFhyUnpZY2l4QVliTHprODNnZDMxY2tCMV9mTVY0RDhtSEhBUV8wUVgxMzNsYWw5Wll3Zl8tV0NPb0dRNXFnNEFhZExuRllLOXdoVVZR?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 12 Jul 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal deal 'agreed', Man Utd 'medical booked', Guimaraes twist",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEpEdUtzMzlQUmxwZllBZi1LYVFuQTF3NzRacXgzdGtmNHRUYmlnMlRnMTZIUXhFX0FwSE4wMW1nZG50d1dQeFJ2aDZ4d1QwaDY4X3ZVZUZneTd1VHZvQXRvaDZRMmhQdUthSng1NE9OS1E1dWg5UTFxOHUtcUZXWUNIYk93VlJRMmxneFFveS13YU0?oc=5",
-        "source": "The Mirror",
-        "published": "Mon, 13 Jul 2026 20:39:36 GMT"
-      },
-      {
-        "title": "Transfer news: Man Utd triple deal, Newcastle move off, Arsenal's Guimaraes agreement",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUhxQTR2aVUxdkRwaGViaThrWk02SEpmM1lOZkt6eHh3NHN1Z2szSUZ6Y2VXbGJ0TmhlZmdfanY2dU54djhOSU96MHJzcTJGYmJmTnllYmN6dGMzTDdPRkcxVFZNR3MwM3U2R0JZb2hQUVBOS0p1clVacFNURjZwTzhzcWJFWktrSEhuZ19RRkdvRzBBVEw0?oc=5",
-        "source": "The Mirror",
-        "published": "Sun, 12 Jul 2026 09:15:03 GMT"
-      },
-      {
         "title": "Man Utd transfer news: Ederson deal with Atalanta not proceeding at current price due to issues with medical",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNzdGQjNKMVRGQ3hyRXZDc2JRR1hGMzBNbkZqT3NNaWRwYURNUzhnYldwSmlFb2xWenBEWW5vdUxhUWFYQ3JTdnUtdHlrdnNEWXlUZll3ak92RXBON00zcHgtajRLdGVaZDdNVnp6V1RoNHg1Uk9hVjgzdVlfSFRjMWRtVDhjOWFDYnIwZW1yVzNnZEN2Y1lDcGdqMDdhb0VKb3B5eW5NeWxyNEo3SlI0WVN1NHZfemFrVUstYzlFTmZCUUU4azFtTmY4MXJEVzk5d09BOGVUOWJuZ0ZXaVl3TEJGRHR5Z28xVXRXSXNuazhETVNK?oc=5",
         "source": "Sky Sports",
@@ -1550,15 +1532,27 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXdvWFlDem1EcEFEX3kyS2VpMm5HSFdzVldDMENQZW41T1U3WjRxM2pPb3NHaWNkSnB4ampuMUJnUG5URzctVExJcFIxaVVVUmFINUVrVG5hd2FTSFdWcnZqbVRvZENweFZmTDViM0llQnF3c3hieDMyZzE0UGxSdzRTV0tuVTVONVhiRVdRYzlabS1xamxQV2c4UWRmVHFJTHZPX3NrWdIBrAFBVV95cUxNcm9oanpzZF9aN0JhRDRaRUV5ZVhPRDVyRU8zQ3d4ZHEyc1RoVk9CLWlwYXdLVmtReXZiWXpURXYza3FCMmxkcVdpZmpUVG9NRlVENUY5QWVET1FLYjNZTVBfV2tUalFOUWVNUDR4eEhETlZXYkhLbEY4SzNvRnNpa3d1aW5tLUpvZnplUWptQ1B6SzNOc01QMXkzOVVyeUlvR3RLcTJPWFhwcHRz?oc=5",
         "source": "Manchester Evening News",
         "published": "Mon, 13 Jul 2026 09:28:13 GMT"
+      },
+      {
+        "title": "Jacobs: Huge Man Utd U-turn on the horizon as Red Devils eye cut-price Ederson transfer",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONl9yOEtaQXhkWlliWF9GYW56UFh4S2k4NUxHZ2FpLWkwZXJNWjU5SUFqVlhTV0hJNnNzSVA4NW5QdE51SDFuSlQ1RWM1ZmJpUjBoa1NFWU5YOGJQWkFBVjRhSGdkNnhTZ2xxZkgyZnFtVF9YNm5iaXN4bU54UnR3dG9acWdEbEQ4eEtR?oc=5",
+        "source": "Football365",
+        "published": "Mon, 13 Jul 2026 14:14:34 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd Plot Kane Move; Arsenal Step Up Alvarez Chase",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Hc25nZ2RUcWtCTFh2YUp6elJ4RHdRNjNZZ0FHdk04anhMLXV4dFhyUnpZY2l4QVliTHprODNnZDMxY2tCMV9mTVY0RDhtSEhBUV8wUVgxMzNsYWw5Wll3Zl8tV0NPb0dRNXFnNEFhZExuRllLOXdoVVZR?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sun, 12 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Mo Salah offered MLS switch as Man Utd and Liverpool battle for Brazil ace",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYjJ1bm5zNWNZTHFPaUdXWWxsQk9SYjJ3cnBPT1BvWnNkaTV4Y1dyT0V3b0Mxa3Y1cHphYTZMdWVFR2o4R3NBTDhTbm8xR3k0amtMd0pFUTlwVW04NjVqVTR2UWVTYlNVa3JPa0pDb0p2eUhnWWJiR2VUZ2JlbnRJTTIzMktfeldLZW5lYjlTRVJIYTZSY1BnUWw4cFQ5Vzc1b1prNWE1QndsdWtrMk02SncteXRFZF9ROGs5VXdyUVZYRzVYS3VROUl1eTFfQ3BrbjNjNXRoWQ?oc=5",
+        "source": "Transfermarkt",
+        "published": "Mon, 13 Jul 2026 09:30:11 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "Real Madrid 'reject £21m bid' for ex-Man Utd star as Xabi Alonso requests Chelsea transfer",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkZrMk50U1p0UmsxZm00SGVqYVpDUkh3ZXo2S1BWcm4wLVFLcFhJd0txVWNscmZHN2VBQmVDRHFFQ3BkWHBIaE9WX2lOZVVYTVZfbUFFb2ZocVFJSFQwd2tpclVvcG1FOXpvcjlsb3AzTGJwMWtaTkxzSVdmUE9iX0djS3JYSmZpOTZqMzBmZ09adk5ua1otSTdwa0YySFHSAaQBQVVfeXFMUFhkZWhldm9BUFUyTHBESXMxUi1DeE01UnpLb05GSm9jVm4zeG5WZU5fcWdfd1BWY0RzbXhsbEVQeC1OM1hsUWd4dGlFck4xcFZrOFF4eGZXQnpRakt3T2ZXVk0zd2NKVVdKLVZSeGNaZjNiSnB6THNSTjZvekw0SEdrQUg4SG9Za3lxMjNoNU4wanpGQ0c0YWpuMjFsQUx4Q29tM2g?oc=5",
-        "source": "The Mirror",
-        "published": "Mon, 13 Jul 2026 15:12:00 GMT"
-      },
       {
         "title": "Michael Olise ‘requests meeting’ with Bayern Munich amid Real Madrid transfer talk as Kylian Mbappe, Aurelien Tchouameni & Ibrahima Konate play agent roles",
         "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeDA0RWRDa3RlVzN1Ni01OGpIQXJISlZVSWpIYTdvVU0wYzRzUUstVzlzVXU5MUt1clI4eVFvdlZ1Y3NYODRkNE1vTUR2RzVNczlEajdOaFBHMnQ5QmFQdVlGTE5Fdm9vd3ZKUlRBUDZnbWFBNTJubExyLWVYQUppLUpQVE83Z3g0cFE2MEs0TXM2N21DUnA3dEZpR3llaFg1d1JMY0lIb2p0WEdwMVJBZUppaUo5NHZqd2ZkWmNoWFRXWi05Y1cybV9VQV9aTHFzVHZTY0hJZ3R4TlhwNWo3NzRhSWpiZ1VKVGFlVWdPNllxWGxSXzR1MFNuT2s5VVgzNEN3aGwtcDhtN2JKODh2UTllRHhuVjdxM1JXLUJqdTVNZjdfai1TclRkZ0M?oc=5",
@@ -1566,10 +1560,16 @@
         "published": "Sun, 12 Jul 2026 20:55:27 GMT"
       },
       {
+        "title": "Real Madrid 'reject £21m bid' for ex-Man Utd star as Xabi Alonso requests Chelsea transfer",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkZrMk50U1p0UmsxZm00SGVqYVpDUkh3ZXo2S1BWcm4wLVFLcFhJd0txVWNscmZHN2VBQmVDRHFFQ3BkWHBIaE9WX2lOZVVYTVZfbUFFb2ZocVFJSFQwd2tpclVvcG1FOXpvcjlsb3AzTGJwMWtaTkxzSVdmUE9iX0djS3JYSmZpOTZqMzBmZ09adk5ua1otSTdwa0YySFHSAaQBQVVfeXFMUFhkZWhldm9BUFUyTHBESXMxUi1DeE01UnpLb05GSm9jVm4zeG5WZU5fcWdfd1BWY0RzbXhsbEVQeC1OM1hsUWd4dGlFck4xcFZrOFF4eGZXQnpRakt3T2ZXVk0zd2NKVVdKLVZSeGNaZjNiSnB6THNSTjZvekw0SEdrQUg4SG9Za3lxMjNoNU4wanpGQ0c0YWpuMjFsQUx4Q29tM2g?oc=5",
+        "source": "The Mirror",
+        "published": "Mon, 13 Jul 2026 15:12:00 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Tottenham eye Omar Marmoush as Inter Milan chase Liverpool ace",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUtNYVFWV0gwRmM4LVgwVjl4UVlkSkFiSnRLSURwQktjd283N0hQSXdnZUlwbmFoM1pxTzdNeXg5NlA4MnVxVmthUUZGUWZ1bElBTks4LXZ4ejJwYmY2QWNtMkNEZVhxcVpNVE1DeGVNZFVEWTRWTkNqQUpYMWVNWU9ZMF83SEZlRWpjbnU1eEM4Qm1yaVI5VERSd09nbDNQbmtoRjA1SXFiRGhoWVZxUkE3b2dtMlBzQ24yZDFVRzhQWDZSSVVr?oc=5",
         "source": "Transfermarkt",
-        "published": "Mon, 13 Jul 2026 21:36:05 GMT"
+        "published": "Mon, 13 Jul 2026 22:06:14 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal make Alvarez move, Guimaraes deal; Tielemans to Man Utd",
@@ -1586,37 +1586,43 @@
     ],
     "fcb": [
       {
-        "title": "Bayern Munich looking to right-size salary structure again",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmZnRUhpU1ZBdG5qRHFmYzlhMVpyVXZZSlBmaS14Q3owV0V0SG5GYThTWjJsX2NkQkJPdVRseE05THFxTkJ0VVdCSnBLZlpUVzE2VEpZd1p6WmZOMVBJaUxpcjk5ekhSMXlOWGRDWmVYRnhNemJidGdDN3ZyZHZLN0ZWVGVib1lld3NjcWNJb2FmRzViblBLeG9qcHg2b2RyWkNaTTFobGM4S3BvNl9ab1Z2b2RCTjZuSGtWQzZVdy1IY2JjMzJDaHVDTjZVWXB6djdqRQ?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Mon, 13 Jul 2026 17:00:00 GMT"
-      },
-      {
         "title": "New transfer committee adds layer of approval at Bayern Munich",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFBnSFdmclcyZHJqSXB5UDI4RlhCY1JCV0toZXlNVGRjQWg2Qmxkc1J5dUw2MXRNNndUems1SzNrOUNXZ2hLTWJzN01vNEZYYmV0T3lGQklLelNUakJGOFlzc3BXSl96cVh6dFJQQ21BSTNLSWFqVzgxUUJIQk11UVFRRFZnUTNrVTNpOU5wT0NUUHQ5ZzVxV1VtVlpRQV91OGgzVHpQd0JfN0ZpRjd2b2w4cFhaeDduQW9RdGxxalk5VTlEU25jSGY2dWJxRTdfVXZOLXRTREpsZw?oc=5",
         "source": "Bavarian Football Works",
         "published": "Mon, 13 Jul 2026 21:15:00 GMT"
       },
       {
-        "title": "Bayern Munich make a move for Jules Kounde as Barcelona full-back's stance on transfer revealed",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVdrWFQ4RE1nWWR5c1dvLU8tWDFTaVJYUEZkWXdoX3gzRFdMVzNlREFhalRfZHFZLTZnWVNuS2FIdllFOEJ0UFhkT29LTW1nUEdwbXJJX3FhT3R3SUg5STJ6U3hlRWNDUENCYzRiZENwMEN5S3dzckNwaWVLZlFLWDNXMzc1TzMwb3pIWlNfdUVvZ1daeWp3QUF3R0xUYlpNSDNGQzlfU0FPSmhHdlVhSUZtQ0otR0s5cFhLQk1QT2ROMFRvZ1BZdHptWQ?oc=5",
+        "title": "Michael Olise ‘requests meeting’ with Bayern Munich amid Real Madrid transfer talk as Kylian Mbappe, Aurelien Tchouameni & Ibrahima Konate play agent roles",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeDA0RWRDa3RlVzN1Ni01OGpIQXJISlZVSWpIYTdvVU0wYzRzUUstVzlzVXU5MUt1clI4eVFvdlZ1Y3NYODRkNE1vTUR2RzVNczlEajdOaFBHMnQ5QmFQdVlGTE5Fdm9vd3ZKUlRBUDZnbWFBNTJubExyLWVYQUppLUpQVE83Z3g0cFE2MEs0TXM2N21DUnA3dEZpR3llaFg1d1JMY0lIb2p0WEdwMVJBZUppaUo5NHZqd2ZkWmNoWFRXWi05Y1cybV9VQV9aTHFzVHZTY0hJZ3R4TlhwNWo3NzRhSWpiZ1VKVGFlVWdPNllxWGxSXzR1MFNuT2s5VVgzNEN3aGwtcDhtN2JKODh2UTllRHhuVjdxM1JXLUJqdTVNZjdfai1TclRkZ0M?oc=5",
         "source": "Goal.com",
-        "published": "Mon, 13 Jul 2026 18:48:01 GMT"
+        "published": "Sun, 12 Jul 2026 20:55:27 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Bayern confident in Kane extension",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXYxVkVvbzZwdFNEdzh1bkRCZnFqQXdqRVladXNVaUNESEdTcDV1d0Jta1F2OFJSUkQ2dU81MEdlT2N3N3BleDNXMU9rWVBiQ3dyenlhVnZZTWwycHNudElPaXBuVVFJcW03bzIyRE1mUWRFOE5GTWNWX2lxQ1Nfb0hZU3Zyd2JnLW8yMWZIR29nWllDSWdCRWdSdHdZN28yNlBlaGZtWDJsd2VlR0JYSS1WN21FTTA?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 13 Jul 2026 14:41:18 GMT"
       },
       {
         "title": "Bayern Munich News: Tottenham Hotspur, Real Madrid, FC Barcelona all hunting FC Bayern’s Harry Kane; PSG eyeing big move?; and MORE!",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZVlabzJLeGwyUk5Pbms5U3pvcUJkTGRfSVEtLXY2M2VJQVdEbEstbXFrS2gzVllJNXU5Mk1jVEFXd2J4RlVYbWV5QVdWOGx1bm9xdnF4cEJ0OGxjbFVBWUk0LVphcG5jODRXRm5kQzdSS3c2b0ZmeDNQWDVDd0d6LVkwTkx6QmEzdXRfWHVNV3psbHFUZ3Z4TmFVal9lX1pRZG1DYUpZc2FraFF3dkp2Sk9XWVk2UmtrSGNBS3BuNFlwZ0p1UjBjbFoxTzlCd3FQZTF6UUg2dGNnNU5EQmFTVEJGX1pIRDV5RUZHYkJjTTZBMkp6N2l6NS1GMUMtdHNfNFJoQg?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Mon, 13 Jul 2026 18:00:00 GMT"
+        "published": "Mon, 13 Jul 2026 19:45:00 GMT"
       },
       {
-        "title": "Tottenham Hold Talks to Sign 'Best Footballer in the World' in Sensational Move",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkxBUWM3TlVxMVVudjI0ejdqVVdSSVkwbzVSUkdzYzdPeVlqV1JvckJDTGVrQmJ0aWtHSDNYSHBTUkRrQ0w5WHJkRi1ldFNrd0tBWkVqQm96M0NTNWhPQ2dONjRGbDFHNXdvWDFyUVhybjlEaFZadkhGTzRhX00wbk5PbGRLVjRFcnZpWDlPS0k4TkpxMXh3ZHZB?oc=5",
-        "source": "GiveMeSport",
-        "published": "Sun, 12 Jul 2026 19:15:14 GMT"
+        "title": "Ratcliffe ready to 'finance' Man Utd move for England superstar Kane",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkhLQWhUMllxSmpxX0l4YVFwa2tnUHFOS1MxNW8zT0dmbng3N3E3VEdQbGtQZ2pkMkpyeXUyMndqdEZBOWJsMDBXNlMxdjZweGYyX19MYmE3cnBFM3pINjN1T1B1eHVRYzZlVWxSUTVRVGxzc0NxWmJjSzdjNlZuNkh2TnFIS2JTallkWGdvN2FxS0V5OEtkcHh4MWRjdERx?oc=5",
+        "source": "Football365",
+        "published": "Sun, 12 Jul 2026 13:16:20 GMT"
       }
     ],
     "ars": [
+      {
+        "title": "Transfer rumors, news: Arsenal step up move for Argentina's Álvarez",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGdicGdqeU5NcnBaZlR2clowWHdKbDZmd3QyaVBuZkdJcmloTVN0YkxDam1yTllZeW8yNFJPMW1Mcl96NlZlNnZ4VlV4bGlUMHRQYWljdk5ueEFubFdmZU5iUjNQUGI4cFBtdUo4OVBfaFVleDQzek8xZ2xLalJtdjc2MFZCdll6bkJ1ZTZ6RXhDSFBlYndvUUZDNFVoRU5zeTRSeHp6d3hKMTFHenUwZQ?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 13 Jul 2026 13:57:00 GMT"
+      },
       {
         "title": "Transfer news LIVE: Arsenal make Alvarez move, Guimaraes deal; Tielemans to Man Utd",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0I4YlBQR0Q5X3RWWklaSlpkaWNHVm1RQ0hIendCZmFHcG80R3kwQmFvSjhNajR4QlBMV1hlTlpTR2E1RHE0bjNlM3NUeXQwbmNJSjkwVXpCSV9qYjZzN2ZqMldWaC1sclBmQ1J4VENFaUJOb1dlaXFVVkpVY2QzcW5odzU1aXVWUUR6RUpDTXB2VmxlTFVtRnUyWkFRNk5VRVJvNWQwOFFZbEtJbnhmSDlfb3JZYlItRmh4TVFrTTEyajRSUmJ2b3dMQlNvbDYw?oc=5",
@@ -1627,25 +1633,19 @@
         "title": "Transfer news LIVE: Tottenham eye Omar Marmoush as Inter Milan chase Liverpool ace",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUtNYVFWV0gwRmM4LVgwVjl4UVlkSkFiSnRLSURwQktjd283N0hQSXdnZUlwbmFoM1pxTzdNeXg5NlA4MnVxVmthUUZGUWZ1bElBTks4LXZ4ejJwYmY2QWNtMkNEZVhxcVpNVE1DeGVNZFVEWTRWTkNqQUpYMWVNWU9ZMF83SEZlRWpjbnU1eEM4Qm1yaVI5VERSd09nbDNQbmtoRjA1SXFiRGhoWVZxUkE3b2dtMlBzQ24yZDFVRzhQWDZSSVVr?oc=5",
         "source": "Transfermarkt",
-        "published": "Mon, 13 Jul 2026 21:36:05 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Arsenal Prepare $335 Million War Chest; Raphinha Offered Barcelona Exit",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOW5PVlM4YlNqUUZSTHVfazJQS2FkREZsVGx6WjJaQmVCNzViNXNCam9xVkk1Z1pZNU01d0xRQS1FRGllbEtCUzhEdFV0X3UxcDNCMmVraTlCZEgxREJfdm92YzNYUzlmVWxldHJVNEdWa1A0VTl1Tk5QNjJsdHd5c2xZWF9HbHUxS0pfMTd3?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 11 Jul 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Arsenal step up move for Argentina's Álvarez",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGdicGdqeU5NcnBaZlR2clowWHdKbDZmd3QyaVBuZkdJcmloTVN0YkxDam1yTllZeW8yNFJPMW1Mcl96NlZlNnZ4VlV4bGlUMHRQYWljdk5ueEFubFdmZU5iUjNQUGI4cFBtdUo4OVBfaFVleDQzek8xZ2xLalJtdjc2MFZCdll6bkJ1ZTZ6RXhDSFBlYndvUUZDNFVoRU5zeTRSeHp6d3hKMTFHenUwZQ?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 13 Jul 2026 13:57:00 GMT"
+        "published": "Mon, 13 Jul 2026 22:06:14 GMT"
       },
       {
         "title": "Arsenal transfer fully approved with medical booked and next deal already identified",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUJheTNfT2RaMHpuNjF0Q18yaEZzQkdFLWZ3SFJkT3ZYa1RNQjRRblZGVFB0andGd0tkWm80TGJRRHJRcUJNa3U3T19VNGhLbEhrU29jQ3dFZW9qUDdscXhtLXJLd3dlblB5WElsUmxKNVc4ak5pLXJCTldjYXpNT3Fqc0ZjaW85QXNhZkQzQ3h4RWE3cW5pVFhWZnREVDFoNERua9IBqgFBVV95cUxOU0FtSW1WVks4MGJzRmRXWW9vQmpRV0JSeDBNRlZ6QURFRkhtNVotZm5RS0dPZ3ZnZ3BKNXhzV3BJaXRIWHA4aWE5ZXd4LUd2eml0TlB5MjZCLUNsaDlOR2tjTURlTUVfMmhNTjI3RXNnMjZuVEZlNWw0YmpnMV9xaWY0Mk1TNzBHZjVJM04tV0xQaHFkbjJObG50Ni1YNU5aQzZybkdEd3N6dw?oc=5",
         "source": "Football London",
         "published": "Mon, 13 Jul 2026 21:21:55 GMT"
+      },
+      {
+        "title": "Leandro Trossard: Arsenal star to decide transfer future 'soon' as agent confirms productive Besiktas talks",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVlQSVdHM25yREg3WEdWWXhrY01uanJFMlRmZ2pVdjRLTF9kTG11bWw2bTNzd0duclVfTW5WU0dnUGFrR2JsRmV1RTBvNFBFZG5iZDlsbnFVenY3bktlVGdNZ1h0d1VVNTFERHFSbE5oLTJveThHNUYxUzdRSlVHaWtNSkJjaDNtdGIwTjhB?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Mon, 13 Jul 2026 16:18:08 GMT"
       }
     ]
   },
