@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T06:07:11.813287+00:00",
+  "updated": "2026-07-15T08:40:16.307265+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -71,6 +71,15 @@
           "assists": 0
         },
         {
+          "name": "Ayden Heaven",
+          "position": "Defence",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Bendito Mantato",
           "position": "Defence",
           "nationality": "England",
@@ -107,6 +116,24 @@
           "assists": 0
         },
         {
+          "name": "Harry Maguire",
+          "position": "Defence",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Leny Yoro",
+          "position": "Defence",
+          "nationality": "France",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Lisandro Martínez",
           "position": "Defence",
           "nationality": "Argentina",
@@ -114,6 +141,24 @@
           "ownGoals": 0,
           "net": 1,
           "assists": 1
+        },
+        {
+          "name": "Luke Shaw",
+          "position": "Defence",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Matthijs de Ligt",
+          "position": "Defence",
+          "nationality": "Netherlands",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
         },
         {
           "name": "Noussair Mazraoui",
@@ -131,15 +176,6 @@
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Amad Diallo",
-          "position": "Midfield",
-          "nationality": "Ivory Coast",
-          "goals": 2,
-          "ownGoals": 0,
-          "net": 2,
           "assists": 0
         },
         {
@@ -197,6 +233,15 @@
           "assists": 0
         },
         {
+          "name": "Mason Mount",
+          "position": "Midfield",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Tyler Fletcher",
           "position": "Midfield",
           "nationality": "England",
@@ -206,9 +251,45 @@
           "assists": 0
         },
         {
+          "name": "Amad Diallo",
+          "position": "Offence",
+          "nationality": "Ivory Coast",
+          "goals": 2,
+          "ownGoals": 0,
+          "net": 2,
+          "assists": 0
+        },
+        {
+          "name": "Benjamin Šeško",
+          "position": "Offence",
+          "nationality": "Slovenia",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Bryan Mbeumo",
+          "position": "Offence",
+          "nationality": "Cameroon",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Chido Obi-Martin",
           "position": "Offence",
           "nationality": "Denmark",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Joshua Zirkzee",
+          "position": "Offence",
+          "nationality": "Netherlands",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -233,99 +314,18 @@
           "assists": 0
         },
         {
+          "name": "Patrick Dorgu",
+          "position": "Offence",
+          "nationality": "Denmark",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Shea Lacey",
           "position": "Offence",
           "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Ayden Heaven",
-          "position": "Centre-Back",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Benjamin Šeško",
-          "position": "Centre-Forward",
-          "nationality": "Slovenia",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Bryan Mbeumo",
-          "position": "Right Winger",
-          "nationality": "Cameroon",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Harry Maguire",
-          "position": "Centre-Back",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Joshua Zirkzee",
-          "position": "Centre-Forward",
-          "nationality": "Netherlands",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Leny Yoro",
-          "position": "Centre-Back",
-          "nationality": "France",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Luke Shaw",
-          "position": "Left-Back",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Mason Mount",
-          "position": "Attacking Midfield",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Matthijs de Ligt",
-          "position": "Centre-Back",
-          "nationality": "Netherlands",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Patrick Dorgu",
-          "position": "Left-Back",
-          "nationality": "Denmark",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1238,6 +1238,24 @@
           "assists": 0
         },
         {
+          "name": "Ben White",
+          "position": "Defence",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Cristhian Mosquera",
+          "position": "Defence",
+          "nationality": "Spain",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Gabriel Magalhães",
           "position": "Defence",
           "nationality": "Brazil",
@@ -1283,9 +1301,27 @@
           "assists": 0
         },
         {
+          "name": "Myles Lewis-Skelly",
+          "position": "Defence",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Piero Hincapié",
           "position": "Defence",
           "nationality": "Ecuador",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Riccardo Calafiori",
+          "position": "Defence",
+          "nationality": "Italy",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1304,6 +1340,15 @@
           "name": "Ceadach O’Neill",
           "position": "Midfield",
           "nationality": "Northern Ireland",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Christian Nørgaard",
+          "position": "Midfield",
+          "nationality": "Denmark",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1364,15 +1409,6 @@
           "assists": 0
         },
         {
-          "name": "Max Dowman",
-          "position": "Midfield",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
           "name": "Mikel Merino",
           "position": "Midfield",
           "nationality": "Spain",
@@ -1409,6 +1445,15 @@
           "assists": 0
         },
         {
+          "name": "Gabriel Jesus",
+          "position": "Offence",
+          "nationality": "Brazil",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Kai Havertz",
           "position": "Offence",
           "nationality": "Germany",
@@ -1436,6 +1481,15 @@
           "assists": 0
         },
         {
+          "name": "Max Dowman",
+          "position": "Offence",
+          "nationality": "England",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Noni Madueke",
           "position": "Offence",
           "nationality": "England",
@@ -1454,63 +1508,9 @@
           "assists": 2
         },
         {
-          "name": "Ben White",
-          "position": "Right-Back",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Christian Nørgaard",
-          "position": "Defensive Midfield",
-          "nationality": "Denmark",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Cristhian Mosquera",
-          "position": "Centre-Back",
-          "nationality": "Spain",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Gabriel Jesus",
-          "position": "Centre-Forward",
-          "nationality": "Brazil",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
           "name": "Khari Ranson",
           "position": "null",
           "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Myles Lewis-Skelly",
-          "position": "Left-Back",
-          "nationality": "England",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Riccardo Calafiori",
-          "position": "Left-Back",
-          "nationality": "Italy",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1522,34 +1522,34 @@
   "rumors": {
     "utd": [
       {
-        "title": "Youri Tielemans transfer news: Manchester United complete signing of midfielder from Aston Villa for £35m",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTBCRWlxS3Zrc1M1RTNuc3ZkVnpZUE1zQ25IcVBOM2hFZUlwRHgxUC1JYWFYLTJibkNzS01jemtwbmJiUHRhZzlkZ3Y2V1NWRTd5SXp2ZllfYmtuc1BMd2RlRVlGQUJJcEY5N3UyWEU2dlA3azFGUmNGWGxuNnRmdnFIWEFCYWJZVUtpQk5mUmRiMHZjUHRTbC1QY3dFcmVTYWJoYVdVaDZTN3c?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 14 Jul 2026 18:42:57 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: 3 more after Tielemans, deal done, Summerville latest",
+        "title": "Man United transfer news LIVE: 'Offer' made, Angelo Stiller update, Barcelona name asking price",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVBud09ITWxwVDNoMktsWkFRWjZFcTRfSjJsOFB4cUJqd2RJckpILWR1cG5OcV9qSGhBM1dwQlJhQ3M0WGRJMFFRVUprcHhrNmlkTDM1WUt6cmFXdkZUa29yd3ZkNDJiRGo2VXlENHBRQ1FFWUpXdjBod3Q2MVJtRE5OZERaMVpZMk9QRnFMRE91R1dMeVB5U1NSbjlLM211S3NtWnBfOHZaYnPSAbABQVVfeXFMTWFEMXl2VDA3a1gxamZtME1hbWRFd1BVMVpyd2tYdUtyczEza1ZYMlJGWTZCTnl5TWZteHhBX2Z0b2xpWldrRDZ3X2EwZ0hWbWxxYjZQSG1DQ2FfdS1Hc05hX0NZT3VQeG5QeTEya1hTeFR4eWNXODJQM1BDX0JnNG9nMThfckRFRDdzamt5TFhidmdaazF0aFdSMXBCVV8xaFA3NVBlbUozR1hPTnM3a2U?oc=5",
         "source": "Manchester Evening News",
-        "published": "Tue, 14 Jul 2026 21:50:19 GMT"
+        "published": "Tue, 14 Jul 2026 08:59:09 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Alvarez to Arsenal boost, Tzolis; Man Utd eye Kone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmpaZjh6LVVZalJnaVBfY0lwR3hkQWZET1FJMVFCUzl0YWs2UFFoS2RiMVdHaTd2VF9seGtqYkpuQTQ0Z1l6Y256RExHZ1Atci1UVjRFSEp4cm8zOVZjRkFhRmdwTGdkUnJ4TkdHRGtuRmg3RV9QYUVnVXRzbVlEN1Jia1JjanNOVFBYcndZcVJ5ZEdtVzV5OGpIM0JveGxQM0ZQbEQ2ZEtwT0hpdTRsNHEyNnRfdW9Na3h0a2MyajRGdlpXWl9LNDdSNA?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 15 Jul 2026 06:15:58 GMT"
       },
       {
         "title": "Transfer news LIVE: Liverpool decision, Arsenal Julian Alvarez plan, Man Utd star 'offered'",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEpEdUtzMzlQUmxwZllBZi1LYVFuQTF3NzRacXgzdGtmNHRUYmlnMlRnMTZIUXhFX0FwSE4wMW1nZG50d1dQeFJ2aDZ4d1QwaDY4X3ZVZUZneTd1VHZvQXRvaDZRMmhQdUthSng1NE9OS1E1dWg5UTFxOHUtcUZXWUNIYk93VlJRMmxneFFveS13YU0?oc=5",
         "source": "The Mirror",
-        "published": "Tue, 14 Jul 2026 19:21:49 GMT"
+        "published": "Wed, 15 Jul 2026 07:03:44 GMT"
       },
       {
-        "title": "Man Utd transfer news LIVE: United ANNOUNCE Tielemans, Red Devils 'in race for Manu Kone'",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkJWWW9HVjZkMllYYzJCMmhuM3J0cnBDVXpKdzNsNkhVcVNPaVFZWDJsMFNqSGlYc0lDb0VjTTRabVJJRXE5bXVIMVNBMGJtYnNmeXI0LWw3dzZveE9jdnhXWHZ6QVcwSmt5WDhrVmpNMzVMdjkxMmhGNV92ZnFKLVV2M1BnWWJ2anljYVdELXNUNkl0?oc=5",
-        "source": "The Sun",
-        "published": "Wed, 15 Jul 2026 05:50:47 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 14 Jul 2026 14:06:49 GMT"
       },
       {
-        "title": "Liverpool transfer news as Reds rival Man Utd for $68M World Cup star and fresh Jones bid",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXBXRFpVNWVKWkhQR2N2cWNTbktfeDN4QUFtMno5ZndsNlplN016X0hQQ3paSGlydUVBWEp2bDdKcTA2OVY0N2RuV05BaTd1eEh1YTMtWUpLYnRzQ3VnbjJxajljaXh4dWdQSzRoMWdQRjBKdnJSc2twQ25Wdk9oUWZLV2RsdHpPdUFscjJoMzJBazQ10gGaAUFVX3lxTE93VVYyWVBSU2VtYnlOcXI5OXRGWGczZFQ5QVdlWUtuc1dGWnpMc1pmYzVEQ0FpQk5KNTdRZ3FpNC1laW9LQnN5YU9KbFoydDNOUHBmRDVXbURTQ3djNHJBUzFwOG1PYnY4RVVGQzAzamJwT1d0Tk9lZzdVV29aRmY2WHhmSVQ3MThnV0Y0UDFkRVlWWnQ3WWNtamc?oc=5",
-        "source": "Liverpool.com",
-        "published": "Wed, 15 Jul 2026 04:04:23 GMT"
+        "title": "Youri Tielemans transfer news: Manchester United complete signing of midfielder from Aston Villa for £35m",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTBCRWlxS3Zrc1M1RTNuc3ZkVnpZUE1zQ25IcVBOM2hFZUlwRHgxUC1JYWFYLTJibkNzS01jemtwbmJiUHRhZzlkZ3Y2V1NWRTd5SXp2ZllfYmtuc1BMd2RlRVlGQUJJcEY5N3UyWEU2dlA3azFGUmNGWGxuNnRmdnFIWEFCYWJZVUtpQk5mUmRiMHZjUHRTbC1QY3dFcmVTYWJoYVdVaDZTN3c?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 14 Jul 2026 18:42:57 GMT"
       }
     ],
     "rm": [
@@ -1563,25 +1563,25 @@
         "title": "Transfer news LIVE: Michael Olise to Real Madrid latest as Inter Milan eye Djed Spence",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTJFelhPYUM3MXRjMDRrX2E0QkNBYVh2VGRHamd4d3lVSnNGQjNhUHVxRllHbHJfWU5QYWlPc0hUdVJrdE82Z3RMSXBxTzZ4TXo5RXpRbjJRLV9QenJ6ZUZWY01wSUdtYzFSRzJnN0ViTkpCeWI0by1TRG9WRVYxQVB1QTRMWEZCN2xXb3E0eVo1R29zZjhwcml1cnlrR1FyUG1OVlZkdVg0QXlEcThDTXZyMmhwaWY3U1Vyai1Fc1VzTng2VmlwUkVOUXc?oc=5",
         "source": "Transfermarkt",
-        "published": "Wed, 15 Jul 2026 03:48:16 GMT"
+        "published": "Wed, 15 Jul 2026 06:49:10 GMT"
       },
       {
-        "title": "Fabrizio Romano confirms Real Madrid agree a deal to sell another youngster",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3MxN0RKLWg1QTBpM2Z4a2h1alBiNE9vUkRjamp4SWxocncxbXh3cGVtUEVuT3RPX2EzNzVsXzNvTmZvdzRXU0FvUnFlRkw4ZkhUUDJnQTNpNEs5SGtiRnhPOWdFVUpMal92Yy0xOG4wSTRtQ09xb3d5SmdmdlFxSkFWcmZrNnFLamRKSEVwYnVDNEZUR3J3Ri16bXRIdFc4S0hBSkd0aElzaDlmV2hTelRIZWQ?oc=5",
-        "source": "The Real Champs",
-        "published": "Wed, 15 Jul 2026 01:57:00 GMT"
+        "title": "Real Madrid’s remaining transfer budget after four summer signings – report",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXlpLTZfc2R6d1RrdnRCZ0RzTG1iNXhyMnoyZVJlWXhlanhqa2FndlQ4X2x0YUV2WTM2Rk1CdE9oekx5TmJla2dVbzFVd2tXLTNlYjRGSm1Ta1hEOWFuRXBBYl9TQnNWTzlRQkVoVlRPWDJhNHh0RXljOFJRM2hiVlRFa2VNSEdzQjVuNV9UOA?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 15 Jul 2026 07:20:00 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd Chase Arsenal Forward; Haaland Plots Real Madrid Meeting",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkQ2bEgwekFMdUhIVUNfYzRZSkpuQ2xzN2xkN1gtUF9yV3JPZFFYbV9DWm5lRG43bGkxUHBBaUxPNVRNQjlPbjZXN2M2R0tjdGtfblhvZmNFdVpJRlNjLW9WRTJKT0t3cnNEdGxTb05fYVZmd2NyTHk4LUtxZFpwTkszVzhzdThKcmtVSC1Kb2hGaFdMNXhBRG9uUGNHWWhlWW9uaU5paFJIM0JfbGMwWk51UF9FWU5vQVp6UVc2RXNyclAz?oc=5",
         "source": "FotMob",
-        "published": "Tue, 14 Jul 2026 23:05:00 GMT"
+        "published": "Tue, 14 Jul 2026 23:11:42 GMT"
       },
       {
-        "title": "Transfer Rumors: Real Madrid’s Olise Boost; Arsenal, Liverpool Face $205 Million Barcola Battle",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONmN3RUxVbkYwb3F2WE41ZHgxTlhYUExjdXhRZS02d2dPQ0g3OFlGQlFsUWdSOF9PRWNReUtyZW9mYlBaWk1oOFZxOG1IblNaX3VCWWc3Vk1CaG9QU09vN3dHdjk3dm80anVkV0NpZmk0WGxiR2pkd0d5TG5EaUNGZmNLWTBQaDZrem9DdVcxUlRLdkc3d0NEWG92M0pWeDZqdXYtM0cwYXczODVJMVdF?oc=5",
+        "title": "Real Madrid Near Sale of Long-Term Arsenal Transfer Target—Reports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2RpNXEyY2REZjJXWFF0aUxwWFg5UkNrUzY0NTVMbmN1c2hrZUtENE9ubWxQSGVyRklIYWRER21QWks4WjJzVU1XLW1NaVk2REpTdWNRaTJnZmZLM1ZQcHpMdllWTklLZURBTHd1a240ZTdjeElVUnhadkd4bDhiOWd3?oc=5",
         "source": "Sports Illustrated",
-        "published": "Mon, 13 Jul 2026 23:05:00 GMT"
+        "published": "Tue, 14 Jul 2026 19:00:01 GMT"
       }
     ],
     "fcb": [
@@ -1590,18 +1590,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeDA0RWRDa3RlVzN1Ni01OGpIQXJISlZVSWpIYTdvVU0wYzRzUUstVzlzVXU5MUt1clI4eVFvdlZ1Y3NYODRkNE1vTUR2RzVNczlEajdOaFBHMnQ5QmFQdVlGTE5Fdm9vd3ZKUlRBUDZnbWFBNTJubExyLWVYQUppLUpQVE83Z3g0cFE2MEs0TXM2N21DUnA3dEZpR3llaFg1d1JMY0lIb2p0WEdwMVJBZUppaUo5NHZqd2ZkWmNoWFRXWi05Y1cybV9VQV9aTHFzVHZTY0hJZ3R4TlhwNWo3NzRhSWpiZ1VKVGFlVWdPNllxWGxSXzR1MFNuT2s5VVgzNEN3aGwtcDhtN2JKODh2UTllRHhuVjdxM1JXLUJqdTVNZjdfai1TclRkZ0M?oc=5",
         "source": "Goal.com",
         "published": "Sun, 12 Jul 2026 20:55:27 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Michael Olise to Real Madrid latest as Inter Milan eye Djed Spence",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTJFelhPYUM3MXRjMDRrX2E0QkNBYVh2VGRHamd4d3lVSnNGQjNhUHVxRllHbHJfWU5QYWlPc0hUdVJrdE82Z3RMSXBxTzZ4TXo5RXpRbjJRLV9QenJ6ZUZWY01wSUdtYzFSRzJnN0ViTkpCeWI0by1TRG9WRVYxQVB1QTRMWEZCN2xXb3E0eVo1R29zZjhwcml1cnlrR1FyUG1OVlZkdVg0QXlEcThDTXZyMmhwaWY3U1Vyai1Fc1VzTng2VmlwUkVOUXc?oc=5",
-        "source": "Transfermarkt",
-        "published": "Wed, 15 Jul 2026 03:48:16 GMT"
-      },
-      {
-        "title": "Real Madrid’s stance on Michael Olise summer transfer – Romano",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTJIQzdQZlFjU0RTNDlRZk05aXpHbjRnVFpHMGtMZmR6R294amJmVXRwSzZ3NXhwRUpmMU1laWlJUU9MTzVPR0lyWDN1VDJrUDRpXzlQQmtuRHVIRjVQZFJzTFAyZDdrUHRROTRXN0Qyai1UWkZyeGdBN1p1VFVqa1oyQ20wWjRP?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Tue, 14 Jul 2026 07:30:00 GMT"
       },
       {
         "title": "In change of course, Bayern Munich to keep Kim Min-jae per report",
@@ -1614,20 +1602,26 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGdicGdqeU5NcnBaZlR2clowWHdKbDZmd3QyaVBuZkdJcmloTVN0YkxDam1yTllZeW8yNFJPMW1Mcl96NlZlNnZ4VlV4bGlUMHRQYWljdk5ueEFubFdmZU5iUjNQUGI4cFBtdUo4OVBfaFVleDQzek8xZ2xLalJtdjc2MFZCdll6bkJ1ZTZ6RXhDSFBlYndvUUZDNFVoRU5zeTRSeHp6d3hKMTFHenUwZQ?oc=5",
         "source": "ESPN",
         "published": "Mon, 13 Jul 2026 20:41:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Michael Olise to Real Madrid latest as Inter Milan eye Djed Spence",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWxFNW9iUjlXNFJKOXg2ZHFsQlBXR210QkUwYmZQMTd5bHBEbmE0QjB4UlNtdFVCQ2lCazBVa0FhSFdTcG5wNENXZ0xUOEZhc3pGZ09YcUYxRi14Wl9sYmdkNGJ1Rjgyd2d5NEtDQ3ZWYkQxVjZxQ1JtTzFKeWlLNDlZYS1mNTlRZnBEZUxUampZbDllZHh1WXk2YUVhNURXajRka213S0oyYkxVRUxJY3gzaFNYdFpNb1FDRmJZc2ItTUFa?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 15 Jul 2026 06:49:10 GMT"
+      },
+      {
+        "title": "Real Madrid’s stance on Michael Olise summer transfer – Romano",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTJIQzdQZlFjU0RTNDlRZk05aXpHbjRnVFpHMGtMZmR6R294amJmVXRwSzZ3NXhwRUpmMU1laWlJUU9MTzVPR0lyWDN1VDJrUDRpXzlQQmtuRHVIRjVQZFJzTFAyZDdrUHRROTRXN0Qyai1UWkZyeGdBN1p1VFVqa1oyQ20wWjRP?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Tue, 14 Jul 2026 07:30:00 GMT"
       }
     ],
     "ars": [
       {
-        "title": "Leandro Trossard transfer news: Arsenal forward set for move to Besiktas",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmTWFmTHYtMXAyaVVkS0kwSFk5eXJ4bVJuZExLUXVBSmJSbDRqTU5jbnVxTnY1NXNpTDN5NFRibXFVbTA4UV9jU00xbWQwZ2RTb2d4Q0pCWG9kZWwxb0dEamVvOW53V0E?oc=5",
-        "source": "BBC",
-        "published": "Tue, 14 Jul 2026 14:11:47 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 14 Jul 2026 14:06:49 GMT"
+        "title": "Arsenal pushing to seal quick transfer for Argentina’s World Cup hero",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmJKV1gyZktoSEU3WWJlSGx3ajF5RDRHLWhxRm84T3FiY0dHampJOFFOUm9vQmFLcEdtVVRvUW1SakxZR01GYVdxWFQ5UFBLMWU4YXl3ZVN5aU9QV1BHZFdMWXR2dzBYM3FDYmI5X1FGa1ZBdjFncGQ3aWN4a1c2M1RRQmhBaG05dXBZQ0t6VWhhSkViV0M3N2V3QQ?oc=5",
+        "source": "The Independent",
+        "published": "Sun, 12 Jul 2026 11:49:00 GMT"
       },
       {
         "title": "Real Madrid Near Sale of Long-Term Arsenal Transfer Target—Reports",
@@ -1636,16 +1630,22 @@
         "published": "Tue, 14 Jul 2026 19:00:01 GMT"
       },
       {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 14 Jul 2026 14:06:49 GMT"
+      },
+      {
         "title": "Transfer Rumors: Man Utd Chase Arsenal Forward; Haaland Plots Real Madrid Meeting",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkQ2bEgwekFMdUhIVUNfYzRZSkpuQ2xzN2xkN1gtUF9yV3JPZFFYbV9DWm5lRG43bGkxUHBBaUxPNVRNQjlPbjZXN2M2R0tjdGtfblhvZmNFdVpJRlNjLW9WRTJKT0t3cnNEdGxTb05fYVZmd2NyTHk4LUtxZFpwTkszVzhzdThKcmtVSC1Kb2hGaFdMNXhBRG9uUGNHWWhlWW9uaU5paFJIM0JfbGMwWk51UF9FWU5vQVp6UVc2RXNyclAz?oc=5",
         "source": "FotMob",
-        "published": "Tue, 14 Jul 2026 23:05:00 GMT"
+        "published": "Tue, 14 Jul 2026 23:11:42 GMT"
       },
       {
-        "title": "Arsenal pushing to seal quick transfer for Argentina’s World Cup hero",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmJKV1gyZktoSEU3WWJlSGx3ajF5RDRHLWhxRm84T3FiY0dHampJOFFOUm9vQmFLcEdtVVRvUW1SakxZR01GYVdxWFQ5UFBLMWU4YXl3ZVN5aU9QV1BHZFdMWXR2dzBYM3FDYmI5X1FGa1ZBdjFncGQ3aWN4a1c2M1RRQmhBaG05dXBZQ0t6VWhhSkViV0M3N2V3QQ?oc=5",
-        "source": "The Independent",
-        "published": "Sun, 12 Jul 2026 11:49:00 GMT"
+        "title": "Leandro Trossard transfer news: Arsenal forward set for move to Besiktas",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmTWFmTHYtMXAyaVVkS0kwSFk5eXJ4bVJuZExLUXVBSmJSbDRqTU5jbnVxTnY1NXNpTDN5NFRibXFVbTA4UV9jU00xbWQwZ2RTb2d4Q0pCWG9kZWwxb0dEamVvOW53V0E?oc=5",
+        "source": "BBC",
+        "published": "Tue, 14 Jul 2026 14:11:47 GMT"
       }
     ]
   },
@@ -1673,8 +1673,8 @@
       "group": null,
       "status": "TIMED",
       "home": {
-        "name": null,
-        "flag": "🏳",
+        "name": "France",
+        "flag": "🇫🇷",
         "lineup": []
       },
       "away": {
