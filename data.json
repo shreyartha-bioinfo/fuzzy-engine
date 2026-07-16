@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T10:49:18.173090+00:00",
+  "updated": "2026-07-16T12:14:21.601231+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1522,16 +1522,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Michael Olise wants Real Madrid as Man Utd ready Manu Koné bid",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xPeUZWTS1HY2Q2Z2FuVmdlQjczaWJZZGJPX3g5Z3IycENHNVYtVVRFM05hWmh1SnI2ejJJNWNPVUY0ZUtlbUxuY0FLNGZwMk1XZUtFT0J3TVdLWE1kYzZJYXV0eHlWZlJRY0g5VGppMWNPSFhxSG16V0NHZ1haQ2Zkel8tRjl0TTJyYW9BLXpHaUsyVUNLUXFsT0tHYmZxQjZjeVJpY2dia2VyY1RJZE9DQkJId0RtTFg1ZHpyRkE1RzdjdGdR?oc=5",
-        "source": "Transfermarkt",
-        "published": "Thu, 16 Jul 2026 09:17:06 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal done deal, Guimaraes talks; Man Utd latest",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFNBX1NpTU5tY2JNczBKYzlrQ2N0dzBiYnRldzlldXdtOU9UbEVyNVFjR3g4LUtNYWNQQ0w3NG9YVi1udDBhSzdPclpUaUxpOGMza0lUeU14cFhLN0dZaTlkSllYREdEd2t3cGtKcjFCc2NGajg4YmRsdVFtck1aU2ZoQ1kzRF9VZGNvLWxjako3MDFPVHhDZ1BDcVpxNmwzek9sLTlfSmFLWk9NZFFaZ3JWWmZWdFN2S213dUZBdkpleENtUm9HcERFUHFMdw?oc=5",
         "source": "London Evening Standard",
         "published": "Thu, 16 Jul 2026 09:35:16 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 14 Jul 2026 14:06:49 GMT"
       },
       {
         "title": "Chelsea open talks to sign £51m World Cup star ahead of Man Utd",
@@ -1546,24 +1546,18 @@
         "published": "Wed, 15 Jul 2026 22:10:29 GMT"
       },
       {
-        "title": "Man Utd strike ‘agreement’ for third midfield signing as Ederson could help pave the way",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQldKaU1KVmxIcm1wRTd6Y0x0TGRiYUFkM2tFMlNZR3JNczNYUjdpRGE5LW12cDlHazRMRFktdlEzN1hyOVpPS05SR0hfSll6ZG9ZNU8xTUhtaG9nSC1JOVpzVWdoalliVWlxZkF3NkNkREtNaTRTRDl2eDNCaUV0QQ?oc=5",
-        "source": "Football365",
-        "published": "Thu, 16 Jul 2026 08:54:33 GMT"
+        "title": "Transfer rumors, news: Bayern star Olise wants Real Madrid move",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3d6MnRFSTgwUmY1UTRLQnYwdmNoTGhGcXREeDhDQXhXSGZOdHp4N3ZYRE5NaWVnazhpVnlvM2tIMl9VM2NfVXV4OUUzR29wd2I1UnpUdm9UM05Dcnk0bWI2YVFWS2lGdlR3NVlvZlNGZ1RybFZMR0NRWHhzT3plczZra1ZVY19CaG14S0NqTTAxczdyVVQtYy1OakpHbGM3dHBrdUVfV0IyeG1sRnE2VzBtbEw1aUhrdE10UjJ3b0lKQQ?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 16 Jul 2026 11:03:00 GMT"
       }
     ],
     "rm": [
       {
-        "title": "Transfer rumors, news: Bayern star Olise wants Real Madrid move",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3d6MnRFSTgwUmY1UTRLQnYwdmNoTGhGcXREeDhDQXhXSGZOdHp4N3ZYRE5NaWVnazhpVnlvM2tIMl9VM2NfVXV4OUUzR29wd2I1UnpUdm9UM05Dcnk0bWI2YVFWS2lGdlR3NVlvZlNGZ1RybFZMR0NRWHhzT3plczZra1ZVY19CaG14S0NqTTAxczdyVVQtYy1OakpHbGM3dHBrdUVfV0IyeG1sRnE2VzBtbEw1aUhrdE10UjJ3b0lKQQ?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 16 Jul 2026 08:01:00 GMT"
-      },
-      {
-        "title": "The only way Real Madrid can sign Michael Olise this summer – Romano",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Z0tzeWpYWUx3SUlldjFiYVR4Sm9QMGJXTTA1X0VPYzc0eW1uejdtd3k1Vm53ZWNrV0NKRXdIM0J3VjBnYlY3UEI2SElQVVUzSG9KUWIwNzVnU05rX3c2YlVpV295OFVvLXZPRHJzend3dWZSTXduVTdlZFE4OEk?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 16 Jul 2026 06:00:00 GMT"
+        "title": "Transfer Rumors: Shock Club Plan Rashford Move; Olise Makes Real Madrid Decision",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUJKaUl1bkp4bHhfYUh2SEtNMGNjcFBuRWR6MFFGbEhfVUEyMG5WbU1RWFlBWks4YWJFb0dINFFERDJtQnBGdjZ0ZTlSNzZFeUtRSElDNXlxMGRBOUZZN1JjMXViQzFqbXM5bU1MMlFyUzJWemVLQWtkOEVCREU1QTM5RnhPQQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 15 Jul 2026 23:05:00 GMT"
       },
       {
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
@@ -1572,16 +1566,22 @@
         "published": "Tue, 14 Jul 2026 14:06:49 GMT"
       },
       {
+        "title": "Transfer news LIVE: Barcelona eye Cristian Romero as Arsenal open to Gyökeres sale",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnJRbTR5M2pSNEo2TzBuWnRuZkctX0Uya0tSdDlaRFk3SERBR1pkZDhmWmZGdC1fbFBuSXNHTGFTSENwZzN0WWZPSkM5T2E2dm1hM1lkekVDUEJtU1RUa0dPX0tmTEw1c1JJUTViMGIzOFBUTWRaelo4d2NQRWpWZFg4dlRXajlqdkdzejJ6WGI3S2dtN1FMQW5JeVZ2ZGVQcEdmSUxEWTlzdXNoOE5Bc1dVcE1HT0NrSW9TaFNqUDI3Ums3d09V?oc=5",
+        "source": "Transfermarkt",
+        "published": "Thu, 16 Jul 2026 06:54:15 GMT"
+      },
+      {
+        "title": "Michael Olise wants Real Madrid! Bayern Munich star ready to push for big transfer to unite with France co-star Kylian Mbappe",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSVR1d1h6RVVOZWtnaHkyVVlEek9vdWF6NW9SWWUwZjhycWNQMUJzZ3RFYzRRTGR4eEo5elFkSG5SeFBGUGc0N0pXOEhDdWVVbWpFdGJlNUZkUXNmbXhGNHV4U21ZWVp1TnJiSFdVOGJMRDI4NTlLUGRpdklvVmFnREk0eWMtU1FJdW1HeWlGakdWMWVDVi1YMzBwakRRWlhPNG9vVmRzQ3ROaEpzLU9faDAyYmlRaDZ4TnhfNzhCeW9PTlUyc2xvOGZ3cGV4WUxZYVg2Zm03TDNoQVF3dHE4SHlDSWxnMmxMRUN2aElsMEw?oc=5",
+        "source": "Goal.com",
+        "published": "Wed, 15 Jul 2026 17:47:58 GMT"
+      },
+      {
         "title": "Real Madrid sell Valdepeñas to Fiorentina for €8 million -report",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZUtuRWFxdFlfaW1qWVI0QmZlTmU1V1RHb3hnX05GR21yMVJhTDJhRXhWSVR4SnlNTV9WTl9aSTRXUTk3b0dwWWtHUFpheVFzMHI5U2dBNnNfVmlNYWh5YTl0enVzbXZPNjVpT0h2OVVzd0RUTE9EODI4dG1lZ2Y0Y3VXSzdoRFF1RVgzMTdrUFRiRXpyTWVydWVGemhMQnZiR0Zr?oc=5",
         "source": "Managing Madrid",
         "published": "Wed, 15 Jul 2026 06:27:00 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Man Utd Chase Arsenal Forward; Haaland Plots Real Madrid Meeting",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkQ2bEgwekFMdUhIVUNfYzRZSkpuQ2xzN2xkN1gtUF9yV3JPZFFYbV9DWm5lRG43bGkxUHBBaUxPNVRNQjlPbjZXN2M2R0tjdGtfblhvZmNFdVpJRlNjLW9WRTJKT0t3cnNEdGxTb05fYVZmd2NyTHk4LUtxZFpwTkszVzhzdThKcmtVSC1Kb2hGaFdMNXhBRG9uUGNHWWhlWW9uaU5paFJIM0JfbGMwWk51UF9FWU5vQVp6UVc2RXNyclAz?oc=5",
-        "source": "FotMob",
-        "published": "Tue, 14 Jul 2026 23:11:42 GMT"
       }
     ],
     "fcb": [
@@ -1589,7 +1589,7 @@
         "title": "Transfer rumors, news: Bayern star Olise wants Real Madrid move",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3d6MnRFSTgwUmY1UTRLQnYwdmNoTGhGcXREeDhDQXhXSGZOdHp4N3ZYRE5NaWVnazhpVnlvM2tIMl9VM2NfVXV4OUUzR29wd2I1UnpUdm9UM05Dcnk0bWI2YVFWS2lGdlR3NVlvZlNGZ1RybFZMR0NRWHhzT3plczZra1ZVY19CaG14S0NqTTAxczdyVVQtYy1OakpHbGM3dHBrdUVfV0IyeG1sRnE2VzBtbEw1aUhrdE10UjJ3b0lKQQ?oc=5",
         "source": "ESPN",
-        "published": "Thu, 16 Jul 2026 08:01:00 GMT"
+        "published": "Thu, 16 Jul 2026 11:03:00 GMT"
       },
       {
         "title": "Bayern Munich transfer: Super Eagles star set to be replaced by ex-AS Roma forward",
@@ -1618,10 +1618,10 @@
     ],
     "ars": [
       {
-        "title": "Arsenal 'exploring' Viktor Gyokeres transfer swap with Julian Alvarez deal complex",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1FHbHlVTTJ5bTBUNlRrQ2UzbVFoaG9KN3lyQmJUbExiSU1ySVExY2ZlZl9pVGR0OTFZcTRFYVUzVmFiOU5JUDlNbmI4T0prRUpCM2RoOGpidlVYbWFEMkdVQlctclliUHBlVy1zeG9fbVZIVHFUczJqSjFsYzNfTFVlWm42bHQxdEVabm9uOGEwOERaY0JZamxUb1hOQzlsaXfSAacBQVVfeXFMUFpqbGJWemRNdDNnR255WkVJRVVMUjBKUUplS0Y1QjRMT2ZxcGNRSHVEcnFadzZ1SGNsRnc2VTFRUk5mLWRESmNDRkVrS1FmemRrTmpqdWRud0dzaW5YYkdOSHkxNERlSzNnd2psZlMzbzlHTkpaRXc5RWQ1cmpOYkF5ZGFVNElseVZ5dUFObXphd1duUTZOQ2tDeVdWZXpBV1BvT0hxNGc?oc=5",
-        "source": "Football London",
-        "published": "Wed, 15 Jul 2026 14:46:54 GMT"
+        "title": "Arsenal pushing to seal quick transfer for Argentina’s World Cup hero - the-independent.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2lPZE16NTBnek1IeG9CaWlWNkNXdnBhR2JjcFBJbGVsMGc2UzJhaGNwVlltNmxrVVdlX3U1ZU1KNDJxU0tyUFdtUHlnRUp3RExLQWFZV2tEZThDNS1NTzd0cG1aSkd5S25HaEZzOWtlTVdiY1ZEU1lHQ29LN0pUWk1ZekQ0cjNPX2ktRFhwR3hQa3BKZkJlWTNXOHBLQQ?oc=5",
+        "source": "the-independent.com",
+        "published": "Sun, 12 Jul 2026 11:49:00 GMT"
       },
       {
         "title": "Why Arsenal’s Spending on New Forwards Might Not Stop at Leandro Trossard Replacement",
