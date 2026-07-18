@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T16:26:33.571156+00:00",
+  "updated": "2026-07-18T17:28:01.388748+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1522,10 +1522,22 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Rogers to Arsenal, deal confirmed; Man Utd to make Kone bid",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3ZudGdQTWlJYXF0MUpjb0pMVUp5N05Uc2JwajFUeE1hSlE1b1Y3cjJCVGFFRUdBQnZDcnNJc2xaYlA4YVpCbW94SVAxMjc3LTA0SjRKTWdVRDdRdnJ6d0xPdVljTjQzRkM1Vm9ERE12LURQTldzM2pQZEJlMzYyejA1Nm9jZnhmc25DYVU3dnBYeEtvdE9rRHVXSzhfZXB3RUc3YUE2Sk1nNUNOVWNUVERTb1Y5Ml81dVRVa1ZueUM4SFlGdXJZNjdQWQ?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 18 Jul 2026 14:30:27 GMT"
+        "title": "Man United transfer news LIVE: Hugo Larsson 'contact', Mateta deal, Kone 'agreement'",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 18 Jul 2026 16:53:37 GMT"
+      },
+      {
+        "title": "EXCLUSIVE: Man Utd and Newcastle open transfer talks for €50m midfield star",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFBlaWwzZmQyZUVmZjVTYkhiOE0tWHhPZ2ZpWVVhLUNTdTRxYkRXQmVEQURJQ0xHUTJ5eF9DOHdmTEtoSTIxQnREYm0xU094YTlYdGhscEFMcHYtLVI4RjhqV1VXeHc0WEhGS3BsS2RrczdxYVhjSXM2NWs1ZnV2bEJ3Y2ZIRzZ3NWFyVEM1NjQ3eExiMDdwTkhoZThDMFVhOXMxck9JUUJvWVJiekRlVldQTFhWR1Jfd3RfVjFXQ3c4aFAwZWcza2thV0s5ak9FLTJ4bHpGU28?oc=5",
+        "source": "footballtransfers.com",
+        "published": "Fri, 17 Jul 2026 05:14:00 GMT"
+      },
+      {
+        "title": "Hugo Larsson: Eintracht Frankfurt set new price for Man United target",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHRNWXlNLTNHZW1lY0dyaUlxTG9SdkZ6TUp0dUJSRVFZekZpNWk2REhtSVEtS3VvNEo5MGxBblJIekNMcy1QZHU4N25VMElpV3p1eGpMTXRvM0Q2eURmRWNkWGZZdFJUWHpSR3ZyWEs1Vl9FSTVDV2FCaGZxakdibFdRZVk2eFZXWjRCMnRMOE8xdjlIbUdJMUNRckVDaGFlUFFaN3o4cGs4cWFWS2ptM2QtUnFqMFE?oc=5",
+        "source": "The Peoples Person",
+        "published": "Fri, 17 Jul 2026 17:30:57 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd’s Shock Fernandes Asking Price; Barcelona Plan Gyokeres Bid",
@@ -1534,30 +1546,18 @@
         "published": "Fri, 17 Jul 2026 23:05:00 GMT"
       },
       {
-        "title": "Man United target makes decision over future after transfer stalls",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUpQVy12N0p3VEZVTkRnNzl3ZVE4aFBacllWQTF0OERYc0lwTWNVajNDazZmSkpxVzRWR1g4QVZXVktaZnc2Zk9iUDl6djBTNzhMMmo1VEFwalkyNkxhLTBWanlPd1ZrNVNhWFF6aEllR0pKb0huc1dXOUtMNU5tYkhybjZ5QzNJM3JRVWt1QUtOZXBBNll0VDExM2dJTWJyWVc4V213OFFaSDQ?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 18 Jul 2026 15:40:00 GMT"
-      },
-      {
-        "title": "Man Utd transfer news LIVE: £45m Kone fee 'agreed', Newcastle 'tracking' Amad",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHFuUnU5T1FfSG5NWVR2QlN2VU5TcHNEM04xQVh5WWtXdjV4VWZXNElaQTBJTXdSVDJUV1pBcXg3emtTVlRkemNNVWhiM2VPQnhhV0NROGFFa0hZY0xybzk1V0xNTmo2ZUxocDVTcG5BQThWSkdfWE1SVk5yY0cwLTNaTC1NT3A5MklQcTZIVE9nUzd0Z1NN?oc=5",
-        "source": "The Sun",
-        "published": "Sat, 18 Jul 2026 16:15:18 GMT"
-      },
-      {
-        "title": "Roma financial pressure - Why Manu Koné is perfect Man Utd final midfield signing",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXZWMkk4V003NnU5Z0dzeU5LSDRMdVBCVUt6X3pqM2Z1WDNzbDVLYTgtWnlsYlNkU2lZcVRQUnFQS3NVY1RIbXNYN3RZUG96UUFjbWVjOW9CSGVxYi0wV04tYkx5cGF1NVVGcVpzUEtGbUZTMThSbmk5SFU2MFJRZ3ZtN3lIdzZrQ2tleGVFYWIxWFVoQjVpOVpqT1VzNzV0UzQwdWxUVk01UkJRbXh3VTJ1dGZpMEs3SVFraXNLZTIwNXl4?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 18 Jul 2026 10:14:09 GMT"
+        "title": "Transfer news LIVE: Rogers to Arsenal, deal confirmed; Man Utd to make Kone bid",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3ZudGdQTWlJYXF0MUpjb0pMVUp5N05Uc2JwajFUeE1hSlE1b1Y3cjJCVGFFRUdBQnZDcnNJc2xaYlA4YVpCbW94SVAxMjc3LTA0SjRKTWdVRDdRdnJ6d0xPdVljTjQzRkM1Vm9ERE12LURQTldzM2pQZEJlMzYyejA1Nm9jZnhmc25DYVU3dnBYeEtvdE9rRHVXSzhfZXB3RUc3YUE2Sk1nNUNOVWNUVERTb1Y5Ml81dVRVa1ZueUM4SFlGdXJZNjdQWQ?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 18 Jul 2026 14:30:27 GMT"
       }
     ],
     "rm": [
       {
-        "title": "Real Madrid will only sign Olise if they part ways with a ‘big star’ -report",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUZBTjZDTE5LYmFXaXdqODJfZWZLX25JQk9vX2VhbGk1S000M2NueHFwVFBnaTBmaFdYM2tLSFJFR2V3cVFyZzZrTi1Kb0ZRRFd5N2FZOTFJazl0NTRyaDdOcmZnX1AwOW9BT21FM0dreGVHd2dtT0dWMFpwZkZzbzZLQ1J5YURm?oc=5",
-        "source": "Managing Madrid",
-        "published": "Fri, 17 Jul 2026 15:54:24 GMT"
+        "title": "‘His Wish’—Major Update on Michael Olise Transfer Saga Amid Real Madrid Links",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUszNVIwV25RMjE4TWJEQnFReVBDcWRfRVJ5OHlSdXdvM2M0bG44eDFjUHJyclQzVEplb3d1ZXJObEFtcWV4UTBnbTU5WFk2amdpZlNhR2luWThmZ2l0dFFQZi11MURjWHZxNDJjM2dYZ0ltTWw5MFRFZ19ldER0ZU1rendMTTB2dkNYeQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Thu, 16 Jul 2026 22:00:01 GMT"
       },
       {
         "title": "Enzo Fernandez's brother puts his Real Madrid transfer at risk with Jude Bellingham post",
@@ -1579,44 +1579,50 @@
       },
       {
         "title": "Revealed: Why Real Madrid passed on Mateus Fernandes despite Jorge Mendes reaching a full agreement",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzVMaFk1S0FleHQydmt2SXQybVFJOHIyZXZsaUFialVETHdyd3p0V0VYc0VHTzR4bjZab3drdzNwM2IwbG9CbHhyWV9UVV9tcnlBSGJOdVpGLWlXREFYS0dDR2JfWlNCeGhjLTMxcU9OM0pRSzdBTFdjLV90SzBwYy1uM3JZWGlZaS15bmNITlVpZ2F1Q1FzaUJaME8wX0tnd0J5SnlnUjdNYncyMDVkd0NPemE5Y0EwZGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY25ZdFJ1RUM0VmRDbHE3MXlCRjRqRGVIbWFJNEcxeGpGazFsWGVidmUyMlBTNThNX0NiaGIweTRxb0lWd2ZvbFE2R21XOGJZbExxbld1M1ltbzFxSXlpZHVsbVg2VnRMS21wMXdqWXhrZTNWcVhzLU1tTml5cmRjRDNPWFE4QWVrRE9UcWFpOTFUZTdKNC1Mc19SVW9mcG0yUFkwRTlrU1RubnVaUm9uSlBhUkZIZw?oc=5",
         "source": "Goal.com",
-        "published": "Sat, 18 Jul 2026 11:07:49 GMT"
+        "published": "Sat, 18 Jul 2026 11:07:26 GMT"
       }
     ],
     "fcb": [
       {
-        "title": "Bayern Munich’s João Palhinha on ‘verge’ of joining Aston Villa",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd19rU284czNRczJmMW9DOTBWU205Q0t0c2dZaElJTUhDZWhmRWhkZDE2b1NVdGctRUZwbDBLY1k0MGhxU3M4UEs1Z1hURHRCb0VmcGZmTXF2X2xKRWZLMVBMOXdKS2JUNHlxYmNTVFBVUnd5ajA2UGNSaFI2MmR0dXFPV004TVVpVmpaNDU1ZFFKUEx4X1JzVEtFUmNhc3k1anYyYmVYcFU0RTR0Y2NMa0tUNkVmYkI1b2s3MUFwTVBHampBNDNFXzhZNkx6M3VBMTltSVRCWQ?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sat, 18 Jul 2026 05:00:00 GMT"
-      },
-      {
         "title": "Bild issues report on Michael Olise’s desire to leave Bayern Munich for Real Madrid, but he won’t force exit",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSmRuSzdvcHRSRW9ZY0dBbGFVWWJDdFF5ZTEtWl9TTkRHRm1MRTQySUNnT1BxZllGU04zTVFLTEV4amRiU003WGRnb1Fac3NidlUyTkVVS3A5dlhibGlHeDRjZTZQWkJObUNBc2tfenlCSzdGa0o0aHdQY1BfY2ZrSDU4Ull3N0tLMzIxcXdJaTFuN2ZZNm5OTVAyRl9VWk5Vc2JzRk9WQjBRbkxacVJXRkZuWDZadVVaaUM5N3g2Mjk5cklEcTZjX1hKdkxIUWp2VFdTR0g0enRJZTZVMGx2ZUl4OFNRSGM?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Sat, 18 Jul 2026 13:37:00 GMT"
+        "published": "Sat, 18 Jul 2026 15:37:00 GMT"
       },
       {
-        "title": "Official: Noël Aséko Nkili completes move from Bayern Munich to Eintracht Frankfurt",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYzBiUWt0Umk5NC04RmVOT1psU2JuU2lzaWRSdHo1Qm13VnhiZXM4NjlrTVZIYi1jYjM2di0zMzZENUdYNmlXdmY4RmJKSTM4NWV3WEtOTEJFQlhsa1pIU1VHVjI2cWhyTkNTQjVGVm00M1Vjb2dGQXZWLWNwVlJCZ25heFBvdFlnRy1vSzZDdWZvRDdDNUxjRFpGZUoxYXlXVkhhS0dZcjNwNUZHVUN2QmxjMFBTS0diT3o3bWFrRVY5V293b1QyN2pldjRQNmJlWGdJZlBMeUFCYmZ6UXlEaDFJTDZjZW1sTXBLZTdTQlNvLUJx?oc=5",
+        "title": "João Palhinha not headed to Aston Villa?",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjI2QWxTb1BGUXgxc1V6cXZXYzBLRk8tek13N2kzSFd1QVdWMWRZa1VoZFlSQ3VaSzhOUVl0VWFUVWNKS3hWU1FxNUFDajhUZjhOYWJrbnVPejVkSVlUcmV2NXBSampra1dJamo3NnhSYXlLbmpYcVA2WElyandjMHh2aUtmbXN3dnpVYXVEWm5tWmdZWm1RbjR4VW9hYVg4V0p5UktOM1htcHMwVjVyaWhqbEEzYllnYVdr?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Sat, 18 Jul 2026 14:04:25 GMT"
+        "published": "Sat, 18 Jul 2026 15:22:00 GMT"
       },
       {
-        "title": "Ex-Bayern Munich player throws shade at Bundesliga clubs over Michael Olise transfer sweepstakes",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0FMSXVvTms5WUdpWkFDVVpUcWNnS2FqSjBQUkNfRGV2aVBYbDlySWlOY1praXhKMnpTVGlpSjBXUE1LNHlXYVFYbzhZVUxNcTM3MzJUOVMtalNmaHNlcVBHbTFzbWFZTzl5b01jWjFIVnU4a2JRdk5jbXEwVlVMQl8wUUIzZw?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 16 Jul 2026 08:30:00 GMT"
-      },
-      {
-        "title": "Bayern Munich News: Alphonso Davies not thinking about transfer; Real Madrid lies in wait for Michael Olise; and MORE!",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWmYzdEc4TzFjT2Q3RDNUT01MczhuVkFGSG9UTG9TUTRGbU5MX21YR1BKQ2E0cGdONU9kNEI5dDRyZzRTYXlnckQwcjgtYi1xNFhRTzVOdUYzYm4wbG9ZNkJQSWR6eDJtTmNtOGk4c0lLZUpfSHUzdU5WdTNvellFb2UwM1RVSDFmamgtRzdhbVJzWlEybmNmMlAzcTBMdU11LU5YQW1EZ3J5TXhCWExWV2FHWHoxZ2F2NEFWYmd0Ync3T0sycW9DREhBVTBOLWd6WjdubU9wWEJqR3B2YmkzUDZ3OVU1cmQyNlhr?oc=5",
+        "title": "Bayern Munich’s 2026 Summer Transfer Window: All updates",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnVMTk5HMTh6dHRzRFc3akNibHZCVGlqd0h0YjRlVWpVZ09qUW1tY0tHT2Y0TXowLTlrd29iNTBNcmQ3dldnTnlXblZvdWpSWWt6NXV6QVVSVHl4NkVFVkJJZk5aQ1NfRWNUWTh5d0hPa0ZKNHFLeFBjT0M4VlE2d2NiTDUydDlJclBRclVhc25TWnhMc2ZWcENvelZ4czg3TFFPT0RjeGpaamd0OXZzTGYtdnJqTi1aTzNUbVZpdWJLUi0ybzZ3UVZOTXBGTGc?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Sat, 18 Jul 2026 10:15:00 GMT"
+        "published": "Fri, 17 Jul 2026 06:45:00 GMT"
+      },
+      {
+        "title": "Why Bayern Munich isn’t sweating the Michael Olise situation",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSVVCSWwwb1ZocURFeF9SQTZSY0VNa2JfbExqNFZzeW1NU3N4RC1ZSFk1ZmFHWDktSFN2VFp2UlVadHhnY0NRX3NxYm0zN1hyU3RKVWRWNWsyYXVFcFVaTVhRNzNpRGk3cGdvSG15eTlDWUp1bjBfVGZrZHFocWZya3VUREFFNERsR2dydDM1MnZMNENGWDFjLXVrb1NWNUN4UllyVnhZbHZOSGUzdW5Rald0ek84Z25ZRkpfaDMxallKcHBzR2tyN1ZnR1lUcHpGbmNUYy1n?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sat, 18 Jul 2026 13:45:00 GMT"
+      },
+      {
+        "title": "Bayern Munich Set to Keep Kim Min-jae After Internal Transfer U-Turn",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUprQTBlTDhNS1VCVGVaS2x2eUxISTNFMUJUT1dTRTN4QjdPNExzZlRrZ2pPNlNmbXRmUC1kd3pUYW5fTU0wWWhRT3Z3TFBOVzUxd1Z5aG01YVFDYTg4cFdua3cyRzlwYnhNMkNGQ3ZZeFA2blVidUltRjRHSEh2aVdJcDVqeDYzSU92bkItazZZak9zbmppM1NUWENOcDZCRHBuMlFNeEx4V1JKTl9ySWpTT2NTMFFDaUx4WEhQbnlLQ0x6YmNZcGNrMUt3M193UXhsaXFB?oc=5",
+        "source": "roundtable.io",
+        "published": "Sat, 18 Jul 2026 00:16:38 GMT"
       }
     ],
     "ars": [
+      {
+        "title": "Will the World Cup affect Arsenal's transfer plans?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WS2twR19aS1FPSGVoWXpSNl9EZllEQ1JQX2VNNXVKNDdtbVN1QkNJcUx0QXBQR0F5M1cxYkZtOE55YWZuajNmXzh5cDRTNS1fbTZvbFhoZkxGSUFmN2VPX2dPY1F3djg?oc=5",
+        "source": "BBC",
+        "published": "Sat, 18 Jul 2026 14:47:45 GMT"
+      },
       {
         "title": "Morgan Rogers transfer news: Arsenal expected to make approach for top target but Aston Villa man could cost more than £100m",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWEdvLWsxSmU2T0o2enFqMEpkQmE1amJlcFlrZmlQT3lOeENOSTlDWWRhLThIbXVGeGJlSi1HTUtkd3kzOWV5Wjg5Z2NuTGtqOUJuNHFsdVZkUVhlTk1iSGlBTFdyUkp1N0FZZmg0RjZXalNPb2VzQ2NXVERFRlRKaFVaRERGd0ZsU2tJS0ZReENyZGFpcC1JWlpJR2lRU1RTdUFhdU9mMEFWS3FLY1d1aTBqa2hEM1N3TFpjV2RLbjJvSzAwa0duXzJXRDhiM2dGaXZJOVA5UTBYc1pzUXRpUk5IV2w1TWk0WEZRZUtfRDJfMU1fOGhQSHN6ZFAyRzZuOGFlTExUS0Fkdjg?oc=5",
@@ -1630,22 +1636,16 @@
         "published": "Thu, 16 Jul 2026 16:36:19 GMT"
       },
       {
-        "title": "Christos Tzolis transfer news: Arsenal verbally agree to sign Club Brugge attacker",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcUV3WjMxU2MtSmtHcHpCd3I0RlBvM01mX21BeXBGTlF5aURJYWo1TV9mbVoxSW5NMm1rbXNfc25CeFBlRlJKRWIwWjFwbU4tZm1qcFBkM3dPaTFCc1N5MFNpcERuZ3c?oc=5",
-        "source": "BBC",
-        "published": "Thu, 16 Jul 2026 15:12:20 GMT"
-      },
-      {
-        "title": "Arsenal told what to expect from Tzolis as move 'confirmed'",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeW1VOEZpS2lHb2M1ZkhZOXpnQ1dfYzE5bUxjUUJEZDJVZkNBRkZ1eUFnbld4S3UwU3V3cUs1bjRWakY0U2ZvREhUdWhlM1hkQURaX2IweGx6QS1OcnhkUjFCcFRMWVU5TC12dEZ6elV6MEtDQkNiVXNMLVpGU3l2czVVM2xCM0VYRi00OUJQc3VjRFJFSXdn?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 18 Jul 2026 14:34:28 GMT"
-      },
-      {
-        "title": "Arsenal Pushing for Bruno Guimaraes Transfer Through Intermediaries: Report",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWxTSFhxcjkzTkxUaXdsVWgyaHpQMzVmSFhLdWswaDNKM29NQzNFRDhNR0lkMXdIalpKXzVMMUstQ2ROQ0hJY3ZKUjBtWDUyZnRiY1ZOX3FPd3J4eXZBN3hVdGdNUWFpSE1NZEdDdlROMDlxM084VWtwYkNDeXRRRFRtOUxXMFFhMS1Ick1mZnFsSlU?oc=5",
+        "title": "“Has all the cards.” Arsenal tipped to complete Guimaraes move",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWpfY2xJbHFNLWFiOXJlZE9JZk1tOFk5c2hCallYeUItaUJBUXBBRXcxeVAtdEZKTzQxOXhRVEtmVkE5WlZrX2dmWXBxRmtJYjJxSXFFU0lfQ0VRUHY1dG5KbjBJbmJVTFhMbjJRWERsdEc5ZkxKMUR1X0tEVldyN1RGY1RCU1Z5dWpMMjl6V0FiUQ?oc=5",
         "source": "Yahoo Sports",
-        "published": "Sat, 18 Jul 2026 10:00:00 GMT"
+        "published": "Sat, 18 Jul 2026 16:10:00 GMT"
+      },
+      {
+        "title": "Bruno Guimaraes gets surprise reason for choosing Arsenal transfer over Man United",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTB3cERoY1M1QnQtaEVNRTZxWVhOQzh0US1McVZvVWJXYzRyWUc4VU1hMW9WY1pyckNDbndlMGFnMDQyUEJ5Z1BiUmZJTm1IZ2V1VDBFLW11S1d0cV85OWJxZG05VDFtaUk1NFEzU19XcmgwZGFsRGpCdW41OGpGNTVrQmM0X0lsMllHV0pDUmxkVXMteElyWVpYc9IBoAFBVV95cUxPLVd6bUlsaHF6OUdadmdzSkdzNDhXX05QTkpJenpBZUtUZFFzbXlMVUx6ejZ0RHlZWng2ZWZNazNNbUNQcHo4RGsyQlZnQ2NkNDdHbkNfVE5PNmdWdHEyTENNR3hJZUFWZlM4MjcwVWQ0cFNnN29Pc2dhRkNsZlVnLVVvblQ1a3VYX0xuT0N6bmZYYXFpdkR3TzY3TkRFNlNS?oc=5",
+        "source": "Football London",
+        "published": "Fri, 17 Jul 2026 18:40:22 GMT"
       }
     ]
   },
