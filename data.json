@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:38:42.134144+00:00",
+  "updated": "2026-07-18T23:42:52.107308+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -345,9 +345,9 @@
     "rm": {
       "name": "Real Madrid",
       "flag": "⚪",
-      "goals": 21,
+      "goals": 22,
       "ownGoals": 0,
-      "net": 21,
+      "net": 22,
       "assists": 6,
       "scorers": [
         {
@@ -361,9 +361,9 @@
         {
           "name": "Jude Bellingham",
           "nationality": "England",
-          "goals": 6,
+          "goals": 7,
           "ownGoals": 0,
-          "net": 6,
+          "net": 7,
           "assists": 1
         },
         {
@@ -631,9 +631,9 @@
           "name": "Jude Bellingham",
           "position": "Midfield",
           "nationality": "England",
-          "goals": 6,
+          "goals": 7,
           "ownGoals": 0,
-          "net": 6,
+          "net": 7,
           "assists": 1
         },
         {
@@ -1145,11 +1145,19 @@
     "ars": {
       "name": "Arsenal",
       "flag": "🔴",
-      "goals": 12,
+      "goals": 13,
       "ownGoals": 0,
-      "net": 12,
+      "net": 13,
       "assists": 9,
       "scorers": [
+        {
+          "name": "Bukayo Saka",
+          "nationality": "England",
+          "goals": 3,
+          "ownGoals": 0,
+          "net": 3,
+          "assists": 3
+        },
         {
           "name": "Kai Havertz",
           "nationality": "Germany",
@@ -1157,14 +1165,6 @@
           "ownGoals": 0,
           "net": 3,
           "assists": 0
-        },
-        {
-          "name": "Bukayo Saka",
-          "nationality": "England",
-          "goals": 2,
-          "ownGoals": 0,
-          "net": 2,
-          "assists": 3
         },
         {
           "name": "Leandro Trossard",
@@ -1455,9 +1455,9 @@
           "name": "Bukayo Saka",
           "position": "Offence",
           "nationality": "England",
-          "goals": 2,
+          "goals": 3,
           "ownGoals": 0,
-          "net": 2,
+          "net": 3,
           "assists": 3
         },
         {
@@ -1541,13 +1541,13 @@
         "title": "Transfer news LIVE: Chelsea hijack Rogers; Arsenal medical booked; Man Utd in Kone bid; Liverpool latest",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3ZudGdQTWlJYXF0MUpjb0pMVUp5N05Uc2JwajFUeE1hSlE1b1Y3cjJCVGFFRUdBQnZDcnNJc2xaYlA4YVpCbW94SVAxMjc3LTA0SjRKTWdVRDdRdnJ6d0xPdVljTjQzRkM1Vm9ERE12LURQTldzM2pQZEJlMzYyejA1Nm9jZnhmc25DYVU3dnBYeEtvdE9rRHVXSzhfZXB3RUc3YUE2Sk1nNUNOVWNUVERTb1Y5Ml81dVRVa1ZueUM4SFlGdXJZNjdQWQ?oc=5",
         "source": "London Evening Standard",
-        "published": "Sat, 18 Jul 2026 19:32:48 GMT"
+        "published": "Sat, 18 Jul 2026 19:31:20 GMT"
       },
       {
-        "title": "Transfer news LIVE: Chelsea hijack Arsenal's Morgan Rogers transfer, Man Utd move looms",
+        "title": "Transfer news: Chelsea hijack Arsenal's Morgan Rogers transfer, Man Utd move looms",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTB5MmppYVFzLVV1bmZPYlIzeXJfT0JVMmlPX2tUcGEwM2ZsSWJjRW1PXzNjZmstaXUwSzVfM1hiajFpOTJ5dE9nbndLd3M1Mm43ME1oZjRJbFNDWi13cVBaUFFfV3RYaUVIMTctYm41NmlVbDdONmN0LVRhMjdTLUtSb2pFVjY0OXNpSmlha21Db0k?oc=5",
-        "source": "Mirror",
-        "published": "Sat, 18 Jul 2026 21:54:42 GMT"
+        "source": "The Mirror",
+        "published": "Sat, 18 Jul 2026 07:24:33 GMT"
       },
       {
         "title": "Arsenal transfer target is not good enough for Man United - 'he's come up short'",
@@ -1556,48 +1556,48 @@
         "published": "Sat, 18 Jul 2026 13:29:00 GMT"
       },
       {
+        "title": "Man United transfer news LIVE: Hugo Larsson 'contact', Mateta deal, Kone 'agreement'",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 18 Jul 2026 22:42:20 GMT"
+      },
+      {
         "title": "Man Utd transfer news LIVE: £45m Kone fee 'agreed', Newcastle 'tracking' Amad",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHFuUnU5T1FfSG5NWVR2QlN2VU5TcHNEM04xQVh5WWtXdjV4VWZXNElaQTBJTXdSVDJUV1pBcXg3emtTVlRkemNNVWhiM2VPQnhhV0NROGFFa0hZY0xybzk1V0xNTmo2ZUxocDVTcG5BQThWSkdfWE1SVk5yY0cwLTNaTC1NT3A5MklQcTZIVE9nUzd0Z1NN?oc=5",
         "source": "The Sun",
-        "published": "Sat, 18 Jul 2026 22:33:26 GMT"
-      },
-      {
-        "title": "Roma financial pressure - Why Manu Koné is perfect Man Utd final midfield signing",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXZWMkk4V003NnU5Z0dzeU5LSDRMdVBCVUt6X3pqM2Z1WDNzbDVLYTgtWnlsYlNkU2lZcVRQUnFQS3NVY1RIbXNYN3RZUG96UUFjbWVjOW9CSGVxYi0wV04tYkx5cGF1NVVGcVpzUEtGbUZTMThSbmk5SFU2MFJRZ3ZtN3lIdzZrQ2tleGVFYWIxWFVoQjVpOVpqT1VzNzV0UzQwdWxUVk01UkJRbXh3VTJ1dGZpMEs3SVFraXNLZTIwNXl4?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 18 Jul 2026 10:14:09 GMT"
+        "published": "Sat, 18 Jul 2026 21:33:26 GMT"
       }
     ],
     "rm": [
       {
         "title": "Transfer rumors, news: Barcelona, Real Madrid want Romero",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNEIySlFBYllOeVlXaE53YjBvNFJ3QWt2Zmc4dUR5NTljMjRScXVSUjdXQTdDSHVneEM1RUZXVXBHdjdOcmE5Y25JVzYxNGNtcTV1UU9BbkhMT1ZyT0dfNHZwZE0yeEllWDB4LXFGLThtMEhmTC0yblo2TkJETlN5eHVSYk1IR1k5Y1d5al83YVZRYjdzcjh2ZU1SQi0wZGY5M2x2ZjRPbGlha3NhVXNuWnJtVHFYeVdtTUNuSmZiVWxadFlEM05ocFFZQkVMZGludmhOTmxGX1NJZTgtNzdIcQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLW5JX3NJMmNOTng3anU2WkJmV2ZwaG1WdjBubkFUMVpfVkdQcURHWXdJZXhTcXRQR1JhUnNCYWVJZG5XRTV6ZllBbzRtanZWM3l0eGJETFpCRWFoTFNDVDBFYVRsYk1nUU00dXZ5NFNEYjB3UmNZRVJqUEtUdVgxaHpYQnJ4eG1uQWxWdXpaeUlvTzNPQ1MxTG1VLWwzdVppa2tzcVcyWnMxRWNMTTY4Q1BWdmRmZlNlb1VIdU9oSnU5aHFTc2RjbXFCdGp2VjVLakNHel9BS1VLYS1hRWpGMGtrUjFyUQ?oc=5",
         "source": "ESPN",
         "published": "Sat, 18 Jul 2026 09:00:00 GMT"
       },
       {
-        "title": "‘His Wish’—Major Update on Michael Olise Transfer Saga Amid Real Madrid Links",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUszNVIwV25RMjE4TWJEQnFReVBDcWRfRVJ5OHlSdXdvM2M0bG44eDFjUHJyclQzVEplb3d1ZXJObEFtcWV4UTBnbTU5WFk2amdpZlNhR2luWThmZ2l0dFFQZi11MURjWHZxNDJjM2dYZ0ltTWw5MFRFZ19ldER0ZU1rendMTTB2dkNYeQ?oc=5",
+        "title": "Transfer rumors, news: Liverpool ready to move for Brazil's Rayan",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3d6MnRFSTgwUmY1UTRLQnYwdmNoTGhGcXREeDhDQXhXSGZOdHp4N3ZYRE5NaWVnazhpVnlvM2tIMl9VM2NfVXV4OUUzR29wd2I1UnpUdm9UM05Dcnk0bWI2YVFWS2lGdlR3NVlvZlNGZ1RybFZMR0NRWHhzT3plczZra1ZVY19CaG14S0NqTTAxczdyVVQtYy1OakpHbGM3dHBrdUVfV0IyeG1sRnE2VzBtbEw1aUhrdE10UjJ3b0lKQQ?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 16 Jul 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Salah Considers Premier League Rival; Man Utd’s Vinicius Jr Boost",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlNELUZqN0c5RE9FdHM4Y3JNVTBlOFlHU3AxWmU1WDVSX2pJUHJIMUt1VFJZTXVCMEZjTV8ycHp2RGNvdlduWXEweFBoWDE1LTJCLXE0R1Rna2hKUmlMdXRtRFhjLTdMbGMyNVI3THNwOVFTNkdHQk8yTkpIOU9YOWNreE9nZVFYYnNvRjROaUNEM1J6VzNrWklWNFZiZXdwZEtZMTV4dw?oc=5",
         "source": "Sports Illustrated",
-        "published": "Thu, 16 Jul 2026 22:00:01 GMT"
+        "published": "Sat, 18 Jul 2026 23:05:00 GMT"
       },
       {
-        "title": "Rodri: What we’re hearing about his transfer future — and why he is back to his best - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlZQZk5rYkNVZ1dJNlQ0bTBEY2llWWV1NTAtbHVqS2wtU1VHOXgxUDk5NnYzSHVNM1VWUUhWNXpnX0JNcG10bU9JelZTc2ZIekpfcENJcG1FdExpdlFqTjJmelFrdlRRRXZodjllRlhKM1p3SXBtQmRYV3haaHdhakJ0SGNlNXlQRXdTV2FPcktKS1FNNmFycmhiUXJhQnY4T2pqUXBQMA?oc=5",
-        "source": "The New York Times",
-        "published": "Sat, 18 Jul 2026 09:10:37 GMT"
+        "title": "Stunning development: Liverpool midfielder offered to Real Madrid in £85m deal",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPXzYyeDlqM19ybFhKd2FQYkxWUklJemhXT1UwT2pzVGpPU1hGaC1GQ25DU2RnbWY2UFFYaXRXN01wRGdyM2tFSW1EVzhITWFULWpXaW12UlZqYmtsTWZqSGtMQ1ktMy0tR1k1d3c3LTFaWFZyN05fMkpSdV9KWUw1MHpsTFVVSmZkN2lWS3pTT3BMVmFldkxhYmxaOHZBT2xjYTBBUk0wdWo5Z3BxN0pwbkVZa1BGZ1RTZVA5WDQxampfUW5SVWxwZ2VMNGlGZW9JVFBDVmFPQjQ?oc=5",
+        "source": "Anfield Watch",
+        "published": "Sat, 18 Jul 2026 20:30:00 GMT"
       },
       {
-        "title": "Bayern Munich News: Alphonso Davies not thinking about transfer; Real Madrid lies in wait for Michael Olise; and MORE!",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWmYzdEc4TzFjT2Q3RDNUT01MczhuVkFGSG9UTG9TUTRGbU5MX21YR1BKQ2E0cGdONU9kNEI5dDRyZzRTYXlnckQwcjgtYi1xNFhRTzVOdUYzYm4wbG9ZNkJQSWR6eDJtTmNtOGk4c0lLZUpfSHUzdU5WdTNvellFb2UwM1RVSDFmamgtRzdhbVJzWlEybmNmMlAzcTBMdU11LU5YQW1EZ3J5TXhCWExWV2FHWHoxZ2F2NEFWYmd0Ync3T0sycW9DREhBVTBOLWd6WjdubU9wWEJqR3B2YmkzUDZ3OVU1cmQyNlhr?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sat, 18 Jul 2026 18:15:00 GMT"
-      },
-      {
-        "title": "Revealed: Why Real Madrid passed on Mateus Fernandes despite Jorge Mendes reaching a full agreement",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzVMaFk1S0FleHQydmt2SXQybVFJOHIyZXZsaUFialVETHdyd3p0V0VYc0VHTzR4bjZab3drdzNwM2IwbG9CbHhyWV9UVV9tcnlBSGJOdVpGLWlXREFYS0dDR2JfWlNCeGhjLTMxcU9OM0pRSzdBTFdjLV90SzBwYy1uM3JZWGlZaS15bmNITlVpZ2F1Q1FzaUJaME8wX0tnd0J5SnlnUjdNYncyMDVkd0NPemE5Y0EwZGc?oc=5",
-        "source": "Goal.com",
-        "published": "Sat, 18 Jul 2026 11:07:49 GMT"
+        "title": "Eduardo Camavinga: Man City transfer nightmare may swing door open for Man United’s Bernabeu raid",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3dIQVowX1lMSFhlOUxjeTdpVU5kQU1INlJBd2VnYlU4dDMtM09kd1MxcmpOVWxOTUdhS3Y0RFFZMzR5dk5JSGJpSmx4b0tqSEp6SndCdmZJeHZvY185amtEUUdqWmIxWE1nbTktd3BiLW01bjJMREVFbnlHZUptWDhyUVFUbHFkWlNDZndHREc5ejk5MXNhSlBUNmg0ZjBvSWR3QzFQdDZSV2l5UWRzNk9lNFlIZkpnald1YmFPZTk3Si1VNTJyVFFkZG1Ybjk5ekRPZFM2R05xNVU?oc=5",
+        "source": "The Peoples Person",
+        "published": "Sat, 18 Jul 2026 20:00:49 GMT"
       }
     ],
     "fcb": [
@@ -1640,12 +1640,6 @@
         "published": "Sat, 18 Jul 2026 14:47:45 GMT"
       },
       {
-        "title": "Transfer rumors, news: Porro's World Cup for Spain catches Barça's eye",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNXpHWERLR0xlQlF0eFZLazY3UU9BaHF3czlnS0xIUHF0Q3ZUSVNmUEFwUVA1NTc4eUtHQWd0VFpfd25fTEgyWVczWjgybDhscmF1X3Z3VTNJbDNPUmM2ZWhRMkpKQzBZR0dHRGxqWkU2V1pLeTdYNF9hUHpreUdWeTgtZl9DWUxtbTN2b3Q5NUFCbVhFV2dnQTJOemlDZEhyUXd2WmdtbThhbWhJQmVvQ0QyQkpUVHJrZzlJd2d1dVdNZlo2VmhSXw?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 17 Jul 2026 17:31:00 GMT"
-      },
-      {
         "title": "Morgan Rogers transfer news: Arsenal expected to make approach for top target but Aston Villa man could cost more than £100m",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWEdvLWsxSmU2T0o2enFqMEpkQmE1amJlcFlrZmlQT3lOeENOSTlDWWRhLThIbXVGeGJlSi1HTUtkd3kzOWV5Wjg5Z2NuTGtqOUJuNHFsdVZkUVhlTk1iSGlBTFdyUkp1N0FZZmg0RjZXalNPb2VzQ2NXVERFRlRKaFVaRERGd0ZsU2tJS0ZReENyZGFpcC1JWlpJR2lRU1RTdUFhdU9mMEFWS3FLY1d1aTBqa2hEM1N3TFpjV2RLbjJvSzAwa0duXzJXRDhiM2dGaXZJOVA5UTBYc1pzUXRpUk5IV2w1TWk0WEZRZUtfRDJfMU1fOGhQSHN6ZFAyRzZuOGFlTExUS0Fkdjg?oc=5",
         "source": "Sky Sports",
@@ -1662,6 +1656,12 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcUV3WjMxU2MtSmtHcHpCd3I0RlBvM01mX21BeXBGTlF5aURJYWo1TV9mbVoxSW5NMm1rbXNfc25CeFBlRlJKRWIwWjFwbU4tZm1qcFBkM3dPaTFCc1N5MFNpcERuZ3c?oc=5",
         "source": "BBC",
         "published": "Thu, 16 Jul 2026 15:12:20 GMT"
+      },
+      {
+        "title": "Arsenal shirt number options for Christos Tzolis as 'medical booked'",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVJValJQLTlVT1RXeDMzNFZJd2FNYmFkd3duQXl1TnVzb2NMQkNYT0JmSVV2WTE1LXhzY0Voc05YY3duYlZudG5pdUdLeEpoWVNpdElpcWU4WXFRemRDdlBNYld6cWRib05waHZaZjZwRFpaQUx6ajZxNWg3U0dSNGd3NkFvbFB1YUxJVmJ4azdKOFM3YTVxWGZhWkF2WHhTVmpCb3lJeFpHSHluY3BnMmRETEUtQklq?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 18 Jul 2026 21:18:59 GMT"
       }
     ]
   },
