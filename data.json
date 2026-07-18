@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:37:32.466763+00:00",
+  "updated": "2026-07-18T21:40:46.768036+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -7,7 +7,7 @@
       "goals": 7,
       "ownGoals": 0,
       "net": 7,
-      "assists": 1,
+      "assists": 2,
       "scorers": [
         {
           "name": "Matheus Cunha",
@@ -26,20 +26,20 @@
           "assists": 0
         },
         {
-          "name": "Lisandro Martínez",
-          "nationality": "Argentina",
+          "name": "Marcus Rashford",
+          "nationality": "England",
           "goals": 1,
           "ownGoals": 0,
           "net": 1,
           "assists": 1
         },
         {
-          "name": "Marcus Rashford",
-          "nationality": "England",
+          "name": "Lisandro Martínez",
+          "nationality": "Argentina",
           "goals": 1,
           "ownGoals": 0,
           "net": 1,
-          "assists": 0
+          "assists": 1
         }
       ],
       "squad": [
@@ -302,7 +302,7 @@
           "goals": 1,
           "ownGoals": 0,
           "net": 1,
-          "assists": 0
+          "assists": 1
         },
         {
           "name": "Matheus Cunha",
@@ -1145,10 +1145,10 @@
     "ars": {
       "name": "Arsenal",
       "flag": "🔴",
-      "goals": 9,
+      "goals": 11,
       "ownGoals": 0,
-      "net": 9,
-      "assists": 4,
+      "net": 11,
+      "assists": 9,
       "scorers": [
         {
           "name": "Kai Havertz",
@@ -1173,6 +1173,22 @@
           "ownGoals": 0,
           "net": 2,
           "assists": 0
+        },
+        {
+          "name": "Bukayo Saka",
+          "nationality": "England",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1,
+          "assists": 3
+        },
+        {
+          "name": "Declan Rice",
+          "nationality": "England",
+          "goals": 1,
+          "ownGoals": 0,
+          "net": 1,
+          "assists": 2
         },
         {
           "name": "Viktor Gyökeres",
@@ -1358,10 +1374,10 @@
           "name": "Declan Rice",
           "position": "Midfield",
           "nationality": "England",
-          "goals": 0,
+          "goals": 1,
           "ownGoals": 0,
-          "net": 0,
-          "assists": 0
+          "net": 1,
+          "assists": 2
         },
         {
           "name": "Eberechi Eze",
@@ -1439,10 +1455,10 @@
           "name": "Bukayo Saka",
           "position": "Offence",
           "nationality": "England",
-          "goals": 0,
+          "goals": 1,
           "ownGoals": 0,
-          "net": 0,
-          "assists": 0
+          "net": 1,
+          "assists": 3
         },
         {
           "name": "Gabriel Jesus",
@@ -1522,34 +1538,34 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer news LIVE: Chelsea hijack Arsenal's Morgan Rogers transfer, Man Utd move looms",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTB5MmppYVFzLVV1bmZPYlIzeXJfT0JVMmlPX2tUcGEwM2ZsSWJjRW1PXzNjZmstaXUwSzVfM1hiajFpOTJ5dE9nbndLd3M1Mm43ME1oZjRJbFNDWi13cVBaUFFfV3RYaUVIMTctYm41NmlVbDdONmN0LVRhMjdTLUtSb2pFVjY0OXNpSmlha21Db0k?oc=5",
+        "source": "The Mirror",
+        "published": "Sat, 18 Jul 2026 20:45:58 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Chelsea hijack Rogers; Arsenal medical booked; Man Utd in Kone bid; Liverpool latest",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3ZudGdQTWlJYXF0MUpjb0pMVUp5N05Uc2JwajFUeE1hSlE1b1Y3cjJCVGFFRUdBQnZDcnNJc2xaYlA4YVpCbW94SVAxMjc3LTA0SjRKTWdVRDdRdnJ6d0xPdVljTjQzRkM1Vm9ERE12LURQTldzM2pQZEJlMzYyejA1Nm9jZnhmc25DYVU3dnBYeEtvdE9rRHVXSzhfZXB3RUc3YUE2Sk1nNUNOVWNUVERTb1Y5Ml81dVRVa1ZueUM4SFlGdXJZNjdQWQ?oc=5",
         "source": "London Evening Standard",
         "published": "Sat, 18 Jul 2026 19:32:48 GMT"
       },
       {
-        "title": "Man United transfer news LIVE: Hugo Larsson 'contact', Mateta deal, Kone 'agreement'",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sat, 18 Jul 2026 19:25:29 GMT"
-      },
-      {
-        "title": "Marcus Rashford’s £40m Manchester United exit clause expires - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNamxYNnJrTy02aEE3M1o5Tm9vaWVyS2t1VXdhYTlSXzhvQ01QaEgzZGgwTFZHQUZVRmg4eDI1OHZIZDdMNGZJU3RDTHljOGgxMVpQMHdzd3lKRGZrV01zd3REdVBEMGpaNHlJSDlpT0QtdzF3WlZmZks3cERYOTVXLThzOXVIVGdaUk9ZWFdsV2pZRkNzeUJsWVdCcjRMalJnT2lJN01R?oc=5",
-        "source": "The New York Times",
-        "published": "Thu, 16 Jul 2026 21:19:07 GMT"
-      },
-      {
-        "title": "Man Utd issue Rashford transfer stance as 'plan revealed'",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUYxckk3RnRyWXdPVnV5ZU9iRlkzYVpobUNyRXJSWlJQYnIwWUlXd3VZdlUtMlhIY1F3T01DZ2tPZ01jbTd3RDEtcmVVVWxKZE1yNW15RUphLXRNMUJWWlJCVzNMV0VTbnFVdGgxaWJ6ZlFFYlhMTV9qMW9RTUZKZlk5cXRqTDZ6UGEzNWg5S0VJUEVpWGc?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 18 Jul 2026 12:10:31 GMT"
+        "title": "Transfer news LIVE: Chelsea agree £117m Rogers move, Salah to Besiktas latest",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjRycXZhVGpEcVVfMzB4My1ieFpxVXRLWGtjZGNqcUtMMTVWR1JfdTI2OS1sWmNiUE10aTVPOW5WakRnSUIyZUZ0d056aDMxbU13UFl5T0RraWJPeDQtenlrYktSSmUydVlIOVk3bmdmVzF4c1hWNzFvSFRLc3pxQzRrYUdxUUx3NTRLRHZfQ2lpQ2M?oc=5",
+        "source": "The Sun",
+        "published": "Sat, 18 Jul 2026 20:58:55 GMT"
       },
       {
         "title": "Eduardo Camavinga: Man City transfer nightmare may swing door open for Man United’s Bernabeu raid",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1Jic1FQWXZXbHljanZ6cGtlVUxTZXRfOWV4Ynh4bjRVWmxPdGR3WnFseDZUcnh2MllBcUQzd1JKS0RGRGRZYnJfLUNpdDNybTEyZU1vSmUxcFVGNjhMdzQ5S0RuTXpET3A1S2gzRmJ5ZEdwTVhFZlV6UWZlbE5wQlgxLWNTLWx6X29z?oc=5",
-        "source": "Yahoo Sports Canada",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFJBTlVCeFNYVjFKQnc1VzI3UExETDIwQnVUTHRtWTJOVFc1M09oNXhKamdZeGlzTVhna3VCUWp3aWVqWEZFVkZZUEJJazY5b1EyQnBqUTRpbmlkVERhYVJxWUplX2s1cWlpY0sxR2RoS1cyLUQtSXNPdHBNZzY2UEpodHRHLWlqcGN5ZA?oc=5",
+        "source": "Yahoo Sports",
         "published": "Sat, 18 Jul 2026 20:05:00 GMT"
+      },
+      {
+        "title": "Man Utd transfer news LIVE: £45m Kone fee 'agreed', Newcastle 'tracking' Amad",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHFuUnU5T1FfSG5NWVR2QlN2VU5TcHNEM04xQVh5WWtXdjV4VWZXNElaQTBJTXdSVDJUV1pBcXg3emtTVlRkemNNVWhiM2VPQnhhV0NROGFFa0hZY0xybzk1V0xNTmo2ZUxocDVTcG5BQThWSkdfWE1SVk5yY0cwLTNaTC1NT3A5MklQcTZIVE9nUzd0Z1NN?oc=5",
+        "source": "The Sun",
+        "published": "Sat, 18 Jul 2026 20:45:18 GMT"
       }
     ],
     "rm": [
@@ -1566,12 +1582,6 @@
         "published": "Thu, 16 Jul 2026 22:00:01 GMT"
       },
       {
-        "title": "Eduardo Camavinga: Man City transfer nightmare may swing door open for Man United’s Bernabeu raid",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3dIQVowX1lMSFhlOUxjeTdpVU5kQU1INlJBd2VnYlU4dDMtM09kd1MxcmpOVWxOTUdhS3Y0RFFZMzR5dk5JSGJpSmx4b0tqSEp6SndCdmZJeHZvY185amtEUUdqWmIxWE1nbTktd3BiLW01bjJMREVFbnlHZUptWDhyUVFUbHFkWlNDZndHREc5ejk5MXNhSlBUNmg0ZjBvSWR3QzFQdDZSV2l5UWRzNk9lNFlIZkpnald1YmFPZTk3Si1VNTJyVFFkZG1Ybjk5ekRPZFM2R05xNVU?oc=5",
-        "source": "The Peoples Person",
-        "published": "Sat, 18 Jul 2026 20:00:49 GMT"
-      },
-      {
         "title": "Rodri: What we’re hearing about his transfer future — and why he is back to his best - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlZQZk5rYkNVZ1dJNlQ0bTBEY2llWWV1NTAtbHVqS2wtU1VHOXgxUDk5NnYzSHVNM1VWUUhWNXpnX0JNcG10bU9JelZTc2ZIekpfcENJcG1FdExpdlFqTjJmelFrdlRRRXZodjllRlhKM1p3SXBtQmRYV3haaHdhakJ0SGNlNXlQRXdTV2FPcktKS1FNNmFycmhiUXJhQnY4T2pqUXBQMA?oc=5",
         "source": "The New York Times",
@@ -1582,6 +1592,12 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5abXdJb0hTbzRSOE04aFB1OGc5dXBraTdRR0JCOXJKT21DSF9vdWNQdlBwdWpxYUs3SGhSMFNUYmVFQm5EeHZqeTRjWnYtbTlkdFpjemJBY05ZRVJhdWg2VzBZQ0JQblJpSEx2Rm02eXp4MHlyVm5PYklpWVM?oc=5",
         "source": "Managing Madrid",
         "published": "Sat, 18 Jul 2026 15:47:28 GMT"
+      },
+      {
+        "title": "Bayern Munich News: Alphonso Davies not thinking about transfer; Real Madrid lies in wait for Michael Olise; and MORE!",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWmYzdEc4TzFjT2Q3RDNUT01MczhuVkFGSG9UTG9TUTRGbU5MX21YR1BKQ2E0cGdONU9kNEI5dDRyZzRTYXlnckQwcjgtYi1xNFhRTzVOdUYzYm4wbG9ZNkJQSWR6eDJtTmNtOGk4c0lLZUpfSHUzdU5WdTNvellFb2UwM1RVSDFmamgtRzdhbVJzWlEybmNmMlAzcTBMdU11LU5YQW1EZ3J5TXhCWExWV2FHWHoxZ2F2NEFWYmd0Ync3T0sycW9DREhBVTBOLWd6WjdubU9wWEJqR3B2YmkzUDZ3OVU1cmQyNlhr?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sat, 18 Jul 2026 18:15:00 GMT"
       }
     ],
     "fcb": [
@@ -1598,10 +1614,10 @@
         "published": "Sat, 18 Jul 2026 17:30:00 GMT"
       },
       {
-        "title": "Ex-Bayern Munich player throws shade at Bundesliga clubs over Michael Olise transfer sweepstakes",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0FMSXVvTms5WUdpWkFDVVpUcWNnS2FqSjBQUkNfRGV2aVBYbDlySWlOY1praXhKMnpTVGlpSjBXUE1LNHlXYVFYbzhZVUxNcTM3MzJUOVMtalNmaHNlcVBHbTFzbWFZTzl5b01jWjFIVnU4a2JRdk5jbXEwVlVMQl8wUUIzZw?oc=5",
+        "title": "Bayern Munich top 10 most expensive transfers of all time (adjusted for inflation)",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45akVrRDBxUEVzeW93XzNFLXJhYUdIOWN1M25STkZmR0M4SXlWS3lyZ0kxUkhkNk90MlVQUTdKUVNJV25rbms2cEVBSEk5RXdkVm9qYXdOVXE3ZlQwVjJoOEdKaTFFbW1DV3NEYlZlMmFvc0tLMk9HeEsyMGNHT1E?oc=5",
         "source": "Yahoo Sports",
-        "published": "Thu, 16 Jul 2026 08:30:00 GMT"
+        "published": "Sat, 18 Jul 2026 20:30:00 GMT"
       },
       {
         "title": "Official: Noël Aséko Nkili completes move from Bayern Munich to Eintracht Frankfurt",
@@ -1636,37 +1652,20 @@
         "published": "Thu, 16 Jul 2026 16:36:19 GMT"
       },
       {
-        "title": "Arsenal handed new Guimaraes transfer boost after £46m Newcastle bid",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmJMelJPLXp1eUxzWUlodG1WZUw0ckw4SXZScWNHbjU4ak03dU9xYUJZRUhaVEhXbWtxT3RDSUhzN3dZd3pBVk4wTVJxb1JWZ3VQWDJDSldWM2hEQWNWcWh6a0VCbFE5Q29HM2Jxem9IYzdtbVNtNTh5RmdIYTZoQTZiUllITjh3VzZ5SGs4QnFtY1U5Z0VTajhxMm4?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 18 Jul 2026 18:45:44 GMT"
+        "title": "Christos Tzolis transfer news: Arsenal verbally agree to sign Club Brugge attacker",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcUV3WjMxU2MtSmtHcHpCd3I0RlBvM01mX21BeXBGTlF5aURJYWo1TV9mbVoxSW5NMm1rbXNfc25CeFBlRlJKRWIwWjFwbU4tZm1qcFBkM3dPaTFCc1N5MFNpcERuZ3c?oc=5",
+        "source": "BBC",
+        "published": "Thu, 16 Jul 2026 15:12:20 GMT"
       },
       {
-        "title": "“Has all the cards.” Arsenal tipped to complete Guimaraes move",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWpfY2xJbHFNLWFiOXJlZE9JZk1tOFk5c2hCallYeUItaUJBUXBBRXcxeVAtdEZKTzQxOXhRVEtmVkE5WlZrX2dmWXBxRmtJYjJxSXFFU0lfQ0VRUHY1dG5KbjBJbmJVTFhMbjJRWERsdEc5ZkxKMUR1X0tEVldyN1RGY1RCU1Z5dWpMMjl6V0FiUQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sat, 18 Jul 2026 16:10:00 GMT"
+        "title": "Arsenal shirt number options for Christos Tzolis as 'medical booked'",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVJValJQLTlVT1RXeDMzNFZJd2FNYmFkd3duQXl1TnVzb2NMQkNYT0JmSVV2WTE1LXhzY0Voc05YY3duYlZudG5pdUdLeEpoWVNpdElpcWU4WXFRemRDdlBNYld6cWRib05waHZaZjZwRFpaQUx6ajZxNWg3U0dSNGd3NkFvbFB1YUxJVmJ4azdKOFM3YTVxWGZhWkF2WHhTVmpCb3lJeFpHSHluY3BnMmRETEUtQklq?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 18 Jul 2026 21:18:59 GMT"
       }
     ]
   },
   "upcoming": [
-    {
-      "id": 537389,
-      "date": "2026-07-18T21:00:00Z",
-      "group": null,
-      "status": "TIMED",
-      "home": {
-        "name": "France",
-        "flag": "🇫🇷",
-        "lineup": []
-      },
-      "away": {
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lineup": []
-      },
-      "lineup_status": "Lineup TBA — check back closer to kickoff"
-    },
     {
       "id": 537390,
       "date": "2026-07-19T19:00:00Z",
