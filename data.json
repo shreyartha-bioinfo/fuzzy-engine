@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T14:54:51.360805+00:00",
+  "updated": "2026-07-19T15:46:41.879353+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Chelsea medical, £39m bid for Man Utd target, Diomande hijack",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3BfRUg1WGpmSy01MXJRbjlscU9GVHNJYVAzVkJ5aktkVERTUlpjemxOWUgtYURSMEVUOEY3VzJJZXZOMG5NM0hvdE5STjBFNlN4V1VzV1BfOHc1Nklwcmk2eFZKcDlpa1hGY3pYQlNhMU9FTTJmX091X09LS2hjQnNYbjRKY3JyZm5SeG5mLWJwZGs?oc=5",
-        "source": "The Mirror",
-        "published": "Sun, 19 Jul 2026 13:53:29 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal eye Diomande; Rogers medical; Man Utd deal",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMjdjaFhrOXFPc3NFdE9Ua3ZEdEFPQ0hodVBzRnlNYWlLRHZqZUZDQ0RBSjBnZEJlYjl5TlVoSDl3OTFVcm9EdURlRGdpcmUtWTRHaWFvZGJPa3FkaWVVaGR0NWNhVHFRX3R3X2FzcTRYZlpKWGVwZWdDTTFybG5HRjhKbXh0LUhCVDlHNHVreUhldUdGWFZtbGJtMHFQRkY0R1NMTDlYeW9jTGhZOUlXc1Vwd0lyQTVSYU1KaUFtS1AybkdqcnpSbHNxTGZFTzk1?oc=5",
         "source": "London Evening Standard",
         "published": "Sun, 19 Jul 2026 12:34:47 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Chelsea medical, £39m bid for Man Utd target, Diomande hijack",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3BfRUg1WGpmSy01MXJRbjlscU9GVHNJYVAzVkJ5aktkVERTUlpjemxOWUgtYURSMEVUOEY3VzJJZXZOMG5NM0hvdE5STjBFNlN4V1VzV1BfOHc1Nklwcmk2eFZKcDlpa1hGY3pYQlNhMU9FTTJmX091X09LS2hjQnNYbjRKY3JyZm5SeG5mLWJwZGs?oc=5",
+        "source": "The Mirror",
+        "published": "Sun, 19 Jul 2026 15:19:28 GMT"
       },
       {
         "title": "Transfer news LIVE: AC Milan eye shock Phil Foden move as Tottenham hold Savinho talks",
@@ -1556,16 +1556,16 @@
         "published": "Sun, 19 Jul 2026 12:53:31 GMT"
       },
       {
+        "title": "Man United transfer news LIVE: Manu Kone bid, Hugo Larsson 'contact', Summerville latest",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 19 Jul 2026 15:36:15 GMT"
+      },
+      {
         "title": "Lewis Hall transfer preference between Man Utd and Chelsea emerges",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGVtUXlYNjVuUzZ6NnRMRXh6STA0YmdtalJDYWNwanR6bnItOVRwSHZkV1l0Mk9lQkdMQi10UHJTbnBFcUdIdEdnQ1RnRVozczd5UEpuU19vUXM0bWdvWXVPM1FUMHhIVW1aMzlReHhRS0Nmdk51VnhFamU1Sk0xQWZqOXplNU0?oc=5",
         "source": "Football365",
         "published": "Sun, 19 Jul 2026 12:05:22 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Manu Kone bid, Hugo Larsson 'contact', Summerville latest",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 19 Jul 2026 13:53:02 GMT"
       }
     ],
     "rm": [
@@ -1602,22 +1602,22 @@
     ],
     "fcb": [
       {
-        "title": "Report: Bayern Munich close to sealing lone midfield signing of the summer",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLWNpZjVaZjYxWFUzYVB2Qmtxa1NjWkVzOFp0YnFnM3RqQjdrc285c3JNVkdDVThFN3g2RlFSWVhXWU9HbmR6VEhzTC1ZQzBHWGtxQTdYam1OUVZxUEhndXlhS2dKTGNwMnhId2lUaDhsZjRrczAxSDBDTjFtcWE5Y1NpaXdFRGxoMWw2cXBTZ0k4alJSQ2VCS1UzTmVEOWZubEZPY1E0UFRNdUZ2dDR3UFIyVlVlaWRCc0lSQkNrLVpsdHJPU2hNSHBBdmEwaTRYTEluUnQ2SGJaWHByX2JUTDYwVzh1UDA?oc=5",
+        "title": "Max Eberl striving to get summer business done early at Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjJMOE9DTWlYOGlETDU2YkIxNkVtX1ZzRnR3dW9CMHFFTVhlWWVCTnAtU3NoNU1sZkpVSUU4aEVVQWRWOXBpSi1pNWlsQ3VPVTU5cXp3elVpNlRUaG55RURPRkRQSWExWnJxUTNyTlg2MU1Vak9oekJUWmdKTWp4YnUwWnhKZzBuYkNlZm9NeGFwTjl2aTVLY3E1M1ptU3dDSWtrTzVib05GWmJoa1hCdHZvc1V0N3JmZjNXUDBNNURmRzF4c1dDRWIya2F3Sm0wMEt0WDlsRmRNemhRVlBvZVFmMA?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Sat, 18 Jul 2026 17:30:00 GMT"
+        "published": "Sat, 18 Jul 2026 23:30:00 GMT"
+      },
+      {
+        "title": "‘Sorry Tottenham’ - Why Harry Kane will not be rejoining Spurs in stunning transfer as update delivered on England striker’s future at Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0FwMjl1RUo0cGJlbk1PRWxrYlNDUl9ib25DLVFDUTR3SEpwdlBodnFvZDhmSEptT282Wjd4TDZvVVFVc1JoM0l3V2lmRVZ2Y3NzaWpkc256dkpvdE9WU1p3RkItb1hZczJtRE85Vk4zMXRkQnVNTng2dkNULXlUdE5fak51a1RVWFNrZTFYVGZGbVMyOG5tZWoxb0E1Qi1QVzk0bS1PMWU5WjA2TnpIRWVlUnE?oc=5",
+        "source": "Goal.com",
+        "published": "Sun, 19 Jul 2026 12:02:02 GMT"
       },
       {
         "title": "Michael Olise future prediction made as Real Madrid handed transfer warning",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHJ0UWI4dWZHaHhVZVlpVzFBMXc2NUVBaU56a0pxSEppRHAxSm9sNVlqWHFLck9MRVV6ZXFvN1E1bWdCNjF4OC1vOUh6T0Nlc1dGNjRwUXZiRkxISU45N3NnR2p2cUdxOXZ3TUxEc1h1UmZraWdJeG5QcDRqQXUyQWYwWmtWOVBMYjI2MDRCcmxPTVo4cWt2Wg?oc=5",
         "source": "talkSPORT",
         "published": "Sat, 18 Jul 2026 16:33:08 GMT"
-      },
-      {
-        "title": "‘Sorry Tottenham’ - Why Harry Kane will not be rejoining Spurs in stunning transfer as update delivered on England striker’s future at Bayern Munich",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0FwMjl1RUo0cGJlbk1PRWxrYlNDUl9ib25DLVFDUTR3SEpwdlBodnFvZDhmSEptT282Wjd4TDZvVVFVc1JoM0l3V2lmRVZ2Y3NzaWpkc256dkpvdE9WU1p3RkItb1hZczJtRE85Vk4zMXRkQnVNTng2dkNULXlUdE5fak51a1RVWFNrZTFYVGZGbVMyOG5tZWoxb0E1Qi1QVzk0bS1PMWU5WjA2TnpIRWVlUnE?oc=5",
-        "source": "Goal.com",
-        "published": "Sun, 19 Jul 2026 12:00:35 GMT"
       },
       {
         "title": "Fifth Aston Villa signing travelling today to finalise transfer after deal progressed rapidly",
@@ -1634,22 +1634,16 @@
     ],
     "ars": [
       {
-        "title": "Morgan Rogers' three reasons for choosing Chelsea over Arsenal in transfer U-turn",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaElWakdnYmhVbWdnd09BNzVnamJJSzJsSzQwU3NBQTBEM0NodUpEOUdxc1pfRXN6dkU4eFFCRGRTV0x4c0g5bHVzYWNLbmNkb3pnVEVBbWZ2V1RQZjBLbUtKOE1FSWRzc3hNeTJPckpMWmNqUG9RMU1PZVgzSjAyR1F4ZDJOLXhlbk9NRXphWnhYcUdROENUekRCaDhUekFJNHfSAacBQVVfeXFMTVI2aFlkRFJLd29kV0h4OHJNelhfc3g4MHlHMTl1THU0aFlSMUJTLW5zN0FXM01iNDNHeXZWdUlpbXk1c0UtMVFBWkNWaHl6Y1RIOUFtdEQ1UXFFR1lzRWliQ205X2paVHRIVHVaYlhfUDY3NVZfalRWcDIyQkd5YVY3eER4dmtGMkIwQWtuenJOVXp4QzdIUHBuQTc4bXdYN2VKdS1GWFE?oc=5",
-        "source": "Football London",
-        "published": "Sun, 19 Jul 2026 09:21:51 GMT"
-      },
-      {
         "title": "Will the World Cup affect Arsenal's transfer plans?",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WS2twR19aS1FPSGVoWXpSNl9EZllEQ1JQX2VNNXVKNDdtbVN1QkNJcUx0QXBQR0F5M1cxYkZtOE55YWZuajNmXzh5cDRTNS1fbTZvbFhoZkxGSUFmN2VPX2dPY1F3djg?oc=5",
         "source": "BBC",
         "published": "Sat, 18 Jul 2026 14:47:45 GMT"
       },
       {
-        "title": "Arsenal have made checks on Bundesliga star’s transfer – Romano",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN25hajNTZDVFTDkwM0VIUUtJYWY0aHc5eFhEM1RPczdySnh2TkthY3J5LTN5VV9LelZlRnlZamJZVFEwTXJtM0pxd0ZBS09iZlhLSHhLQ2k3ZzYwU2dZemNxSF96enNYZHBBcWZPa052aUlaeXJHVjBENUI4aFB1TEFhTnVHZEtpQldhXw?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sun, 19 Jul 2026 13:20:00 GMT"
+        "title": "Morgan Rogers' three reasons for choosing Chelsea over Arsenal in transfer U-turn",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaElWakdnYmhVbWdnd09BNzVnamJJSzJsSzQwU3NBQTBEM0NodUpEOUdxc1pfRXN6dkU4eFFCRGRTV0x4c0g5bHVzYWNLbmNkb3pnVEVBbWZ2V1RQZjBLbUtKOE1FSWRzc3hNeTJPckpMWmNqUG9RMU1PZVgzSjAyR1F4ZDJOLXhlbk9NRXphWnhYcUdROENUekRCaDhUekFJNHfSAacBQVVfeXFMTVI2aFlkRFJLd29kV0h4OHJNelhfc3g4MHlHMTl1THU0aFlSMUJTLW5zN0FXM01iNDNHeXZWdUlpbXk1c0UtMVFBWkNWaHl6Y1RIOUFtdEQ1UXFFR1lzRWliQ205X2paVHRIVHVaYlhfUDY3NVZfalRWcDIyQkd5YVY3eER4dmtGMkIwQWtuenJOVXp4QzdIUHBuQTc4bXdYN2VKdS1GWFE?oc=5",
+        "source": "Football London",
+        "published": "Sun, 19 Jul 2026 09:21:51 GMT"
       },
       {
         "title": "Arsenal reach €40m Christos Tzolis agreement with Club Brugge - The Athletic",
@@ -1658,10 +1652,16 @@
         "published": "Thu, 16 Jul 2026 16:36:19 GMT"
       },
       {
-        "title": "Club Brugge Manager Confirms Christos Tzolis Arsenal Transfer",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQam9iUGNXSUxrMkh6ejJURG9HMFBhVnhPdkZ5Mmcya1VQYUhpVzVBczZBaXRDeHNwMEJiYm9GdFFkWG9XTUZWeWpvb2lneFVVdFlQM25jYmpnOW5Xa3N0UjdWMEhrSE16TTFQR2JuOFVzVExEOExGc0xUQ2pRRlg0MWZNVnl4cUJvOE92ZUpHc3lhWXdFUEMwSUFWSGZKTjBYcnR5Z2p1azJkVXk5cEQ4LW1VUHd1VXpSajg3bFZn?oc=5",
-        "source": "roundtable.io",
-        "published": "Fri, 17 Jul 2026 20:12:36 GMT"
+        "title": "Arsenal have made checks on Bundesliga star’s transfer – Romano",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN25hajNTZDVFTDkwM0VIUUtJYWY0aHc5eFhEM1RPczdySnh2TkthY3J5LTN5VV9LelZlRnlZamJZVFEwTXJtM0pxd0ZBS09iZlhLSHhLQ2k3ZzYwU2dZemNxSF96enNYZHBBcWZPa052aUlaeXJHVjBENUI4aFB1TEFhTnVHZEtpQldhXw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 19 Jul 2026 13:20:00 GMT"
+      },
+      {
+        "title": "Morgan Rogers joins 11 failed Arsenal transfers as Mikel Arteta promise backfires",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2RyVVFLVHM1aUNScjljQ3dyQW9rbU5SR0V5amxFSFNBeGtRY0VmVXIwSFhCTmtUakJNMkh0bng3RUNHWXFNN3hWWTBKYTUtdTlWNlZJSG9QMkdfT2V1NXpQZUkxM3VBSklFNk9jdFM4SGltX3dtVmxydWNjVlg2NEo1SVJBNkR5TGh1UmJuMElsSjkxSUHSAZsBQVVfeXFMT3FpSmphbHk0bk5xektXU2dCLTNqRmZneW96UnhXYzZiVlpPMVBhQ0lMY2k4bER1aWF2TnBPd3VWbXFLeVl0cWkydVN5bjR6TDRhbWFDdHFVWjNEaF9RR2o1eUlINEZQQWRzOUhMNGxBVEdmWkRGZVNCWTVXbV9xR0JPaDZvMWg4NjY4cXJBVXF2RFN0RE9Id1BwcU0?oc=5",
+        "source": "Football London",
+        "published": "Sun, 19 Jul 2026 09:37:03 GMT"
       }
     ]
   },
