@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T01:00:15.618632+00:00",
+  "updated": "2026-07-20T04:37:41.123487+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,22 +1538,16 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer news LIVE: Arsenal eye Diomande; Rogers medical; Man Utd deal",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMjdjaFhrOXFPc3NFdE9Ua3ZEdEFPQ0hodVBzRnlNYWlLRHZqZUZDQ0RBSjBnZEJlYjl5TlVoSDl3OTFVcm9EdURlRGdpcmUtWTRHaWFvZGJPa3FkaWVVaGR0NWNhVHFRX3R3X2FzcTRYZlpKWGVwZWdDTTFybG5HRjhKbXh0LUhCVDlHNHVreUhldUdGWFZtbGJtMHFQRkY0R1NMTDlYeW9jTGhZOUlXc1Vwd0lyQTVSYU1KaUFtS1AybkdqcnpSbHNxTGZFTzk1?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sun, 19 Jul 2026 20:37:07 GMT"
+      },
+      {
         "title": "Man United transfer news LIVE: Manu Kone bid, Hugo Larsson 'contact', Summerville latest",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
         "source": "Manchester Evening News",
         "published": "Sun, 19 Jul 2026 22:00:43 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal eye Diomande; Rogers medical; Man Utd deal",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMjdjaFhrOXFPc3NFdE9Ua3ZEdEFPQ0hodVBzRnlNYWlLRHZqZUZDQ0RBSjBnZEJlYjl5TlVoSDl3OTFVcm9EdURlRGdpcmUtWTRHaWFvZGJPa3FkaWVVaGR0NWNhVHFRX3R3X2FzcTRYZlpKWGVwZWdDTTFybG5HRjhKbXh0LUhCVDlHNHVreUhldUdGWFZtbGJtMHFQRkY0R1NMTDlYeW9jTGhZOUlXc1Vwd0lyQTVSYU1KaUFtS1AybkdqcnpSbHNxTGZFTzk1?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sun, 19 Jul 2026 20:35:13 GMT"
-      },
-      {
-        "title": "Man Utd transfer news LIVE: £45m Kone deal 'agreed', Newcastle 'tracking' Amad",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHFuUnU5T1FfSG5NWVR2QlN2VU5TcHNEM04xQVh5WWtXdjV4VWZXNElaQTBJTXdSVDJUV1pBcXg3emtTVlRkemNNVWhiM2VPQnhhV0NROGFFa0hZY0xybzk1V0xNTmo2ZUxocDVTcG5BQThWSkdfWE1SVk5yY0cwLTNaTC1NT3A5MklQcTZIVE9nUzd0Z1NN?oc=5",
-        "source": "The Sun",
-        "published": "Mon, 20 Jul 2026 00:44:40 GMT"
       },
       {
         "title": "Transfer news LIVE: Chelsea medical, £39m bid for Man Utd target, Diomande hijack",
@@ -1566,6 +1560,12 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlNELUZqN0c5RE9FdHM4Y3JNVTBlOFlHU3AxWmU1WDVSX2pJUHJIMUt1VFJZTXVCMEZjTV8ycHp2RGNvdlduWXEweFBoWDE1LTJCLXE0R1Rna2hKUmlMdXRtRFhjLTdMbGMyNVI3THNwOVFTNkdHQk8yTkpIOU9YOWNreE9nZVFYYnNvRjROaUNEM1J6VzNrWklWNFZiZXdwZEtZMTV4dw?oc=5",
         "source": "Sports Illustrated",
         "published": "Sat, 18 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man Utd star asks for summer transfer in shock interview: 'There is interest'",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzREWUhJUjFwSGJVRDhjV3V6T3dNV1ZWY3IwV1d4LXNxeEVFM1Rzd1A0YS14a3FxSU9Gd0c5WXZDR2kwTG1yN29XX1RsWTdCSEpQeTVtYUUzWmZfSG1LOWFMSkgxc2RHYndfWmlfcWZIUEx1VmVoZHpHd19tZ2EyM05yZjU2TjBFZ01TSw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Mon, 20 Jul 2026 02:43:14 GMT"
       }
     ],
     "rm": [
@@ -1573,7 +1573,7 @@
         "title": "Transfer news LIVE: AC Milan eye shock Phil Foden move as Tottenham hold Savinho talks",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFBvUURtUXFTMGdoTkFHVmROdkc1V29jbnRfYWgzWnBlSkc5YWRZS09ObmpUeFFIRE9tR0lJZ2I2d0RpVGlXSTdCQTdGV1ZoUUZPeFVFeElqYjhqVnhTOU54OVFPanNGUGV3XzFSZ0NNcl9ObElhTnNCWnVtUHozTDlJUS1BZ1RHUTdwVFpiZVExcVVTcC1NY0VfYUh1bjE3aHR3Zm5xR0taVVczQ2ZVZ2ZTYktEaWJ6UzFGYkk2RktUU3UyRzFDSkdMLWg?oc=5",
         "source": "Transfermarkt",
-        "published": "Mon, 20 Jul 2026 00:53:32 GMT"
+        "published": "Mon, 20 Jul 2026 04:17:51 GMT"
       },
       {
         "title": "Fulham boss Alvaro Arbeloa plots double transfer raid on ex-club Real Madrid",
@@ -1582,16 +1582,16 @@
         "published": "Sun, 19 Jul 2026 09:01:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Garnacho Offered Rivals Switch; Mourinho Wants Rodri at Real Madrid",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWFMT3Y1WVg1OXVrOWktMUdDN0tPXzJ3LVoyOVpXZ2FZczZnTHRJVVZ2WDZPT0hPUW81SkREUzcxY1Q0eFg1WEVuOUp4QUd3QXNQcWFpTFpzbFlNM2FqelNMNHRLTU5JRzNobGR2d3ZiV2N1RmZQTWdlUE1ETG1mQkE4aHRtOWJWM2NnODdSWjRJaUtFa0E?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 19 Jul 2026 23:05:00 GMT"
-      },
-      {
         "title": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWW5XUXZxTVFNbTl3WDMwcmZNVy1LUWZqNGV4TEFRbmpYRVl5QUg5aHZnREdCWVJraDdrYk9uaEpBYkFEakZKY0l6bFRUMXVWanFCaEViMlRoa3NIR0tiMEhhS2lmZU85WGlxcjZ1WU1qNHNfalZ2bHVwZTFzOGg2VUxac0FsVGRDcnJ1MC1hYjhSek5HTGRJdi14ZXY2Uzl1ZHA5X2JMX2xpZWxZUnNfN3JiSEc3eUV6X1EwVUpBOXZiN19pRmotbHY1Q1RSd3pNbXB4NU1R?oc=5",
         "source": "ESPN",
         "published": "Sun, 19 Jul 2026 18:39:00 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Garnacho Offered Rivals Switch; Mourinho Wants Rodri at Real Madrid",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWFMT3Y1WVg1OXVrOWktMUdDN0tPXzJ3LVoyOVpXZ2FZczZnTHRJVVZ2WDZPT0hPUW81SkREUzcxY1Q0eFg1WEVuOUp4QUd3QXNQcWFpTFpzbFlNM2FqelNMNHRLTU5JRzNobGR2d3ZiV2N1RmZQTWdlUE1ETG1mQkE4aHRtOWJWM2NnODdSWjRJaUtFa0E?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sun, 19 Jul 2026 23:05:00 GMT"
       },
       {
         "title": "Rodri: What we’re hearing about his transfer future — and why he is back to his best - The Athletic",
@@ -1614,16 +1614,16 @@
         "published": "Sun, 19 Jul 2026 12:02:02 GMT"
       },
       {
-        "title": "Michael Olise future prediction made as Real Madrid handed transfer warning",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHJ0UWI4dWZHaHhVZVlpVzFBMXc2NUVBaU56a0pxSEppRHAxSm9sNVlqWHFLck9MRVV6ZXFvN1E1bWdCNjF4OC1vOUh6T0Nlc1dGNjRwUXZiRkxISU45N3NnR2p2cUdxOXZ3TUxEc1h1UmZraWdJeG5QcDRqQXUyQWYwWmtWOVBMYjI2MDRCcmxPTVo4cWt2Wg?oc=5",
-        "source": "talkSPORT",
-        "published": "Sat, 18 Jul 2026 16:33:08 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Real Madrid revive mega Olise move as Man Utd make Larsson enquiry",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjljM3NaNXg3WWVwd2dKcDdFWUNVMGRZVnJ5QTU0VTQyUUFhd1NPczRRWG5sTGZ4eXFLNzl1ZktkZkhhTlVsY0ZCUmFMa19BVC1zbWR6dEpreXJJTXBkTVdmaHZwRl95bzFyOURCVW1LTUVLX0JBTkxYOVZIeEdNT2k0TkRqN0pfeVZoXzB3Z3kyV0FHdTQ2MjYxZm9MdExiek92clVZSUYtUTY4QnhHSXBXajhycjZXLWEyVkgtajhDdHJkS2dBSTgwbFo?oc=5",
         "source": "Transfermarkt",
         "published": "Sat, 18 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Michael Olise future prediction made as Real Madrid handed transfer warning",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHJ0UWI4dWZHaHhVZVlpVzFBMXc2NUVBaU56a0pxSEppRHAxSm9sNVlqWHFLck9MRVV6ZXFvN1E1bWdCNjF4OC1vOUh6T0Nlc1dGNjRwUXZiRkxISU45N3NnR2p2cUdxOXZ3TUxEc1h1UmZraWdJeG5QcDRqQXUyQWYwWmtWOVBMYjI2MDRCcmxPTVo4cWt2Wg?oc=5",
+        "source": "talkSPORT",
+        "published": "Sat, 18 Jul 2026 16:33:08 GMT"
       },
       {
         "title": "Bayern Munich News: Alphonso Davies not thinking about transfer; Real Madrid lies in wait for Michael Olise; and MORE!",
@@ -1637,13 +1637,19 @@
         "title": "Transfer news LIVE: Arsenal eye Diomande; Rogers medical; Man Utd deal",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMjdjaFhrOXFPc3NFdE9Ua3ZEdEFPQ0hodVBzRnlNYWlLRHZqZUZDQ0RBSjBnZEJlYjl5TlVoSDl3OTFVcm9EdURlRGdpcmUtWTRHaWFvZGJPa3FkaWVVaGR0NWNhVHFRX3R3X2FzcTRYZlpKWGVwZWdDTTFybG5HRjhKbXh0LUhCVDlHNHVreUhldUdGWFZtbGJtMHFQRkY0R1NMTDlYeW9jTGhZOUlXc1Vwd0lyQTVSYU1KaUFtS1AybkdqcnpSbHNxTGZFTzk1?oc=5",
         "source": "London Evening Standard",
-        "published": "Sun, 19 Jul 2026 20:35:13 GMT"
+        "published": "Sun, 19 Jul 2026 20:37:07 GMT"
       },
       {
         "title": "Will the World Cup affect Arsenal's transfer plans?",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WS2twR19aS1FPSGVoWXpSNl9EZllEQ1JQX2VNNXVKNDdtbVN1QkNJcUx0QXBQR0F5M1cxYkZtOE55YWZuajNmXzh5cDRTNS1fbTZvbFhoZkxGSUFmN2VPX2dPY1F3djg?oc=5",
         "source": "BBC",
         "published": "Sat, 18 Jul 2026 14:47:45 GMT"
+      },
+      {
+        "title": "Arsenal lining up shock free transfer for England World Cup star John Stones as William Saliba injury replacement",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnRmV3Y3aE5zRFV5aERPUTlhcFVRYlZ6aUlQb1RWb0pRdXJvNUhOLVlDcHd5VEJPNDY0X3BmZEFVLXJSWXI1SGNHRzZrRG1jTnNGTlZIcTR5eV9uV0pnZExmaVJKeWh0cjJPOVZHYXE4bjFnQ0E0VnVyMW0xbzNHdWN4UXFkQzZsTlZRY3JlQ3o2QkdUTlVjVmhJUGRwZw?oc=5",
+        "source": "The Sun",
+        "published": "Sun, 19 Jul 2026 14:38:00 GMT"
       },
       {
         "title": "Football gossip: Stones, Lacroix, Bailey, Kone, Garnacho, Rowe, Spence, Wan Bissaka",
@@ -1656,12 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYURlSEhXMThBb1FHajRsNTZ0MTV6RG1wSnNPYVRYTUF1dkdMXzdodnE0dXc1OWQ3T1dlcXFoLVh2S3JyMXBMRnJOWFZHXzZQRTBaSTFtdHpTV0dFSlVxYkYzY0R3NGNCTTFfVXU1UnU0WHBhZjFNalI4RDAxQWhiWTFoN3ZkRll4TGc?oc=5",
         "source": "Yahoo Sports",
         "published": "Sun, 19 Jul 2026 20:47:17 GMT"
-      },
-      {
-        "title": "John Stones lined up for huge free transfer to Man City's Premier League rivals",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWxCZ2s3dW9aSHV3dXZoVTM0TVM3U2FTMkpsR2V1em00M2J2WGtETWVEWVVBZ3d1VzNkdjlZY2ZZUjJWZk1SNEtpazZ4NnRtbGJVSFJxNDlxY2Z3aTlHanhVT2lBQ3ljcnpLbEVjWTlNdlNlT3V2bmh4a2JuQW5ibU4xMHUyTXBIX2ZLVnBSaEFPenBybFA0Y3JoVEcwNG8zY0x6aTJOc3l2dXlNS29v0gG0AUFVX3lxTE5UYmV2THptQnplN1FsaVFJT2RUY1IwRXAyamUtUmlRcWxzUXk1Nnh5b2paMmZnU040OWdBWXFBYjVtN05tZ2RRQ1RKRDQya2hpU1JVQ1RsMklBMGRleTBHek5NaVUtVVotTmIyWTNMeGw4TEVIVWdQbFp2UmdUWGRnN2xiUmd5LUs5X2RVX1hlMi1SY3htSU1fLUlueTlpSzZRZUoyQ3JSME4tVUlzeGNrVExzSw?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 19 Jul 2026 17:28:00 GMT"
       }
     ]
   },
