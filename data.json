@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:00:22.295534+00:00",
+  "updated": "2026-07-20T15:25:23.090216+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -943,6 +943,15 @@
           "assists": 0
         },
         {
+          "name": "Konrad Laimer",
+          "position": "Defence",
+          "nationality": "Austria",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Min-Jae Kim",
           "position": "Defence",
           "nationality": "South Korea",
@@ -1033,15 +1042,6 @@
           "assists": 0
         },
         {
-          "name": "Konrad Laimer",
-          "position": "Midfield",
-          "nationality": "Austria",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
           "name": "Lennart Karl",
           "position": "Midfield",
           "nationality": "Germany",
@@ -1063,6 +1063,15 @@
           "name": "Maycon Cardozo",
           "position": "Midfield",
           "nationality": "Brazil",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Tom Bischof",
+          "position": "Midfield",
+          "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1114,7 +1123,7 @@
           "assists": 0
         },
         {
-          "name": "Wisdom Mike",
+          "name": "Serge Gnabry",
           "position": "Offence",
           "nationality": "Germany",
           "goals": 0,
@@ -1123,17 +1132,8 @@
           "assists": 0
         },
         {
-          "name": "Serge Gnabry",
-          "position": "Right Winger",
-          "nationality": "Germany",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Tom Bischof",
-          "position": "Attacking Midfield",
+          "name": "Wisdom Mike",
+          "position": "Offence",
           "nationality": "Germany",
           "goals": 0,
           "ownGoals": 0,
@@ -1541,34 +1541,40 @@
         "title": "Transfer news LIVE: New Arsenal targets; Rogers medical; Man Utd coup",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNkVBRW81eGV4eTB5UlphQWJaR0xWLXJMSEhiWDNRbENSQ2Y5bTJjUFhLRXlzeDZQTl9mbmpPNXBEMW1WU241THFMdkpxaDVhLThTVWY0cjUxYmxVdjVTbUhSbUduOG96cWJwdjFzcXYxMmRtZTVNODdpRVZoNEVfaUl3Ni1WNXJuOWN1QzB4eHNwWW4tZ0w2Z2FCZVpZT1NuYlZCTEtqdXR0aEN6a2hLbk1IeUNVQnFIQUF3SWcySUlwRkpkSE5ZajZXYzcyZw?oc=5",
         "source": "London Evening Standard",
-        "published": "Mon, 20 Jul 2026 10:52:38 GMT"
+        "published": "Mon, 20 Jul 2026 14:25:29 GMT"
       },
       {
         "title": "Man United transfer news LIVE: Manu Kone bid, Tottenham done deal, Crysencio Summerville latest",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXM5NEo4ZTJMck41ZmxDaUJSSEFKZWdyOE04RERDMnlkWk92WkY3SXpYamhwRV9naTc1SDRjVWhRQmRKWjV6Q3hscGVXaU1mTXlqTDZmWVBRU19sWUhwYmJRcmNtNTJ0bG5YT1hoQzQ5WF9qWXRjek5jVENRMnN1bE4wOVR3aUY4cndtQW1ZMXhNQ2hoT01RZHd0eDdFRG5vSTB0emlQS0pGdm8?oc=5",
         "source": "Manchester Evening News",
-        "published": "Mon, 20 Jul 2026 11:02:57 GMT"
+        "published": "Mon, 20 Jul 2026 14:04:38 GMT"
       },
       {
-        "title": "Man Utd near major decision on Manu Kone as Fabrizio Romano reveals ’embarrassing’ truths on Ederson deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUpENnBRZTFrOG5qaTE5Z25pV3hTZEJvZDktVUI4MlBkc2hyQnltU05IOTRSWVd3Q2toRmRYRTlERWlBY0hZWTN1b2ZlSm9NemJPV0w1aVhtRmVqbmx5ekJWTy1DX184VmdETXN3NXJHN3dEdm5rNnJ4dVBNeWNWWG1qR2k5WnBoVjUtNGxtUGhWS2NZTVI5WWg2aHRPTXUtcDdPOHZoUlBfRUJ2U00yX0EwUHRSNFltOVE?oc=5",
-        "source": "TEAMtalk",
-        "published": "Mon, 20 Jul 2026 10:15:24 GMT"
+        "title": "Man Utd transfer news LIVE: £45m Kone deal 'agreed', SHOCK Barcola interest",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWMzMVVVZk9aSWowSWNRUnRRa1hhTDkzZWtpcDBBLVI4eml0VTVCWFNLUEhuekV0UHVLQ0QwaVRhQlRTXy1jUVRMVGd0MzZNWDNySjRXUTBhTFJSRnJNWGpsRUxvZlpLQjBlRWlydFdzc05GRzdJX083dkprdkVzUHhKM2ZTeFM1aHdCbnVhSWdkNFBERXdDaTQ2RVV3QmxzWUE?oc=5",
+        "source": "The Sun",
+        "published": "Mon, 20 Jul 2026 14:33:32 GMT"
       },
       {
-        "title": "Fabrizio Romano: Man Utd Make Contact to Sign Star 'Better Than Tchouameni'",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUMwM3R3WDNxRzBCVzUyeUNULUUzLW5Fb2Z2Z0I1VXc2aE1zS3d3aFlYVWdncGd4dFB2NVBaSEp1TEluUHZ6SlhXTVFPeFBHZ3JLWFJfZjJuWWZYNHJpekhTR3p1Rl9ySHRpOVlsS2pLV1pmQ1ozejVxX19RdkFpbg?oc=5",
-        "source": "GiveMeSport",
-        "published": "Mon, 20 Jul 2026 11:15:13 GMT"
+        "title": "‘There has been talk…’ – Liverpool touted to potentially ruin Man Utd’s transfer plans for 25y/o",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjNUbHRHSEtoV281dFI3V2EtenlfcFUwVEpONTVNT2N5alVsaV9FSEdoZzhFenV0UnlPbHVzblp6QlBzTnRsRm5MVncxRHBFbzlvdXdtX0JIdTIzT2l5NTVMendQMDh0T2RCeTIwODdRYlo0QW5YTU1nZnZDZklzZE41SXN3T2NDeHkwSWgzeXM?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Mon, 20 Jul 2026 13:40:00 GMT"
       },
       {
-        "title": "Marcus Rashford: What does the future hold for Manchester United forward?",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sRWp2aTdNMU13NTBiUHNMLWFNUkU4YldpUXBPY09BNHRreHk2YWZZU0FZTXlURjRiaTlkZ25CNFFXbGItSkhmOVlhdWg1YzhleF9wNWxCMHRmWExnMWFWckRGSTA3VW8?oc=5",
-        "source": "BBC",
-        "published": "Mon, 20 Jul 2026 08:26:36 GMT"
+        "title": "João Gomes seals £38m Aston Villa move, Hall and Robinson on Manchester United list",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzFsZFpZUFJhUVhsZlUyc09mS3NVbGpnTjRTN3Jfb2FQclV2d29yQ3NpVzFFbWZuN2xKdTl6VGFvS1RWWk5KYXh5MVRmOEZmQmticXBFZFFIWnlmbWpGc1VPdUdJUVRxaWhuSzFYR1BhQVlCOHRVeHh5QmtYMFBoeGxWZzNyUWJBVURTNE1IT2wxTXBPN3k4ZHlkWFA4Y2lZWlFSS3djMDg0Q1hxczBlRE0zemRiX2dhYXhlNHdUenphaGs5T0lDd09WeHZYZE5HRHQyaWl3?oc=5",
+        "source": "The Guardian",
+        "published": "Mon, 20 Jul 2026 13:15:00 GMT"
       }
     ],
     "rm": [
+      {
+        "title": "Transfer news LIVE: AC Milan eye shock Phil Foden move as Tottenham hold Savinho talks",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzhNb2k1WjQyZmwzUGhkM05rQzN5VkJmc0VpOC1nZVNoMXQ3LU12bS1nd1BKUDZKd0JwUEYzMC1yYjYwQ1JIT0dyU3pjU2hLbmVJUjJBcnNTUXBicWVic0dnTmFDRDhWWGg5eW10el9iWTh5bzE4bl9ZV1NINWRVbl9uZjVTUTJvWWYyNk01SC1pWVBUVGFCQklVXzdLUG1NVFFwellJeWNMSG5SX05PM3pfT3Z0N0hOVDl4LUEzSmwzeFpacXBEag?oc=5",
+        "source": "Transfermarkt",
+        "published": "Mon, 20 Jul 2026 07:22:11 GMT"
+      },
       {
         "title": "Fulham boss Alvaro Arbeloa plots double transfer raid on ex-club Real Madrid",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUdLNWUtcjVLbEJ2eG44YXBJVzBfT1lJb0p3ZVExdUJ0WXVWdk1aTS1lQlZVWVpnd2lRbm00OERSejFaRXJZblQydTlKTWNxaElzYWk3YzdkN2l2cXlKNFZsdHIzSTdSUjZERzNrR1IxNTZJbXY4WmY4cF82dklvelE0dm9qRmhfRHlJQkJsQ0lwTW4yQWt4cWNwTnYtcU1QQzJscnFn?oc=5",
@@ -1576,16 +1582,10 @@
         "published": "Sun, 19 Jul 2026 09:01:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: AC Milan eye shock Phil Foden move as Tottenham hold Savinho talks",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjljM3NaNXg3WWVwd2dKcDdFWUNVMGRZVnJ5QTU0VTQyUUFhd1NPczRRWG5sTGZ4eXFLNzl1ZktkZkhhTlVsY0ZCUmFMa19BVC1zbWR6dEpreXJJTXBkTVdmaHZwRl95bzFyOURCVW1LTUVLX0JBTkxYOVZIeEdNT2k0TkRqN0pfeVZoXzB3Z3kyV0FHdTQ2MjYxZm9MdExiek92clVZSUYtUTY4QnhHSXBXajhycjZXLWEyVkgtajhDdHJkS2dBSTgwbFo?oc=5",
-        "source": "Transfermarkt",
-        "published": "Mon, 20 Jul 2026 07:22:11 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Liverpool ready to move for Brazil's Rayan",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3d6MnRFSTgwUmY1UTRLQnYwdmNoTGhGcXREeDhDQXhXSGZOdHp4N3ZYRE5NaWVnazhpVnlvM2tIMl9VM2NfVXV4OUUzR29wd2I1UnpUdm9UM05Dcnk0bWI2YVFWS2lGdlR3NVlvZlNGZ1RybFZMR0NRWHhzT3plczZra1ZVY19CaG14S0NqTTAxczdyVVQtYy1OakpHbGM3dHBrdUVfV0IyeG1sRnE2VzBtbEw1aUhrdE10UjJ3b0lKQQ?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 16 Jul 2026 18:00:00 GMT"
+        "title": "How long will Erling Haaland stay at Man City? Prediction from former defender as Real Madrid warned that transfer fee for another Galactico ‘isn’t going to be small’",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LcGpTZ21uMWJMOHVRWUtJTTkyU3I3cEFFVXZUdDhiRFJVQjlEZ2tUSnlvVTl6dk9BaVNXZ015c3gzNzZ6aG40Nk1xRU5ORmQ2YU1qa0lTTXNjc01HWk12bjlmSmRZQzlEQ09XLXA1NDBXVFdWLW9CYWRoTQ?oc=5",
+        "source": "Yahoo Sports Australia",
+        "published": "Mon, 20 Jul 2026 10:57:30 GMT"
       },
       {
         "title": "Transfer Rumors: Garnacho Offered Rivals Switch; Mourinho Wants Rodri at Real Madrid",
@@ -1602,16 +1602,10 @@
     ],
     "fcb": [
       {
-        "title": "Michael Olise 'desperate' to leave Bayern Munich as Liverpool transfer target takes action",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVRfeDJaUXZmYS1MYXh5cDJtUjhxQWNLdWRzSVlvb1lVb3dRYlREQWhSWGJrazVMVUx5WUU1ZXE0TTVmb1RIR2pOOXYya01nODFYYUVzRERQUnp0ZWNvMTlmbUNCVXlDczZfSWttbzhfSUUwQmgwU3paRk5JT3p2UTVjTktMZWhUQ00zVDVDSlpJRVZIRzdsYnhTNjZQZ9IBowFBVV95cUxOZi1VQ1JYaUh0ZG82Y0pxMVBUOENRTVBlV29pRkI4Y2lPWEVvYnNVNWVneE5RQ3ZwaVM4ZVpKSlNuRXRsVEwyUm5wM1BkUlZTWlVQenJqbG1xRUZheG9KVTc4YXRnZVVfQVFOQnNSNUlSR0dUOTRNU0ZudmZaak93TFktazcxd3JmOUNXejVma0QtZUVoRnhzLU1EekVoVlgyNWJz?oc=5",
-        "source": "The Mirror",
-        "published": "Mon, 20 Jul 2026 10:25:00 GMT"
-      },
-      {
-        "title": "Explained: What needs to happen in order for Real Madrid to table bid for Michael Olise - with Bayern Munich winger seeing €200m-plus transfer speculated on",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS2dfcXJpU0trSF83N2lVZ2tLTURCc050UEhFRjkwNnZydUwtT094WUMyTVhBR1A4RnFzd2tMWlotSUFlUHR5OTNMaWdZWXZMUHROVXpHbDJDaGxNTmR4ak1kdG9BSXZGelE0bFlwV2FmUkVpZFh4aGU0R3dtYl9ENHRmbWVwdUNGVDJHNy1OWk9CNjdtZVpnNjFUSDcyMXo0QjJRQ0U0bVFjQ2c5SE5IN3NpQWRXRG5SRFZZd1l6aXRIdVBYVENTWGpIYVBKUm5tQTY2NFVaYUtTanVOclJ1NHQtUXEyM1U2OC1ZaDRfY0JfUlEycEFJWDc3V1JnbjNaQ25VNTBCUEY?oc=5",
-        "source": "Goal.com",
-        "published": "Mon, 20 Jul 2026 08:44:46 GMT"
+        "title": "Liverpool transfer news LIVE: Rayan move, Bradley Barcola latest, deal agreed for Bayern target",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXJidjhVb01HbWRiSUZZdVoyaW92SnpCRDdZZmJkZlZnNEF0eC15emRlZS1QTFlIVkxTd0ZieVU5dnZkMlBhX0VPQ2RwYW5hZE1ZT1NWZjdEWkpzX1AtV01NTU5Ub0gxSGZVLTZoNllSZkVOLXJUZnhiZFBhemVtUDRMbzBfNkNWbVhEdGhKYjIzemY4STZwZXRMWWVTR3PSAaQBQVVfeXFMTWhwMkZLUWJSUmxHNVJNNTZLeVBhbTFHNGFJRkZ4elV6T2hQOGV5VHBXQTVUN1RNSTljcXlNMmpicWtuOWM0N3YxM2NfZjlyWUNsTEhNMVAtVExJWXhVbXIxck5mX2d0WHZvRklWN3ptU2pFOGVOOXBWMGJROEFZZTdrbExPd3hzd19NQmx3NzdrNnRGMENtdzlZekNNLU10ZFVXVnY?oc=5",
+        "source": "Liverpool Echo",
+        "published": "Mon, 20 Jul 2026 13:57:19 GMT"
       },
       {
         "title": "Report: Bayern Munich close to sealing lone midfield signing of the summer",
@@ -1620,30 +1614,30 @@
         "published": "Sat, 18 Jul 2026 17:30:00 GMT"
       },
       {
-        "title": "Journalist reveals Harry Kane decision on joining Tottenham from Bayern Munich after World Cup exit",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVZrZ1BSejB5MXZkWks5aXF0M0ZTZ2hKUGxwdldCTG1zV1Y4OVk5VHgxaFRTSUdqaEJZSGtucnNmb1UyVnh2V3hqTGc5S0Z4WTNhS0VUUlZSejJ3R0FjcDhxN3JZSmJHZ3F0S3k0X0x1V001emlJT2VNenpBZUdkcmFxNlloUmxONWZkUkVn?oc=5",
-        "source": "TEAMtalk",
-        "published": "Sun, 19 Jul 2026 08:36:21 GMT"
+        "title": "Michael Olise 'desperate' to leave Bayern Munich as Liverpool transfer target takes action",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVRfeDJaUXZmYS1MYXh5cDJtUjhxQWNLdWRzSVlvb1lVb3dRYlREQWhSWGJrazVMVUx5WUU1ZXE0TTVmb1RIR2pOOXYya01nODFYYUVzRERQUnp0ZWNvMTlmbUNCVXlDczZfSWttbzhfSUUwQmgwU3paRk5JT3p2UTVjTktMZWhUQ00zVDVDSlpJRVZIRzdsYnhTNjZQZ9IBowFBVV95cUxOZi1VQ1JYaUh0ZG82Y0pxMVBUOENRTVBlV29pRkI4Y2lPWEVvYnNVNWVneE5RQ3ZwaVM4ZVpKSlNuRXRsVEwyUm5wM1BkUlZTWlVQenJqbG1xRUZheG9KVTc4YXRnZVVfQVFOQnNSNUlSR0dUOTRNU0ZudmZaak93TFktazcxd3JmOUNXejVma0QtZUVoRnhzLU1EekVoVlgyNWJz?oc=5",
+        "source": "The Mirror",
+        "published": "Mon, 20 Jul 2026 10:25:00 GMT"
       },
       {
-        "title": "Bayern Munich News: Alphonso Davies not thinking about transfer; Real Madrid lies in wait for Michael Olise; and MORE!",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1QzWXRzSXZtRWREakljSkVEN3hPUzN1WnJZbHNya3ZZTXBFZHVtaW5UcDNvU0xfVmhwc1gwM3ZSN3Zmblp3eEtic3Fsdll2MjQxeHotenp0d0xCZ0lvaXBxVktrdFFuN1NUdUxKaDlLaXVBOWRUdmUyZVl2SjlaNFZMa2xtWFJYMW9B?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sat, 18 Jul 2026 04:00:00 GMT"
+        "title": "Bild issues report on Michael Olise’s desire to leave Bayern Munich for Real Madrid, but he won’t force exit",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSmRuSzdvcHRSRW9ZY0dBbGFVWWJDdFF5ZTEtWl9TTkRHRm1MRTQySUNnT1BxZllGU04zTVFLTEV4amRiU003WGRnb1Fac3NidlUyTkVVS3A5dlhibGlHeDRjZTZQWkJObUNBc2tfenlCSzdGa0o0aHdQY1BfY2ZrSDU4Ull3N0tLMzIxcXdJaTFuN2ZZNm5OTVAyRl9VWk5Vc2JzRk9WQjBRbkxacVJXRkZuWDZadVVaaUM5N3g2Mjk5cklEcTZjX1hKdkxIUWp2VFdTR0g0enRJZTZVMGx2ZUl4OFNRSGM?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 20 Jul 2026 00:45:00 GMT"
+      },
+      {
+        "title": "Explained: What needs to happen in order for Real Madrid to table bid for Michael Olise - with Bayern Munich winger seeing €200m-plus transfer speculated on",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS2dfcXJpU0trSF83N2lVZ2tLTURCc050UEhFRjkwNnZydUwtT094WUMyTVhBR1A4RnFzd2tMWlotSUFlUHR5OTNMaWdZWXZMUHROVXpHbDJDaGxNTmR4ak1kdG9BSXZGelE0bFlwV2FmUkVpZFh4aGU0R3dtYl9ENHRmbWVwdUNGVDJHNy1OWk9CNjdtZVpnNjFUSDcyMXo0QjJRQ0U0bVFjQ2c5SE5IN3NpQWRXRG5SRFZZd1l6aXRIdVBYVENTWGpIYVBKUm5tQTY2NFVaYUtTanVOclJ1NHQtUXEyM1U2OC1ZaDRfY0JfUlEycEFJWDc3V1JnbjNaQ25VNTBCUEY?oc=5",
+        "source": "Goal.com",
+        "published": "Mon, 20 Jul 2026 08:44:46 GMT"
       }
     ],
     "ars": [
       {
-        "title": "Arsenal lining up shock free transfer for England World Cup star John Stones as William Saliba injury replacement",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnRmV3Y3aE5zRFV5aERPUTlhcFVRYlZ6aUlQb1RWb0pRdXJvNUhOLVlDcHd5VEJPNDY0X3BmZEFVLXJSWXI1SGNHRzZrRG1jTnNGTlZIcTR5eV9uV0pnZExmaVJKeWh0cjJPOVZHYXE4bjFnQ0E0VnVyMW0xbzNHdWN4UXFkQzZsTlZRY3JlQ3o2QkdUTlVjVmhJUGRwZw?oc=5",
-        "source": "The Sun",
-        "published": "Sun, 19 Jul 2026 14:38:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: New Arsenal targets; Rogers medical; Man Utd coup",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNkVBRW81eGV4eTB5UlphQWJaR0xWLXJMSEhiWDNRbENSQ2Y5bTJjUFhLRXlzeDZQTl9mbmpPNXBEMW1WU241THFMdkpxaDVhLThTVWY0cjUxYmxVdjVTbUhSbUduOG96cWJwdjFzcXYxMmRtZTVNODdpRVZoNEVfaUl3Ni1WNXJuOWN1QzB4eHNwWW4tZ0w2Z2FCZVpZT1NuYlZCTEtqdXR0aEN6a2hLbk1IeUNVQnFIQUF3SWcySUlwRkpkSE5ZajZXYzcyZw?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 20 Jul 2026 10:52:38 GMT"
+        "title": "Vinicius Jr tops list of three Arsenal transfer alternatives after Morgan Rogers blow",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlNJYkNGSUZKRy1seEdJZ2w4aXk2ZWZXQ3FULXFoWklPRUlOTlVlN205N2lUUk9CQ2I4U05DZjVndk4tTmNqU29ILVhBQzFkaUo3eUpDaFBNejFGSUVKS3Z2cjgtc1ZQNEdfYVktZ05GaXN6cm02ZzRUMWJsRlJWem1PUEQxM1NxcjlYSVVZSTFmbnfSAZgBQVVfeXFMUHR6MEQ5VGpGUXVDa0NCNXZRbDVMYktGY2tqZE91XzJpczdQTDlsNkY4TVphb1M1XzNvUDhFU0dGZ2lBb1dUNTBiY1A5Vl9NT1Bnakl3ZmRFMFNORUNJWHlEMVd3aFJHMHRWb2d1R0R0TWdnWlJ1MXVJV0VhRTVMaEJKVjh4WUVOSzFfbnhIYi1aU1R6ZHNKOTU?oc=5",
+        "source": "Football London",
+        "published": "Mon, 20 Jul 2026 05:05:49 GMT"
       },
       {
         "title": "Will the World Cup affect Arsenal's transfer plans?",
@@ -1652,10 +1646,16 @@
         "published": "Sat, 18 Jul 2026 14:47:45 GMT"
       },
       {
-        "title": "Arsenal considering surprise move for defender – latest transfer news",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlppV29fdldfRkhwcHBxSlhjdWxnaUZvR3lKZ1A5ZHBBdFNpQWxvLVRkdzFrWDFNcndDRmEyNnRhb2NWTDRUWUxVbmpnOEE0blo3YUx1RTh3ekxINC1ERElFTXNiTkdJN1E0ajg4eW1RaUdvSjM0MjhFMWx5eFd2ZXJDV1RvR2tfMWVTV2k2OElfWEVDT1E?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Mon, 20 Jul 2026 12:30:00 GMT"
+        "title": "Transfer rumors, news: Arsenal eye shock move for Stones",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSExveEV5b3VFYi1BUWNraEs1cTZZZElLZ1pKNGFPMXFzMWZheTBoMkJHYVlSZzFJeGlFUHlhMVhWSm53SFFyMkFTOEpCMWhnSG85NkwtMjZIbl9MTU50c0xnZlZMX1RnZmdaQjNEeGttdUM0alk1bm8tRGFlMHZGQVpMOVJOajBhT3VNbkk4WTFlVDlzb29HX2JLOTNfX29vbzNxQjRuSHRsVVRQdDdrbjBINnAzSkVNb25F?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 20 Jul 2026 10:59:00 GMT"
+      },
+      {
+        "title": "Julian Alvarez ready to take drastic action over Atletico Madrid exit after Barcelona offer claim",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUVOMnVXaXViMUFfMXU4aGN6ZG9rbjAyY2hBRTIwbnZNNkdxZW9Pa3g4UkVxS0tZRUozX0JiVHlkU05Ia1YtNXNTaVFuTmJXS2RvMDMyTmJ1by00V3lNZ25tQ1RtUTJScjFZc0FIWVAwa0diSkZaTGdORGEtb09TdDFwelpueVNUTGpidHlFQUVqMF9kVDNLak15RFlUYVdfOUFPczNKVVBzQVFtczNYcUtuLVdKc0VCZTVTRkRrOA?oc=5",
+        "source": "Football365",
+        "published": "Mon, 20 Jul 2026 12:16:22 GMT"
       },
       {
         "title": "Arsenal working to a “bigger transfer window picture” than fans can see",
