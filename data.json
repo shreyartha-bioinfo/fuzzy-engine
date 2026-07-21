@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:03:28.215180+00:00",
+  "updated": "2026-07-21T20:40:47.291701+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,6 +1538,12 @@
   "rumors": {
     "utd": [
       {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0c1M05wZ1ZLc3ZvOW0zLTA2bjJtQjd1bWdORzNiNHNVYjhrOG5TV3N4RmlLNXp0elZ1RkRGVDc1NGtHb3BGNmdyNV9GM3d6aC15QkdmckhlWm5qVi05TkhORTgtcTJCTmdLUUtJY19SaS1CdVU1TjR1bGdxQ1hLcmxGZURMS3MwMnpOSloycTV3ZnNIOEx4ME9HeDluWG5Kd2RGc25jdmlwX2dxLXBFelBhNThYYXl6QXM5X2F4OUxjSERJRVpuNExqa00zOXIy?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 21 Jul 2026 12:30:18 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal open Guimaraes talks, medical; Rogers to Chelsea",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXVZcERjWWlSalNKLUFXRGZCUnpyeUNvV3ZJbFVRVDRTSUxUYXJYV1M3UEV4SVdKX18tOEo5LURPLVplVHJWS25lZnFHWVFqdTA3eW1GR0pEUGZtX1l1Yk9QMTRBeVMyaERGZTYtTlM5QWwwSXlpeFl4VS16dE9nbWQ4d1RYeEVpZ3VtLVJJaklsZ2E4ZWJ3M25iZTZTVkI4Q3hQYmRXN0Y2OEZOcUZhd0tReUFQNnNNUXRMNHpQNnRJWDNzaHVyakRGSW4?oc=5",
         "source": "London Evening Standard",
@@ -1548,12 +1554,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXQ1LUk0emJNTGtwVnExZUh4aXBfU2x0S21Oejk2LXpWbWJEV2NuZ3NtcTFZalllWlA1NGltc3ZHNjVqRlRqSlhzZlhyMzZqc0w5VlN3Rlk4NVdhSHpJZTlKdzBuSTIwbU5FRzl6NjRpNU91LVIwX1AyVHhMMldTRFNZOWVFS21GX3p4WFdabVcxMDZaUWw5TQ?oc=5",
         "source": "Sports Illustrated",
         "published": "Tue, 21 Jul 2026 17:00:01 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0c1M05wZ1ZLc3ZvOW0zLTA2bjJtQjd1bWdORzNiNHNVYjhrOG5TV3N4RmlLNXp0elZ1RkRGVDc1NGtHb3BGNmdyNV9GM3d6aC15QkdmckhlWm5qVi05TkhORTgtcTJCTmdLUUtJY19SaS1CdVU1TjR1bGdxQ1hLcmxGZURMS3MwMnpOSloycTV3ZnNIOEx4ME9HeDluWG5Kd2RGc25jdmlwX2dxLXBFelBhNThYYXl6QXM5X2F4OUxjSERJRVpuNExqa00zOXIy?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 21 Jul 2026 12:30:00 GMT"
       },
       {
         "title": "Man United could get immediate cashback after Manu Kone transfer",
@@ -1573,7 +1573,7 @@
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0c1M05wZ1ZLc3ZvOW0zLTA2bjJtQjd1bWdORzNiNHNVYjhrOG5TV3N4RmlLNXp0elZ1RkRGVDc1NGtHb3BGNmdyNV9GM3d6aC15QkdmckhlWm5qVi05TkhORTgtcTJCTmdLUUtJY19SaS1CdVU1TjR1bGdxQ1hLcmxGZURMS3MwMnpOSloycTV3ZnNIOEx4ME9HeDluWG5Kd2RGc25jdmlwX2dxLXBFelBhNThYYXl6QXM5X2F4OUxjSERJRVpuNExqa00zOXIy?oc=5",
         "source": "The New York Times",
-        "published": "Tue, 21 Jul 2026 12:30:00 GMT"
+        "published": "Tue, 21 Jul 2026 12:30:18 GMT"
       },
       {
         "title": "The One Roadblock Preventing Rodri’s ‘Dream’ Real Madrid Transfer",
@@ -1582,22 +1582,22 @@
         "published": "Tue, 21 Jul 2026 13:00:00 GMT"
       },
       {
+        "title": "Real Madrid transfer news: Mourinho’s dream signing off the table after World Cup final setback",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWs4Y1E0dEc2TnRuMWhTcTRWTHNTRzBXRkNoZFBFS1pldzBXOV9OQ1hHdk9lU0FIRG9pM1pJR3JYZE5LUzBSNE1HMlh0UDEwUFhjWDRTNGFZbEZGbkstTUg5UHNfMHdWaXE1TEVpZ2lBZmh0VkRyLXpvY0VXUm04YUttbTJUb29qTEg0?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Tue, 21 Jul 2026 06:40:00 GMT"
+      },
+      {
         "title": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWW5XUXZxTVFNbTl3WDMwcmZNVy1LUWZqNGV4TEFRbmpYRVl5QUg5aHZnREdCWVJraDdrYk9uaEpBYkFEakZKY0l6bFRUMXVWanFCaEViMlRoa3NIR0tiMEhhS2lmZU85WGlxcjZ1WU1qNHNfalZ2bHVwZTFzOGg2VUxac0FsVGRDcnJ1MC1hYjhSek5HTGRJdi14ZXY2Uzl1ZHA5X2JMX2xpZWxZUnNfN3JiSEc3eUV6X1EwVUpBOXZiN19pRmotbHY1Q1RSd3pNbXB4NU1R?oc=5",
         "source": "ESPN",
         "published": "Sun, 19 Jul 2026 18:39:00 GMT"
       },
       {
-        "title": "Mario Cortegana reveals Real Madrid stance on Rodri transfer",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZV90UEt6NDhCcnJ2Z0RZaVE4UXhKSk5ZYkVqRmdNMFllOHhDNjYtOUxjR1RVTndmWHlQbE55dWdlMTZUVmpuSDZublFINVgyNWVOWUYzMlE0VWRuQmw1YkFZakFVYW5CZHdzdjZ0M1FZdlEyQWZSd244cmF4VDF6c2ZpbHprV0RfdGxJdA?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Tue, 21 Jul 2026 14:45:00 GMT"
-      },
-      {
-        "title": "A single condition to seal a major deal.. how is Real Madrid thinking in the transfer market?",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVZiQlo0OWJrSjBzSjhyQ3cxSXVadzREYnp6Mm4xYmthZ1g2eVpJRnhEU3g5d29kVkNNdTVUQVBNa2hZd3M4YTJwYmRfajFxclVEYS1Vem9VcHg5N2U0S2poMEw0T1MxcDZUMEZydkJFWkVxZVJsTU5Vbk1taTh1RDcyeWticURIXzlId0ZVRER1OTdtRDdxdmRITUpRd1hxMThkVEt4Ynd1bmpuMkRDN3ZYVDhteVNqNjRqMEtTelM2SDFUcmdqbDlNM3FHLXBBcGhDOGNB?oc=5",
-        "source": "Goal.com",
-        "published": "Tue, 21 Jul 2026 18:21:50 GMT"
+        "title": "Chelsea receive transfer offer after Xabi Alonso decides to sell £40m star",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODgtNENFQ0U5OVI5N1J5VUZVRWJxOHUxVnlOTllRMEJYbEdhRF9QZk9wREExNE84Nm95Y1dSUzg4bUpNSWNPS2h1ZURYYWhNUElMUnRZTGdnUlowVWY3dW5nbFdYTVg5Y3FWeVRkblNoazFiQzI1OS1SVk5uSFZkS0JxUktaU2VSZ0U2VndZZW1aNzhONUpVdUVjUXltZE5NLWlYR3dSdkPSAa4BQVVfeXFMUGFWZXl0TTVXWDkwT19aTHRnNGhWN1RsTS1ISVZkU01ycEZRRTg5d2gtNWw0NXdTYURhNlRHeDhDTnJLaU9ORVNabGh2UDh2UEhDc1RFOVBySXZuX3hEZDVzaHJkODVUalQ3a1NLc0E2UHFiaUJhLTBSLWU1NFE0MU9aWHRsNF9pc0tYV3lnRFZ3c0dzTGV4VGxMRDQ5QXE3cXA4ZUFrSGdKSm5kVjJn?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Tue, 21 Jul 2026 15:07:00 GMT"
       }
     ],
     "fcb": [
@@ -1634,16 +1634,16 @@
     ],
     "ars": [
       {
-        "title": "Arsenal Transfer DealSheet: What is the plan after Morgan Rogers’ deal to join Chelsea?",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjVYNW85RGpMQUcwVXNfXzFWV0x1UUZ0eFlYYnczMDhGVkowZFhCYWY5MWZtUWtmZDh5amNwTTVvY0hZNXp5UHlBak9GZzg2dXJQdFNQVGNVSlJzUmk0TGdHSVBCRzVlcVZLSzVzZkw1LUJjOWd6N0dBZUpNbEZodUktM21MeGpVaUJQdQ?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 21 Jul 2026 06:44:32 GMT"
-      },
-      {
         "title": "Arsenal transfer news: Reiss Nelson attracting overseas interest",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoTDdEa255RTVFU09CTUJEN0dfTTl1bmViYm9UWlRFbFZYS1lJTl8ydS11RXBwWnIzSC12LXRORktEcjEtUjZILUR5Ni1pRDlrMk1mSEdDUlp6NXN5UzJJRkZvUTJqajQ?oc=5",
         "source": "BBC",
         "published": "Tue, 21 Jul 2026 15:23:27 GMT"
+      },
+      {
+        "title": "Arsenal Transfer DealSheet: What is the plan after Morgan Rogers’ deal to join Chelsea?",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjVYNW85RGpMQUcwVXNfXzFWV0x1UUZ0eFlYYnczMDhGVkowZFhCYWY5MWZtUWtmZDh5amNwTTVvY0hZNXp5UHlBak9GZzg2dXJQdFNQVGNVSlJzUmk0TGdHSVBCRzVlcVZLSzVzZkw1LUJjOWd6N0dBZUpNbEZodUktM21MeGpVaUJQdQ?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 21 Jul 2026 06:44:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Arsenal to move for Spain World Cup winner Williams",
