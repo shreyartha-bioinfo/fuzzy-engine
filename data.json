@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T20:09:26.512593+00:00",
+  "updated": "2026-07-22T21:34:21.812655+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,10 +1538,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal target Rashford, Guimaraes talks; Chelsea sign Rogers; Man Utd, Liverpool latest",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekRjU19MNlpKVHVrU19ieS1QV1R5cloxZmlZd2JFNXhEM2xPa1FLaGNUSUFwYXRodWhuTkdyeDd3MjBuYnAzZ3N2UDlkY2NSb0tvYnB2b0tQZEMxMXhxSmhxRkxrbHdDcXBkX3RSOWhIWDdNYUNQN0VybW1LMFBKOWxGa1JIOExzZ09PcUNna3hwQ09WQnlDVXNvcXlUaGlWT1Bfbk1TcTZjaElvSndBQlBvQksxYzZLbEF1cmdvVTExVUVkOTRWTFRRYUZlNXJ2Y0FV?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 22 Jul 2026 17:59:40 GMT"
+        "title": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA?oc=5",
+        "source": "ESPN",
+        "published": "Wed, 22 Jul 2026 17:36:00 GMT"
+      },
+      {
+        "title": "Man Utd transfer news LIVE: £51m Zaire-Emery bid, Manu Kone latest, Scott BLOW",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkl6Y2l4UGpKS3BjMUNFMnhqT3JnNUpjMjlfTWVrYVFyeXpEbWZIVWhFemc2VXRsWDBpUkhmV0xzWVR5dHBoR3V6UWxmWWZrb0RhU0c0NlR1VTV4Q01ZWlRzN1VidE9yZy1JOF9aS0FoRmI5QXJSZFl0cHFyT01OYUh0bXc2RWw4Q3RvWVBIajEybldDeF91VXE0WER2WEZBMnlmSnhSOA?oc=5",
+        "source": "The Sun",
+        "published": "Mon, 20 Jul 2026 20:41:44 GMT"
       },
       {
         "title": "Man Utd transfer news: PSG midfielder Warren Zaire-Emery targeted as United consider bid",
@@ -1550,22 +1556,16 @@
         "published": "Tue, 21 Jul 2026 22:18:13 GMT"
       },
       {
-        "title": "Man Utd transfer news LIVE: £51m Zaire-Emery bid, Manu Kone latest, Scott BLOW",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkl6Y2l4UGpKS3BjMUNFMnhqT3JnNUpjMjlfTWVrYVFyeXpEbWZIVWhFemc2VXRsWDBpUkhmV0xzWVR5dHBoR3V6UWxmWWZrb0RhU0c0NlR1VTV4Q01ZWlRzN1VidE9yZy1JOF9aS0FoRmI5QXJSZFl0cHFyT01OYUh0bXc2RWw4Q3RvWVBIajEybldDeF91VXE0WER2WEZBMnlmSnhSOA?oc=5",
-        "source": "The Sun",
-        "published": "Mon, 20 Jul 2026 19:25:52 GMT"
-      },
-      {
         "title": "Romano Issues Update on Man Utd Signing 'One of the Best Midfielders in the World'",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhkOW1jZUI5UVc4OGhVQXFxWDJjbFllTGEzcXd0LVUtdnM0azBJY2hyLXQtVEViVk9MODNsOWRHVjJrQ0FpNDItS2w2ZHJlcnR3a2dsbEV0Q1hlSGlHNEFLWjRub2ZieGNfXzJGSF9BUXl4bU5VNGlUdktBeUplTUkyNEVCRkhmQmdxRFY3cw?oc=5",
         "source": "GiveMeSport",
         "published": "Wed, 22 Jul 2026 19:15:13 GMT"
       },
       {
-        "title": "Inter Miami sign Brazilian superstar Casemiro",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajhILWlYMndBQ2xISTBaSXV6Vll0eW8waVZOOGRYWEhIVDFld1ZQY2RSU0lzeHYxZEpjRXRIb2VtdmV0NXlKSUxycnZkRTZaZHcwczhqQVNjVGVicEp3bnlhT1ZxampZUVR3Q1FaRHN5ZVRQWHk1cU9wMHJIWkVNZnpDLTZycDh2RlowVXZtMG1ndjU3MHdwWGR5WHV0eV9mdXFuWA?oc=5",
-        "source": "MLSsoccer.com",
-        "published": "Wed, 22 Jul 2026 16:20:25 GMT"
+        "title": "Man Utd 'close to finalising' signing as INEOS try to hijack Real Madrid 'agreed' deal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEJpdjc1UUhRWjhEUUlLWlp0S2QxQTZfUmU2U0pnQlk5VmVOMXJwNmtKQWxCSXc4UGhJU0M3cFhVMm1Wd051cGFkelZKWDRPSjljWnVsSmNKRmxSTDUyaWVKbXNsNnFBN1dEVF9WWmZHN1JBanZPX1hpelk4b2tXcERva2lTU1ladzlsNTNJclVSZ01EM3djVnJXZUJuTVR3OXR1bk96OXI5Zw?oc=5",
+        "source": "Football365",
+        "published": "Wed, 22 Jul 2026 18:43:31 GMT"
       }
     ],
     "rm": [
@@ -1573,7 +1573,7 @@
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0c1M05wZ1ZLc3ZvOW0zLTA2bjJtQjd1bWdORzNiNHNVYjhrOG5TV3N4RmlLNXp0elZ1RkRGVDc1NGtHb3BGNmdyNV9GM3d6aC15QkdmckhlWm5qVi05TkhORTgtcTJCTmdLUUtJY19SaS1CdVU1TjR1bGdxQ1hLcmxGZURMS3MwMnpOSloycTV3ZnNIOEx4ME9HeDluWG5Kd2RGc25jdmlwX2dxLXBFelBhNThYYXl6QXM5X2F4OUxjSERJRVpuNExqa00zOXIy?oc=5",
         "source": "The New York Times",
-        "published": "Tue, 21 Jul 2026 19:14:58 GMT"
+        "published": "Tue, 21 Jul 2026 12:30:18 GMT"
       },
       {
         "title": "Misa Rodriguez: Arsenal sign Real Madrid goalkeeper on a free transfer",
@@ -1582,22 +1582,22 @@
         "published": "Wed, 22 Jul 2026 09:38:21 GMT"
       },
       {
-        "title": "Inter Miami sign Brazilian superstar Casemiro",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajhILWlYMndBQ2xISTBaSXV6Vll0eW8waVZOOGRYWEhIVDFld1ZQY2RSU0lzeHYxZEpjRXRIb2VtdmV0NXlKSUxycnZkRTZaZHcwczhqQVNjVGVicEp3bnlhT1ZxampZUVR3Q1FaRHN5ZVRQWHk1cU9wMHJIWkVNZnpDLTZycDh2RlowVXZtMG1ndjU3MHdwWGR5WHV0eV9mdXFuWA?oc=5",
-        "source": "MLSsoccer.com",
-        "published": "Wed, 22 Jul 2026 16:20:25 GMT"
-      },
-      {
-        "title": "Bayern Munich News: Olise ‘not feasible’ for Real Madrid this summer",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbkUxbG9mVzdGWmMtcDdRZlNtMWFVREtXZW1Hd1NKREE5dDNBOHVYaU03b0VUdE9ld19VendwS1JVUlhFWDlLYjI5WHB0VWVDVEplMU16VlNJYWRCdWRzVVI1UDJXT2R6X1drRmlxYXM4MnEtY2NWdWxQR3Y3TE9sbk9RelhYZ2w0RzVGdTRCbl9mT3hyLW0tVnZQblVINHZtRklxTl9CQ2dJRjhxUVpod19WSDNtXzdkLXlfd3g2THAyZExHQW0wQVBUTWhJdHhlc29zek54U1kzejl3MU41YUpJZFlyQ0RZSTlsOW03eXgxd0xqVGxkOWxhdFpBcXJYd2c?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 22 Jul 2026 15:15:00 GMT"
-      },
-      {
-        "title": "Bayern Munich legend ‘completely relaxed’ about Michael Olise transfer speculation as Real Madrid mull over record-shattering bid for France international winger",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNT0RYOEpITnBmbmI2T04xQl8tOV9PeDRaVHpGcGlWeDBPMGNQdmI3WnFMSW41STlTaEMxS2FOT1hLaE15T0tvdnROVzZwc0tuSVBvQXFpazBfVUM3T05pS0tsaTVhRlg4d01SeWFzMG9wdjhRMUNwa1N4MHZkeFVkcUpsaHUyUHZJZTlkMHpVYTJxSlVSTlE2Z184NlFJeTdmRzdabXdjN29TNzk5WmZ2WVBCQmJKb3BSa1pWM18wSWlhNGp4a2ZIdDFvNEd4cklxbjJDQ0RUb003dWhGUjhrbFMxYkY5UGkwVTBMb0x6OW84OFZOYVBMRzltY010UHhRNTFnV29iMVZ1NU5Gd2o4cS1HSUN1RnNvSHNWOXFISQ?oc=5",
+        "title": "Transfer window check-in: GOAL grades Europe's 10 richest clubs on their summer business so far as pre-season begins",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3RabmhuU0xETm5aVVpCcU5KMmkwTnNfQWlta0JvMnE1RDFfbDVNS05kb1IyTF9zUEtHanh4OVFNY1ZFTDNqZjlqNjZCdzc0aGVpWldZMzBHS0RoSGNtQy1TQUR2WFN2U0F3NjJaODI4WVZLNkI4SWxjQ0IwMmpjUWtfNHdXSWpIV3lQWkZJZEI5WmpGNWMxa3ROU0hCTnB5M19sNmhZeFhwODJKT0E?oc=5",
         "source": "Goal.com",
-        "published": "Wed, 22 Jul 2026 16:06:38 GMT"
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Man Utd 'close to finalising' signing as INEOS try to hijack Real Madrid 'agreed' deal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEJpdjc1UUhRWjhEUUlLWlp0S2QxQTZfUmU2U0pnQlk5VmVOMXJwNmtKQWxCSXc4UGhJU0M3cFhVMm1Wd051cGFkelZKWDRPSjljWnVsSmNKRmxSTDUyaWVKbXNsNnFBN1dEVF9WWmZHN1JBanZPX1hpelk4b2tXcERva2lTU1ladzlsNTNJclVSZ01EM3djVnJXZUJuTVR3OXR1bk96OXI5Zw?oc=5",
+        "source": "Football365",
+        "published": "Wed, 22 Jul 2026 18:43:31 GMT"
+      },
+      {
+        "title": "Man Utd plot stunning Tottenham raid as enquiry launched for Real Madrid star",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFZjYk5OeXlEMlA0Y3R5QlJoX2tCVTF6djBTN01Lb0lvbTBZWnNZaThWb0dpR2lhVkxnd1hUd2p5c2ZwXzdGM2VXWWluS2RvaDAtOVc1UUM2cTg4U2ttQU04UHZ3TDZVbjJoa2Vacy1UUWpJUHgzY0p5OWFtaVNKMThrMkY3QnhBT2lmYkFZMm9hei1zcmRRa24xQUFPbi1Pb1BTWkRaY0pvMml2b1lr?oc=5",
+        "source": "TEAMtalk",
+        "published": "Wed, 22 Jul 2026 20:32:30 GMT"
       }
     ],
     "fcb": [
@@ -1640,28 +1640,28 @@
         "published": "Wed, 22 Jul 2026 13:43:51 GMT"
       },
       {
+        "title": "Transfer news LIVE: Arsenal target Rashford, Guimaraes talks; Chelsea sign Rogers; Man Utd, Liverpool latest",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekRjU19MNlpKVHVrU19ieS1QV1R5cloxZmlZd2JFNXhEM2xPa1FLaGNUSUFwYXRodWhuTkdyeDd3MjBuYnAzZ3N2UDlkY2NSb0tvYnB2b0tQZEMxMXhxSmhxRkxrbHdDcXBkX3RSOWhIWDdNYUNQN0VybW1LMFBKOWxGa1JIOExzZ09PcUNna3hwQ09WQnlDVXNvcXlUaGlWT1Bfbk1TcTZjaElvSndBQlBvQksxYzZLbEF1cmdvVTExVUVkOTRWTFRRYUZlNXJ2Y0FV?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 22 Jul 2026 19:25:17 GMT"
+      },
+      {
         "title": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA?oc=5",
         "source": "ESPN",
         "published": "Wed, 22 Jul 2026 17:36:00 GMT"
       },
       {
-        "title": "Arsenal transfer news: Reiss Nelson attracting overseas interest",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoTDdEa255RTVFU09CTUJEN0dfTTl1bmViYm9UWlRFbFZYS1lJTl8ydS11RXBwWnIzSC12LXRORktEcjEtUjZILUR5Ni1pRDlrMk1mSEdDUlp6NXN5UzJJRkZvUTJqajQ?oc=5",
-        "source": "BBC",
-        "published": "Tue, 21 Jul 2026 15:23:27 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0c1M05wZ1ZLc3ZvOW0zLTA2bjJtQjd1bWdORzNiNHNVYjhrOG5TV3N4RmlLNXp0elZ1RkRGVDc1NGtHb3BGNmdyNV9GM3d6aC15QkdmckhlWm5qVi05TkhORTgtcTJCTmdLUUtJY19SaS1CdVU1TjR1bGdxQ1hLcmxGZURMS3MwMnpOSloycTV3ZnNIOEx4ME9HeDluWG5Kd2RGc25jdmlwX2dxLXBFelBhNThYYXl6QXM5X2F4OUxjSERJRVpuNExqa00zOXIy?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 21 Jul 2026 12:30:18 GMT"
       },
       {
-        "title": "Julian Alvarez: Atletico ready to accept Arsenal move after direct Andrea Berta talks",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmVyaXJObWpDMkZYUVNYYUFmVGNTaDFNQW1PTkZ6djFXOVNmVFB1UTd0d3JXQmk1dDVteVhKVVp1NkhTb3JVSFpYMERDQkJqVUlXWFZkQTRkay1aVzBjaFJKWmtyd285Unc0TEczeUxFOXQyOTFVUlYyYnQ1R05vWWg1TzFPTWxGa0RSUzA3RGliRDhLR1JCb0VOSlZnUG5XNHFxSFhPVWtNTkxLMmM2WFIyLUxTMEJETGNKSUNmSElGSXg1NV9YVWJla3JfaWFicUhDWA?oc=5",
-        "source": "LiveScore",
-        "published": "Tue, 21 Jul 2026 14:29:08 GMT"
-      },
-      {
-        "title": "Mikel Merino Arsenal frustration theory as transfer suggested after World Cup",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPODB1WDAzUDdZeS1taTJTVTE5T25CcHNIN3Z2NlJGN0l3QTlTcllBQjM2bktuWUdqeThKVklkaTdPYzBoc0FvZTVDSXdHMHdmdlZxS0hnT3pwbWNTMlQ4NllsMVdGTV9VWXpSdXRSZ1lxQ3BaUVQzb2xxRUZkeVJQMHRPLTUtUGtDdmZHUEp5S0lkMjN6cGZrU0RVN28zUdIBowFBVV95cUxNMHdpbEZ0VTR4T01HeElKNkt1SElhSnZtTDA3czlSWU1jT0xtM0hJSWdObDl5M19RRVEwWXJkMS1pbTJkbndRTDJFc25aeXBjVHBlMUh1UHhuXy0tTWJydXVyUFVnT0tIb3Q4eVd0cGRHNGxiQWowcllIVy03ZmF3M0hrWUZNb0FpMVgxWjNxSzJ6Sm9yMTRfbEdObXQxeGtXd0FN?oc=5",
-        "source": "Football London",
-        "published": "Wed, 22 Jul 2026 04:02:34 GMT"
+        "title": "Arsenal transfer news: Where Morgan Rogers' door closes, Julian Alvarez's opens",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0FwVkx5Tko2NHRLX3M4dFB1M0M2OEUyRm4yZFNfSTFVME9rRlZZVHRPbkUzN3ZvcGhJWUExbTRmVWpwcTRWckJucmhmSUdST29QZDdvWF8xYThuc2tTOHFKSEtXeFB5WXU1RHpIYVlXUEszNm81TG5HWG1FQ3hrM01qZG9Rd19zenpv?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 22 Jul 2026 16:20:32 GMT"
       }
     ]
   },
