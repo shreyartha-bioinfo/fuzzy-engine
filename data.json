@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T18:50:22.117056+00:00",
+  "updated": "2026-07-31T20:14:46.050936+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer rumors, news: Newcastle accept €90m Arsenal offer for Guimarães",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1V6QTFZODBnNlJtTDQwZnVRU1dwdlp0MU1acUpZRHB3Y0tsaHhrQnphdnBoOFBMR0hEOGE1SFNmNlIycXV6eWlXREE4ejJhR04yc3FPWkhRbnJ5LW80ZlVZQmpwZ1RDTDc4WnVaSW9RdlFZSkIxRHdNSzBUc1BzZ0xNeDg1Z2owSlY1cy1NTzRwRzBGQzRGTWhXRXZWRWhDdnc3SGZmZkQzdw?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 31 Jul 2026 18:04:00 GMT"
+      },
+      {
+        "title": "How Man United Have Fixed Their Transfer Strategy",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWJtSHRVVHlEM3pCSWJPYzBLR3p6NjRTOXNfWkhWVU40cy1MRmtoSmZlTmtncy1PX2FIa0ZnNDhRa2FheFFnOTlPOGg0S3pTZUdVcUpDM0xuMkxYbWQ4bkxmMTl6WS1Ybm91QWRJbDRoV3d1bjZjNGdqaFcyTkV2Z0NIcHFXMlNH?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Fri, 31 Jul 2026 18:19:45 GMT"
+      },
+      {
+        "title": "Newcastle react to Man Utd approach for Lewis Hall with another transfer off as 'clear message' sent",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXk0NVNiT0FyR1RMUWd0c2VTT2l6TnRkcG93M1NJRVhFTWlmU0pKcWhIa0JJUWUzNWRFQlRIcnZuUkVrQUJONDNuVEFxaE51YUd0ZUkwYlZ6UXJWUWxhMFRXN3pVOWhiYmhCS2xFdS1qNGdIMHVFaUdvdVV0ZjMtRXRvcDBNVE1RcEVUckZHN3pzTUkxOHd0UmhZemd6dWpydXcwRnVjZnd6UQ?oc=5",
+        "source": "Football365",
+        "published": "Fri, 31 Jul 2026 12:17:25 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Bellingham Linked With Real Madrid Exit; Barcelona Raise Alvarez Bid",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQck9ETlNENGNwWk9pSml0SDBXR0h1QVhmUjFFT1hCanl0Sm96TDYxNjBvVHhsWWVHVy1udTJmdk9MbzB3b1hYSDhpWkxCWHE4MzZFa1RhOThua0FHd0hqdEN0a2o0a0xsZ2RiZHRLX1lNMHliTzZPb2VWRWFVNE1FQ0tNWFhjd2ZvdFdYd2xCRV9QSm1ydmVhejFpbi04MGJlVDlpdlByaw?oc=5",
+        "source": "si.com",
+        "published": "Thu, 30 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Tottenham can benefit from Marcus Rashford transfer U-turn as Man Utd star says goodbye",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWxJcDBuX3cwQlctUHpMR3ZfZEpXM0o3ZG5aOUhUZ29kZlFiUzJUelI1Q29wbjJ5WkVScXNaNmZjaW04cXA5M0xLRkdoOEowTXpqdy1mLWtZR3lGaW03ZXR2RG8tTFlOcUtaOGlsUE9KZFNhSWJuay1veGl6Z1dGT3BKQU9nSU5iMTRwQWV1dzFFTHZXOVdFemx5YTVFOWZ1XzZvQXJlMm9sbExIUjlGaTR4X03SAboBQVVfeXFMTmlaaVQ4bWU5TjBYcldlazhCbnZZV0Robi1ZdVc4OTVDQXhueEJwT3lqSWRUamJKeHBJNUdRYkxxcGJ0Z0NsN2lkNFZvSUZMUHJOd0dPbk42WFlsdW8wd00xTVVqTFhPYTl6Sk1reTZBcHlpZjJablBhVDU2UGVJYTZXbHVObkw1TE5OV09QM05NeGM5QnNnSUxhNThSblNyQ1pCSGs3RTlOSEN5X21hZlZrcmdLUlEzTWJ3?oc=5",
+        "source": "Football London",
+        "published": "Fri, 31 Jul 2026 10:13:11 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Vinicius Jr transfer momentum shifts to Arsenal as Real Madrid decision sets up dream deal",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGZDWV95ck1zb0xGTTBNOGdOUk5GdnR6aHpiaGpnYzNPTmV1bzdUbmtZdi15dnoyZEJfOEp4bkNkMkxRME9xX0JoQWhxT0djY1hXcC10cl94ZGhTWnNIaFpJRk5FdzFlcVpfaE9SY2NYZGI1NkpBM2dnZ3dLY1FwVjJOamo5RlJYNlJzaXJTd2ZLQm56WDBGaDFlVk5iU3fSAaQBQVVfeXFMT29wM05ibGotMU9VZWM0UEVLRmZmYV9kYUFRczIweVVncjNGTzNrdm0zVXJKeHFZblBUOHllTlRSN19odGk1cjB5MzZhUWxwNUx6SHBpaWFiMXlWaGlkMXROSTlBSWpiNmZoRFN0WTZjcmZVeGNmV3d2Nzh6bExxb3pjMkdxSWoyZmNTQTNLWTNrMl85S1BFS3BmQnZvSk5CbUQ5NVM?oc=5",
+        "source": "Football London",
+        "published": "Fri, 31 Jul 2026 17:08:08 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Bellingham Linked With Real Madrid Exit; Barcelona Raise Alvarez Bid",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQck9ETlNENGNwWk9pSml0SDBXR0h1QVhmUjFFT1hCanl0Sm96TDYxNjBvVHhsWWVHVy1udTJmdk9MbzB3b1hYSDhpWkxCWHE4MzZFa1RhOThua0FHd0hqdEN0a2o0a0xsZ2RiZHRLX1lNMHliTzZPb2VWRWFVNE1FQ0tNWFhjd2ZvdFdYd2xCRV9QSm1ydmVhejFpbi04MGJlVDlpdlByaw?oc=5",
+        "source": "si.com",
+        "published": "Thu, 30 Jul 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Carlos Espi’s agent speaks out after Real Madrid transfer: ‘When they come calling, there’s no doubt’",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWXpIM3Z5anVaQno5bWd3cUtuN191V1M3X0l4eGFLVGwwR3Znc0NpSTk0VUhoNmtoWThCZUpSSDNuc1p5Q05WaVlsbXFLRER1MEt1aEQ3NEQ5Rk5vbm1GX3M1T3FUdmQ4R0hFX19fOHR3bEY1Sl8yUUVxQnBlODZSYXlabw?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Fri, 31 Jul 2026 18:50:00 GMT"
+      },
+      {
+        "title": "Real Madrid now have 60 million reasons to make sure they fully appreciate Ibrahima Konate",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3ozS01pNFl2RWFHcVVUeml2TXVZRkJ3dHBMVzQ5bWNSejRoSUo4dkhXSEpTYk15eV91U1lVSjVpbEhxaWpJbk5RUURkTmlLRko5dzhJaHFud1dmUE1OZDZpTGNLa3lQVFh3cXJXYWE1RHNPd2luNlJfSEUtRDZLTDh1TjdsY2NKY3VyZXZWRkpiNG5ZME9aWllPR0tDUU5pcXI4c2tzX2VvZ3k3VUpUT0JnYmpBXzFkWHYtOUpEUU92VnRhMUl3Qw?oc=5",
+        "source": "The Real Champs",
+        "published": "Fri, 31 Jul 2026 10:00:01 GMT"
+      },
+      {
+        "title": "Tottenham: Roberto De Zerbi in dreamland as Jose Mourinho wants Real Madrid winger out",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzFvZ01SWWVXalhienA4SWRSV2NWNjR1cGdWamNjNjlYZXFEZDRrZWFWbk5yWHN5QlhnLWxtcjI4WHJiOUZnWGhQZFBXN1pLSnB4WEhOLThMLW1WUmhQcjJmSmxrcHF4LXhlRV9uUWRjWk0tbmRJd1U1Tm0zRzYxRjB4NHUyVUlFNjFDS05KZ0xvQmJyWXc?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 31 Jul 2026 17:58:53 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern Munich take steps to sign Bradley Barcola and stop Liverpool transfer",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlRtejVLaHBON3FWMjcwTG90Y25CektWbV9KS0R2UXU5cGVxRjk4cTRjNW5TbUNvS0YtaXYxam1POHVxQVplZDlMcDYxMnB1SDRDM2YwWGdmaXpDQVVfSThMN0NWbmZuLUFDazBZbHBIcWRUNGVhX0lvbTMtUVlXVWt0ZUY?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 31 Jul 2026 17:12:13 GMT"
+      },
+      {
+        "title": "Michael Olise and Real Madrid rumors left Bayern Munich’s Uli Hoeneß rolling on the floor",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhXbmJfdFRqS1pEcmF0NlB2Z2IzRXRsbUZuczVqNUZZZWhQZHY3UjJYZ203Ty12LWtESjB5ZU9HV21RMXpRRFRvTWw1TUc3SmxySlVadEd4ZFIzOHJuMWI2b2xCZ0lzZGZoRVk1aTFsMFJGdDdUWHBFQV9XY0NXZVNzSklrcEp0cDdzM09VSWZJQk9TbVpSQTJITjdiSWo0Wk1RVndOY21kYnVuN2xjbGYwZHZLbVFNOXNNeGVzUm83N1lHVXlFUjUySmZndjJJTHdENW5GeXNWdVNaeGJGcVg2akxEeGZ0RkdNdU43RW9NN3o1NEFreUw5LW8?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 31 Jul 2026 11:45:00 GMT"
+      },
+      {
+        "title": "Barcelona eye shock free transfer for ex-Bayern Munich midfielder as Hansi Flick eyes reunion amid Frenkie de Jong and Fermin Lopez injuries",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXA4QlRpUERyd2dGdzNpMldXbDFXQUtCeGRvQTdCZno3OWZlbzhvTWJ2ZUNYV0RPMExfVkFzaDUydEhXTDE3QmxDaXRMVFR4aHl5dnJlMXpaWm9JSzM1VmxTVVJTbHlQcmJYSVRIOERZdVZtbGluLUpIR1dYaDNaUDhDOTBTLTNKZ3NXOXNZNFNEenJOUXpxcHo2aUNadWY3RExSbndDdVBQSHZ5RE9V?oc=5",
+        "source": "Goal.com",
+        "published": "Thu, 30 Jul 2026 10:30:39 GMT"
+      },
+      {
+        "title": "Uli Hoeneß on Bayern Munich's \"perfect\" transfer window",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRnhaNng5Q1lWb09lV25sd2FnRDNiZm9HNF9ZZlNXYlhCU2tPRGRab0gxVDlWcWhEQmNUaTk1ajMzbmpXSlhkZnNnN3hydWNVbGtXMjdYMGpPTXFFSk1lWDZxd05VRkxLM29lYkt5R1h5RlNfbHlEandB?oc=5",
+        "source": "Bulinews",
+        "published": "Fri, 31 Jul 2026 14:57:00 GMT"
+      },
+      {
+        "title": "Despite Nathaniel Brown addition – Bayern rule out Alphonso Davies transfer",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3JlV2NGZjh6QmtMZ1FOOGprcWUzb2wyZUVsX0xzY1BFVXlpOFF3eXAtczE1dDdwcTUwWHVMazNQZnd4d0F0QUlreGpjV3N4cFdhRjZpSUVqbEY2cnV6YjllWFRsWEtSci01UGVsblNDcjFjY2Y0a3FiLUNvSEQxQ0Q2VUJWZFlGcXlvc1NvUEtqeEREOWZpTDBqY1cxdG5kQ1BQSFA4VVdYZ182aTJvSnVCRkY3WEZjd0Y5Ug?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 29 Jul 2026 19:00:17 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Transfer news LIVE: Arsenal double deal close; Man Utd eye Igor Thiago",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWExGWTZRV3EyQkdkVFVjVXZUQWt1NE91OHh2WEtqRW50c3EybUxmUWIzdFZKVmFWM2lLMVpiY2pnUGxrRmd6emtzMTJjY3djV3lHQUJEbkNOMXQ0NmItNHpSdWNtZjR3OXN1NUJCbm1HRlFZb1Y1TmltUGpfSnhaSHdsNFlUSzNWOWxTbDZQRlJwYW9WbUFTYVExRG0tREg3bnJtVzNOV29EVkVvRmVYbmtjWUgwalhkN2NWYXdIaTBxQXBUTEU5SnF3SDB6OE5VQnhXQ01RRHF6Zw?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 31 Jul 2026 17:53:41 GMT"
+      },
+      {
+        "title": "Vinicius Jr transfer momentum shifts to Arsenal as Real Madrid decision sets up dream deal",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGZDWV95ck1zb0xGTTBNOGdOUk5GdnR6aHpiaGpnYzNPTmV1bzdUbmtZdi15dnoyZEJfOEp4bkNkMkxRME9xX0JoQWhxT0djY1hXcC10cl94ZGhTWnNIaFpJRk5FdzFlcVpfaE9SY2NYZGI1NkpBM2dnZ3dLY1FwVjJOamo5RlJYNlJzaXJTd2ZLQm56WDBGaDFlVk5iU3fSAaQBQVVfeXFMT29wM05ibGotMU9VZWM0UEVLRmZmYV9kYUFRczIweVVncjNGTzNrdm0zVXJKeHFZblBUOHllTlRSN19odGk1cjB5MzZhUWxwNUx6SHBpaWFiMXlWaGlkMXROSTlBSWpiNmZoRFN0WTZjcmZVeGNmV3d2Nzh6bExxb3pjMkdxSWoyZmNTQTNLWTNrMl85S1BFS3BmQnZvSk5CbUQ5NVM?oc=5",
+        "source": "Football London",
+        "published": "Fri, 31 Jul 2026 17:08:08 GMT"
+      },
+      {
+        "title": "Bruno Guimaraes asks Newcastle to delay pre-season travel plans to finalise Arsenal move",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0hUeXhGaDFhQnpVMnl4OFFqYl9QbDJGTUNCaXlQNUFPclVyS19CTGJIT3Uxc0MxZHNMcFRucWhjTXc5ZzdiODNkZ09mT3A1YXhCSTVaNG9BenphdUlLZmxnOXNrVW91S1JRSkUzTThBd1ktQnB2MlA5N1RCZWszZFFQdTZPQS1VbVJlVUlDNXh0Zm1tRVMzM1BIOA?oc=5",
+        "source": "talkSPORT",
+        "published": "Fri, 31 Jul 2026 09:16:15 GMT"
+      },
+      {
+        "title": "Arsenal join PSG and Tottenham in transfer race for Spain World Cup hero",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmpwVDU0czU5ODNaWUY0TTBteDNYd2lNYUZLaUxDbUduQ0puV05LM2lZcHNreEROTUxkeTFZQUNrVURlVmxnVFB2NXIxTXRwXzg3RnM5SDJPS1lvQlZJRTltREJDVW02TkpacldmRnR5c0VrTTUzZzE5dEpVLVZDeXV1RFdHNURmRTRCTw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Fri, 31 Jul 2026 15:30:00 GMT"
+      },
+      {
+        "title": "Eberechi Eze Reveals Declan Rice Role in Arsenal Transfer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZjlPbmNHWnEwT2NyR1pWdEtEVHB5ejZPMGxnLUZRMWxybTVDX2lMOU82SHRocHduTTBHUHVHcUZZMVA2TzNUMFI5NHd6aFpORjZRejM2SEhWLUtaU2luOUZMWTBhUEVGdDlwdEhxalp5dWYyeC1uaVZJR0pjTnNNM29JZlphVTVqSkJTeGRsdWFzLWpTcGtSbDZMRkxNdGlraWwtelBPdDBVc0NvalB2YUMyOVVYVjZCa2YxWjB3?oc=5",
+        "source": "roundtable.io",
+        "published": "Fri, 31 Jul 2026 15:22:21 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
