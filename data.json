@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:05:37.485334+00:00",
+  "updated": "2026-08-01T21:14:40.289129+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlN6REc0alJudUpjSkp3LTZDd2dwbzFjTEdUcFBFLWdmS3VXYUI0aUZFSFBmYWlJTkR2aXRyZTBORk1GcnZzWDczNVFTdllNSm9hTWQ5RVJYQU9mN2xlSWE0OFFDQ2p1dWRYeGJiSTNwenVJODV6UkVyWnlGeVh6YWFUV1R3eVIyeUdlYk1JWk5TanVycWRHT3IyanY0a0RXcktnUmU1bXFsNHlKZkVsRHl4UGx6TUtBTU03RzRDeHNMU183LWdwVFdPWFhOWEFwY2VuakduQzk3REU?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 01 Aug 2026 16:28:12 GMT"
+      },
+      {
+        "title": "Bayern Munich ‘want Man Utd star Benjamin Sesko in shock transfer with Harry Kane lined up for new position’",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2VCNHBCY0RhYUZrTy1GX19xUTBSem4xNU1DdlJNVUZxb1hfcU0xdUcwbTloZVRoZHlqSTRiTmxEcWE1SnFBdHdFVkZldm1vUV9XV3FCOTRMZWJwdmlmZ1dxNWNvMjc0bHZ3bjREWUlwVlFTZVBxVWJtWk51dVQ0NFRoSGtrX2VvODRtZGVYcnhCMERNZHBfcGg5RnRmdUpEYWlweUxibE5QV0E?oc=5",
+        "source": "The Sun",
+        "published": "Sat, 01 Aug 2026 13:49:00 GMT"
+      },
+      {
+        "title": "Benjamin Sesko targeted for transfer as Man United brace for potential problem",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXM4YnhwQ05QQlJfclh6SldmQ090WTJVSnozUDRYQ3R2cUhhejZyLVNWck0xRVZtQ29kbVE4RDByWUI2R2Fock5WWVctRm1BYm4xTGNlT3hqdXdjWHBhNUdscE1FY0dZZ0NoY3RSY0h2VkREdU45Vm9mRWFzbWtnV25OM1hfeHN5Y2p6TkhxOE1kQURWQ0Q2Mk9lSi1mODJYNDdhTmtvSGZQZ1gtWW82OFFyd0RwNl9m0gG-AUFVX3lxTFBJbWpUdkR1U0E1TTlmNmw2WE1yMnA5M3c2Zkl2Tnh6c1FkZm9KYi1SWUQ5YkVRQjdySmhxWExNelF1eUNlU3RKU2pvSGdIcDVTMXJTX2VEcW44cnI1STR5N1VGSG1CdU1uTlhHYW1zYkdWME9Qb1Vxd3RBSS1xZllmTk8tc0JZMHZzaF9JOS04Nzl5LVB6MVlRNUxXSXRfbTdfZHV0dzdmMWRRa0pUVzg3bVhnUjVJZDRGSy1ZVlE?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Fri, 31 Jul 2026 18:36:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE – Bruno Guimaraes medical set, Vinicius Jr hope, Man Utd move",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWkY2aDMyTEVnQTc4YnBYelJCSnVkUTM0SUFWcjVuZTdEendvaWYzakIxOGRYY3M0bGlYU1RQcWROc0hIYUdnNlItX0RJZXBZSlNGWWJpWnNUeVA2blJRLXpFekJBNXNNUVFpc19xVDVIeXlTSlpEbktlM2dfcEF4bDBZOEZiZVVCRUdiQngxVWZtcms?oc=5",
+        "source": "The Mirror",
+        "published": "Sat, 01 Aug 2026 21:06:06 GMT"
+      },
+      {
+        "title": "Michael Carrick hints at three imminent Man Utd transfers in Atletico friendly win",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUE3R2R3b250LVQwZTh5S2NOZHR4bjNRR0tha1dYbGU4ZkFkSDVDUk5Eanllb1R1MkJ1cV9NNWdLU09lTTUyVEpBeE10SktDZkFfbWZRVUhSZUNLMUVKSmp2aC1vRHg1UEFFdFVzbWpYUmFIWXFUbklXUWVXTHNGaGVwcXJHQWpDSjBLQVRfdVnSAZYBQVVfeXFMTzRTc2VQS1hDZ1k5Q0tTTEM1QkdxWXpIdmxwUzNQTkdXdThRVlBSZi1rS3NyMjFnWWVNczR0bmJJd0M2Q2w0dUFrUzkzelRzWkpCdUMtQzB5ZVNfSUtSUTFGNkpLTlUtU1JJc2pjRlQyZEctbG5qUFd4N2d2eGNfOHhEVE5FUUpnQnkxZFp5eVJFTTlGQTFn?oc=5",
+        "source": "Daily Express",
+        "published": "Sat, 01 Aug 2026 17:19:00 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Transfer news LIVE: Arsenal 'agree Bruno Guimarães fee' as Newcastle clinch €29.2m deal",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTM0cHNGc2c4YUhFeklUcHFFSnNzd1Bqa2diU0poOXNpOGotU01scl9qbEktNDAzckYzN2VTaE9JbVJTVlJKX2dEdzY3THBneThGZmRSTDg1NThLWC1PRTVXbTQzeDdaRWRLOFNQTjczZ25yQmgtWGlpTF9UVUozeXFha0FiNmVCNEM3bmc2eFN0Q0pEZDc3Z2dQdG9xeERpak9FQlBUaURGaTVkN2Vxc2V3X0NuWW5LaXpHZnByN3VqaFFXekRVRnRnQ25RZm1U?oc=5",
+        "source": "Transfermarkt",
+        "published": "Sat, 01 Aug 2026 18:51:07 GMT"
+      },
+      {
+        "title": "Vinicius Junior ‘Open’ to Arsenal Transfer—But There’s a Huge Catch",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSnJQQXd4WHdSSmhZcTJQdzZvNjl6bzNEcllGVF9YWjl5MEhVR1BlbFAwSm1DUUR1Q2lwaFpJS2gwelF2bDBWcFVnVC1abHZtMGxuZlkwcVc3cjRqdlBNOExldVE4QXVGaFhLajZjcV9QdzNxNGpJbmUxeEtoeDg?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sat, 01 Aug 2026 14:30:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man City eye Bouaddi as potential Rodri replacement",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0g5QXpjQnZVX1BXeUxJMnkzdl9TLTNGNDRkMVhJNUdueDE1TkZ4TlRaSUxkczI2RDgtZXdvOVVPMlNETDk2U0R3MExvQnhRWEc3U1YzOUZ1WW1SUmhjc25NdzhabjBtcEFYYWVwNl9JWEs1cFhUdWRia0tEbDZ4OUVseFdKWlpibi1PVjZfbEI4SURFeFYydlVxQ0dZZ19HTW9vTWhGeXJOWXVWU1NaazlXX2RjWW0yeFhFZ2NfOTZMWW5pSTV3dWdUWU5rcWE3UFdOQ3YwTkppNFBPSVE?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 30 Jul 2026 21:17:00 GMT"
+      },
+      {
+        "title": "Report – The shirt number Rodri is likely to wear at Real Madrid once transfer is completed",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWo4clZVR0pmYkxWUG4yQnRhbTFxQnQxY1BVZlI0REgzYW5WenRUV19nVlhmQjdFY3BoeWhXVkJhNjVWUlNGbWhjMmRHT0lhZllhenMzdGxxQjRqeEMyRzFIdm1BT3BFczNoTkFwVTVxVlNqOTBsbWhaYXpjNERxV19yNDVpbVNk?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sat, 01 Aug 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Real Madrid's Rodri transfer could hinge on a forgotten player's future",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VXendDZmFjS3l6U2Fkc25JeGNVN2JoLWg1UkxWaDltYV9BbWFJOHItNjduWU44V2NTUzJQM0JEejNxc0k1SDNQVXMxVjFxNmpfNDdCLV9Bc3Q3WVQxbXlYZHh6UlBVcDRNekxOZzVBY3I1d2VZMll5ZmtKOFhJbzZ4a1lTM3BLSTdGbjh0X0p3aFo0dEJaT2xZNnNIRU5ObGVIUkpSUTBSUEViTlljUTZBWQ?oc=5",
+        "source": "The Real Champs",
+        "published": "Fri, 31 Jul 2026 23:49:58 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "‘Perfect’ – Uli Hoeneß breaks down Bayern Munich transfer window",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd3ZzVDgwUEtYNXlnTTdLNF9sdWMwb3ZFYllCMmJZMmFQTURKdFRlaHRVNlNWTlVCUGJPNmQ0bkxRYzdLVHNrVV9MVk5PZkVuUkxqeTlxeVAydlBpNnpCNWFLUUZXX3FZMEIwX1BNRVlJT1h5VkV3VlZDemdFdnQtTGRpZ3pRWnJVdlFOM3hVNkVaSmdRMElkYTZhMDZJTklSZGVSZ2JYT1pPVFZCWUxuOWdEVVBvYy1uemlZYk5ibHhTS0RPVEFtaGxHaFpsM3E2azZNNVZn?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sat, 01 Aug 2026 18:30:00 GMT"
+      },
+      {
+        "title": "Bayern Munich publicly put three players on transfer list including ex-Premier League star",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTBpaVlRVWp4R1BtcGZmUkNNSVo3NUZFYnNmVTAwbnZPdlFRcjZabnliQ2dYc2VvX1Z6bi13dndPRnFxRkdCNkdGQjZHRHZGcDJzSjU4TGFCdkJ4aUxsY28wTkc1S1JYUi0tRm9BUzliQWxhV3BpbVpiY09jNFVpYkU4em85QzBrOFJaZmRZR0tJb3ZBYlM0TFRQaWE?oc=5",
+        "source": "talkSPORT",
+        "published": "Fri, 31 Jul 2026 21:53:42 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Newcastle looking at move for USMNT's Adams",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnBuOGtnNkdSVnU2Q29HM2hLWGtRR2V1cU5MUEdnOXdzMzE3ZmZvbFNwWXJTUEExbUZhMEFxZS01NTRWdHhjZUpjVTU4U094cmRMdDF4NG44bnEwVlVMSGMtcENTSDg0aE5OSmV2M295ZlJwdWdOWkdmWXlwbUlMeU9EaFBNYUlEbW1uR2xKdzFvX1hMRWhBOXNrd2t6V0MtR2tGWnNDTnM2Z1RickVkZHVUMjZOc3ZxUDBaWGxLbFd0MW01WnhNc0xzLWtRRzJVdW9hLQ?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 01 Aug 2026 18:33:00 GMT"
+      },
+      {
+        "title": "Bayern Munich transfer list three stars as Max Eberl warns Joao Palhinha he has no future at the club",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHJnT3lldWVaM3kxX3hKUWZKZ0FPbUR2VTg3Ym9wVmZhQy1MNHRyQUJYNUY2dzFQZFJxdE1NN1dEOGpNVEdnSkVTYTA3cGpNU0pRb2JWR2dUd29QbzMzMjVhZFNFV2NZaXVDSWZOekdGcUlqVGVDRzlQbHZ6bXJ5ZjJlZTZIX1NEbDdqRW1EV1NwRkdqZ0ZOTllBaTItWnhNOFNnR3hYWjVtVzZ1azNUeg?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 01 Aug 2026 20:41:13 GMT"
+      },
+      {
+        "title": "Bayern Munich take steps to sign Bradley Barcola and stop Liverpool transfer",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlRtejVLaHBON3FWMjcwTG90Y25CektWbV9KS0R2UXU5cGVxRjk4cTRjNW5TbUNvS0YtaXYxam1POHVxQVplZDlMcDYxMnB1SDRDM2YwWGdmaXpDQVVfSThMN0NWbmZuLUFDazBZbHBIcWRUNGVhX0lvbTMtUVlXVWt0ZUY?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 31 Jul 2026 17:12:13 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Vinicius Junior ‘Open’ to Arsenal Transfer—But There’s a Huge Catch",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSnJQQXd4WHdSSmhZcTJQdzZvNjl6bzNEcllGVF9YWjl5MEhVR1BlbFAwSm1DUUR1Q2lwaFpJS2gwelF2bDBWcFVnVC1abHZtMGxuZlkwcVc3cjRqdlBNOExldVE4QXVGaFhLajZjcV9QdzNxNGpJbmUxeEtoeDg?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sat, 01 Aug 2026 14:30:00 GMT"
+      },
+      {
+        "title": "Bruno Guimaraes asks Newcastle to delay pre-season travel plans to finalise Arsenal move",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0hUeXhGaDFhQnpVMnl4OFFqYl9QbDJGTUNCaXlQNUFPclVyS19CTGJIT3Uxc0MxZHNMcFRucWhjTXc5ZzdiODNkZ09mT3A1YXhCSTVaNG9BenphdUlLZmxnOXNrVW91S1JRSkUzTThBd1ktQnB2MlA5N1RCZWszZFFQdTZPQS1VbVJlVUlDNXh0Zm1tRVMzM1BIOA?oc=5",
+        "source": "talkSPORT",
+        "published": "Fri, 31 Jul 2026 09:16:15 GMT"
+      },
+      {
+        "title": "Everton reach agreement in principle to sign Arsenal’s Christian Norgaard in £7m transfer - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTQycnNlVTFXQUZQSTNKRW95WUtIVFJwZGJOZXV5WVhfUUZ5SFpzTVBOcVR4eDBUQzRnVzBIUFkxV0R5RnJCZHA5U1Zqdm1rTlRkaUxkWnNpSG9KNFVfU2lnRWkzaEJQWlBoN01wNUVoOXJMU1E1b0NCdG9WbkRYQmFWdm1MN0o2Z3BxSlNOLTljZFRXdUNVVHltV0FwRU1aR3Jz?oc=5",
+        "source": "The New York Times",
+        "published": "Sat, 01 Aug 2026 15:24:52 GMT"
+      },
+      {
+        "title": "Report: Norgaard set for Everton move",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OOWl4SklFd3Zic0VaZEJfQ3NCOHFfRnZuSXF0VGppRzRYeWIzaUM1dk93X0VXWDkzczB1Vy1MOVB5UXhpZWY5VnVmRVRnUGZSREx6VUM1M0ZKR3A3UFdlWG5hei05emhqcXNtNmFtQldvSUlOVHc?oc=5",
+        "source": "Arseblog News",
+        "published": "Sat, 01 Aug 2026 15:53:52 GMT"
+      },
+      {
+        "title": "What the ECHO understands about Christian Norgaard transfer as Everton eye double deal",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV01oVWpHZmV2MTJKX3h4NExPNDdfZTJOYW1WaDBTNl8xdmZaWDJTSzZ1aUtCcnBIWnVMbDZadnNvZnJWSDdmcnk1enFZWmQ0MjNuWmYta0pnd3p2M0JOUXNTa1RpUU54MTRKZmt6d0piWFI4WWtQVUMxeTNnamJnTFBSMXZqVWFFNFB3cEpwOWZVUTVpYnhKTDYwRVBvSjNvTHg1dHRiVmxhYmtOSEhVc3Qwa9IBuAFBVV95cUxQZ1lVSGpTbnVxQ2NfcXNZSkxRY21GUmxoTkNDeXVrVkdiQURCWXZOenBMZDE4YzdTbVlUbDR0VndRS2JoUEU2X0V4SVBfYWVwbXNiWU92dm90SlVDRGp3Z1IycUpiMEZCVjhkTWN1eldfVU4yanlWQTF4cnRjaTVlcHVHTXdkRmFRN1psaXJER1BWb1RNZWFvenJOQjkwNU82ZE9OMm5nOFoyQURmSHRyMHVHM2pIcVVf?oc=5",
+        "source": "Liverpool Echo",
+        "published": "Sat, 01 Aug 2026 16:11:00 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
