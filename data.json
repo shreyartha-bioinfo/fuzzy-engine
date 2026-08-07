@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T08:06:57.635965+00:00",
+  "updated": "2026-08-07T09:29:07.959567+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Shock Arsenal move, Alvarez deal; Man Utd signing",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGo2YmlrNTVFU0c1blhVMklFdEVBXzlQRklBYWt6dEpGTVI5YWdsZkg3b2l1VTVhcFJzMjEtSTB0Y24tUHloUERPNl9qLWRjX24tZkJ2NHRQSXdEVkNHa05YeVhOR0dnbHNLcjk0SDJvMVRVaUV5Nk9TZUhoZ05KVFpMS05COG85X3E4NUxuVE5wNUVuZGdGYWJpWGRZUGY2RFByMEJSU3RPeHpJNUl3UTgyQ1dHUUZYNXVFQ3hNRGptV0tkSFEyVEgxN1g2QnEzU0E?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 07 Aug 2026 08:44:08 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Rodri set to leave Man City, Arsenal identify Vinicius Jr alternatives, Man Utd done deal",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFBUSnlNV0VZUG05dFN6anUwNGNtclVPWGJLTk41WE5BUjdNek1mWDJZMmYtMmFkU3E5RHpvNEk5dkR5aWRhY0Qycm80TktwSE9GX2dlMTFFY0M5RUdDYmNKSHhZbnNGQmpDU1loa0pIVGhCSG1zNmJNRFI2LXRTSnlvQWhsR3JrRVFzSThFSjJKTDN5aXlQTkprQjkzTU9VdzRuNVNEQm5DSEtEbXJTY3A2T0o0Q3JYNG5ENlA4eF9USHR3T2F2ZFZSWmFjcjA1Q0Rqck5GcUl0UQ?oc=5",
+        "source": "The Independent",
+        "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man United continue to explore move for Robinson",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1A4SE5QU0RPb19UTTJHam9hVFh4OXJDRGJSS2pEUFUyM3lCMUpqWkZoMjcxR3Npck1hbGtWLVJuOWMwelZBeW02b1B0aExid1B6S043QWpTYlJFRFFvV2RreVZBMmRhSUpQeG5pdnpaYUMyZVh0LVA5TXY0NW1PVmNrU3J6Yi1LUU5CQjI2YVZlWU4zUHJsTDBxcy1naHZGV0tkcVFmMENwU3FvYXVkTEtSQkdLb1FWSHo2THdR?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 06 Aug 2026 19:35:00 GMT"
+      },
+      {
+        "title": "Man Utd made signing of the season - 'Tielemans just makes so much sense'",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcl9BdE9DZDVHdU1QUVJZNVVtUk1OSFFoVEVTdHRVWC0xRnJURlA3OXUtWFVrVjlISVNoUTY2aFFjNnBIalJfS25kSHh3eXRZQ1R0Q24yYkNiQllSMW5iTS1KQ2VpZHV4UkthVE53b3V0R0tlVHFpdnRXYjVHdUpKVHlnMHJEUQ?oc=5",
+        "source": "Football365",
+        "published": "Fri, 07 Aug 2026 06:14:28 GMT"
+      },
+      {
+        "title": "Manchester United confirm plan for 'exciting' signing as sixth summer transfer confirmed",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3plbkJXR1ZWcWkxZDBhT19FOFQ4MDlJWHhsLUY0S3RNREMxVnllaDVLc0xxOWg0WGY0b1E1eGJfZ3ZJQ2Q3VlJhQnhxalBUZGVEYjRjVC1hYUlybWs3WnV6Z2Vzemc1cVc3R1AxUDlGbGkyaV84TUR2Tmxxc2Fubm9CYlFId1dBbUtiOE5VU2Q?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Fri, 07 Aug 2026 07:43:14 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Rodri gives Barcelona green light over summer transfer from Man City - sources",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnVNNFNRRFdob21oWFZqQVlUeG93Y0ZzSlRqd202QnIxTFltVE5oUGhVN25nZkFxcTZKemRYSWU0UGJfWTJTUFJ1S21jek1MUnpXUEVpWUszbERDUnkxYTFQTHFUTXZmRnF0UE9Sa25SZkZuR3ZERmtlV0VyRVVKUVJLLWlxeEFrNWtTU3REQ3I2MlFJd0lYY1Z6NThZOGJQdE8tRWRUSEhnZ1RwUG5mbkJTb2RRTXVa?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 06 Aug 2026 15:57:00 GMT"
+      },
+      {
+        "title": "Real Madrid complete €140m Yan Diomande transfer from RB Leipzig on seven-year deal - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkhZMFo5ZHd5WkRHVEVMR2lLN1daX0MzM2p6XzR6dWlkRURhTllIaTNsYmgwNmhNaHZ4SktndzU1YVFxd0VlUEFxOTRFQmNTc1pXbkZWZHZuc1hIOTVYTmdJVHJyc1Z3eTBQODBoZ080bFF3YjE5dWI5T1lrWFA1UXRROV84RlkxbTRsZERFMmNjUXZpMkE?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 06 Aug 2026 14:18:00 GMT"
+      },
+      {
+        "title": "Arsenal transfer news: What do Gunners do now after Vinicius Jr commits to new Real Madrid contract?",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNS03Rk8xMWR0Wm1uM09xOUM4ZGlBa0FYMDloeU5vU0RDMHVINm8xNEdOSVM5VXQ0VlM2d1o0VnliSjdMUG53UkltU1ByQnlScmNQeGJEdThsTVcxV2RzNFRmMmVKdXExQ0lDTDlxa3ZjaXVHSWQzTDhJRHp3UXlDSXlrOUY4Ni0tc2ZPdGgwc2ZtU0RBLWtoVGQzX1lSX0xIU3owVUJtLW5wLUhHZ0w3YVNkRlFVbkJkcExvbWVsZmRZbm1vRlAycDJ5aDlXMDlnQWhtQWFTSjR1WW1fcHQ0cVBVOUViT1R2?oc=5",
+        "source": "Sky Sports",
+        "published": "Thu, 06 Aug 2026 19:13:38 GMT"
+      },
+      {
+        "title": "Real Madrid Smash Own Record Transfer Record With Incredible Summer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUprNldyM1BfaGI1S1NvZTVvZFhLTURrYkJEaUlPeVl3MFBWQW95dVRtYkhQNkZuMExpU2FqTkRKX3o2cTRwTVBLdUpRQVhSeU4wU1F0VEstOGVqalNnS01aMF9rM09FcFlCaFd1RnNYU2FKYVl0YWdMRkhTTndEb0ptMFozaHhoN1ZpWUwwUlhhMDNsQ3k1Ng?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Thu, 06 Aug 2026 17:00:03 GMT"
+      },
+      {
+        "title": "Yan Diomande's childhood Cristiano Ronaldo jersey is going viral after Real Madrid transfer",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObWNMREVUYmlBaFB1UnV1dEtwRkJtMExiQUl4MU9qazlkSFNBMVV1WHJFOHJKRVptM3BIcWFEQ3BvbkwtaHZvQXhROVktOWs0VXkyY2t4QWdXWDh0S25PNkp3NjFtYUIxdVI1VzRjbEVMSl9zenUxWm5YSmNfOFBxZUxtS2NMb0MzR2lVdFh5TllYRUF0R01KSVdpYTlDakVKSmhwbmJkbC1UQ0ZmTzR6V0RtRmdDTHpoNDNldDlucHh4MHJRM3AwZ001T3ZmZTBrS1dvOWRET3R0R2tYajl6ZG82QTM4ZkwwbzJuYWtQWV9QcW1lXzBv0gH3AUFVX3lxTE1xUlhJX0dKUjFpNHVENFVFd29JekhUY0RMc2l2Zkk1V2VfYkdZUzAtYm9EMG90YzUwQk4wMkxfeHVYaksxRjhobXpWQXdMRnkwS2xUY21YNnI3MnFBTEt6Uk4tWlZ5S3JUZ2xzMjFReC1xQTNuVjV0elJVc2dLZGUwNlFLYzBaTGIzeE02QWIyTEo0U3llRkRYTkQ2Wi03WklMTUJVQnlaLWxBMkN5NW5BQTlnLUtXOEg3UXlMOTNDUnZfRUg0QjREQU1jWUNjckdCcXh1dmxRbHpxaTNGakZlUkZUczhuNjZOUUctaEprTXBxaWxuSXM?oc=5",
+        "source": "marca.com",
+        "published": "Thu, 06 Aug 2026 23:02:50 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern Munich could be ready to cash in on sell-on clause",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWlyNjNRMUZMWFBPVWlsa3JqX2VPZnNWdlZLR2wzbllTdnRsYXFOTTNOd3E2WWRCLUZ4elVaV0h5UjV2SDczajVpWXFsVTNua24tb3RpS0RxZDQtNXlpYUJ1dVJyQkVBelIzbVllU1VGa1cxVEduRkR6UmJmbjIyMl9vU2ZQYlgzU0pWSW5NOVRnak5VLUtzZUwwNjhpbEk3bjFtUFBjOUxOQlR2UlUxWEI2UkpQVTBKOEIwVzNBOGoweFBQa2dlNWltUXRuUDBWQzUw?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Thu, 06 Aug 2026 08:22:00 GMT"
+      },
+      {
+        "title": "Manchester City star Rodri set for move to FC Barcelona",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0xib2ZfZE10cXNZR1oxbjR3WGlqS0Rld29sQzRMWmJqaEthMERLWUVTUWNmM1locWVrUjU1YklCRlJmODRiZThldXJmQ3R0UHNyY1A5bWdMNWdrUWl5aF9NTThjS1p1NWFfVXJSem1nbEVXeVV2dWF1dDhYRVZ2LV91Q0tJLXlDeXZPb3o0RnMzQmZBTVljQ0hfN2djbTNJRkdVQjkzTW50QjhzQkZ5dmM5RWtZRU0xN3dORWZudWExdW84Wm1aT0EwRlg5V2ZVUk1HTkdRTWo?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 07 Aug 2026 05:30:00 GMT"
+      },
+      {
+        "title": "What does Yan Diomandé’s transfer from RB Leipzig to Real Madrid mean for Bayern Munich?",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMk1KcVFPTmJydWF5dUVFOEM3aGtCMjJlYWdoMGs5eHdla0FFMWRLdDk4S01wMUJabUxvbTdCeXV4U1RsNlMwamhTR0lKQ3ZYRmFqZ09vMUsxZnRPLXpUR1hmb2F6TWVLZThIamxLbUlUYnF5a3liNkt0ckY4TzVqdm51OA?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Thu, 06 Aug 2026 20:30:00 GMT"
+      },
+      {
+        "title": "With consequences for Borussia Dortmund and Bayern Munich? Mega transfer in the Premier League close to completion",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeGlHZFcwWnBDWG4ycG5WZHU2OUlnQ18yejZFU2k1ZjJITmc3enZtYTVhUnRmRUlnamV1NTM5bFJOWWFYRU01V3ZmWjRJRXJSY3Bxcy1pUzRRY3RQQ3pOMXo1SGFUaXlnWVNSSW01UEtORmZYMXpzOGdfbW11YjRBdlFsMlI5dG5KNzgtMEhrZ0gxQUE5MExVc2poR2xFWXN4VmhCOE5ERld3dTROVnQ5WVZSMUdXcm1qTHVWZkRTX1V2dkQyTUgxLVVkNVk0eEU2UmFBYw?oc=5",
+        "source": "Goal.com",
+        "published": "Wed, 05 Aug 2026 11:58:02 GMT"
+      },
+      {
+        "title": "Bayern Munich Want £125m English Star as Chelsea Transfer Claim Made",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUU9kR2NrbFZwMWlwbWhFSjk3VXp2a3JHcmNMQ1Z5aV9kUU11U0JGQTE3YVRHeDJpRU4zUnFZOEdoM19fME9zR3VSU0szN0Q2QW5kcncyWGlYZjhFM0JDU2ZtdndSU3BFY0NVOXBsVlZxVEVyV2J4Nzh3cllOTF9NRTJYV0lLYjJRT0hab2V4azBYOThETGdURW5mMA?oc=5",
+        "source": "GiveMeSport",
+        "published": "Thu, 06 Aug 2026 06:15:13 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Transfer news LIVE: Rodri set to leave Man City, Arsenal identify Vinicius Jr alternatives, Man Utd done deal",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFBUSnlNV0VZUG05dFN6anUwNGNtclVPWGJLTk41WE5BUjdNek1mWDJZMmYtMmFkU3E5RHpvNEk5dkR5aWRhY0Qycm80TktwSE9GX2dlMTFFY0M5RUdDYmNKSHhZbnNGQmpDU1loa0pIVGhCSG1zNmJNRFI2LXRTSnlvQWhsR3JrRVFzSThFSjJKTDN5aXlQTkprQjkzTU9VdzRuNVNEQm5DSEtEbXJTY3A2T0o0Q3JYNG5ENlA4eF9USHR3T2F2ZFZSWmFjcjA1Q0Rqck5GcUl0UQ?oc=5",
+        "source": "The Independent",
+        "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Transfer LIVE: Vinicius pens Real Madrid deal to end Arsenal pursuit",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUVQMDc3dHh6Q1dfRmIyclBQZDQyblFJamdWbnJhRkt1cldjcWxRTXlTRWIyb3hRM19zMi15N0RkRzhGSEpmMjN4bXo1VDJOXy1wa2I1WFpNd2haYVRuY3pFUkNpbmFjQm1YMUxLeHZKbV9GTU5yaTRQcHJ6MkFNdWw2cE1OdUxNaVc1Y1VucElMWkpnR2dtNmlMSVJqc1FJRi1kVWhiZ05zVEZrR1EwdF95ekN4M1FmTjE0TjRIaw?oc=5",
+        "source": "The Independent",
+        "published": "Fri, 07 Aug 2026 04:36:54 GMT"
+      },
+      {
+        "title": "Newcastle to sanction £75m sale of Bruno Guimaraes to Arsenal - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHZ3OE1vTmh1V3NsenI0T3E3MndfbW1zNG9RRFhJdV84UDJvZS1rUkpjb3NQQVdEc1BsNkRuMHcyNWtkWEJaZno3WW5GbmczZmFFOXRvUUlIdVFUbVpYMDBhYkJmbmhueTMwSFZMQTNrYm0tM0x4b3FUdXhqdWphZVhmelBNb3VCaE91UlplQW9pTGVKNmNEUGUwcw?oc=5",
+        "source": "The New York Times",
+        "published": "Wed, 05 Aug 2026 11:53:21 GMT"
+      },
+      {
+        "title": "Arsenal transfer news: What do Gunners do now after Vinicius Jr commits to new Real Madrid contract?",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNS03Rk8xMWR0Wm1uM09xOUM4ZGlBa0FYMDloeU5vU0RDMHVINm8xNEdOSVM5VXQ0VlM2d1o0VnliSjdMUG53UkltU1ByQnlScmNQeGJEdThsTVcxV2RzNFRmMmVKdXExQ0lDTDlxa3ZjaXVHSWQzTDhJRHp3UXlDSXlrOUY4Ni0tc2ZPdGgwc2ZtU0RBLWtoVGQzX1lSX0xIU3owVUJtLW5wLUhHZ0w3YVNkRlFVbkJkcExvbWVsZmRZbm1vRlAycDJ5aDlXMDlnQWhtQWFTSjR1WW1fcHQ0cVBVOUViT1R2?oc=5",
+        "source": "Sky Sports",
+        "published": "Thu, 06 Aug 2026 19:13:38 GMT"
+      },
+      {
+        "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0tnS1ozeEZaR2pNeFBpYlEta0Y2YjVra0hzemw4UTk0cW9KTXF1blNNT3pmaFNkYXlqWmo4dkgzaHlkc1VDVHIxN0FCb2daRTE0ZHlFeldNMmtWVlBGN2RPNlFadmc3T3lFZ2Z1ZGZQMlFsa2NKQWN5UXNneDBBdHgwVTZFeXhrOENvcWJYX3pSVXdwVkw4WXNkZ1ozNmN5eWZaN2FXdUF1WGFTanNldHItVjVnYnM?oc=5",
+        "source": "The Guardian",
+        "published": "Thu, 06 Aug 2026 09:35:00 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
