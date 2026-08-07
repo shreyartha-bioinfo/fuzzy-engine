@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T06:41:15.211469+00:00",
+  "updated": "2026-08-07T08:06:57.635965+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,134 +1536,10 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Transfer news LIVE: Shock Arsenal move, Alvarez deal; Man Utd signing",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGo2YmlrNTVFU0c1blhVMklFdEVBXzlQRklBYWt6dEpGTVI5YWdsZkg3b2l1VTVhcFJzMjEtSTB0Y24tUHloUERPNl9qLWRjX24tZkJ2NHRQSXdEVkNHa05YeVhOR0dnbHNLcjk0SDJvMVRVaUV5Nk9TZUhoZ05KVFpMS05COG85X3E4NUxuVE5wNUVuZGdGYWJpWGRZUGY2RFByMEJSU3RPeHpJNUl3UTgyQ1dHUUZYNXVFQ3hNRGptV0tkSFEyVEgxN1g2QnEzU0E?oc=5",
-        "source": "London Evening Standard",
-        "published": "Fri, 07 Aug 2026 05:52:24 GMT"
-      },
-      {
-        "title": "Transfer news LIVE - Man Utd and Arsenal duel, triple Liverpool deal, Rodri news",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTW15MDMtd0szZWRTSHJpWTdWNGowUmtwbWNnRzh3ek1BUVlwTDNHM2ZXcGpPZ2NIYjNlRWRCLTlXdjYtMUg5Sm1ZTEFLNVdaOHd2TXR2eGNWLVUzME9sZ24zY2NYYVNQaGJQU05FU0VnRVZnMlJDUEt2c0hCTElrOVdScW5EN3podlJIdl84c0NoNEZXRjhUeA?oc=5",
-        "source": "Daily Mirror",
-        "published": "Fri, 07 Aug 2026 05:06:33 GMT"
-      },
-      {
-        "title": "Ezri Konsa transfer: Liverpool set to rival Arsenal for Aston Villa and England defender - Paper Talk | Football News",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRWtPdlpBRTNpOWVoeWhNTFFVZE5mcU0zM0twX0xYU292cElOSGRLUUN3RHdScVNhTExmRlBYUXpiT0REaG43LWxaVmVQTU10TEJHV3ZVN3BMMFF5Yzc1ZmljTnpBbUV2NGVKZEtoeFdDck9oWE9Ub2wzeGhXZXdEWU05MkI5eTh1bF9ReWJXb1gtbFVndGQtaTBWN0hxWEhBZ0pwa25RcUQ1NmpmRGlMQXBGNDhpLVFVLTNHMENKRWhna19NcDlzVXJsam9iT2JhcWo0ODNNdnNGX2hyc1JuMnBGWWx0cFpDNVN2N0t2TFc3RkgwLUlsTUNadzQ?oc=5",
-        "source": "skysports.com",
-        "published": "Fri, 07 Aug 2026 06:38:21 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Signing announced, Marcus Rashford decision, Tchouameni blow",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaE9pdUFJdkh3Z0lXVVNKcGk1cTJzWG0xNWd2QlJYTmlRbTV2NnMyOWJmcFk3NTVIS0FWbnNPclFVeWE3SEVZejhOLTdhWjJhdEpqU3Nob3AyRVpjbzRHZ1M2NlNhLTlOdkFTWGVJNFhfQ0lZVDg1b3Jtd1hpN3Y2dU04Qk1GbDM4dUVSWXBMamZkczNiMWZyeXhPVVRTaHFWOTNXQ2x0SWhlVEE?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Thu, 06 Aug 2026 20:59:43 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United continue to explore move for Robinson",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1A4SE5QU0RPb19UTTJHam9hVFh4OXJDRGJSS2pEUFUyM3lCMUpqWkZoMjcxR3Npck1hbGtWLVJuOWMwelZBeW02b1B0aExid1B6S043QWpTYlJFRFFvV2RreVZBMmRhSUpQeG5pdnpaYUMyZVh0LVA5TXY0NW1PVmNrU3J6Yi1LUU5CQjI2YVZlWU4zUHJsTDBxcy1naHZGV0tkcVFmMENwU3FvYXVkTEtSQkdLb1FWSHo2THdR?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 06 Aug 2026 19:35:00 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Rodri gives Barcelona green light over summer transfer from Man City - sources",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnVNNFNRRFdob21oWFZqQVlUeG93Y0ZzSlRqd202QnIxTFltVE5oUGhVN25nZkFxcTZKemRYSWU0UGJfWTJTUFJ1S21jek1MUnpXUEVpWUszbERDUnkxYTFQTHFUTXZmRnF0UE9Sa25SZkZuR3ZERmtlV0VyRVVKUVJLLWlxeEFrNWtTU3REQ3I2MlFJd0lYY1Z6NThZOGJQdE8tRWRUSEhnZ1RwUG5mbkJTb2RRTXVa?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 06 Aug 2026 15:57:00 GMT"
-      },
-      {
-        "title": "Arsenal transfer news: What do Gunners do now after Vinicius Jr commits to new Real Madrid contract?",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNS03Rk8xMWR0Wm1uM09xOUM4ZGlBa0FYMDloeU5vU0RDMHVINm8xNEdOSVM5VXQ0VlM2d1o0VnliSjdMUG53UkltU1ByQnlScmNQeGJEdThsTVcxV2RzNFRmMmVKdXExQ0lDTDlxa3ZjaXVHSWQzTDhJRHp3UXlDSXlrOUY4Ni0tc2ZPdGgwc2ZtU0RBLWtoVGQzX1lSX0xIU3owVUJtLW5wLUhHZ0w3YVNkRlFVbkJkcExvbWVsZmRZbm1vRlAycDJ5aDlXMDlnQWhtQWFTSjR1WW1fcHQ0cVBVOUViT1R2?oc=5",
-        "source": "skysports.com",
-        "published": "Thu, 06 Aug 2026 19:13:38 GMT"
-      },
-      {
-        "title": "Real Madrid complete €140m Yan Diomande transfer from RB Leipzig on seven-year deal - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkhZMFo5ZHd5WkRHVEVMR2lLN1daX0MzM2p6XzR6dWlkRURhTllIaTNsYmgwNmhNaHZ4SktndzU1YVFxd0VlUEFxOTRFQmNTc1pXbkZWZHZuc1hIOTVYTmdJVHJyc1Z3eTBQODBoZ080bFF3YjE5dWI5T1lrWFA1UXRROV84RlkxbTRsZERFMmNjUXZpMkE?oc=5",
-        "source": "nytimes.com",
-        "published": "Thu, 06 Aug 2026 14:18:00 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Man Utd’s $170 Million Real Madrid Raid; Yamal Eyes World Cup Star",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2xOdXQybzhJbGg3cXR0Zm9xZTRGMms3VE54TTBFbU9JTkYwU2dLT09XdmN4MmZXUGJzOFEzTlBKVXJGWXFLQkcwczV3cm9FNl9ORlJPSXc5QUlneTE3UkpGQ0Z0NVo1MDhiUFFDU0NPSkdKN2JVSFQtY2ttYXRDb00xV29uM3dEcmxUV0FrWDhKc25jdjNrSnBfTll1VEZ1M3VPNUgwcw?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Tue, 04 Aug 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United continue to explore move for Robinson",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1A4SE5QU0RPb19UTTJHam9hVFh4OXJDRGJSS2pEUFUyM3lCMUpqWkZoMjcxR3Npck1hbGtWLVJuOWMwelZBeW02b1B0aExid1B6S043QWpTYlJFRFFvV2RreVZBMmRhSUpQeG5pdnpaYUMyZVh0LVA5TXY0NW1PVmNrU3J6Yi1LUU5CQjI2YVZlWU4zUHJsTDBxcy1naHZGV0tkcVFmMENwU3FvYXVkTEtSQkdLb1FWSHo2THdR?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 06 Aug 2026 19:35:00 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Bayern Munich could be ready to cash in on sell-on clause",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWlyNjNRMUZMWFBPVWlsa3JqX2VPZnNWdlZLR2wzbllTdnRsYXFOTTNOd3E2WWRCLUZ4elVaV0h5UjV2SDczajVpWXFsVTNua24tb3RpS0RxZDQtNXlpYUJ1dVJyQkVBelIzbVllU1VGa1cxVEduRkR6UmJmbjIyMl9vU2ZQYlgzU0pWSW5NOVRnak5VLUtzZUwwNjhpbEk3bjFtUFBjOUxOQlR2UlUxWEI2UkpQVTBKOEIwVzNBOGoweFBQa2dlNWltUXRuUDBWQzUw?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Thu, 06 Aug 2026 08:22:00 GMT"
-      },
-      {
-        "title": "Bayern Munich News: Manchester United back in on Kim Min-jae?",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMW1oMGhsVlFLajRDMzZ1cFlvWGhSSWltSWs5b2Fjd0c4RUExa0pDV1NFMkE1N1JJZ1ZMdmVKQ2dJbEk2TWgzWGVTZkxYcVdINm5jNHdOclpiVzNqNEdXUjJuUEtvbWprWFQycnBNOWxMaWxlUmRkdXdEQ1JRbTF1aDJ1cmpaRkVNczN5Z2ZmQWd5dmxTMlp4U2hVUDdZb2dvVmZHZVdORkt3N3JFbTAtamZ0N1dZYmNEZy1hdTEweFgxcFlPX29hRWVyT0t2NkdTbHB5NHVCMDZ4enNTMTF3OQ?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Fri, 07 Aug 2026 04:00:00 GMT"
-      },
-      {
-        "title": "Manchester City star Rodri set for move to FC Barcelona",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0xib2ZfZE10cXNZR1oxbjR3WGlqS0Rld29sQzRMWmJqaEthMERLWUVTUWNmM1locWVrUjU1YklCRlJmODRiZThldXJmQ3R0UHNyY1A5bWdMNWdrUWl5aF9NTThjS1p1NWFfVXJSem1nbEVXeVV2dWF1dDhYRVZ2LV91Q0tJLXlDeXZPb3o0RnMzQmZBTVljQ0hfN2djbTNJRkdVQjkzTW50QjhzQkZ5dmM5RWtZRU0xN3dORWZudWExdW84Wm1aT0EwRlg5V2ZVUk1HTkdRTWo?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Fri, 07 Aug 2026 05:30:00 GMT"
-      },
-      {
-        "title": "With consequences for Borussia Dortmund and Bayern Munich? Mega transfer in the Premier League close to completion",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeGlHZFcwWnBDWG4ycG5WZHU2OUlnQ18yejZFU2k1ZjJITmc3enZtYTVhUnRmRUlnamV1NTM5bFJOWWFYRU01V3ZmWjRJRXJSY3Bxcy1pUzRRY3RQQ3pOMXo1SGFUaXlnWVNSSW01UEtORmZYMXpzOGdfbW11YjRBdlFsMlI5dG5KNzgtMEhrZ0gxQUE5MExVc2poR2xFWXN4VmhCOE5ERld3dTROVnQ5WVZSMUdXcm1qTHVWZkRTX1V2dkQyTUgxLVVkNVk0eEU2UmFBYw?oc=5",
-        "source": "Goal.com",
-        "published": "Wed, 05 Aug 2026 11:58:02 GMT"
-      },
-      {
-        "title": "What does Yan Diomandé’s transfer from RB Leipzig to Real Madrid mean for Bayern Munich?",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMk1KcVFPTmJydWF5dUVFOEM3aGtCMjJlYWdoMGs5eHdla0FFMWRLdDk4S01wMUJabUxvbTdCeXV4U1RsNlMwamhTR0lKQ3ZYRmFqZ09vMUsxZnRPLXpUR1hmb2F6TWVLZThIamxLbUlUYnF5a3liNkt0ckY4TzVqdm51OA?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 06 Aug 2026 20:30:00 GMT"
-      }
-    ],
-    "ars": [
-      {
-        "title": "Arsenal transfer news: What do Gunners do now after Vinicius Jr commits to new Real Madrid contract?",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNS03Rk8xMWR0Wm1uM09xOUM4ZGlBa0FYMDloeU5vU0RDMHVINm8xNEdOSVM5VXQ0VlM2d1o0VnliSjdMUG53UkltU1ByQnlScmNQeGJEdThsTVcxV2RzNFRmMmVKdXExQ0lDTDlxa3ZjaXVHSWQzTDhJRHp3UXlDSXlrOUY4Ni0tc2ZPdGgwc2ZtU0RBLWtoVGQzX1lSX0xIU3owVUJtLW5wLUhHZ0w3YVNkRlFVbkJkcExvbWVsZmRZbm1vRlAycDJ5aDlXMDlnQWhtQWFTSjR1WW1fcHQ0cVBVOUViT1R2?oc=5",
-        "source": "skysports.com",
-        "published": "Thu, 06 Aug 2026 19:13:38 GMT"
-      },
-      {
-        "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0tnS1ozeEZaR2pNeFBpYlEta0Y2YjVra0hzemw4UTk0cW9KTXF1blNNT3pmaFNkYXlqWmo4dkgzaHlkc1VDVHIxN0FCb2daRTE0ZHlFeldNMmtWVlBGN2RPNlFadmc3T3lFZ2Z1ZGZQMlFsa2NKQWN5UXNneDBBdHgwVTZFeXhrOENvcWJYX3pSVXdwVkw4WXNkZ1ozNmN5eWZaN2FXdUF1WGFTanNldHItVjVnYnM?oc=5",
-        "source": "The Guardian",
-        "published": "Thu, 06 Aug 2026 09:35:00 GMT"
-      },
-      {
-        "title": "Ezri Konsa transfer: Liverpool set to rival Arsenal for Aston Villa and England defender - Paper Talk | Football News",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRWtPdlpBRTNpOWVoeWhNTFFVZE5mcU0zM0twX0xYU292cElOSGRLUUN3RHdScVNhTExmRlBYUXpiT0REaG43LWxaVmVQTU10TEJHV3ZVN3BMMFF5Yzc1ZmljTnpBbUV2NGVKZEtoeFdDck9oWE9Ub2wzeGhXZXdEWU05MkI5eTh1bF9ReWJXb1gtbFVndGQtaTBWN0hxWEhBZ0pwa25RcUQ1NmpmRGlMQXBGNDhpLVFVLTNHMENKRWhna19NcDlzVXJsam9iT2JhcWo0ODNNdnNGX2hyc1JuMnBGWWx0cFpDNVN2N0t2TFc3RkgwLUlsTUNadzQ?oc=5",
-        "source": "skysports.com",
-        "published": "Fri, 07 Aug 2026 06:38:21 GMT"
-      },
-      {
-        "title": "Liverpool looking to hijack deal as Arsenal stall on price: report",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmVyWHdsa3pXWGY0VzJNdEt3WHMwZ3E1NGxXTVFqUkpXdThLMDBwdGNPYml5WTBsaU84SjZIMENIT2pfeWN3WTEtMC1Ycks3VmQwb0s3bFgtaC01ZzZRa0dmejZzUjA2VmlteEtHeHBJTXJqYU1EVGJsUlFsZEFNTHh6M050NzYxQ05UVGtCczlGY0xWMGhkeDBaVFJPa3ZaeHJuUg?oc=5",
-        "source": "FourFourTwo",
-        "published": "Thu, 06 Aug 2026 14:23:55 GMT"
-      },
-      {
-        "title": "Summer Transfer Failures Hand Arsenal Two Brutal Reality Checks",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNam5LbW50VGNsUkZZSlhVZmxwR0RXQWx2aHdRRDMyb2puNFdURkgyRHRHVVo4SXMwbmpMUmh0ZjEzUE9EUXBTRnc5YkhTZnZYdk1UM1ZSUTZlb3hvaVZWX1pRU2psRmRYMHk3VjRKZllXYTNOQ00wZGlQRnVtLU5DLWZNR3Fqa1ZjQkk5cG1B?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Thu, 06 Aug 2026 21:30:01 GMT"
-      }
-    ]
+    "utd": [],
+    "rm": [],
+    "fcb": [],
+    "ars": []
   },
   "upcoming": []
 }
