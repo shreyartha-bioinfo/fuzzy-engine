@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T17:33:21.452912+00:00",
+  "updated": "2026-08-08T18:21:59.809697+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1540,7 +1540,7 @@
       {
         "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
-        "source": "ESPN",
+        "source": "espn.com",
         "published": "Sat, 08 Aug 2026 14:00:00 GMT"
       },
       {
@@ -1552,8 +1552,8 @@
       {
         "title": "Transfer news LIVE: Arsenal identify Vinicius Jr alternatives and Liverpool agree Barcelona defender deal",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2p4ci1FdU5sLW1JQUZGaU9JTmlaUzJnLTJlN1Rya2lyMS16Ni1KZkNCM1Z3MjY4MWFxYUlvd29OdVJFQUdLd1pUX0dGRlA5YU9mWnlXSVVoaVMzMFJ1M0VXbEtWX0pSWnV5MXA5ZFV5U3l0eThkd2gxMzBQSldsMDRaNjRjajZ3NGEya2MwaVNTSy1kSEY2TzYzOUFWYUZ2ZVVuVkpXNmtDLUloQ1R3aW5UNGpHZ3pvTXc?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 08 Aug 2026 17:11:01 GMT"
+        "source": "independent.co.uk",
+        "published": "Sat, 08 Aug 2026 17:34:59 GMT"
       },
       {
         "title": "Lewis Hall transfer news: Newcastle tell Man Utd left-back is not for sale this summer",
@@ -1576,9 +1576,21 @@
         "published": "Fri, 07 Aug 2026 20:20:38 GMT"
       },
       {
+        "title": "Rodri gives Barcelona green light over summer transfer from Man City - sources",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnVNNFNRRFdob21oWFZqQVlUeG93Y0ZzSlRqd202QnIxTFltVE5oUGhVN25nZkFxcTZKemRYSWU0UGJfWTJTUFJ1S21jek1MUnpXUEVpWUszbERDUnkxYTFQTHFUTXZmRnF0UE9Sa25SZkZuR3ZERmtlV0VyRVVKUVJLLWlxeEFrNWtTU3REQ3I2MlFJd0lYY1Z6NThZOGJQdE8tRWRUSEhnZ1RwUG5mbkJTb2RRTXVa?oc=5",
+        "source": "espn.com",
+        "published": "Thu, 06 Aug 2026 15:57:00 GMT"
+      },
+      {
+        "title": "Real Madrid reach decision on selling Trent Alexander-Arnold amid Liverpool return calls",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVTFrSkg1YVFjcy1SVFFmZEJnZWhCMDRuaG9vR0VPQ194MUNGbG9OSGN2eU1hV0c4SnFhay1ERmhBcVhkT2ctVGVIRDhiejVwcDNYbjZqUVVXc3hNQnMzenp2LU9sQ3U2ZkszNzc2X0ZwRzIxcndhUVJSX1hETDJMeVhNeVdqSEtZUXozV3V0UUhCTUFUSHRZX3FxZGgzZw?oc=5",
+        "source": "teamtalk.com",
+        "published": "Sat, 08 Aug 2026 14:16:31 GMT"
+      },
+      {
         "title": "Man Utd contacted over stunning Real Madrid transfer that nobody expected",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObG9sMW5DTktzT01fcE0yd2Exd1BYY1lWazJ3azg0dW9nWjJpaXlUXzh6Z3ltWndjMWw3ZnJpRFUyajU0ZU0zVFpTV2J4bG1NT2RFczI1bkVJcFEwLWxlU0k4dHhLd08tRV9xRElCN3h6c3NOeTdpX0Z2SGJoQXFGdkpBT2tIam5wWnZ3TlRqcjB2Y3A3OGJmMjlvLXh1YThpNUxZbnFPeG9rNkNXbUxRVE5wWVI?oc=5",
-        "source": "sportbible.com",
+        "source": "SPORTbible",
         "published": "Sat, 08 Aug 2026 15:43:04 GMT"
       },
       {
@@ -1586,18 +1598,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRktKa1N2dkJ5aWRicHBxVUIyN1BxaHhvNnV3d3V1dk9FRlNFMGhsVy1KbUpTQVg5dklrc1hpeWNlT0xYRTRGbUhkRllMcEtIN2dPWGFhRFBXcjkweEw5bG92cHo3X3BIZ0hRNUk2MG1HbUlITjVXT3o1bjdUZktYbDJlaUxLWlJHRm1BQndnRHBzRmw3Nm0xRnc4dUxsOVA5ZU9SSHctNHhzWkZZelEwUC1ZdjhXd2o3LU1XQ3FTbw?oc=5",
         "source": "Football365",
         "published": "Sat, 08 Aug 2026 13:25:17 GMT"
-      },
-      {
-        "title": "Chelsea, Man Utd contacted over stunning Endrick transfer",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWVBS3dVdmh5QmZmckpUWTZuLXEtdlFDX0JQZGpOdGVfd2hyaTh6N2lqS05TLUpVM3RUSmNRYnJVOG5DcUJ5WnJVWjVYZG5RdDlvUUVaMUpyZmJBUjVFV2JNZHIybDhCSnVaNkJxQVV2RWxaNnliYUdUMTNFcnd6aGM5YkZMWEdyQk9MZ0doaHlIUnF4a3k1OUdQQnBzLVJqWVE?oc=5",
-        "source": "teamtalk.com",
-        "published": "Sat, 08 Aug 2026 12:41:41 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal identify Vinicius Jr alternatives and Liverpool agree Barcelona defender deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2p4ci1FdU5sLW1JQUZGaU9JTmlaUzJnLTJlN1Rya2lyMS16Ni1KZkNCM1Z3MjY4MWFxYUlvd29OdVJFQUdLd1pUX0dGRlA5YU9mWnlXSVVoaVMzMFJ1M0VXbEtWX0pSWnV5MXA5ZFV5U3l0eThkd2gxMzBQSldsMDRaNjRjajZ3NGEya2MwaVNTSy1kSEY2TzYzOUFWYUZ2ZVVuVkpXNmtDLUloQ1R3aW5UNGpHZ3pvTXc?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 08 Aug 2026 17:11:01 GMT"
       }
     ],
     "fcb": [
@@ -1616,7 +1616,7 @@
       {
         "title": "Kompany: Bayern got the transfers we wanted done early",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQenpNYnJnSVRINDRZbDVRRkw2OGpuWmtCSTl0aGVqWFBNVDV5RXdwNEI0aDN4eFBtTUN0U2JTaHhuSml1OG1TN3dkd2gtRUp4WVJqakFWRUZPWTZWaFdSLXRwLXVCbXhMZ1hOZ1ZGeWs0OVlzLURIX0ZYWU1OVHpTZXFhSGpEU3B6WW9HNA?oc=5",
-        "source": "ESPN",
+        "source": "espn.com",
         "published": "Fri, 07 Aug 2026 18:33:53 GMT"
       },
       {
@@ -1634,6 +1634,12 @@
     ],
     "ars": [
       {
+        "title": "Transfer news LIVE: Arsenal identify Vinicius Jr alternatives and Liverpool agree Barcelona defender deal",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2p4ci1FdU5sLW1JQUZGaU9JTmlaUzJnLTJlN1Rya2lyMS16Ni1KZkNCM1Z3MjY4MWFxYUlvd29OdVJFQUdLd1pUX0dGRlA5YU9mWnlXSVVoaVMzMFJ1M0VXbEtWX0pSWnV5MXA5ZFV5U3l0eThkd2gxMzBQSldsMDRaNjRjajZ3NGEya2MwaVNTSy1kSEY2TzYzOUFWYUZ2ZVVuVkpXNmtDLUloQ1R3aW5UNGpHZ3pvTXc?oc=5",
+        "source": "independent.co.uk",
+        "published": "Sat, 08 Aug 2026 17:34:59 GMT"
+      },
+      {
         "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVVuRzlfWXdZOEtWX0M2MmlfaGFtVDRTbFZIc3NnSmNfVnd4RG1VLThrTlJkLVB5Vi1zOEo1bmJsYXR1TW1sWmRic0xwQ2djU3RrWmhabkxXTUF0dHhCQ0RKcTBVaU9RRlJOTWdlUURSTld0eFZlc3RsLXpGYVExdW04cVZ3NkJ1d1VqZ1hXczMxanNjck1HZzJVZmxKZHBjQUE?oc=5",
         "source": "The Guardian",
@@ -1642,7 +1648,7 @@
       {
         "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
-        "source": "ESPN",
+        "source": "espn.com",
         "published": "Sat, 08 Aug 2026 14:00:00 GMT"
       },
       {
@@ -1656,12 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNS03Rk8xMWR0Wm1uM09xOUM4ZGlBa0FYMDloeU5vU0RDMHVINm8xNEdOSVM5VXQ0VlM2d1o0VnliSjdMUG53UkltU1ByQnlScmNQeGJEdThsTVcxV2RzNFRmMmVKdXExQ0lDTDlxa3ZjaXVHSWQzTDhJRHp3UXlDSXlrOUY4Ni0tc2ZPdGgwc2ZtU0RBLWtoVGQzX1lSX0xIU3owVUJtLW5wLUhHZ0w3YVNkRlFVbkJkcExvbWVsZmRZbm1vRlAycDJ5aDlXMDlnQWhtQWFTSjR1WW1fcHQ0cVBVOUViT1R2?oc=5",
         "source": "Sky Sports",
         "published": "Fri, 07 Aug 2026 12:25:38 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal 'sign' Alvarez, Liverpool book medical",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVlqbnJqZ2VVUmNjOVo1SHNpaVV6S2Q0S1ZldmxaNXJiTWxtdm9YdkZKZ0c4RU9PYl96Q0lGVTd5RDhkZnZWMmZkaTBaSGQ5aXhTWmJsYS03eW9jLUpqanY1Qm02bmFnanV3RFJYVXNyV09wZXpHZEM0SVJCa3lUTFMxR0FSMGQ1dHczSHBoRWZZbnVJNS1waUxwU0pHTlNiU1dpbjNTQ1FaSVp2cmdlT3lFclA0MDRPSUZXM3BPWndtcDRCWUFmVmNmQUhtSFpvNnc?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 08 Aug 2026 16:05:38 GMT"
       }
     ]
   },
