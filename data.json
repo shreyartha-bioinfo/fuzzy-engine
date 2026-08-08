@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T11:23:54.148127+00:00",
+  "updated": "2026-08-08T11:51:21.098392+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,10 +1538,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer rumors, news: Arsenal, Man United eye Shakhtar's Elias",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0h4VzcxdUhRYlhDYVFlUVdocUwyTmZWWXBIZGo3d21rdjZuNjZQRUNoZ18xZVBWQ1F0THpJXzFxRGJhRWdneG1fTzZQNmlaeG1OZHAtRWhMbGtCbzVNMm40WUlWbEJGZzhaVzMybXVXTnloUmxPU3JSM05UeWx4YTBMMUhZd2NrOTBLV2k0UjN4cG5VQS1RUzg2U19SOGJRRVIzbTJ2WFFkNWJpbHJodnM1V1Y?oc=5",
+        "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
         "source": "ESPN",
-        "published": "Fri, 07 Aug 2026 18:55:00 GMT"
+        "published": "Sat, 08 Aug 2026 09:00:00 GMT"
       },
       {
         "title": "Lewis Hall transfer news: Newcastle tell Man Utd left-back is not for sale this summer",
@@ -1552,14 +1552,14 @@
       {
         "title": "Leeds United transfer news: James Trafford joins from Manchester City in deal worth up to £45m",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RUo5d3hqVmp2amlTSnhhbkQ3NlR3SURPQ0xtSEd2R3oxZFBkQXoyeWZBQjdQNE1OR0Z1OWJ1T2YxV3lubjZSOFhvak43akpBd3RKWExwQUt3NnpOX2hJdnRUVE16bms?oc=5",
-        "source": "BBC",
+        "source": "bbc.com",
         "published": "Thu, 06 Aug 2026 18:04:21 GMT"
       },
       {
-        "title": "Man Utd Star Played ‘Significant’ Role in Mohamed Salah’s Trabzonspor Transfer",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVNVeU9JWENHNTU1Z0tGUUU4QmpFbjA5cEpwbkt5djRqX0NLTjBsOGc4XzBKZ2ptcHoyc29SYUFoMlFxZE00M21QMENvdEJYbHdRWVl3UVFJY1ZXRVVfRGdtaURoMXd1Wm5lU2I3dTJCQmo4UzkwMHh5NzJ3WktEeW5FQ2YyM3NRSXVsbGRR?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Fri, 07 Aug 2026 13:00:20 GMT"
+        "title": "Man Utd approve transfer with £36.5m Erik ten Hag signing set to leave",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeW1SMFhIdks2QVlGYzRpVFNhMEZEeXZlWXc1U1J6X2JLc3FWSUVQdFpPSXFDYTR6Q0x3aWZ6SDhWQzZsdmpjc1ZORlhFY0JUaVBkUWx2cjVoZlNOTC14SmtiSG84ODBzaEZlVEVvU3RUY1oyNV9oTXhYZjN3YUt4cnJGTzRwTTQxRERBQ1RQUmdocUxUU01LNlBkemZIYkdHazhsWtIBqgFBVV95cUxOR0ZrWWFUV2U0aE0zSG5kYUlYWDVkNmFOLU1mTHdwZnAxbG5URjA1S2hJVDBYakt3TjlrT2FOUTFRVTNDSTdqd0g0S3dIZ1ZPeU01bmx0emphS0I1ZFVSa3otNV83TG9SQkVTZUxzNVFhRjE2bnF6WmptQV9UOTU4MUtmaWVMaDNobkVFYUJ2WXdrZGFIX3ItOHB0ZFpoSlIzb2QyQWcya1dyUQ?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Fri, 07 Aug 2026 16:29:00 GMT"
       },
       {
         "title": "Man Utd handed Aurelian Tchouameni transfer update after formal bid goes in",
@@ -1570,16 +1570,22 @@
     ],
     "rm": [
       {
-        "title": "Rodri gives Barcelona green light over summer transfer from Man City - sources",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnVNNFNRRFdob21oWFZqQVlUeG93Y0ZzSlRqd202QnIxTFltVE5oUGhVN25nZkFxcTZKemRYSWU0UGJfWTJTUFJ1S21jek1MUnpXUEVpWUszbERDUnkxYTFQTHFUTXZmRnF0UE9Sa25SZkZuR3ZERmtlV0VyRVVKUVJLLWlxeEFrNWtTU3REQ3I2MlFJd0lYY1Z6NThZOGJQdE8tRWRUSEhnZ1RwUG5mbkJTb2RRTXVa?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 06 Aug 2026 15:57:00 GMT"
+        "title": "Real Madrid's worst nightmare! Rodri transfer snub is a bitter blow for Jose Mourinho & Co. as Barcelona assert their dominance",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb1Z2SllTMWg3MEJTRjJUdkNjR1VEdGZKSndJMXBZMEdlRUtwU2hkZ2VrdVgwd0NMWFNTdjdTYTVCUVhLalpxMFMyYy13V01GcFhZUTA5a01kd2pKeE9JTzFjVlNwSHh3Q1NSOUkxamh5aUozY24zUDFuWkxsVDRYeUdlWjNKQmdlQzVhbzhLNGdVcDQ5R0Y3aUg4bExrczlydjVlRXRtWXRqMmFVbEd6M0JSX0gtaWtYcDdjb0Q5SVlEUk1CaFg3Tldyal94ZlRVazZVenFxOHpGMVZ5MkRlekFYNA?oc=5",
+        "source": "Goal.com",
+        "published": "Fri, 07 Aug 2026 12:54:41 GMT"
       },
       {
         "title": "Real Madrid Agree Loan Exit of Starlet One Year After $52 Million Transfer",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzVZczJYRWMyVEhmVncyRkFYLW5PQURXeWRYQXBMSDA3bVdpZjd1RVYzbnRQSDZxNU8wVTEyTEhLa0ltdDM0UXZCS1NMS1FmUERoMm9NSi1IcmJVVFQyU2ZuOTNVZVBkVk9FVGw2ZGtibms4aEs3N3p6QXJhck93QnBaUEVNSURseTJ6TXhtMHo0MlRFT3FlaTc3M3NYSjExLTFLR2hBaw?oc=5",
         "source": "Sports Illustrated",
         "published": "Fri, 07 Aug 2026 20:20:38 GMT"
+      },
+      {
+        "title": "How Real Madrid beat Liverpool and PSG to Yan Diomande transfer worth up to €140m - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnY5Z2lfT3QxbkxtWXpFV0x2OGg3dUUwREhDRlFtZVlXRWJ3NjJIY3l6WGlEb1FLWkVzWVZOY2Vvd3ZzZDNLZ3I3bWcxQ0tqbkpUVklENHF1ME5kUkhaU0hQeEszWXJaRWtqc0JlUE9lc3FnSlBuNkIweEUtV0phQ21KVkxFTWhzdEc2dm4tUVdtVjRyX0RTYzJ5ZFlZWWtmVGlUOTZidw?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 06 Aug 2026 15:23:02 GMT"
       },
       {
         "title": "Arsenal transfer news LIVE: Guimaraes move 'DELAYED', huge Konsa 'BOOST', Gunners 're-enter' £130m Barcola race - the-sun.com",
@@ -1592,12 +1598,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWNSV3JyMVhKMFNLVGlOeXF1RGhlbUdPWFJkSTBfUnNNZlVqanpvUjBfQ0NiQXFsejNnRkQ4YkJBazNOS0tlajlGX2xNQkpITTZTa0hvWWhGV0ljRUhmM19WXzJsS3NxMlh5TGhJSzJlQXNfLW82MWlJRG5tTkR3OWNSdEU0Q0QtNi1wQ0pBQWhCQ2N5c1RJU3RtdDlIMm9zcl9EUFRsRVZOWF9ORm5TbDdpbElNbGYwakdRal9HNXA4Vkt4a0Q5N2ZLajVUVW9GZnc?oc=5",
         "source": "SPORTbible",
         "published": "Sat, 08 Aug 2026 09:32:06 GMT"
-      },
-      {
-        "title": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekFEWHBEY1BrOG56R2drSmhZWnV0U1ZRMk96cVB0bHk3bHMtMGotajltZzFYOW0zZEEwS1JfM0RmMDlTSWc1TVNlMnhMOWNFUGZJUGtaQWM1aFY4UjBuQmVULW5tOHhnYTlBbTVBeFZYbTNPWE5vNzdCWVBVSDVuNmZRWXpDQmNsXzFIbklNMndNdG5TOE5DSFVpVVdkVVRRaWtVU043UTdyaHBjRllxWDR1cUFRWmoybmp6WXVFLTNFaDZiOTZETkh1NzFTQ3Nj?oc=5",
-        "source": "The Guardian",
-        "published": "Fri, 07 Aug 2026 19:00:00 GMT"
       }
     ],
     "fcb": [
@@ -1616,7 +1616,7 @@
       {
         "title": "FC Bayern set to profit from Irankunda transfer",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNzNmMlFzalc5MXFjelNCd094X2dZQUNXWDNqMUFGaGZiVk00RGFiQkZreVBobzZURmJURWRXLTFqU0VBRzFaR0dkQkxYMG9MOGRQTlA3Y3NoMTl0N2pEbHYxY3VLZTVVREY0V1FQVzNocEdLU19DZ0VrNDhFSkNKcDB3WmJRZw?oc=5",
-        "source": "Yahoo Sports",
+        "source": "sports.yahoo.com",
         "published": "Thu, 06 Aug 2026 16:00:00 GMT"
       },
       {
@@ -1634,10 +1634,10 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Man City reject Rodri bid, Arsenal identify Vinicius Jr alternatives, Man Utd done deal",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFBUSnlNV0VZUG05dFN6anUwNGNtclVPWGJLTk41WE5BUjdNek1mWDJZMmYtMmFkU3E5RHpvNEk5dkR5aWRhY0Qycm80TktwSE9GX2dlMTFFY0M5RUdDYmNKSHhZbnNGQmpDU1loa0pIVGhCSG1zNmJNRFI2LXRTSnlvQWhsR3JrRVFzSThFSjJKTDN5aXlQTkprQjkzTU9VdzRuNVNEQm5DSEtEbXJTY3A2T0o0Q3JYNG5ENlA4eF9USHR3T2F2ZFZSWmFjcjA1Q0Rqck5GcUl0UQ?oc=5",
-        "source": "The Independent",
-        "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+        "title": "Transfer news LIVE: Arsenal 'sign' Alvarez, Liverpool book medical",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVlqbnJqZ2VVUmNjOVo1SHNpaVV6S2Q0S1ZldmxaNXJiTWxtdm9YdkZKZ0c4RU9PYl96Q0lGVTd5RDhkZnZWMmZkaTBaSGQ5aXhTWmJsYS03eW9jLUpqanY1Qm02bmFnanV3RFJYVXNyV09wZXpHZEM0SVJCa3lUTFMxR0FSMGQ1dHczSHBoRWZZbnVJNS1waUxwU0pHTlNiU1dpbjNTQ1FaSVp2cmdlT3lFclA0MDRPSUZXM3BPWndtcDRCWUFmVmNmQUhtSFpvNnc?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 08 Aug 2026 09:43:13 GMT"
       },
       {
         "title": "Arsenal transfer news: What do Gunners do now after Vinicius Jr commits to new Real Madrid contract?",
@@ -1646,21 +1646,21 @@
         "published": "Fri, 07 Aug 2026 12:25:38 GMT"
       },
       {
-        "title": "Arsenal transfer target Vinicius Junior to sign new Real Madrid contract",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFF3VjFWQzU3OTRpX3AzVzlFTzh6X09DN01DRVBxdXhWb0dIdG1qRWpPTUNhSTd0QnJrbUdnQVJ5WVhZcEh3ZlpKQ0VMZWFXcUM5dDVYYzh2dUMzWVZOYWwxT0RYM0tTRzVBcjBYakFMWFVJeDhHaGJPN0JsMVA2Qy14VEhObjR6ZXF0bzNScW5BQQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 06 Aug 2026 18:09:10 GMT"
+        "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 08 Aug 2026 09:00:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal 'sign' Alvarez, Liverpool book medical",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVlqbnJqZ2VVUmNjOVo1SHNpaVV6S2Q0S1ZldmxaNXJiTWxtdm9YdkZKZ0c4RU9PYl96Q0lGVTd5RDhkZnZWMmZkaTBaSGQ5aXhTWmJsYS03eW9jLUpqanY1Qm02bmFnanV3RFJYVXNyV09wZXpHZEM0SVJCa3lUTFMxR0FSMGQ1dHczSHBoRWZZbnVJNS1waUxwU0pHTlNiU1dpbjNTQ1FaSVp2cmdlT3lFclA0MDRPSUZXM3BPWndtcDRCWUFmVmNmQUhtSFpvNnc?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 08 Aug 2026 09:43:13 GMT"
+        "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVVuRzlfWXdZOEtWX0M2MmlfaGFtVDRTbFZIc3NnSmNfVnd4RG1VLThrTlJkLVB5Vi1zOEo1bmJsYXR1TW1sWmRic0xwQ2djU3RrWmhabkxXTUF0dHhCQ0RKcTBVaU9RRlJOTWdlUURSTld0eFZlc3RsLXpGYVExdW04cVZ3NkJ1d1VqZ1hXczMxanNjck1HZzJVZmxKZHBjQUE?oc=5",
+        "source": "The Guardian",
+        "published": "Sat, 08 Aug 2026 11:09:00 GMT"
       },
       {
         "title": "Arsenal target faces £60m transfer hurdle",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMm9idHM2SHhWbEtjYkhLNVpEejljZ3NMajg0UVRuUW16clZEbnVDWVJoTm50TUppdVBaaFBNRjZtRENPeV9heGI0MFlZUFlHM3B6SUkwb0ZUbGRiS3dhWVA2YkZCWnVERlpMbU9MeXVzc01aQmxGZ1cyaGRCLThtMWlacktfUmdlekE?oc=5",
-        "source": "Yahoo Sports",
+        "source": "sports.yahoo.com",
         "published": "Sat, 08 Aug 2026 11:15:00 GMT"
       }
     ]
