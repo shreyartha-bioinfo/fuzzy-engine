@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T05:28:03.419163+00:00",
+  "updated": "2026-08-09T06:07:03.461288+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1552,7 +1552,7 @@
       {
         "title": "Transfer rumors, news: Arsenal, Man United eye Shakhtar's Elias",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0h4VzcxdUhRYlhDYVFlUVdocUwyTmZWWXBIZGo3d21rdjZuNjZQRUNoZ18xZVBWQ1F0THpJXzFxRGJhRWdneG1fTzZQNmlaeG1OZHAtRWhMbGtCbzVNMm40WUlWbEJGZzhaVzMybXVXTnloUmxPU3JSM05UeWx4YTBMMUhZd2NrOTBLV2k0UjN4cG5VQS1RUzg2U19SOGJRRVIzbTJ2WFFkNWJpbHJodnM1V1Y?oc=5",
-        "source": "espn.com",
+        "source": "ESPN",
         "published": "Fri, 07 Aug 2026 18:55:00 GMT"
       },
       {
@@ -1564,7 +1564,7 @@
       {
         "title": "Manchester United have had a quiet transfer window. Which might not be a bad thing",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0J0eUF4djk2NmR4dHU5eHF4TGlvMW1seFVWcXVhc29BX0dsRnlQb2pNTjFFems1N0luZUxkQmY1Z1hSUUZtY3l5aVJuUG13bVBTc3RSd0drNHZGWkdFWkl2RjRJcXlFa29uU0ZLLTVvT3dhNHRiaHlLT2lEbUpvVDJRbGs4RkVWTGF6cVRvdUk0QjRpa1Yw?oc=5",
-        "source": "The New York Times",
+        "source": "nytimes.com",
         "published": "Sun, 09 Aug 2026 04:08:04 GMT"
       }
     ],
@@ -1572,20 +1572,14 @@
       {
         "title": "Rodri gives Barcelona green light over summer transfer from Man City - sources",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnVNNFNRRFdob21oWFZqQVlUeG93Y0ZzSlRqd202QnIxTFltVE5oUGhVN25nZkFxcTZKemRYSWU0UGJfWTJTUFJ1S21jek1MUnpXUEVpWUszbERDUnkxYTFQTHFUTXZmRnF0UE9Sa25SZkZuR3ZERmtlV0VyRVVKUVJLLWlxeEFrNWtTU3REQ3I2MlFJd0lYY1Z6NThZOGJQdE8tRWRUSEhnZ1RwUG5mbkJTb2RRTXVa?oc=5",
-        "source": "espn.com",
+        "source": "ESPN",
         "published": "Thu, 06 Aug 2026 15:57:00 GMT"
-      },
-      {
-        "title": "Arsenal transfer news LIVE: Guimaraes confirmed, Yildiz interest 'revived' - the-sun.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDBDZ0dZVGpGYTRVX3N5V3lpcHE1cEhTSXY5YUNYQmpOUUp0ZnFFYlZCbmFsUExZZlF2clEtU3RSSlp6Vm9kUksxblVHMGlfaXl1U3JpdXhBTWhNRzl6RHNHbmZfZ21wOVNwVlNGUHZNUGtpNlV2RW1CQ1NXTlMwMllSVG51M1hGTXd3cmVBMkFIZnczZU0zazhob2lORnM?oc=5",
-        "source": "the-sun.com",
-        "published": "Sun, 09 Aug 2026 04:16:09 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal identify Vinicius Jr alternatives and Liverpool agree Barcelona defender deal",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2p4ci1FdU5sLW1JQUZGaU9JTmlaUzJnLTJlN1Rya2lyMS16Ni1KZkNCM1Z3MjY4MWFxYUlvd29OdVJFQUdLd1pUX0dGRlA5YU9mWnlXSVVoaVMzMFJ1M0VXbEtWX0pSWnV5MXA5ZFV5U3l0eThkd2gxMzBQSldsMDRaNjRjajZ3NGEya2MwaVNTSy1kSEY2TzYzOUFWYUZ2ZVVuVkpXNmtDLUloQ1R3aW5UNGpHZ3pvTXc?oc=5",
         "source": "The Independent",
-        "published": "Sun, 09 Aug 2026 04:12:01 GMT"
+        "published": "Sun, 09 Aug 2026 05:36:47 GMT"
       },
       {
         "title": "Arsenal handed Julian Alvarez transfer update as Atletico Madrid decision made",
@@ -1594,9 +1588,15 @@
         "published": "Sat, 08 Aug 2026 12:37:23 GMT"
       },
       {
+        "title": "Arsenal line up £85m Vinicius Jr alternative but immediately hit by transfer issue",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXhUbzZleXMxQTRRY2ozRXo2dmdsaFRSWV8xcDZMZ1lUVGdsQjFlZjllY3ZfRzZuMUlWM0hWMXJSNmtOQ0N4Q2hrYnZvX2EtTkJhWDF5N2JSOC1IV0FxOFViV0VkTDVyWUF4U21RQUQ4Z09RbFczdFVXbjBWZU9ZbW05ZHQwekpFZFhtQU9wVHRsbnBlTm52M3hhT1RHeHFoMmpEZnl30gGrAUFVX3lxTE8zWDl0c05tNHRMdl9wbkdvYWk5b3Y1ZE4tUmNBeTBuSVd1YzlUYnlfZmhxaTAycnNhWkRrUlRha2NFNkhyZEJlWjluTlZTaWdrcWFXUjNud0g0Q3pTWUJPUWtlOEl0QkFOYnFvQjQwN0FWckFKaDFfTXdJYXU5ME9qdE05Y0dyYmdNTHYzcnJzekg0OEVBOXpvMWVhaXRtcEVrSnpPbktNNXZFOA?oc=5",
+        "source": "Daily Mirror",
+        "published": "Sat, 08 Aug 2026 18:41:00 GMT"
+      },
+      {
         "title": "How Real Madrid beat Liverpool and PSG to Yan Diomande transfer worth up to €140m - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnY5Z2lfT3QxbkxtWXpFV0x2OGg3dUUwREhDRlFtZVlXRWJ3NjJIY3l6WGlEb1FLWkVzWVZOY2Vvd3ZzZDNLZ3I3bWcxQ0tqbkpUVklENHF1ME5kUkhaU0hQeEszWXJaRWtqc0JlUE9lc3FnSlBuNkIweEUtV0phQ21KVkxFTWhzdEc2dm4tUVdtVjRyX0RTYzJ5ZFlZWWtmVGlUOTZidw?oc=5",
-        "source": "The New York Times",
+        "source": "nytimes.com",
         "published": "Thu, 06 Aug 2026 15:23:02 GMT"
       }
     ],
@@ -1606,6 +1606,12 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQzg3VVYxOUNFNDBvRmxSRnRxOFVKN09TN1pnR3pSSHd4RE9PNm54UEJIdEdTaE9WRms5REQ4aGEyR0twbTZwRFRtN2c4ZEJFZFBmNTVqZWJjZjlLeHhvdG9sbmp5aHBkLVhLVVpYc1ZUeXBuTVpWMDB4M1lhUlQ5Sng3bFJMZkRDSFFMWDY1TzVfdnJOSHk4UkpMeVE2VUNfVFVyUUtZZGdBMDFxWDlQTlNCQ1ZZTTY3UlVlSlBDSEhCZlNmUklpMnJla1BBaWo2WExOUFQ5cHE?oc=5",
         "source": "Bavarian Football Works",
         "published": "Sun, 09 Aug 2026 01:15:00 GMT"
+      },
+      {
+        "title": "Bayern Munich News: Jeltsch is on the radar at FC Bayern for the future",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS3hlaHRGZWVtZTlUQlJQRjlJQzhQbzJTTjV6ZENFb2ZnMzVNTGlXRnpuc3pvM2U2bmtnenhKZkxWLXNxYzdWWTZ2ZG5Hd1NfZDE4SGpQTWY4alR4NnVTdlJfQnhLVkFXQzh0MlF0RHpvRGZtMHRZZ0pDODdJUFBUUGZKUlJuZ3B3SkJLNDFSdWI0VkNLVVY0TW1LRjdIdFN6aFFzei1ZaE85NF9fV1VhelpDUTdSeDVTU2tmT2RYWEJIMi0xMm5OdkpTelpkbmdDSUstWGE5YXY5TmIyWjk5WjRuODlqcWJOblNxWjFmNl9lMTRsRnc?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sun, 09 Aug 2026 04:00:00 GMT"
       },
       {
         "title": "Self-inflicted problem: will Leon Goretzka be the big loser of the summer transfer window?",
@@ -1624,20 +1630,26 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWmpDTlNRSVZrNWRjZWRPcWZuWEdudE0zZGIxQjlzM2drSHRuYXhXYmlzRWtEVjlPUnpvbHc1SjlMX2hxS1JoZXNhcU1iU09TUGhkcUptZXZsMm02N1UtWS1pRDlhU1JpQ3FWSE04TC0zQm9RM1hEek8tbk4tMmZhMlctYlZfWUdTYXkzVmktcmRqNHZxOWdOT25seGtkOUxpR0hfR1Y5N1ROWFdZc183WHF6bmxqcHRpWkV5eW5pZnBPQzJ5clc2ZWY4UFpPOUhjM2hjXzNKN213SzU4YjhQeEZNSzA1cmZ5Zm1vdQ?oc=5",
         "source": "Bavarian Football Works",
         "published": "Sat, 08 Aug 2026 16:00:00 GMT"
-      },
-      {
-        "title": "Bayern Munich’s Max Eberl has kept tabs on Michael Olise all summer",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRkpDVjJVcWRUUE1nVU5TWWFRVVJweHBnalF4bTljc1M1Tkk2U1c4eGpidHRmT0x1Tk9IWVdoLW9TR1BzMnFLMXZDNzRVZDhjV3pzMjRRajdzNE90UGd5ZGJuWTBTbXpCNGdPVVNyWlNfdWk1a2VhWWdOQ2FmTEtsMjVucHRRM1RkWXRQUnctamJMZXhsQkV1cG8tUlJETW0wVW4zVV9oVkIwZ0k5ZXJidVB5TEtvOXg2ZXM5cGo4dFpyMi00Y2hUTndfVDhhd0FHb2pWeVJKZ2hVSi1jeWc0Ng?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sat, 08 Aug 2026 20:30:00 GMT"
       }
     ],
     "ars": [
       {
+        "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 08 Aug 2026 14:00:00 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal identify Vinicius Jr alternatives and Liverpool agree Barcelona defender deal",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2p4ci1FdU5sLW1JQUZGaU9JTmlaUzJnLTJlN1Rya2lyMS16Ni1KZkNCM1Z3MjY4MWFxYUlvd29OdVJFQUdLd1pUX0dGRlA5YU9mWnlXSVVoaVMzMFJ1M0VXbEtWX0pSWnV5MXA5ZFV5U3l0eThkd2gxMzBQSldsMDRaNjRjajZ3NGEya2MwaVNTSy1kSEY2TzYzOUFWYUZ2ZVVuVkpXNmtDLUloQ1R3aW5UNGpHZ3pvTXc?oc=5",
         "source": "The Independent",
-        "published": "Sun, 09 Aug 2026 04:12:01 GMT"
+        "published": "Sun, 09 Aug 2026 05:36:47 GMT"
+      },
+      {
+        "title": "Arsenal lead £73m race for striker, 21, after Vini Jr snub but Man Utd lurking",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlJESlVTS0R6N0dnU3BzazlnYmx5djY2M2g2N1hrdk9IcHY2V1NJNi12MjBoNW4xRFJyWk5RcDVQbU5CUnFoSmdhdDR5dmxkeHR0UklzcHhwNG16dmVtVTQ1eGs5TzE3TExFdm5VNS1CY2VpSk5TRXg1YjhjLTJiX1BnMG15ZFNtVnRqLVpwOHZuY2paMUczQm9icUM?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 07 Aug 2026 10:18:00 GMT"
       },
       {
         "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
@@ -1648,20 +1660,8 @@
       {
         "title": "Football’s most controversial transfers: ‘Judas’ chants, mocking billboards and a pig’s head",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0dTLVZkOHFYQk4tZTl6Y1RHUm9hTGdiVFdvWTRJR0VWbjJCaHpWbHJtX1VkWWNfaEtKbVB3YUVKcmVzbmJoQmJuaWhKY0ZlZmlpazJaQ3dTUjN2aDkxNElaaTRXUzJoNl9ScVhuRWdpLVRiMDdkTDFkc3BfM3VOTFdCV0pzbV9lR3RHb2RmV3luNzNw?oc=5",
-        "source": "The New York Times",
+        "source": "nytimes.com",
         "published": "Sun, 09 Aug 2026 04:13:26 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
-        "source": "espn.com",
-        "published": "Sat, 08 Aug 2026 14:00:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Man City reject Rodri bid, Arsenal identify Vinicius Jr alternatives, Man Utd done deal",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFBUSnlNV0VZUG05dFN6anUwNGNtclVPWGJLTk41WE5BUjdNek1mWDJZMmYtMmFkU3E5RHpvNEk5dkR5aWRhY0Qycm80TktwSE9GX2dlMTFFY0M5RUdDYmNKSHhZbnNGQmpDU1loa0pIVGhCSG1zNmJNRFI2LXRTSnlvQWhsR3JrRVFzSThFSjJKTDN5aXlQTkprQjkzTU9VdzRuNVNEQm5DSEtEbXJTY3A2T0o0Q3JYNG5ENlA4eF9USHR3T2F2ZFZSWmFjcjA1Q0Rqck5GcUl0UQ?oc=5",
-        "source": "The Independent",
-        "published": "Wed, 05 Aug 2026 07:00:00 GMT"
       }
     ]
   },
