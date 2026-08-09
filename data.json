@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T07:29:42.941973+00:00",
+  "updated": "2026-08-09T08:08:15.142867+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -664,6 +664,15 @@
           "assists": 0
         },
         {
+          "name": "Gonzalo García",
+          "position": "Offence",
+          "nationality": "Spain",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Kylian Mbappé",
           "position": "Offence",
           "nationality": "France",
@@ -730,15 +739,6 @@
           "name": "Ferland Mendy",
           "position": "Left-Back",
           "nationality": "France",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
-          "name": "Gonzalo García",
-          "position": "Right Winger",
-          "nationality": "Spain",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1538,34 +1538,34 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man Utd transfer news LIVE: Robinson bid 'weighed up', Salinas offered 'ready' - the-sun.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPak1BcmFHYXptQS05b01YbkZtWFJBUXB4Z3ByRFR2NDBHbEh2WkhHdnlxUHdkVHlPYXVLT2c1Vk1XNEZYU3BudGN3czNSME1uUzNVZnU2QWg5b3M0cFItN0l3TkRLN3lBaDZMeTJUOERKZ2V0NTlZellKSDVHZXRGSHgyV2d6UjNmaVpyNkdmdHd6OFg5Z1ZRYnZCV20?oc=5",
-        "source": "the-sun.com",
-        "published": "Sat, 08 Aug 2026 07:58:38 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Marcus Rashford update, double Lewis Hall blow, Endrick 'contact'",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXlKZjl6RDdQNWtLS2VpMHlLUmNNZXhyTWxROHlQUFhITXFCVkppcTQtdUs0ZEl2ZXljbXB5VlozWkZxSU91WWxSZ2xFR0RDSVJyNkl1VnlqOGx2UFRvN2NiY3Y0TGE0WEFfR0dTTTBUNWVEWjJINTM0elZtWnk2OERWdXlLbC1meWhzSXNaMnF1WmRZUDNhNjlZczNvU3VtNFFIaGItUdIBrAFBVV95cUxPZmJUOThqZEl0SjNqQTFQRWNZX2RpdnpzaDNCNW93V1I4RjVGQTA3YkZCTWNrY2FnajZabkRZOWtONlZ2aXdKdmRnMjJwbDlvamptbjU3NFdxSU5xMnRSS0lhNGVJdnJ2T2RQdVVWTUJkcFFpZ1J2M09DNlh3NjFUbWViV19Gc0hiWkN3NGc2ckZTQk9uWk1KeTVFTTlPRlVhZ0Q4VnlQYWhub1kw?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Sun, 09 Aug 2026 07:00:30 GMT"
-      },
-      {
-        "title": "Lewis Hall leaves Newcastle training camp! Left-back flies home early amid Manchester United transfer interest",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlpTUkxSazQ0VVNNa0dGQkFYbGFEWUdQWlktV0xaVUJhUjhCUDVkd1hRemR6SmdkNE0zeWtEaGJYQ2RteDUyZWlwWlotLUNQZTdtRXoyZjRtOE1KT1ZsSVhpREdvUnh1RXduUVN1aXVBaDVwSEJpa3BtU2VoT2wwQmZJY19qdmVvZlBYalY3amlwbEx5aXBJ?oc=5",
-        "source": "Goal.com",
-        "published": "Sat, 08 Aug 2026 17:12:08 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal 'sign' Alvarez, Liverpool book medical",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVlqbnJqZ2VVUmNjOVo1SHNpaVV6S2Q0S1ZldmxaNXJiTWxtdm9YdkZKZ0c4RU9PYl96Q0lGVTd5RDhkZnZWMmZkaTBaSGQ5aXhTWmJsYS03eW9jLUpqanY1Qm02bmFnanV3RFJYVXNyV09wZXpHZEM0SVJCa3lUTFMxR0FSMGQ1dHczSHBoRWZZbnVJNS1waUxwU0pHTlNiU1dpbjNTQ1FaSVp2cmdlT3lFclA0MDRPSUZXM3BPWndtcDRCWUFmVmNmQUhtSFpvNnc?oc=5",
+        "title": "Transfer news LIVE: Arsenal hijack Barcola bid, Liverpool medical",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGNLbjhJeURRTWJqck5rdWlENnM5czREaEdVdUZMaHVJYjZOamdTcjJ3N0FPUG05aFd3bU5fekZTSUtpRWotWk5kQlFySU5KUHlLekc5a1BsbE9nQmpyQnhQdTlMVWpxNm9JWVNBRDhkLXhscGx5aUw3Y1JOOHBmRHFBVmJxZGQ0TGdxaFd2akdQYUhBZmhBM2tiQ2FRQzZnVlJXdUpZQ3prRE1adFdBY1hCYWllSHY3MHRVNG9zbmtEZTFHU3c?oc=5",
         "source": "London Evening Standard",
-        "published": "Sat, 08 Aug 2026 23:42:41 GMT"
+        "published": "Sun, 09 Aug 2026 07:33:57 GMT"
       },
       {
-        "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRObEtfOUN4OWZRbWptLWJreVRpQmdESXVxYVR2NV9LUGE4RnhBb1I1eXA3emZEQU5OeGRlTmFVaGdYaDAzNzlUVDRJVjA4VDNSSXVXOFh2NkRjTmRRTWFxUWVqV0tsd2VXWXg2Y2VZWktWd204dXRaVkhTdzdoLW5hcHZ3dDVTTGNmbjRmTk1qZkVKSGVidnE3cGs5MkdHdGNRZjhqR1ZoSDh0a3lsN3ctNWRlNVRGTlZz?oc=5",
-        "source": "ESPN",
-        "published": "Sat, 08 Aug 2026 14:00:00 GMT"
+        "title": "Lewis Hall leaves Newcastle United training camp early amid Man United transfer interest",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBWekNRcUNMSTV4bklsREhtSkJ4aGRMbXhKT2lhSW84R0RsaDRMa3N5ZkQ3QmdPdGR5WkhJUUlPTDgzeWtUS2dMcWxXOWQ4VmxDNS16S19jQURNNmhpTFZHVW00Nm9RVC13TjFSNlpETk9uNWZIRVU4TFlEMHJTTWZSZWNGWm55eEIzTnBkQWdZaGhBZjdUMUtvVHduSVhTS2VNUk5Ib2p3cVVCVGhjYUxGdFJxX3PSAbwBQVVfeXFMTmlfTlNzWTR3OExTeElIRnRudm10U0JQb3BHcVVfaFV6RWdQaS1qQWZEem0xRWppTTVFNm42WHhnck5fdlg0akJBN0xlVXI5S1M2ckZaQnJwS2VNM1p2aVV2T3BDVDVVYU5sZTFSV3dDeUFvSGF1TmRfczhaN01ONS1uemlRUmJpa25SSTBRZVJwQUY5X29YMnhaLTNaTjZGa25aZXUtYzQzS0NzVlVYMThNVTByWWVlUjlqQUw?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sat, 08 Aug 2026 10:11:00 GMT"
+      },
+      {
+        "title": "Manchester United have had a quiet transfer window. Which might not be a bad thing",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0J0eUF4djk2NmR4dHU5eHF4TGlvMW1seFVWcXVhc29BX0dsRnlQb2pNTjFFems1N0luZUxkQmY1Z1hSUUZtY3l5aVJuUG13bVBTc3RSd0drNHZGWkdFWkl2RjRJcXlFa29uU0ZLLTVvT3dhNHRiaHlLT2lEbUpvVDJRbGs4RkVWTGF6cVRvdUk0QjRpa1Yw?oc=5",
+        "source": "The New York Times",
+        "published": "Sun, 09 Aug 2026 04:08:00 GMT"
+      },
+      {
+        "title": "Man Utd's 'pants pulled down' as chief reveals transfer fee twice as high as expected",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56ai1hMC12ODNlWVp3dG8xWmZCNW1BM21HZ0pyM1c1MGVBUEV5MlhqRFFCYzNuc3V6NkxBOEY5bVJCaGEwdkVucThmSWN4YUVSZEhLMTIwdjZfODdCQU5Lbm1UVGNqWGZoakU3UTV1U1B4Y3fSAXhBVV95cUxQaDV6encybjRySWtJTER0bURDNlFfbmN0Wk5rOHZxa0NGM0Q5ZkIyVFRVQ0x5OVBXUWJCTnJicEZPLWZwSWF1VEZ1ZTVvWW16ODNDUlhrRTZQUFZTdktpUDdZZ25hMTNic0lIdDB2UGs1V2N3c0pGOWo?oc=5",
+        "source": "Daily Express",
+        "published": "Sun, 09 Aug 2026 04:30:00 GMT"
+      },
+      {
+        "title": "Man Utd, Arsenal and Chelsea target who had £87m release clause is now a free agent",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkRiVWFEeHY5aTBLZkFCNUtEZENCSUdWa1ZLemx1aExzRGdZdjZHSXZXZW1JOGVOM0EwbEZ3WWlHaVBCa2stYWd0N1E4aEZvSFVyRG5idzFCWE54WVFienlkY2tjNnV6d2dhbF9QWWxJSzd4RXBWRENmbUt0SjRwU211b0hHaWVCX0hRVVQtdjh3N2dveDRJOWhn0gGfAUFVX3lxTFBXOTB3LUV1c29mMWo3VmNfeGo2YTh1amJMeDh0ZEpuQk1IQ3BBMGs0MGpndFBQWldrV1htZnc5NGFmaHdIWHhGX0VEckdfZG9scGdmdWFGTVF6TG94Q3ZhWkZoSGl6aGw4SENDYnMyeWROSE9aTTBFV0dDb0MwcGxkUjkzdXVVU19PMFlvVThiMk9NdGZnbFlrcElxR09sTQ?oc=5",
+        "source": "Daily Mirror",
+        "published": "Sun, 09 Aug 2026 05:30:00 GMT"
       }
     ],
     "rm": [
@@ -1590,7 +1590,7 @@
       {
         "title": "Man Utd contacted over stunning Real Madrid transfer that nobody expected",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObG9sMW5DTktzT01fcE0yd2Exd1BYY1lWazJ3azg0dW9nWjJpaXlUXzh6Z3ltWndjMWw3ZnJpRFUyajU0ZU0zVFpTV2J4bG1NT2RFczI1bkVJcFEwLWxlU0k4dHhLd08tRV9xRElCN3h6c3NOeTdpX0Z2SGJoQXFGdkpBT2tIam5wWnZ3TlRqcjB2Y3A3OGJmMjlvLXh1YThpNUxZbnFPeG9rNkNXbUxRVE5wWVI?oc=5",
-        "source": "SPORTbible",
+        "source": "sportbible.com",
         "published": "Sat, 08 Aug 2026 15:43:04 GMT"
       },
       {
@@ -1634,10 +1634,10 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Arsenal identify Vinicius Jr alternatives and Liverpool agree Barcelona defender deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2p4ci1FdU5sLW1JQUZGaU9JTmlaUzJnLTJlN1Rya2lyMS16Ni1KZkNCM1Z3MjY4MWFxYUlvd29OdVJFQUdLd1pUX0dGRlA5YU9mWnlXSVVoaVMzMFJ1M0VXbEtWX0pSWnV5MXA5ZFV5U3l0eThkd2gxMzBQSldsMDRaNjRjajZ3NGEya2MwaVNTSy1kSEY2TzYzOUFWYUZ2ZVVuVkpXNmtDLUloQ1R3aW5UNGpHZ3pvTXc?oc=5",
-        "source": "The Independent",
-        "published": "Sun, 09 Aug 2026 06:41:02 GMT"
+        "title": "Transfer news LIVE: Arsenal hijack Barcola bid, Liverpool medical",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGNLbjhJeURRTWJqck5rdWlENnM5czREaEdVdUZMaHVJYjZOamdTcjJ3N0FPUG05aFd3bU5fekZTSUtpRWotWk5kQlFySU5KUHlLekc5a1BsbE9nQmpyQnhQdTlMVWpxNm9JWVNBRDhkLXhscGx5aUw3Y1JOOHBmRHFBVmJxZGQ0TGdxaFd2akdQYUhBZmhBM2tiQ2FRQzZnVlJXdUpZQ3prRE1adFdBY1hCYWllSHY3MHRVNG9zbmtEZTFHU3c?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sun, 09 Aug 2026 07:33:57 GMT"
       },
       {
         "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
