@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T06:50:32.251050+00:00",
+  "updated": "2026-08-12T08:09:34.279578+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,134 +1536,10 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Myles Lewis-Skelly transfer news: Chelsea and Man Utd turn down intermediary offer to sign Arsenal teenager - Paper Talk | Football News",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONDRJNjNmemw4S2VEN3Q4WElNRVZuWjVsQXV4Q2pKcEQxcUJoSGFINzJDMk5IS2pERlprc21sSkU2eS1qMlhEX2M5bzEyN01mNTJPcDlONHI3X3p4QndYQVhZODlNZEVJd0ZsNm51bkEzQ0x5WFFQREV0bkpvNEZfTDdYa19jamQ3anAyQXIycGhNTGRkNkpib2xvVHFnbFl5MTRSNnJJVW1TRkZTVXRObm05Vl9tbzhsTnplVTY5NTZLOTZPQ0huZ3lFUTZyb2dvdmI5UjhMUTVaSkNLVzZXa0YtTkYtdVN2U3paaTRHVjRNSUdhbFpGWWp2aUo4X3E0Zk43RnNGaWczYTNuZ3hpVDhTb0Z6dw?oc=5",
-        "source": "Sky Sports",
-        "published": "Wed, 12 Aug 2026 06:37:59 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Iliman Ndiaye claim, £14m offer readied, Louis Page deal",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUh5SXRVTVJtQ0N1bkhBNG5zUi1CcXdhQk9jc1Q3ZmNtTm1uTkp2eGZCUHNhQUthd3JBbVA2TGFTRU9STzVUakdzNlJNekVhZ3pZajZrWDFlR1h5azBjTnNoUFpMeTV3R05nS0JKVE5DMjgwVTlBbENDYmc0OE96enRzclJ6NURjQTdfanFTTUgwTnh2MTV6N1JxdFlmT2otc2g2eVdnSHZ4YU9TcC1MQXFuT27SAboBQVVfeXFMTlVMZHNLUWxsN1NVbEVreDA0RDFyblhhT1VZbmVhN3RoOW14Y2x3YnpIMlR4RzdtUkVUWTEtYVV4SzVvX1pwdUV0alFPMnA0NldVdmNMOE5hcTJaSkJlb1pDbk9CV2VQNENhX3U1TWdZUS1ZWElxa202SXM2VURDeWYtbnFLVVczTm01c2tZbU9SU3g3WEk4ZTJNemtoYVpnWk1ncGg4MkVRcV9fcm0yUy1jVHRYbmRNczJR?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Wed, 12 Aug 2026 05:39:35 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3l3Y3hQa2FrRFdIbGRyMFc4VHdlSnd0eWlrSjEwSEFXNFpPX0QycDVZSHJHWlZjSFJqcHZVeE5VUVRWeGc4RHBwaEdYTjgtczZvU1pqWENoQi1NZU93Z1RrQ19kVm01UE5aMEU0eTd3dmpSTy1id3BOZFlWV29UQ3I4VGhvd19wMGozVVBKTnFRMXkxSWsyOVNkSVROOTcyRGhHX1dnc0ZNa0t4a1lKS2p5UzRLTGtEVHc?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 11 Aug 2026 19:47:00 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Real Madrid Receive $133 Million Guler Bid; Man Utd in Wharton Battle",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjAwNFpvVl9uLUdpS3lHRjlEbXdUVFpVZkwtOEsySHFqcHJnaWswX1pyUVBsbk9LVndjZVMtQ1J2ckRXN09JTmFXMGVOSWI1bFJndWtCX0h4TEZMZTZla0k3NXlicUhkRGh1WEloeHRQNzNqMUdjSEpIQ2Rqdm5Qb0d5VGFCQllWRzdaRnZzX3pOSzg1STJIRHp2RWpnSkF5MkpVbjlXeU9XQQ?oc=5",
-        "source": "si.com",
-        "published": "Sun, 09 Aug 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Newcastle star makes Manchester United transfer request",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWdSZzdSNE1YS0IzV0U0OV9uc3FZLTBFOFJ4Yk9yaDlhUlBCQUR2V2t3OV8yblpPZVN4V0hzQ1R0cHFOekcxZGpWQV9mbTFJUUhLVHVPT0tnQkZNUXE1cFdJQ18wZXZiR0FrV3lSdm80Z19LX2ZxMjVlTXY4WGVNcFBoNVUwWDhfajJDemJ2RW5ud1BSZVVSNkF1TzXSAaIBQVVfeXFMTkpwQjdYU0RiV3pra3pFMnhyYWc4cmlfVEJCZTM5MWU5UVBVZnhON1dFc1VabEFxMmNBRFZXYWktWGtQNmVWM2lOMXpHZkJXTkt0Ul9lRHZTUUJtSThRS2lWRjRkLXo2dUljMnlJQndQYklzRnNVSUIyRG5vNlhVRGxvRmctd1JmQ2NZMDZBS0QwV05zWXkzclJVU0NSSVphSzB3?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Tue, 11 Aug 2026 13:45:00 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Real Madrid plot shock Martin Zubimendi transfer as Arsenal left with dilemma",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0pvMGdaTjE5VjFnQWlXdkJnb2pVY3UtcUdud0E2d1g2VzAwTzBPaXNLYXhTMlNiWWhRcjlrZTlTOVlZVkRXUXkzVXJyOUstMjh3S2p2NWtIU1JuSHRCSkRYYUZPUmVhNWRsOHEzbml4QnhScHByZktWN1dZTUhyQUdaQXZxVy1vZmNoeEtZMFJEM3ZkZlQxU3luQzQ2Wnlh0gGmAUFVX3lxTE1XajhVQzZpaVFCWHZEd0xoRFBSaG1aZjJtb3hVd0Z5WERlYjU3Qm9fb2RXNkV1SlBHeWhFX2pUbmFHU0haRThhMFpwbWFONjd0ZzR6bng3QTNiX1hNVWtrZnAyQkR3VGIwVDI1ekp3MWVHUlN0U25fX1pRYjIyUmdUTWQyN2VjS3hNYjZmczVvTVN1OW5lRkZSU2FfZERQWF9ZTU5aZ0E?oc=5",
-        "source": "The Mirror",
-        "published": "Tue, 11 Aug 2026 18:20:00 GMT"
-      },
-      {
-        "title": "Football transfer rumours: Vardy to West Ham? Madrid move for Zubimendi?",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVNJdjV1OFk4Z2o4OG5xSzJJTmRwbkdpcHNFd1ZTaDJCeWI5NWdNQmRfemFLZ2Z6YTRLYlM4N0NsRkVHSlJIakNTd1E3d29XWTJmRG5oU2Eyem1rV3NaeFhyb2draFZDU2Q5eVhobEJmRXNxeUdQZjBzYmFlNzR0YlYyT25uVmhPODh6a1lxeUcwM3hGUnMxWW1VZXdvcnhwREVXVlRqZWRvMzYzbVd4S2pNdF9IQ05qdHY2V3h3?oc=5",
-        "source": "The Guardian",
-        "published": "Tue, 11 Aug 2026 20:54:00 GMT"
-      },
-      {
-        "title": "Arsenal stance on Martin Zubimendi to Real Madrid transfer as Mikel Arteta outlines plan",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3dWTUVMdTBrVHE5eExOeEtTOVdMTDRneEh5OW4tcEgzbExfVGpFamJPTG5majZMbXJmMnJuSHhaTmdrRGlJSmpMOXVoWHVVWHJfdXZPOXE2cUhlOEVMeTZhYVd4NmVaM1c3R2Z5UjJ3YnpiM2VLenJuX3VNQkw4dzN0VXpzWGZsT05UQXdfTlRtVnJrU1pWTTNwZXRZRnfSAaQBQVVfeXFMTUl1ZkRjREd4NE1KeDRBMFpuRkhRUWNoN0l5M0dFZFJHeFduUDNIczRIWFJmOXVZTTJ6OVdiMEVnQVBKZk4taUwwMVRaWXhpeTVYblM4Vy1sMHo0V0dmWmdSQ2hzR0xhMTlVYVpUZ1I5bURQbHZmQjMzbmtmTzlfQ0hPOFg5V2YzOTJQZy1aWWF1cFFlNzRPMHpoczhVdm9XQmJ5QU4?oc=5",
-        "source": "Football London",
-        "published": "Mon, 10 Aug 2026 11:21:17 GMT"
-      },
-      {
-        "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 12 Aug 2026 01:18:55 GMT"
-      },
-      {
-        "title": "None of Real Madrid's summer transfers makes sense: What are they doing?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2M3X3pVaHNjWGFUcmhnRHloclBVRGxPTmhlMkViVmtlRDNGV0JwTm1nMV9OaFItYVF6ZE5TWVNRTWx2bTVndHNGQU5JUy1EVHREVVFNVGJFVGJZSUx2UlVBM3RHbjNyOWVtVHlPSjhrMTUxQWoydEpnTTdCNVhJQS1mT2FrcUp3U2VGNFpFbDZzc1FpY0NOY0lR?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 11 Aug 2026 09:00:00 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Bayern Munich’s fee for Bara Sapoko Ndiaye revealed",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ19PM1NmOU1nbVJnQ216SDZPZ0VSaTJoLUw0d1lOVTNweUVCeE1sVlRJdGZPbHNEbms0RGZNNFRVUHB5cktYQi11T2JNSzBiSXdfcDVBdXBWUVBmbWw3Yi1TZGVYNWhaQ1VjNnZ2YjhTd3NyWmg3U1A5WWI0RWpQcUpTejJGMDhwR0ljWDM5VUZoMWVxLUZxZnpXWWtVdzMtQWVNbC1ZOWxiZGl3ZU5ncUtnX1EyUE1XNWpfRktkaXpjTUdzajhGblFR?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 12 Aug 2026 01:15:00 GMT"
-      },
-      {
-        "title": "Bayern Munich News: FC Barcelona, Tottenham tried to get Harry Kane",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3NjTGxQRzg0RFlVbE9qRmF6dHlrc3lnaHoyQU1uWUNlUExhQzVLa1hFQWxabFc2SFdpcjlzeV9BOTJwV1dNN3prLU9UWWpGUHozdHRyZGJZN01CLUdEd2pWY2tLclBrU0lHTHdDTUlteEZrSGJrckg1SnN3N25DSU4wVHhWNjFKeVVmT2VKUDUtenNrSW82WFpPYmFSWkVsNUxLU3d4ZHludVduU19LUkVDdU5HQnJkUHdOU2Qwb01uckJVMVpyWTFjQTZDcVU?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 12 Aug 2026 04:00:00 GMT"
-      },
-      {
-        "title": "Bayern Munich, news and rumours: As backup for Harry Kane! Could Bayern still make a move in the Premier League despite their declared transfer freeze?",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNGttMEg4emNXUl9iTUtCYmVSd2p6RGZGeUItY0I5MzJNWUdPN3BnRGpCRERYTml5RVBFc1c2S1ROSHJjUGQ3WXZSclFuN2hNbnB3ekFsdU5mejhCVVJ0NmUwdUVtRnd0OGNNYlJ4MTlvWE9vWVFrSElkZ1VZMTdDeU9ZeXU3WUI1bWpUUDBhM3RhTzgzYWstVHJVVEdxLXdhZUhsTmlmS09MTk9oVUdSMXVkUG01ZEROWkthRzhiRTFtSmtCTDllNU1yY0JNWWczbVJQa1VGVFM2TXVCUkZXY3kta3ZZRnpVQWxyaExqM1N4NFFrTUhxc1owT0JCbGNNa01HUFo4YldNakl4TWlHOHNwMFVDVkU?oc=5",
-        "source": "Goal.com",
-        "published": "Wed, 12 Aug 2026 04:00:18 GMT"
-      },
-      {
-        "title": "Interviews on transfer of Bara Sapoko Ndiaye",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYW15bUVRTDhIbXVWbFBRQ1k1Ry1zS2d1V3FoaFdYWUZ2bjVOZGdPRWNrYmwxWDZvNTQtYnd3cms1eEVTTFdvaHY5bndpWm5ueDMxbGNjMTFsNFgwYnlTRmtrMWtDWk1JOHFZWWpocVdWZ1R3VG1SYUJBYTFCNGxob254WE9Db3ZZVXhvb0l0UUJvU2pCWGw0QVRkeWZXbGtGeGc?oc=5",
-        "source": "FC Bayern",
-        "published": "Mon, 10 Aug 2026 15:01:00 GMT"
-      },
-      {
-        "title": "Bayern cut transfer budget in recent seasons to upgrade club infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ0dJSHROZjd5dnFiUmJLT0Z4clpKTXczQnhneEhDQ0d3alJYSXNEc0U0SXN4WXYzWTlJUWFKVDlTbjlpWGR0YjJDVVV4ZVBpVl9WVnVvUDFwZVhuTER4N3EwbE9MNHZacUtzQnlZS2ZlM1JhVk9ZSS0wRDAzYTRER1REWTUtVmtPZ29xazNfcTF1SEZf?oc=5",
-        "source": "Bulinews",
-        "published": "Mon, 10 Aug 2026 16:57:00 GMT"
-      }
-    ],
-    "ars": [
-      {
-        "title": "Transfers LIVE: Liverpool ‘agree’ Barcola terms, Bouaddi to City close",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGdRMXJmN05hTDBDTGhPNklHRmFSUFQyVHIzWVVzUFFoNUJGZVl0cF95Z0RYTFktbUkydFFYZzh6WXprYXJwV3FMUS1MX0x5RUNOTEQtWElDNjZ4U0JGdktYS0dKNnhRUkRwTTJhdUticXJERHQ0UWI4ck9CTGZKbXVDZk5KdmQxbzNDSVhpalpFb2NWRFpoTkYteFJYS3BETWdOR1NxbU1tRDNHdUZ4SzRqcWVTaUot?oc=5",
-        "source": "The Independent",
-        "published": "Wed, 12 Aug 2026 05:30:42 GMT"
-      },
-      {
-        "title": "Myles Lewis-Skelly focused on Arsenal stay despite transfer interest - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFY3SmZ4ZDF0YjBLUXRPb2MwT2R1eFdhYXNlY25LQ3V0MDZ0d3k4R1dKVDlaa19tRzFoNV9LWWVWZFFIZDU4M2M3clFwVGRyQXQwQmkyS1h2VlVpUzJHd0JBV2I3ZXBzZktGRVc5eXlLY3Q1VXR2aW10WmNpWFlUMTBSUktEOGdURUdYelAtMnhOS0lGZjJKdA?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 11 Aug 2026 15:53:31 GMT"
-      },
-      {
-        "title": "Myles Lewis-Skelly transfer news: Chelsea make enquiry for Arsenal teenager amid long-term interest from Blues and Man Utd",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOazBqQi0yaGN0VGNIZWc4SkQ1R21Hd1BPZ0NmWmZLMllwc1o3R0JKZnB0bmFWMkdtSXh1enVOdjRDNlFseGdsOUFQNTctN1BhTmtPSFdYdUhWMGFvVExaeW16NkJZZWp0aE05SFhKYzZUZzNWdHpNMVF2Sk40Q1lWMHZ2RjNzeHFvYWMyZ1pObjItUlZKWmg0cVd3bDk2SXFXV0dtTUFDajFLM0pPRHBGMS1uVXV0OXliMDRnbWdKSGdybTIxdTNmM1BBcnN3NG5VWnJTMk02b3Z2ZVd4bi1xdHItTmFQa1c1NDdCMFpmLXBRb3NJZGpyTGhpNE1pZzl1STZablFDWQ?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 11 Aug 2026 16:37:22 GMT"
-      },
-      {
-        "title": "$86 million price tag tipped for Arsenal teenage sensation who wants to fight for his place in Arteta’s XI",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHFBZTlyVzB4U2R4dzZ6MUFfWHNBMV9ETWlacF9TRHFkb0Utcmxndy1WZndmUTZGWkVsMkZ6V1lJWGprdjdNVTZScFM2SWNBWG9qRHc2bkRYYVBWZno0LUxSZHh2RFFfUmxrUVNfT1BnX0YzckxsbHdPTTFXOGlmZDhsTWJaUWg2RkhF?oc=5",
-        "source": "football360.com.au",
-        "published": "Wed, 12 Aug 2026 01:48:43 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3l3Y3hQa2FrRFdIbGRyMFc4VHdlSnd0eWlrSjEwSEFXNFpPX0QycDVZSHJHWlZjSFJqcHZVeE5VUVRWeGc4RHBwaEdYTjgtczZvU1pqWENoQi1NZU93Z1RrQ19kVm01UE5aMEU0eTd3dmpSTy1id3BOZFlWV29UQ3I4VGhvd19wMGozVVBKTnFRMXkxSWsyOVNkSVROOTcyRGhHX1dnc0ZNa0t4a1lKS2p5UzRLTGtEVHc?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 11 Aug 2026 19:47:00 GMT"
-      }
-    ]
+    "utd": [],
+    "rm": [],
+    "fcb": [],
+    "ars": []
   },
   "upcoming": []
 }
