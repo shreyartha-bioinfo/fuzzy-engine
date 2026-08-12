@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T22:30:28.345392+00:00",
+  "updated": "2026-08-12T23:30:32.163442+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,10 +1538,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Liverpool eye cut-price Barcola deal, Arsenal blow, bid rejected for Man Utd target",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmJUMDFtVUdYVDlwb2FPTUktZmU2YmdFVWhoUDBlaXh6REJ4dUFsS2xxRzVFcEo4WEJZSEpYWF9nMml4NGFaNjlBdXc4MWx6SmlaUnVSUFdRLXVZM1UyYzhXZXg5Z2lpNHR6YWdwVmRWdW45bVJNRWQyX0dmQ2JLLTR2Qlpkc2VfdldHTGgybmU5bGRKZEszV3lkU3VCbnNRUVNURU9KN2R1cW43VVNycg?oc=5",
-        "source": "The Independent",
-        "published": "Wed, 12 Aug 2026 22:23:57 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 11 Aug 2026 17:53:49 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal eye old target; Chelsea Fernandez decision",
@@ -1550,36 +1550,30 @@
         "published": "Wed, 12 Aug 2026 21:20:20 GMT"
       },
       {
+        "title": "Transfer news LIVE: Liverpool eye cut-price Barcola deal, Arsenal blow, bid rejected for Man Utd target",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmJUMDFtVUdYVDlwb2FPTUktZmU2YmdFVWhoUDBlaXh6REJ4dUFsS2xxRzVFcEo4WEJZSEpYWF9nMml4NGFaNjlBdXc4MWx6SmlaUnVSUFdRLXVZM1UyYzhXZXg5Z2lpNHR6YWdwVmRWdW45bVJNRWQyX0dmQ2JLLTR2Qlpkc2VfdldHTGgybmU5bGRKZEszV3lkU3VCbnNRUVNURU9KN2R1cW43VVNycg?oc=5",
+        "source": "The Independent",
+        "published": "Wed, 12 Aug 2026 22:23:57 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Liverpool Join Wharton Sweepstakes; Camavinga Makes Man Utd Call",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXZlUmtGQjBYTk1SZkpQZnhwMGt4SElZaS1LV19IVGlWcExXa2NIQi0zSVI1aUFLdV95OXZnY1RqeXJtd3o1YzRHcEFLWmdYU1Q5SHUyMmh2WEswUDQ1VUQwbWYtd2hld0QxSkxkSE93cHQxWEE4TDc1OTFRQ1hWb1E4eXZmQnFnb2s1Y2hqV0hhUG8?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 12 Aug 2026 23:05:00 GMT"
+      },
+      {
         "title": "Michael Carrick explains Marcus Rashford omission amid new Manchester United transfer hint",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFFvY3BtWEl2alp3bmpYQ1pzTk91cDBLeFh6SDl3R1FWdWpaWUJxQldJQ3VGcGV6Q2dpbTh4M3VzaTZjSU5KWTNKLWVCWUxoaGFOZktZNlNFX2FyLUZ1akJEcHdiT2FQTzVnUGllLXpES3ZETkJzOTdUV3FsWFN4V1hVRkFVQUJXSl80X00yOE9TQXM?oc=5",
         "source": "Yahoo Sports",
         "published": "Wed, 12 Aug 2026 21:31:54 GMT"
-      },
-      {
-        "title": "Man United transfer news LIVE: Iliman Ndiaye claim, £14m offer readied, Louis Page deal",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUh5SXRVTVJtQ0N1bkhBNG5zUi1CcXdhQk9jc1Q3ZmNtTm1uTkp2eGZCUHNhQUthd3JBbVA2TGFTRU9STzVUakdzNlJNekVhZ3pZajZrWDFlR1h5azBjTnNoUFpMeTV3R05nS0JKVE5DMjgwVTlBbENDYmc0OE96enRzclJ6NURjQTdfanFTTUgwTnh2MTV6N1JxdFlmT2otc2g2eVdnSHZ4YU9TcC1MQXFuT27SAboBQVVfeXFMTlVMZHNLUWxsN1NVbEVreDA0RDFyblhhT1VZbmVhN3RoOW14Y2x3YnpIMlR4RzdtUkVUWTEtYVV4SzVvX1pwdUV0alFPMnA0NldVdmNMOE5hcTJaSkJlb1pDbk9CV2VQNENhX3U1TWdZUS1ZWElxa202SXM2VURDeWYtbnFLVVczTm01c2tZbU9SU3g3WEk4ZTJNemtoYVpnWk1ncGg4MkVRcV9fcm0yUy1jVHRYbmRNczJR?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Wed, 12 Aug 2026 20:51:24 GMT"
-      },
-      {
-        "title": "Man Utd vs Leeds United friendly finishes early as multiple pitch invaders stop match",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFRzWE9Pc2dvSll3cGYycWtGZGRUMFk3MW1QbmNLajFPTnZpUE5Tc1JReXUxdlJWUGNfanpzQVpJd0JYeTg4LXFka1RfNVVFR2hUWHBNOG5HVkhyZHVVVzV6Zks1MFhuRjNacVFmenVEUjNYVEstT0lPVk5tMGZPNTlnQTVLWWxyUUxVeU9n0gGTAUFVX3lxTE83dFpza2JWQTVkZHptaUtXMXVpdzdLNG1rbkZGNXZ4a0NHbkQ0NFlaVzRYejA5blBfWEE4c25HTVZYWkwzYkJSTXBUMjQ0WDBVbUpTOTVveVFITEFZZEV4UmczSzNJS0JibDJMV3JReXdPaURxTjRkVmxYaTk3MW9TelZtUjRUb05uTUZqZF9zN0doQQ?oc=5",
-        "source": "mirror.co.uk",
-        "published": "Wed, 12 Aug 2026 20:40:00 GMT"
       }
     ],
     "rm": [
       {
-        "title": "Man Utd's last-minute attempt to sign Real Madrid star Endrick revealed",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOHRGZGlYb1M5Sk1YX0U5NkFhbVJ6YkU1Q0R0eDh3d3lMa0RFYnliY1JGc01OY2NzTnRRbF9OUzNFcTRBVHpXRGJmOTdoS2w4M2E1WnBObm5pS3pfV0ZvdjVGSXNZNURkZ2txLWVudHdWbHRITFMtOGp6dE9YM0h2YjlKMTZNNVVMRjdwTzJWUHNOTnJkMmfSAZsBQVVfeXFMTzFyTDRrQURWWjU4MjFmR2ktR2drTGZLNjNOb1hlM3pIbk5hQkpkWUttdjNmWXJGZDJVVTlVRHRaVnBJMVp5aDNGVVFEOE9UQTUwSzRWS2VrcEo0U1p6YkJ3NFFpM3V4eVNJUkk0N0JySDJ3VzFlYldRVU5PRm9OeHRJZzUtemVqWklOTUVNSGpNX0JfUU93YThXR0U?oc=5",
-        "source": "mirror.co.uk",
-        "published": "Tue, 11 Aug 2026 11:41:00 GMT"
-      },
-      {
         "title": "Vinicius Jr 'continued Arsenal talks' after agreement reached",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVG9aRzVubTlrOHNZMmxSVTYxOTYtdGdyY2hDdmI0RXAwVmt6U0R6OHdjNVM3UWtQbGQ4Z0dVSmZhaTZOcktQaUM0bzY0THMwOEt3MjY4Mlp6R1FTYmNqcVFRV2pucl9feDYxUHU5WEZRWm5zQ2ZkXzBNQ1hKaUplcXpSSGRlbDhRbGd4bzU3U2pvSTVkOXpr?oc=5",
         "source": "London Evening Standard",
-        "published": "Wed, 12 Aug 2026 19:58:57 GMT"
+        "published": "Wed, 12 Aug 2026 22:59:30 GMT"
       },
       {
         "title": "The full story of Vinicius Jr’s Real Madrid contract saga. How close did Arsenal get? - The Athletic",
@@ -1588,15 +1582,21 @@
         "published": "Tue, 11 Aug 2026 11:06:45 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal eye Jules Kounde as Coventry explore Mykhaylo Mudryk loan",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUkyelNMalVNdmtPTGNBY2VXZ29Xb1prN0pIUV9IODlIV2xiNEU5d3l2ZG9GN3pVcUkzU3lmWnZOdnV1SnlOZDBLa0lwU0VRZXJVbFFPdkpGbXlnVlVadFFudk5KUFRvcjMwZmpEZXJlejJlZFhjeEFyTEFwTlZkVmREeWNTeThFSXBWSko0MnZVR3ZXSjE2ejlJdlg0b0kzZGxVRTByVTJPZG1sdVRpSC05bWN6Z0txVGE5RzkwaFBMVEw5VlUyVkhRMA?oc=5",
-        "source": "Transfermarkt",
-        "published": "Wed, 12 Aug 2026 18:44:04 GMT"
+        "title": "Transfer Rumors: Arsenal Join Neto Race; Real Madrid’s Haaland Boost",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTDJ4Q1lYczJnVnR4Y0ZJSFRRQnlERHlZcHNjdVBLSzMwNWVuWXAwTlZ4c0dnUUgtVm1PWElvbk1PTGxfUHFtUm1FdThNQm5PLTdDLXQyYkdQaGQzS0FwVE9oY0h1ZEpua3JKX3phRWlvVjltaXZwYlNvZ0JKVGtSQVBiSHpvSEpCWm9NdEhLT1lKb1lC?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 10 Aug 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man Utd's last-minute attempt to sign Real Madrid star Endrick revealed",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOHRGZGlYb1M5Sk1YX0U5NkFhbVJ6YkU1Q0R0eDh3d3lMa0RFYnliY1JGc01OY2NzTnRRbF9OUzNFcTRBVHpXRGJmOTdoS2w4M2E1WnBObm5pS3pfV0ZvdjVGSXNZNURkZ2txLWVudHdWbHRITFMtOGp6dE9YM0h2YjlKMTZNNVVMRjdwTzJWUHNOTnJkMmfSAZsBQVVfeXFMTzFyTDRrQURWWjU4MjFmR2ktR2drTGZLNjNOb1hlM3pIbk5hQkpkWUttdjNmWXJGZDJVVTlVRHRaVnBJMVp5aDNGVVFEOE9UQTUwSzRWS2VrcEo0U1p6YkJ3NFFpM3V4eVNJUkk0N0JySDJ3VzFlYldRVU5PRm9OeHRJZzUtemVqWklOTUVNSGpNX0JfUU93YThXR0U?oc=5",
+        "source": "The Mirror",
+        "published": "Tue, 11 Aug 2026 11:41:00 GMT"
       },
       {
         "title": "None of Real Madrid's summer transfers makes sense: What are they doing?",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2M3X3pVaHNjWGFUcmhnRHloclBVRGxPTmhlMkViVmtlRDNGV0JwTm1nMV9OaFItYVF6ZE5TWVNRTWx2bTVndHNGQU5JUy1EVHREVVFNVGJFVGJZSUx2UlVBM3RHbjNyOWVtVHlPSjhrMTUxQWoydEpnTTdCNVhJQS1mT2FrcUp3U2VGNFpFbDZzc1FpY0NOY0lR?oc=5",
-        "source": "ESPN",
+        "source": "espn.com",
         "published": "Tue, 11 Aug 2026 09:00:00 GMT"
       }
     ],
@@ -1614,12 +1614,6 @@
         "published": "Mon, 10 Aug 2026 16:57:00 GMT"
       },
       {
-        "title": "Bayern Munich rejects loan agreement with Aston Villa for João Palhinha",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMzJlTTgwNDhIQTZadjVRUEp3czlNVVVJVTk2MGpldy1nTzJlTzVweW5KbTNPamIweDlQWlp3S0Z4OVNIa2ZXZ1FmMmlRN25kaGNJcmY1TGtTRGJKX1JsM2Y0dWVMSVp0NnlBZmdRZnZEdmU0ZnEtQTZyZndUaXJDa290RU4zb0YxbGFndEJESXd2RlB2RkxqYTQyemhqdXlKYU1vQ2J5WkdJWHVRUEJNYlJLZ1l5dnc2QllFYmx6cTZHYVBucDhkdDVwSUJoYkJkU1RMVV9jSzEwRUZCSHZnZVpXb0pidw?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 12 Aug 2026 18:00:00 GMT"
-      },
-      {
         "title": "Bayern Munich target surprise Chelsea midfielder according to insider",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFVfUm1rMVJVM3R6eU02OWg0cldtQUw0SzlwaG03SVhWX0lwM0NvNWV1TEhRX2lxTlQ3WGhDMEF0UVpTMlF4NVVldkluOTJGSHQ4VWk2MG96LTVfN1lmTGtaRnZudVE4WE5paW51RXZzcUxrdzNEa19vbG9FNkdlX2czbUpwTnlBa2RSX2hYb1PSAZYBQVVfeXFMTnFpelVOYnJQT2lKeTJFVkk1aDE2dWV4RUR0cEstbTFacnJydUFTTmUwblh6emE4QkVINzlkRmhBZ1BMUU1aYUxjZUh1NHBNTVhmRmlvWFBBSWVtNFpnT0lLTkRucG9UMERSQW5MWFoxX1V4TzY5bWFScjg0bmJNYXkyQW5KN2lZd0pEZVkteEpIR2Mtd2xR?oc=5",
         "source": "Talk Chelsea",
@@ -1630,6 +1624,12 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOTY2M2ZVTXpoTjd5U3BGNFd5VzhGZ040Y052cGpYcllORkgxZURQV3AzSWltNU5UVExHSExYUHpiRjBOMDNnYVBkYjN3aTN0QndhX2swWENhbkRtbkFYa3RqcnJCVjlNRDY1cEgxZTBLWV9IZHctUHZSTWNWcTN1YmthQzhCcGhGQ1hyREZEeGNfVi04WF9OdUJrOEhEdW1UUXp1VldWeEw5ZHFfU29xWlA1RUdIcS1zU0drVnVRUmxCY0I5R1BPc3V1VU9TMGF4bjJmQTJRN1VfcF9LYXI5MW44dlV1b0tZRjRBUVBObFUzZw?oc=5",
         "source": "Bavarian Football Works",
         "published": "Wed, 12 Aug 2026 09:30:00 GMT"
+      },
+      {
+        "title": "Backup for Harry Kane! Bayern Munich eye surprise Premier League striker despite transfer freeze",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTQ5TllhSnVNNC1OZzh4YlRhLTM5ZzVfbWhfVlQ1U0ItMm84ZUNoblVXNHgyY2twLVdXaUJvU2ZzcVlUdmdxcDk0MlpaMUxNX0xlU0dFdmxsajlXSm9feTdwOUZKZ0NQcFB1MjhkVU5TSS1hVTl1dndqNUxTOUZFemIwclFCU3J4alpseUwtYnVPXzlaalpTcjl1T0dkQjlEcWdDMnZERlNaUFlmT2ZQeUxkb3k1STdjcEpv?oc=5",
+        "source": "Goal.com",
+        "published": "Wed, 12 Aug 2026 07:14:09 GMT"
       }
     ],
     "ars": [
@@ -1642,20 +1642,20 @@
       {
         "title": "Arsenal transfer news: Who are Gunners like to sign this transfer window?",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wcW5YRS1mV1hLWnkzRmZPUzl1WlBSYWlhTGgyWDducmgzWWtGTXJLN1pBLXU3cUhRZVRqSnBoYnQ0ZXp1YU5wVXNTOEQtYV9sbkJlTFh0WFRYalNIWlJjUzlrNkNUa28?oc=5",
-        "source": "bbc.com",
+        "source": "BBC",
         "published": "Mon, 10 Aug 2026 20:32:37 GMT"
+      },
+      {
+        "title": "Arsenal transfer news: Gunners hold further talks over Aston Villa defender Ezri Konsa - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXNGQjRrUWxGaEw2MTB6aVlzdmVPaVlJX2w3YW0yU0Zhc08walRFbzZLbzBwVHNTQjZpVDB1LTBWc0FNMXBSYkhGZHB1NHNyblRhWVNTbU0xb0ZmU3hwaElBY3M2QmdjS1hzWFhCU04tZ0wzRllPbzAzN01xNV9VUVJGeGlodWtjMUxQWU9NUUpYWnV1Y2hBV3dFTXNUbFVYMEJSRGd1eWUzSl9EUWdoYW1SMm9YMmdLUWJOOTc1RVplUXFmM1RjT1huek1uanF1THRpejYtTlhlUnFFQnJvVXNqYmxGQkVFME92WUt5a0NjVGhEUXR4T1lB?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 12 Aug 2026 22:37:06 GMT"
       },
       {
         "title": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3l3Y3hQa2FrRFdIbGRyMFc4VHdlSnd0eWlrSjEwSEFXNFpPX0QycDVZSHJHWlZjSFJqcHZVeE5VUVRWeGc4RHBwaEdYTjgtczZvU1pqWENoQi1NZU93Z1RrQ19kVm01UE5aMEU0eTd3dmpSTy1id3BOZFlWV29UQ3I4VGhvd19wMGozVVBKTnFRMXkxSWsyOVNkSVROOTcyRGhHX1dnc0ZNa0t4a1lKS2p5UzRLTGtEVHc?oc=5",
         "source": "ESPN",
         "published": "Tue, 11 Aug 2026 19:47:00 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 11 Aug 2026 17:53:49 GMT"
       },
       {
         "title": "Myles Lewis-Skelly focused on Arsenal stay despite transfer interest - The Athletic",
