@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T23:31:26.389055+00:00",
+  "updated": "2026-08-14T01:05:22.407958+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Arsenal agreement; Liverpool get Barcola boost",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakxUb2JXZ2c1QWN0MnBOY3FpYzVUaWhfWUl4YnZnNkZaYVRqMEVHeExzWnFlRlZlOXZRQ1FtaElSb2kxTGNPLWhRekNNVHhwUFBjU0tkb2VidGFPXzBYcEZua2JpdDFlSjRQT0pzQWpCTUZXVjFxeFI2RXJhUG8zN0tGRDJYNjZpelNyUHBqLUNNVEVKZ3RFV2UxWjdaanJKallJVzA1SkxYZXZ1ekxUYWRnUzctdUtLblVPU1JSX2tWWUViZFhGWW9HYU9OWGNH?oc=5",
+        "source": "London Evening Standard",
+        "published": "Thu, 13 Aug 2026 22:23:57 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal hold Osimhen talks, Man Utd announce deal, Barcola to Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
+        "source": "Daily Mirror",
+        "published": "Thu, 13 Aug 2026 21:45:18 GMT"
+      },
+      {
+        "title": "Arsenal transfer news: Gunners discuss Victor Osimhen with Galatasaray amid Gabriel Martinelli and Ethan Nwaneri talks - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxON08yc3Y5Vlh4WVpJRXQ0NER2aVlaXzRteFhjQ05SWXlDSTlZMFNuLWduMExaMkw1MHZ0b1BEQnd5SjlyUVNSZU1SQmdSVHhmRUxwQ29mTlVwQ3Ftem9CaDA0YVhMVXdad1BrSVpvd3hwVU1Zeko3ZjFCUGpKa2NPVEUwYmNUaTY2X3drYTgtRWRCUk9vWUVFb25QOE9RSEp5MGxxQk5yUXZGekdtNThjeWkwOGp3X0Z2SURHaDFPbWZMMUszcTRVOWZQenBQSE54bHlNS09FajE4N2JiNXNXa1RwaXBOSC1IaG5SbWlQUjRRZ1pTeHhubWIzVGdSQ3E1TV9OU19naVcyc25WQXZaeWEyejVKVEFFNjdrMXNLVFJXOWlT?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 14 Aug 2026 00:50:58 GMT"
+      },
+      {
+        "title": "Michael Carrick calls for more Man United signings: 'Need to keep pushing'",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGo0OVJaQk9PV3ZTTnVQaHBGVGsyM2RQeU1BTlh5YzJNT2l4VFNOQjFlc3pZZWxUMXVwOGMtXzdxY2M1M3hTZjU5ZHZCa1pEZlJPTWdYOTZhamNFbE81VVhCczNvbGg4Slc1NkFteDdFczNITEFGZXRLOEQ1NG1oeC1NOWdkOWdjTG01ZmxXb1F5YW9DSEF0SFp2ejFpMF9hUmMyYmVFNFhpaG1oMmtnNENR?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 13 Aug 2026 16:00:00 GMT"
+      },
+      {
+        "title": "Man Utd: Michael Carrick will keep pushing new transfer signings this summer",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkR3ZPWlpzTlJDQ1JtUnRManh2UXZhbUlPang4NlVEX3ptRjBYNDhObDZsbXgtenFHTWxYLUdPWVRjRC1QeFBobGJZeWVBeW02cVdPR2tmOE84NTR1QW1ZYThLdTJkMkU?oc=5",
+        "source": "BBC",
+        "published": "Thu, 13 Aug 2026 16:21:51 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Premier League Winner Is the Ideal Option for Real Madrid After Transfer Rejection",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnBxNVNGOUNLRExjaU1vUkVaem1kdnFDemFSM0ttTGtTbDUzNmkwNGlPSkZhdFp6djdfdFdWeEJ1Z2RLOXptRU5OeTVnUUpUNHBoYlBEUHNmODk1dXJUWWFLWlFUNlZHT0s0V3p1X2JSNEM0UkxFU2ZDUE1aWGNGc25qa1F2M05nRmYyT3lTQ1JSZ3h6dFUtLW1ReDAtdw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 10 Aug 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Man Utd consider alternatives as Real Madrid star Eduardo Camavinga rejects €40m Old Trafford transfer",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbkRXOWl4N1Izd3IyUjRhS1N4ZlNKYkdRLW9RYVlKaE1Xb3BZbEZhTzc3TE5JY0ZfcGh2aVVvWTZ0MERXQmZyREhpS0xoYXVNWjlONmVrYmV3SXliY3p4eVI5Rnh5RkkwSVpZUkdwQzRQY01EZFNvSUZRLXpNbGpxLXRkb1ZLUmxpbFE?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Thu, 13 Aug 2026 03:30:00 GMT"
+      },
+      {
+        "title": "None of Real Madrid's summer transfers makes sense: What are they doing?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2M3X3pVaHNjWGFUcmhnRHloclBVRGxPTmhlMkViVmtlRDNGV0JwTm1nMV9OaFItYVF6ZE5TWVNRTWx2bTVndHNGQU5JUy1EVHREVVFNVGJFVGJZSUx2UlVBM3RHbjNyOWVtVHlPSjhrMTUxQWoydEpnTTdCNVhJQS1mT2FrcUp3U2VGNFpFbDZzc1FpY0NOY0lR?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 11 Aug 2026 09:00:00 GMT"
+      },
+      {
+        "title": "Real Madrid’s midfield headache: Missing out on Rodri, signing Bernardo – and who should they target? - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGVMYzR2dGNqQjI1Qmhua1NGUW9SeUpqOThYd3l1dWF6ZEVXZzB4ZVd4SUlrVFp3clpYQS1DSndka2JyeEp1MkgySk8tbnA1eWJXMThKSlE5OWNpaTEzV19sTzhaTGtQRF9XcmtwMWtmUzVPNFBqQlRmNExvZmY3ZktXaHpsZ080cHJZMTJpdlhHZ3lmamMwY1FHaDRkMHliUUxEczdB?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 13 Aug 2026 04:16:33 GMT"
+      },
+      {
+        "title": "La Liga: What to know ahead of new 2026-27 football season",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ1lzb3lUNUhoZzRDRzJtdTRRTmVFUVVyVi1oZDJiOHZEWjBQU1FJTEhSa1d0TW9Db3hZeGVlTDBfb0ZqUG91WERGb2dlbi1JV1R2RlFTNFFYYmFqWnJFbW92MHljR2JiRERuZzBMOGQ4S2gwWVBLQzQ4LVRUZEZzMEFzdnNrdkRaRERIUm9FZkdLbEFmbnZULUVjcVdBbTBaNWfSAacBQVVfeXFMTjZLX19rU0RjUmJZdmNsOEdRTmNRU2NtRGxpdHA1OTZwLTdKdzlqT29lcXo0Y1N5bWZxWEswWEM5UUhLM3ZVRWk4djB1Vk5QYnlRemJpSGFHYXFHTm8zWFdHZUpBTW8zUVp1WEhtMjFnamlqdnVLNFMyaDBpbW16NFhESnBfNHBPMWdhWEVGdHppUTJFV1hseGtjZExwd3ZhYzVRYW1ZZms?oc=5",
+        "source": "Al Jazeera",
+        "published": "Thu, 13 Aug 2026 09:41:33 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern cut transfer budget in recent seasons to upgrade club infrastructure",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ0dJSHROZjd5dnFiUmJLT0Z4clpKTXczQnhneEhDQ0d3alJYSXNEc0U0SXN4WXYzWTlJUWFKVDlTbjlpWGR0YjJDVVV4ZVBpVl9WVnVvUDFwZVhuTER4N3EwbE9MNHZacUtzQnlZS2ZlM1JhVk9ZSS0wRDAzYTRER1REWTUtVmtPZ29xazNfcTF1SEZf?oc=5",
+        "source": "Bulinews",
+        "published": "Mon, 10 Aug 2026 16:57:00 GMT"
+      },
+      {
+        "title": "Bayern Munich holding strong — it won’t loan out João Palhinha",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUzJ6X3lTU2tOWldoQjZFMmxseWUzeXFYbEtjV3J3a1p3ZC1hWXZ6UmhlTVJWcnVNU1pIeHd6ZlAtM3poNWs1MzVnVEVDMjI4TlpQRmc0aHF3SGxHMVY5eUVpOUM2MnN6M2g3YUo5TlMxUmJ4TWljQk94bWlpNmFkVGxROFI0V0lpZnJCMExGdzQxdngwbnAwU1J3VXFpUzQ0TzBma19BZmtKcnFsal9MVnJtQUJibkNNdE9udFU3eXdKMzAzaEZTU0xTeWthR3dfT2tweE9n?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Thu, 13 Aug 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Leon Goretzka put forward for free transfer to the Premier League this summer",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUtQUzJpclNKcHdFZGRQWmUwS3BuakRBT2pRWmszeFM5X1VaSWlhWEFtSF84OXltU0RMd29lNGR6NUJkaUtIMkFBVGVjYTZSVkh6RV9iQ0lVOVJTZEFDeEp1XzVkMjBVSEp0TUZraG1KNXM4UmdiUmJBTFhUa1V3OVB2dS1hcVF0SHVJdGNxa2NZdUVTelE?oc=5",
+        "source": "talkSPORT",
+        "published": "Thu, 13 Aug 2026 10:59:04 GMT"
+      },
+      {
+        "title": "Agreement reached! Bayern Munich outcast finally on the verge of leaving? Bryan Zaragoza causes concern",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUkx3OEQ4bFZpVVNQWmZlcEtSWUlwX0xMZHNWeWpmLVdIdmhfS1N6N1ZLR283RGc0MWN1RGM3TDJFVHk0eGhmNnVuUWtid3VCVGVtSTRTcDJ4YmQtT1QwQ2VheUxVNHo0RkI1REtMWFlNUm1hMi1WVmQzX3c0UmpJRzRhQzEwYng3cDRWU2k2dXBLY0lGRU9wVzZ5NTNtcHFjcUFZS0U3SGJvQ1N1Vng2VHFQTTdSdnM0WnZaNDdHQ0phNDVxYm91b2dIWmw5RUNWNkdMQXBaMGRLOW5iWmdFZG45YkZjMVVrRjM2aGtxOGNXcHBualdwT2VFVE5hazV4?oc=5",
+        "source": "Goal.com",
+        "published": "Thu, 13 Aug 2026 17:39:31 GMT"
+      },
+      {
+        "title": "Pundit thinks Bayern Munich’s Michael Olise will eventually break transfer fee record",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tJYVFKb1BjakdxYjNyZ0gzMHQ1dF95QWdVdGxWVEZGRW56SE9jUDdFRm9qNTNncjFBZDg3eGxPOVFOZWh4ZXZ4cjhIV1p5SzVyR1BKcDlUQXdnd3pEeXV6WDVMTUs0RldZU0RSZUJMMXJvQTNZbkRra0hoR3FqRlh2UVR6LU9BZkdVZw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Thu, 13 Aug 2026 20:30:00 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Arsenal in talks with Liverpool after reaching agreement to sign forward",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSm5YdnVBMU5Wa2JueWc1SExJVFIwelhxZXVHWW9PMVlBU09ISDBUb1pMaGx3ZFRhYjh6YXZtTFNiZUN1Um9OQjh0OTRRN1Y4SDZucUd2eHlwbnd6RHNpb0NkREQtcHdoYkFlQlVkRV8xWXVJYnFHcmtCWTlIaFNTeG5zNkpmamVyUHNHREM1b1FEcW1yM1JlcDE2ZGRfbHY2RENYZEl5NTY?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 14 Aug 2026 00:27:03 GMT"
+      },
+      {
+        "title": "Liverpool striker agrees Arsenal transfer after rejecting scholarship",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnV6S0Fpb2l1MTFkY0tHTGFnYno2RkRUZmlibzI3U3E1Qi1qWFpTMmZuaUZ0dlhGZlRZeTFjUEdIS1ZzMm84eTJOWmNDOHZjNWpZdEh5MWZQeFM5LV9mbnhRWG95SVlpNnVkZEFlZ3h6RmJnTDRpdF91MHNSc1QxZ0R2VUFwTWNfMEpYYXZrYmlWTlU4cE9KLWlFZw?oc=5",
+        "source": "This Is Anfield",
+        "published": "Thu, 13 Aug 2026 14:05:53 GMT"
+      },
+      {
+        "title": "Arsenal reach agreement to sign striker Vincent Joseph, 16, from Liverpool - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXJMS0JUaTJkcmpwYTdydFpBUDFWUzRWLXBrbzRXQUdXUnJjamRZcUdMM250VHJzalZyR3FuR2xTUDFteVFBMExNdm50aW1ZZ0c4TVJvQXFveHpWcmFvN0hmcHhYMDdSdGd1c2dwRXdEdU9qSlludzZQN1BUVU5JajNnX21LQjBWN3N6UzVGYktCZjc2N0txQy13TQ?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 13 Aug 2026 13:31:17 GMT"
+      },
+      {
+        "title": "Arsenal transfer news: Gunners discuss Victor Osimhen with Galatasaray amid Gabriel Martinelli and Ethan Nwaneri talks - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxON08yc3Y5Vlh4WVpJRXQ0NER2aVlaXzRteFhjQ05SWXlDSTlZMFNuLWduMExaMkw1MHZ0b1BEQnd5SjlyUVNSZU1SQmdSVHhmRUxwQ29mTlVwQ3Ftem9CaDA0YVhMVXdad1BrSVpvd3hwVU1Zeko3ZjFCUGpKa2NPVEUwYmNUaTY2X3drYTgtRWRCUk9vWUVFb25QOE9RSEp5MGxxQk5yUXZGekdtNThjeWkwOGp3X0Z2SURHaDFPbWZMMUszcTRVOWZQenBQSE54bHlNS09FajE4N2JiNXNXa1RwaXBOSC1IaG5SbWlQUjRRZ1pTeHhubWIzVGdSQ3E1TV9OU19naVcyc25WQXZaeWEyejVKVEFFNjdrMXNLVFJXOWlT?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 14 Aug 2026 00:50:58 GMT"
+      },
+      {
+        "title": "Arsenal 'hold talks' over Victor Osimhen transfer and two players could be part of deal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFZLTFRsR2ZRT3hQcjNrYkRydGtiaVFjS2YyMVo2NDN3aWtwazB5WHhmZWxfOHEyczNkNlY0QVlrbTR1bGhwX21mS21aQlRVTnZXUTZiMnZueFNpT1E0emdKbE0wV0hpMjZWeHRzUWJDdWYtT3hscHl6QXFQY1ExM3pwMHJVQlNSSWpyQ2JNZjFLM1Njd0RzQkVfMU41M2diYndVR0J1a2NBRjTSAbABQVVfeXFMTU55QkhfOEFYSUNYNElyVGYtOW9CMXprckZfajFaLWFCRWJpa0EweC1VLU5mQnpwOGN5Q1hxX0l0Nk1qUEp4YXlHOGpUamlpaWNWU2NUdnhXNWUwcjVXQUFOejFSWndxdHhvaUxhZ2ZvUVk3emRJS0tDMU1sWVVwSEI5c0xqOFY1OVZYZmtSUlZudlppN3c4S1dmdHc2V1phZEFaYVVsV3VPZV90TmNaWGQ?oc=5",
+        "source": "Football London",
+        "published": "Thu, 13 Aug 2026 19:10:55 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
