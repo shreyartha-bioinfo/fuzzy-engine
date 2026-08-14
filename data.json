@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T03:33:29.285454+00:00",
+  "updated": "2026-08-14T05:24:23.184780+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,12 +1538,6 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal agreement; Liverpool get Barcola boost",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakxUb2JXZ2c1QWN0MnBOY3FpYzVUaWhfWUl4YnZnNkZaYVRqMEVHeExzWnFlRlZlOXZRQ1FtaElSb2kxTGNPLWhRekNNVHhwUFBjU0tkb2VidGFPXzBYcEZua2JpdDFlSjRQT0pzQWpCTUZXVjFxeFI2RXJhUG8zN0tGRDJYNjZpelNyUHBqLUNNVEVKZ3RFV2UxWjdaanJKallJVzA1SkxYZXZ1ekxUYWRnUzctdUtLblVPU1JSX2tWWUViZFhGWW9HYU9OWGNH?oc=5",
-        "source": "London Evening Standard",
-        "published": "Thu, 13 Aug 2026 22:24:43 GMT"
-      },
-      {
         "title": "Michael Carrick calls for more Man United signings: 'Need to keep pushing'",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGo0OVJaQk9PV3ZTTnVQaHBGVGsyM2RQeU1BTlh5YzJNT2l4VFNOQjFlc3pZZWxUMXVwOGMtXzdxY2M1M3hTZjU5ZHZCa1pEZlJPTWdYOTZhamNFbE81VVhCczNvbGg4Slc1NkFteDdFczNITEFGZXRLOEQ1NG1oeC1NOWdkOWdjTG01ZmxXb1F5YW9DSEF0SFp2ejFpMF9hUmMyYmVFNFhpaG1oMmtnNENR?oc=5",
         "source": "ESPN",
@@ -1562,10 +1556,16 @@
         "published": "Thu, 13 Aug 2026 16:00:39 GMT"
       },
       {
-        "title": "Man Utd transfer news LIVE: Prem rivals 'join Baleba race', PSG star Mbaye 'contacted', Sancho move 'falls through' - the-sun.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm5SQmVOY3VSZkduMGM5RFV1cHdyZjBscFZzVWNybVQwTkZ3TjdfUVJRS3RMdmJEUEd2T2thTGhrR3Azckc2U0dOSDF2YXkwTW51Y0JaMkx6bE9LeTItX1IxcUpRcWVJZDlpcHpmYlFkS3lpYmVlaEtfRm5WOTdTXzlDTmlMSXN6dHFZVWdKaTBuTmdJd2lOb19B?oc=5",
-        "source": "the-sun.com",
-        "published": "Fri, 14 Aug 2026 02:46:53 GMT"
+        "title": "Transfer news LIVE: Arsenal hold Osimhen talks, Man Utd announce deal, Barcola to Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
+        "source": "Daily Mirror",
+        "published": "Thu, 13 Aug 2026 21:45:18 GMT"
+      },
+      {
+        "title": "Transfer news: Chelsea set Enzo Fernandez 'deadline', Man Utd's £14m deal, Bradley Barcola hint",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelNqaS1HOTBVUjlRN0M5QUhteEM5WTd6UHhHVS1iTklNVm42TGp5S1pUTDUwcTVwWGdCb05vYm5TRUV6TGtHNHVNZkRjQnNZSlJSVkRYcmJHU1RzckhXZFBjNThjbVVCdHkzeHpmX3o0a21LU3NKX01XTmlUQ0JxTmEyZ21uV3VsM0ZzdVFXa0E5dUXSAZgBQVVfeXFMTmt1TUs2Z2lJM1BFWUJTOEVvNHhMQkdwZlZ3Qm5LMVFVb184NHFZTV90QkNxSVc0RU9mNDFUamFPMER5SGFWMjhyVWV6aXZ1QW50Q0lVVWZlVXliS29HcEl3bmtSdUhhVDV3c21RX3lHRkpBUHZCdHlsTjJRMWozTHVlOC1KeHFqYXNRSGFLdGl2RFFQRk16ZHU?oc=5",
+        "source": "Daily Mirror",
+        "published": "Thu, 13 Aug 2026 05:11:47 GMT"
       }
     ],
     "rm": [
@@ -1576,28 +1576,28 @@
         "published": "Mon, 10 Aug 2026 18:00:00 GMT"
       },
       {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
-        "source": "nytimes.com",
-        "published": "Tue, 11 Aug 2026 17:53:49 GMT"
+        "title": "None of Real Madrid's summer transfers makes sense: What are they doing?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2M3X3pVaHNjWGFUcmhnRHloclBVRGxPTmhlMkViVmtlRDNGV0JwTm1nMV9OaFItYVF6ZE5TWVNRTWx2bTVndHNGQU5JUy1EVHREVVFNVGJFVGJZSUx2UlVBM3RHbjNyOWVtVHlPSjhrMTUxQWoydEpnTTdCNVhJQS1mT2FrcUp3U2VGNFpFbDZzc1FpY0NOY0lR?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 11 Aug 2026 09:00:00 GMT"
       },
       {
-        "title": "Blow for Manchester City and Chelsea as father of transfer target breaks silence on exit links",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnFKcTdJX1RhYXJocjdiMEtESTBwUkV2aExOVjlna1k0b0wwYTkyN1VLZWxubWJFbHdwTmV0dHJvaVBaTVo1SmJ1eWZvM2ZkYUFTSlJ1WHVFdXBzWjRGTGZrNHpvVXQzQm9IamctRGdSY1pzN2lLVmFvSEJ3ZzRvdVEwaUU5Sl9EX2psb1BwdlJSR1kzQnBBUERR0gGfAUFVX3lxTE14TVNMeXg0LXdTSUdldkg2ODN0RzNtU3J4YW53NUVaSnZGSXh0Y0VjR0lVQzlvXzFzWTZ2bi1UeFJKdGg0Z0J0OVk5MmctYlFLNVJieThINkVtNC1maFBtNnZWVUJtbU9uNzI5eWNvUTRCMjY1ek8zb0hfVHZheVh3R21zS0lqZDFha2xVczVtNWZGUEN4TTlZMDlmNnpQQQ?oc=5",
-        "source": "CaughtOffside",
-        "published": "Thu, 13 Aug 2026 23:24:29 GMT"
+        "title": "Transfer: Real Madrid put two players up for sale",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYnJZMXB3NUY3M2RCLWxkQnF4VTIzRVZoT3VySERSOVVlT1F2ZGo3VUZZT1JRd2pWTjE1aVIyalBGaVFEZS1fbm1DTVNsQkR1RmJidmxFSFRVNldUTWRXdDlfTGpUWUs4bm5tYlUzTUc0cUtRcmJzVHN6M3hrellFQzhUSTdGNlpO?oc=5",
+        "source": "Daily Post Nigeria",
+        "published": "Thu, 13 Aug 2026 20:22:10 GMT"
       },
       {
-        "title": "Arsenal ‘make final decision on Martin Zubimendi transfer exit amid Real Madrid interest’",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDlfcElkNWdYUlhXRnJ0cFBrV2RqdHJQSE1TdGloenMzY2pRcmRreDhLTVZLUFAyRlFXVGhQWHFodkotZlBRLXhrYnpQLWNtYTdObUtzUG1nRUd5NkIzTzdsQ2d2QVNpYXgzWFJ1b2F6X094TDdhcnNjN3Y1RXMxSFkwOWVuLUp2MjhzdU8zQkhHYkpOLXc?oc=5",
-        "source": "The Sun",
-        "published": "Thu, 13 Aug 2026 15:59:00 GMT"
+        "title": "Man Utd consider alternatives as Real Madrid star Eduardo Camavinga rejects €40m Old Trafford transfer",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTFra1NIWHBvYmJxbXltZTBLSF9pSU9WVVh4cEFMS1FmTUN3TGtOWHFBdTVTSkhLSDk3TTlkRlA3VlAtazNhZVdxUVlqV3MwOW51WXgyc3hXOVp1UzM3ZXZta3VIaGRyOEVUVnNiVnJPb1UzeU5LV0UxRHNSTzk0cWFFOHFTTGFHcTNXUnFHRDhBT2RQaXl0OHV5dUpGa1h3NWdiVGEwY21fZw?oc=5",
+        "source": "Goal.com",
+        "published": "Thu, 13 Aug 2026 05:30:32 GMT"
       },
       {
-        "title": "Real Madrid’s midfield headache: Missing out on Rodri, signing Bernardo – and who should they target? - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGVMYzR2dGNqQjI1Qmhua1NGUW9SeUpqOThYd3l1dWF6ZEVXZzB4ZVd4SUlrVFp3clpYQS1DSndka2JyeEp1MkgySk8tbnA1eWJXMThKSlE5OWNpaTEzV19sTzhaTGtQRF9XcmtwMWtmUzVPNFBqQlRmNExvZmY3ZktXaHpsZ080cHJZMTJpdlhHZ3lmamMwY1FHaDRkMHliUUxEczdB?oc=5",
-        "source": "nytimes.com",
-        "published": "Thu, 13 Aug 2026 04:16:33 GMT"
+        "title": "The full story of Vinicius Jr’s Real Madrid contract saga. How close did Arsenal get? - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTFHa2ZVZGtjZ0RNVFVkR1U0QllkMG4yd1V5R3l4RklyVldMZjV6Unc1eXNIRUk0M1BaN29Ob21vNkNiUWx6bVdEaHhjdFJQbE45ekQzZ2taM0xISmpNVTM1YWpLYmVZd2s1NDh4b09PWmJUREhxWTBXeW1CUVJmS196ODFUNS1CYXkzQ0N3TnYwLWpVa3NXdGhoVVc2TmtKbGNR?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 11 Aug 2026 11:06:45 GMT"
       }
     ],
     "fcb": [
@@ -1637,13 +1637,13 @@
         "title": "Transfer news LIVE: Chelsea set Enzo Fernandez deadline, Barcola to Liverpool latest, Konsa to Arsenal",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHBFbmprQ3JGM0RqVVpCbEdHR2M3Wmh1OEpRQzNBbEY5a3hwbUVtMUJXOXVkb1BJQXpLVHFkX19iYjZsQmppbTZ6T2dobTYyVVRKamcydFZKWnZpRTRyUnRIM3lGaFZPOHROMHRWTmZEaGZNc21EYXJoU3Z5RlpGWk9nR2NwUEd2Z3lKMHREUGhTNVhPWXRnQUstamY1bVJjek5LcGwtSFFDUVUxUTEzXw?oc=5",
         "source": "The Independent",
-        "published": "Thu, 13 Aug 2026 15:35:15 GMT"
+        "published": "Thu, 13 Aug 2026 18:07:59 GMT"
       },
       {
         "title": "Arsenal transfer news: Gunners discuss Victor Osimhen with Galatasaray amid Gabriel Martinelli and Ethan Nwaneri talks - Paper Talk | Football News",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxON08yc3Y5Vlh4WVpJRXQ0NER2aVlaXzRteFhjQ05SWXlDSTlZMFNuLWduMExaMkw1MHZ0b1BEQnd5SjlyUVNSZU1SQmdSVHhmRUxwQ29mTlVwQ3Ftem9CaDA0YVhMVXdad1BrSVpvd3hwVU1Zeko3ZjFCUGpKa2NPVEUwYmNUaTY2X3drYTgtRWRCUk9vWUVFb25QOE9RSEp5MGxxQk5yUXZGekdtNThjeWkwOGp3X0Z2SURHaDFPbWZMMUszcTRVOWZQenBQSE54bHlNS09FajE4N2JiNXNXa1RwaXBOSC1IaG5SbWlQUjRRZ1pTeHhubWIzVGdSQ3E1TV9OU19naVcyc25WQXZaeWEyejVKVEFFNjdrMXNLVFJXOWlT?oc=5",
         "source": "Sky Sports",
-        "published": "Fri, 14 Aug 2026 02:14:22 GMT"
+        "published": "Fri, 14 Aug 2026 05:14:30 GMT"
       },
       {
         "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
@@ -1652,10 +1652,10 @@
         "published": "Thu, 13 Aug 2026 14:00:00 GMT"
       },
       {
-        "title": "Victor Osimhen bid rejected amid Arsenal and Galatasaray 'talks' over £38m deal",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHBLTDdHa2cwTk0tNDhBTnNLak9MV0dYdUpySnU3Ym9qUVpUa1pBRFU3Q1lvNGU3SHlvZGxVYk9xcmtDQkpaUHA2QVFwYnpYZDJUM18tZHZneUtLYjJ3ckpDeEY2bXlLU1J4c2hzSlZYTUlZNHc1MXp4ZHNJM1pmbmVFZUR0c2R3WE5IQ24tU0UxQWx6YjZZeG5JM2lDNXBt?oc=5",
-        "source": "London Evening Standard",
-        "published": "Fri, 14 Aug 2026 00:59:12 GMT"
+        "title": "Premier League winning star wants to stay despite Gunners receiving $74m bid as Arsenal eye sales",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UTkptenlEc2RJZ01zbWx5cHJrSjhaQ05pUU5OamtpLXdZbDZfWXN1ZndBdEIybGduTk1QMUNJZ3c5bXNPbnVURjd1a3VZenpaaUh1NlpDZEJMVlVBeGEwUFJ2a0dUOGRDZ280blJSSnRFcVVRMGhN?oc=5",
+        "source": "football360.com.au",
+        "published": "Fri, 14 Aug 2026 01:49:08 GMT"
       },
       {
         "title": "Transfer rumors, news: Chelsea join race to sign Monaco's Camara",
