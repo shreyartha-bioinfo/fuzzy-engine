@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T05:16:10.490908+00:00",
+  "updated": "2026-08-15T05:47:44.138894+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1544,6 +1544,18 @@
         "published": "Fri, 14 Aug 2026 22:26:20 GMT"
       },
       {
+        "title": "Transfer news LIVE: Barcola twist, Arsenal's Osimhen talks, fourth Man Utd deal close",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
+        "source": "Daily Mirror",
+        "published": "Fri, 14 Aug 2026 21:57:07 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
+      },
+      {
         "title": "Transfer Rumors: Man Utd Record-Breaker Eyed by Rival; Man City Drop New Fernandez Bid",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1djMWd1ZklmV2JrQVkyMVduXzJwNlhMY0RhZTBwQWxlNS11V2djcjJPYVk2blVvNVgwVWx2bGRSc1QtUExTZFdQTldLOTg2Z2kzLTFQSmxBeFhxZ2NNRVFOYlBRcmExZmxINVhfeXZscmMyUFJTNmhHZG9sY2ZLSUVoRHBCMzFYTjY0cWYwVTMtdG9DeTVPVFlmZjV5NzFseDl3ZURnb1k2Tmc?oc=5",
         "source": "Sports Illustrated",
@@ -1554,27 +1566,9 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUh5SXRVTVJtQ0N1bkhBNG5zUi1CcXdhQk9jc1Q3ZmNtTm1uTkp2eGZCUHNhQUthd3JBbVA2TGFTRU9STzVUakdzNlJNekVhZ3pZajZrWDFlR1h5azBjTnNoUFpMeTV3R05nS0JKVE5DMjgwVTlBbENDYmc0OE96enRzclJ6NURjQTdfanFTTUgwTnh2MTV6N1JxdFlmT2otc2g2eVdnSHZ4YU9TcC1MQXFuT24?oc=5",
         "source": "Manchester Evening News",
         "published": "Fri, 14 Aug 2026 21:56:47 GMT"
-      },
-      {
-        "title": "Man Utd transfer news LIVE: Prem rivals 'join Baleba race', face Kone opposition",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3NTTlRCeEpTdHpUVFNrU3RiZy05eThnU0NBdmhlcjZiM0ZvVU45OUtIbTRqWWZHNHpfRVpSWTVZOHpxWVp1eldsd19jN2ZTMU5HZk9qb1YxbWQwbjlpMGlrTFNuTnd3bGRsLUdfWm1xUl9XZllLbTNEWFprRklwT0l3cE4wWlNJYmp2RXpocHRScWJsME5HdFJXVQ?oc=5",
-        "source": "The Sun",
-        "published": "Sat, 15 Aug 2026 03:46:27 GMT"
-      },
-      {
-        "title": "Manchester United transfer news: £70m move on the cards?",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUEVIZlo4Q1k3OXBDaGpxSjVXWVEwTkRDdFpKaW9JY3VjRERta3p3Q001MlFTUDNHTkhhSG5TM1U1VWZBdXhWZ19UUlBFcXpFYW56OUJjbmlSVzVudVcwdEtfOUU5TmpoMUV0SFQ3SjRWcm1mLXZJRmNZZnRfZFRiRXUybkRWQUMxYkE?oc=5",
-        "source": "Vital Football",
-        "published": "Sat, 15 Aug 2026 03:13:58 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "Real Madrid’s Summer Signings Under Jose Mourinho So Far—Ranked",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG1aVDY3dWtKNW9QUG1vaTROMlhKT3hQcmJEb01nbTlTNmpCMjV3ZjNvTGhYaXBwTlE2MUd3cXRubkZsUlpQQ1dJbDFqTVZPNGdMQnREaGxSN05rZmpXT2s4Q19DRkI0czhpTmZGeTVmdUhoVndWX1JhQk5yNXJLbVI5c0hBcUk?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Thu, 13 Aug 2026 22:00:02 GMT"
-      },
       {
         "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmRlU1FEd1QtcG1iQjVtNnk2RzZZWlNRVEJlNWZfbXF0MUNBX0hiNHY1RmxNWXZtdFFqb3Q1S2Y5RWpiQ2N5V0M0c3QzcW5NRm5ZaWI3OGdrTHdnUnd6OEVQVTNSa3hxUklLSmo3MkUxeEl6VktVVl8xZ3lkUGpkQjNJaDhRMFN2VGprYndRVVc0bmlHZ2hSR2djLUhNSzVoa2I0Z04ydFY3QzYxR1l4NThJWW1QdGdK0gG-AUFVX3lxTE1BWF8xemdNTmU2WVF1WFZKMUw0VVl2RDdCdlg3NTNQWkgyTl9PcUVZekliWmlJNXVWYUhGU2JFeEZ4WTJrdFdnYWpTX2tJNHRHTmdtQVU0bDFGcGszYnJuSXZsMkVUMUFUSUs4d1doa25fdk5hRUFoVEhEeXVzQ0RLTldfWWJpYThmTVNabEkyM0pfbkpkQU84VTI3b0ZSRVRJQ0wxVE9DQnV5eEdzR1l2QjIybEZwUFg5S1JUQ0E?oc=5",
@@ -1582,16 +1576,22 @@
         "published": "Fri, 14 Aug 2026 11:31:34 GMT"
       },
       {
+        "title": "Real Madrid’s Summer Signings Under Jose Mourinho So Far—Ranked",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG1aVDY3dWtKNW9QUG1vaTROMlhKT3hQcmJEb01nbTlTNmpCMjV3ZjNvTGhYaXBwTlE2MUd3cXRubkZsUlpQQ1dJbDFqTVZPNGdMQnREaGxSN05rZmpXT2s4Q19DRkI0czhpTmZGeTVmdUhoVndWX1JhQk5yNXJLbVI5c0hBcUk?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Thu, 13 Aug 2026 22:00:02 GMT"
+      },
+      {
+        "title": "Real Madrid are back on the move in the transfer …",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mTkNmRmxjdmhkbERSZ0xrdVhwQUFNTGlOUklOTlNsYTRlV1RRa0RmQjg3eE5fU2lseGtCLTRfZExmMXFyWjlmWldpUS0tY29WY0lzdlI4Skk5c3VESlh2dUdHVjFsWWhnTGFkYVZKZm4ydmxLWHQwdXlINW9vUQ?oc=5",
+        "source": "Yahoo Sports Australia",
+        "published": "Sat, 15 Aug 2026 02:52:00 GMT"
+      },
+      {
         "title": "Liverpool sent Trent Alexander-Arnold transfer instruction after damning Real Madrid verdict",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkF2UEp3bHFUXzRJWXIteng4RGJDREgxM0xwWU90dkZhc05DdzdDa0ZWdXMxdWNqLXZtbTJmbkFVX3JEM2ZNUUZvVlMtYmhZOHdzTnE4bE8zMXJEWm5YaXYwS2s0aTEtdDdLdEV4TlJ1bWd1VjNkVGdMd0hGWEZOU0xfZ09LZnZ3OTU5NXVwbkJfZk1UendlNDJtbnpVa1RRdEdGSHRlZGNFZ2pn0gGyAUFVX3lxTE83aTJBaVQtNlpPS2J4R3FpdGdKbzdDUDNlcWZMbXhJUUdDcjRpb3VTektGbnRLMFlOWWpqWUZieGRkUWlQWG10MVF5dWZkWThBUWpOS19WZklsU1RLbWNtcUl1S1dzeWVsRFNMV011MGRDSGtkeEJIeGh1cTk3UnVkcEtfb2lQSGJid18wOEU5Zm5vWTZxMGNKSklpck9hZDlZZWFGclZDeVJPZ0F0NXYwY1E?oc=5",
         "source": "Liverpool.com",
         "published": "Fri, 14 Aug 2026 13:22:33 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal hold Victor Osimhen talks as Jules Kounde to leave Barcelona?",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VSazFSTnhUaFVaX0J6S2hSNzVyVXdwX2k2RV9hU1lUYTZJWFhPM041TXVZaFFDSExZSnc2LS16VUhtUmh4cTRyZHBZd2tLdmp5OUhvYXc4a2lQNndfVFZiZjBDdUNpeDdBX1BGQkFYdVhwRDB0X2l6NFBqT2poYTY0WUZUZF96eXZOR0pEUi14MWNrNVlzaFZjTGJnYS1aWmhvUWJlWDRORmx4SWFtUHhaS0Y1R0N3TUhaNWRKbFFhNVo1OTk2MW9UN0hJLVFk?oc=5",
-        "source": "Transfermarkt",
-        "published": "Thu, 13 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "Arsenal turn attentions to ex-Real Madrid wonderkid after bid rejected for Mikel Arteta's top target",
@@ -1604,13 +1604,13 @@
       {
         "title": "Newcastle United could be ready to take Bayern Munich’s João Palhinha on full transfer",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT3JaQXNDdTRSRHBJaGlybXV3V3RtWG1oMkpuTHBCYmhUZjVEZDl3anJsUVhmQUwtRHFiNy00TnotbHRXWGdxVnJtZmdKOWc0bG0xNHBaRGtkZFBla2dPcnI1WWxBZkNZYlVZeWlqbm95YjJhbFBoSG5uMlp1UDFsTjNqR1gtU0VreXRHNmVPWFpxSnNrZTgxWm5XLTk0a2liQXd3UXB2YnBGOEhuVmsyRjQtMm0ybHU3WXpwMXRaYUxEdnpYSlVkQTNheEU5ZEw3SE9jVnUtRFVhRUFBLUg1SlRRUXZpbUlpcmdzeW5ScGlTNHE4VERNZg?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Fri, 14 Aug 2026 21:00:00 GMT"
+        "source": "bavarianfootballworks.com",
+        "published": "Sat, 15 Aug 2026 05:00:00 GMT"
       },
       {
         "title": "Man Utd 'interested' in signing Bayern Munich star as his 'very clear' exit stance revealed",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlExQzN3SjVGVzh2NWlvamlVZVMxYWtVdnU1MXdlNVJGcFprdmFFUS1QV1ViMjROci1za09FMTNkUHh2NkNHcXdCaVZGQWROX05GRjlsQVNhOV92NGUtdjZKZ3JFYVNjUVE3dFgwU2ZCWi1vakwwX0hyT1kxT0JqU29IYXpDVmlKTzBlYzgyLS1IR2dORU1UemZtVms5S2g3R0tkVThnYVBWcUpWc3AzMnJHVFQ?oc=5",
-        "source": "Football365",
+        "source": "football365.com",
         "published": "Fri, 14 Aug 2026 10:34:11 GMT"
       },
       {
@@ -1634,16 +1634,16 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Chelsea’s Fernandez deadline passes, Arsenal open Quansah talks",
+        "title": "Transfer news LIVE: Chelsea’s Enzo Fernandez deadline passes, Arsenal open Jarell Quansah talks",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVJ0Rm5ueGplMnQ5bkw5WF9xSFZsdkd2ejV0M2FGSmREb3lrUkthSkIzREFZRU56RnlxZTB0NTRxNmlsUVYwYTFOLXVadVg2SmhxQ2pyclFobUYzX3A5WEQzS2lIUldoZE4ySUhiM2FXcVl3SmcwMkNhY1ZWdWpTc3lLXzFwYVFMN0tGWGwwRno1Rk9qNElfMkNqclgtNVBKeGlXTUdXdG5zY0NIbWU2OA?oc=5",
         "source": "The Independent",
         "published": "Sat, 15 Aug 2026 03:01:11 GMT"
       },
       {
-        "title": "Arsenal transfer news LIVE: Quansah EXCLUSIVE, Martinelli 'REJECTS' Turkey move",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGQxUkNjbGQ4WmY5bHZILUVTcmdLUUlKSXNQWVV4LUhEbUc0b21aVzM5TDNIMndDVnBsTE45WjZaRDl6VF90VjdISDhlNWlOa1FMcFBvbVUxUHZWUFJOblIwRDJXNWRWVHNrLUhuTmgzcUFoQ2lLVXBkbUtLT0V0MGROOGwzT1AzbnZaX2hDVk5MX1lvdjlVRTk0OHdGdw?oc=5",
-        "source": "The Sun",
-        "published": "Sat, 15 Aug 2026 05:09:57 GMT"
+        "title": "Arsenal transfer news LIVE: Quansah EXCLUSIVE, Martinelli 'REJECTS' Turkey move - the-sun.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0JkOXFZWHB6UklBdWtxMG1yUDRYazlQajhCVVh6U0E2WHpwbnlFY21QUGlNaFdiMnhZd0I3aC1xNENWSVhVYnZLRlhrYkxfSi1KZk1xZEVKaDgxcGtXNkVZUGN1elBwaS10YkIwNXlqUVp1cXBnU19qOTMyNVZ6dVZkb2dOWjdGbEx1bkU4eVNHOXFPdnBjUEJLV0c?oc=5",
+        "source": "the-sun.com",
+        "published": "Sat, 15 Aug 2026 05:26:11 GMT"
       },
       {
         "title": "Arsenal in talks over Quansah; transfer news; Giuliani slams Infantino’s critics: football – as it happened",
