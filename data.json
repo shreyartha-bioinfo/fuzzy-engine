@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T05:47:44.138894+00:00",
+  "updated": "2026-08-15T06:20:24.361885+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,16 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer news LIVE: Arsenal twist, Liverpool talks update, Man Utd's new plan",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
+        "source": "Daily Mirror",
+        "published": "Fri, 14 Aug 2026 22:06:20 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal done deal, Osimhen twist; Fernandez update",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGl1Wi16ZFdtRVZEZS1hQ0MwNlcwbEtPRUJpYnMyaWhFNXZUY1UzaVJ1SVBGWlhkTjFUSmJRZ2xOam5oM0FOQTFmNDhLeHpZZXNJS0ZDMW5qQWFSVzd0ZU0wWWdfNlpiZ0hkNVZvYi1NMlJwdHo2WnNZTjJrLXFDSkFrZWZwSHBIZl9qek1MWkF3b2dxSXdoVEtCUkZnQzhhWFozSEc3SzRhTHdaUlVTTG1MNElta19FWnRkVVpzTW9ydUEzTlp0SnZWa1VISWFqeHZDR2tJQ2RnQQ?oc=5",
         "source": "London Evening Standard",
         "published": "Fri, 14 Aug 2026 22:26:20 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Barcola twist, Arsenal's Osimhen talks, fourth Man Utd deal close",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
-        "source": "Daily Mirror",
-        "published": "Fri, 14 Aug 2026 21:57:07 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
@@ -1604,14 +1604,20 @@
       {
         "title": "Newcastle United could be ready to take Bayern Munich’s João Palhinha on full transfer",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT3JaQXNDdTRSRHBJaGlybXV3V3RtWG1oMkpuTHBCYmhUZjVEZDl3anJsUVhmQUwtRHFiNy00TnotbHRXWGdxVnJtZmdKOWc0bG0xNHBaRGtkZFBla2dPcnI1WWxBZkNZYlVZeWlqbm95YjJhbFBoSG5uMlp1UDFsTjNqR1gtU0VreXRHNmVPWFpxSnNrZTgxWm5XLTk0a2liQXd3UXB2YnBGOEhuVmsyRjQtMm0ybHU3WXpwMXRaYUxEdnpYSlVkQTNheEU5ZEw3SE9jVnUtRFVhRUFBLUg1SlRRUXZpbUlpcmdzeW5ScGlTNHE4VERNZg?oc=5",
-        "source": "bavarianfootballworks.com",
+        "source": "Bavarian Football Works",
         "published": "Sat, 15 Aug 2026 05:00:00 GMT"
       },
       {
         "title": "Man Utd 'interested' in signing Bayern Munich star as his 'very clear' exit stance revealed",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlExQzN3SjVGVzh2NWlvamlVZVMxYWtVdnU1MXdlNVJGcFprdmFFUS1QV1ViMjROci1za09FMTNkUHh2NkNHcXdCaVZGQWROX05GRjlsQVNhOV92NGUtdjZKZ3JFYVNjUVE3dFgwU2ZCWi1vakwwX0hyT1kxT0JqU29IYXpDVmlKTzBlYzgyLS1IR2dORU1UemZtVms5S2g3R0tkVThnYVBWcUpWc3AzMnJHVFQ?oc=5",
-        "source": "football365.com",
+        "source": "Football365",
         "published": "Fri, 14 Aug 2026 10:34:11 GMT"
+      },
+      {
+        "title": "Leon Goretzka put forward for free transfer to the Premier League this summer",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUtQUzJpclNKcHdFZGRQWmUwS3BuakRBT2pRWmszeFM5X1VaSWlhWEFtSF84OXltU0RMd29lNGR6NUJkaUtIMkFBVGVjYTZSVkh6RV9iQ0lVOVJTZEFDeEp1XzVkMjBVSEp0TUZraG1KNXM4UmdiUmJBTFhUa1V3OVB2dS1hcVF0SHVJdGNxa2NZdUVTelE?oc=5",
+        "source": "talkSPORT",
+        "published": "Thu, 13 Aug 2026 10:59:04 GMT"
       },
       {
         "title": "LAFC bolster attack with permanent transfer for Bayern Munich forward",
@@ -1624,44 +1630,38 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tJYVFKb1BjakdxYjNyZ0gzMHQ1dF95QWdVdGxWVEZGRW56SE9jUDdFRm9qNTNncjFBZDg3eGxPOVFOZWh4ZXZ4cjhIV1p5SzVyR1BKcDlUQXdnd3pEeXV6WDVMTUs0RldZU0RSZUJMMXJvQTNZbkRra0hoR3FqRlh2UVR6LU9BZkdVZw?oc=5",
         "source": "Yahoo Sports",
         "published": "Thu, 13 Aug 2026 20:30:00 GMT"
-      },
-      {
-        "title": "Leon Goretzka put forward for free transfer to the Premier League this summer",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUtQUzJpclNKcHdFZGRQWmUwS3BuakRBT2pRWmszeFM5X1VaSWlhWEFtSF84OXltU0RMd29lNGR6NUJkaUtIMkFBVGVjYTZSVkh6RV9iQ0lVOVJTZEFDeEp1XzVkMjBVSEp0TUZraG1KNXM4UmdiUmJBTFhUa1V3OVB2dS1hcVF0SHVJdGNxa2NZdUVTelE?oc=5",
-        "source": "talkSPORT",
-        "published": "Thu, 13 Aug 2026 10:59:04 GMT"
       }
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Chelsea’s Enzo Fernandez deadline passes, Arsenal open Jarell Quansah talks",
+        "title": "Transfer news LIVE: Chelsea’s Fernandez deadline passes, Arsenal open Quansah talks",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVJ0Rm5ueGplMnQ5bkw5WF9xSFZsdkd2ejV0M2FGSmREb3lrUkthSkIzREFZRU56RnlxZTB0NTRxNmlsUVYwYTFOLXVadVg2SmhxQ2pyclFobUYzX3A5WEQzS2lIUldoZE4ySUhiM2FXcVl3SmcwMkNhY1ZWdWpTc3lLXzFwYVFMN0tGWGwwRno1Rk9qNElfMkNqclgtNVBKeGlXTUdXdG5zY0NIbWU2OA?oc=5",
         "source": "The Independent",
         "published": "Sat, 15 Aug 2026 03:01:11 GMT"
       },
       {
-        "title": "Arsenal transfer news LIVE: Quansah EXCLUSIVE, Martinelli 'REJECTS' Turkey move - the-sun.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0JkOXFZWHB6UklBdWtxMG1yUDRYazlQajhCVVh6U0E2WHpwbnlFY21QUGlNaFdiMnhZd0I3aC1xNENWSVhVYnZLRlhrYkxfSi1KZk1xZEVKaDgxcGtXNkVZUGN1elBwaS10YkIwNXlqUVp1cXBnU19qOTMyNVZ6dVZkb2dOWjdGbEx1bkU4eVNHOXFPdnBjUEJLV0c?oc=5",
-        "source": "the-sun.com",
-        "published": "Sat, 15 Aug 2026 05:26:11 GMT"
+        "title": "Transfer rumors, news: Tottenham continue interest for Liverpool's Gakpo",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHc0WThYaXMxVmlJZDNEYnYzQ3dJN0lranVGcHdlRnRFR2M5a2Q5Qmc0UmVya2duMFdMZEdSU1d5NnQ5R0tGYU4ta0ViY0p2c2ZkcWVLRXNieGhhZ0VYeGJub2JBZlNidGNJaVlkWURnYklVZGZSc3Y5WUJmRHhTQVJmNnNRa0dIM1VDaW1pN2h4YlJZYjdvcFFXWjJVSE9QcTMxdHk4VHhGTXc4R05rczBBSEFlVThyX3pr?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 14 Aug 2026 20:39:00 GMT"
       },
       {
-        "title": "Arsenal in talks over Quansah; transfer news; Giuliani slams Infantino’s critics: football – as it happened",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM1h2SllxWjFXdFdod3hJZ1NfRWd5SzRma1MtZnVCNjBPUGczM3Fya3JYOHpLcWotQmF1bkRYSGtGNUU1YVFFSnFXVmJlZHlSYl9MR1g0LUVmMXloUTFHQlpPWTdvdDcwTVZBZUViVTNzcG1mVDZ0aHpha0s2SG82NERIckRSYmNTYUpsUEphcnYzYkRuV0RiOWNfQUVoSUZNczFXWlctbWN2Z1VHUVFxMGVOVlg3bmgxTjBpUjhFcFROdGxEVVZJV3Rocw?oc=5",
-        "source": "The Guardian",
-        "published": "Fri, 14 Aug 2026 08:01:00 GMT"
+        "title": "Arsenal transfer news: Gunners lead race for Brighton midfielder Jack Hinshelwood - Paper Talk | Football News",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHZJNWtzdVNsRVNWUElEMGVDQzBYUGgxOWFEeXBsRmwtUGJaNS1KbDB3VHNjemRjSTNWUWw5YnhkMHBHbEltdlpBVzRwWTdMN1NrdzBuV3MtcUtmMXJvUU52aXcwVjRUcWVCT0w1ZERLc3k5Qkl5U1hJX19UdXhhdndUcHlRdTlkMFUtbHdFcFJFbzBKYThmVFhjd0hvemlSbkFhdXptWjc5Y280VWhtb29CRGJ4dXpydEhPSHY0aFl4YWZEU0FJWDR6QXE4c0ktdGFqLUFqclRiN2lNdVdB?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 14 Aug 2026 22:59:12 GMT"
       },
       {
-        "title": "Victor Osimhen bid rejected amid Arsenal and Galatasaray 'talks' over £38m deal",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHBLTDdHa2cwTk0tNDhBTnNLak9MV0dYdUpySnU3Ym9qUVpUa1pBRFU3Q1lvNGU3SHlvZGxVYk9xcmtDQkpaUHA2QVFwYnpYZDJUM18tZHZneUtLYjJ3ckpDeEY2bXlLU1J4c2hzSlZYTUlZNHc1MXp4ZHNJM1pmbmVFZUR0c2R3WE5IQ24tU0UxQWx6YjZZeG5JM2lDNXBt?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 15 Aug 2026 04:09:36 GMT"
+        "title": "Arsenal reach agreement to sign striker Vincent Joseph, 16, from Liverpool - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXJMS0JUaTJkcmpwYTdydFpBUDFWUzRWLXBrbzRXQUdXUnJjamRZcUdMM250VHJzalZyR3FuR2xTUDFteVFBMExNdm50aW1ZZ0c4TVJvQXFveHpWcmFvN0hmcHhYMDdSdGd1c2dwRXdEdU9qSlludzZQN1BUVU5JajNnX21LQjBWN3N6UzVGYktCZjc2N0txQy13TQ?oc=5",
+        "source": "The New York Times",
+        "published": "Thu, 13 Aug 2026 13:31:17 GMT"
       },
       {
-        "title": "Arteta on the transfer market and his contract situation at Arsenal",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFlfREtjTlZmWVFrTkk3Y0FGZFFDMzg0Smx5ZkY0RUc1YjdCLURCX0oxOFJ1ZkljSEt4QkdWMDJJeEZEYWJXMERmR09oNjdkUkFJOVc2aDdSaHp6dXZXaXVsMEJUQnJQWXBScHpMWGtCdTkxeTNxWUpkOXRDY09RN085RGI1TWhkd0RLYTBHOU80WjA?oc=5",
-        "source": "Yahoo Sports Canada",
-        "published": "Sat, 15 Aug 2026 04:10:00 GMT"
+        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
       }
     ]
   },
