@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:10:47.692920+00:00",
+  "updated": "2026-08-15T23:40:52.312818+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,6 +1538,12 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal target speaks out; Liverpool Barcola boost",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGFpcWJTcjVFUmVVVVJRc2ljcGZYczRvb1Znb1V0Wk56QzQ0QkRQMkQtazRvcGJLNVlSSFh6anoxanpGeWtTMUx3Tms1LXNNZjBzTUg5eHFQSWhsaXJQM05Sc2FzUzBBMVR4d1JHc1RZLVNwZVhZcXBHX2dhZTliV0NLZjFSeGk0ejlfYlVOdTMxMGlHSWVZdjNKMmVSWmtNSGY3amgtVmNoSDc1U2dlc0dyQnI4REhVSkNUZ0lWMnJFMFlpU1JiZjlWM2EtNjhtVlliT1VZWQ?oc=5",
         "source": "London Evening Standard",
@@ -1546,14 +1552,8 @@
       {
         "title": "Transfer news LIVE: Arsenal twist, Bradley Barcola to Liverpool update, Man Utd's new plan",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
-        "source": "The Mirror",
+        "source": "mirror.co.uk",
         "published": "Sat, 15 Aug 2026 21:20:39 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
       },
       {
         "title": "Man United get clearest hint yet over next transfer as target left out of squad",
@@ -1590,7 +1590,7 @@
       {
         "title": "Real Madrid goes all‑in: Inside the record‑breaking rebuild meant to end Barça’s new reign",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0NmNlJieEFVMXhtYi0wVmFIWU5WMmNYdE5NUlVlSllPRkhaRmFKMFRObVFSMG5yNW1IQ053U3Zxa2Jrem40OXRCVGZxdWZZVHVNT01KWEZQaUtUQkpTNkxfSUJmNm03bVpLWW81eVpSLW5Hc1VrelJGRC1KdlRMUmNSWFRHdVh0bUNHM085bWZNbzNLNm04V2hOXzg2TVAtRWpmV2ZnSERkLVpUVXNDYVgxbG1KdXEwMEpQNGJWRdIB0wFBVV95cUxNWDVNYUhGZG9lRWV1M3AtUGxvLVVwelJROTFqTEkzLXRVb29DbjgtZm5NY3ZYQ1lfaE52SWRSUkt4enFXR25tTkRFYW9Ud05qZVhCdzd2bHN0LUIybU4wc2xNblpmS1ctSnZVOW81VFBJRTBuM3NENm56Yk5nNXRpRVdWa25Pb2xHRmR5a2pnZDE4dUlNS0pLVWpjZXZINV9CX0dTbU01Q3VYQ0ZtU2h4V3pEU05nWHlOMXFVLV9EdmVDazBXX0s4YUtQLTV2Q1MwanBr?oc=5",
-        "source": "Diario AS",
+        "source": "en.as.com",
         "published": "Sat, 15 Aug 2026 13:10:11 GMT"
       },
       {
@@ -1652,10 +1652,10 @@
         "published": "Fri, 14 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: Tottenham close to €180m double deal as Arsenal chase Hinshelwood",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejFfUWRUV0lfVy02RWxydVB3eWN5SnpEb2NpTTRYWnlHcExZbGthSHJiRDJkMU9Oa0tDaGtTOFNKRHhLMlNmWnhFSXdwYmh5dzh1SlJBemdSdTlkb3ZQRzVNVWZmSUQyNmwxOUlZQk1Jc1hMbEtEcmJ1NTJ1SjZZZGRMcW5Fd3hSRGN0bUVNRXRPWmxoTGM1dGxCQ3lHVWVyb3dSRmk3ZUxpMkVOcFVpTnFkclp6SlB2b1oxR1E2SmdvemJIZHF5M2x5QlUtdGdK?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 15 Aug 2026 22:54:54 GMT"
+        "title": "Arsenal lead £51m transfer race for England U21 star Jack Hinshelwood but could face Man Utd competition",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDFBa3pXR2RhVjFXalZLQU42VnVXWTRibi1VQlpmdE4zc2JkQThtX09aLU5aNWQxYkVfUXNqRnlraHRWMDd0UHgzTEtKZGRQcW1tQnlDZlZObTZkUHN2TThOeHcwMV9TRkw2NWpEa1d2YnhoTy10TURsWnVqMUhXSXhuaWpOVFM0U3FCOXdKZk9GNkU?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 14 Aug 2026 20:16:00 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
