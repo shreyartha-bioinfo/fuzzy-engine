@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:23:36.357683+00:00",
+  "updated": "2026-08-16T05:50:50.753368+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,22 +1538,22 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal target speaks out; Liverpool Barcola boost",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGFpcWJTcjVFUmVVVVJRc2ljcGZYczRvb1Znb1V0Wk56QzQ0QkRQMkQtazRvcGJLNVlSSFh6anoxanpGeWtTMUx3Tms1LXNNZjBzTUg5eHFQSWhsaXJQM05Sc2FzUzBBMVR4d1JHc1RZLVNwZVhZcXBHX2dhZTliV0NLZjFSeGk0ejlfYlVOdTMxMGlHSWVZdjNKMmVSWmtNSGY3amgtVmNoSDc1U2dlc0dyQnI4REhVSkNUZ0lWMnJFMFlpU1JiZjlWM2EtNjhtVlliT1VZWQ?oc=5",
         "source": "London Evening Standard",
         "published": "Sat, 15 Aug 2026 19:57:03 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal twist, Bradley Barcola to Liverpool update, Man Utd's new plan",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
-        "source": "Daily Mirror",
-        "published": "Sat, 15 Aug 2026 21:20:39 GMT"
+        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man City transfer news: Ayyoub Bouaddi talks confirmed by Lille head coach Davide Ancelotti - who hopes deal falls through | Football News",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVjI4QWRfLUlYWWR4cFV5VVdCWDRkbFoyQzhCRV9PUUNFSFdkazFBS25vRU81b0pFT2VlOTZWUUJvYldaUW5VMm9TOTZ5UmpDVXl6bnJKX0JlaGtZcHctbDlCaDY1WDAtVzJvYjZQYXFMZllGdTgzSVBXeExjM29WSGJqOGtMZ3Z0U0w1TFJDZGtsaWxESzlCVzVaOE1GcHV0aWRTM0NqZEhud0JucDlfbG9aS3AwSzR3U0xLUVpCNFpIeGE3ZW1KQjBodlZjOUpiUXhiVGVjb0Z2V1RDMkdRdXJNYmUxc2N0LVBDSXJ1S0NDNVJJRTZlT1JjSzktX3NLWXVUcUxCSWdzdUtLc3cweTFEenhhMWs1?oc=5",
+        "source": "Sky Sports",
+        "published": "Sun, 16 Aug 2026 04:34:38 GMT"
       },
       {
         "title": "Transfer Rumors: Mourinho Sets Up Man Utd Coup; Neto Sparks $350 Million Chelsea Exodus",
@@ -1582,21 +1582,21 @@
         "published": "Fri, 14 Aug 2026 11:31:34 GMT"
       },
       {
-        "title": "Carlos Espi, Real Madrid’s 6ft 4in summer signing who still flew under the radar",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDRuNGRMNFZfUk82clpiRFdkTVkwYzN3ekYySkhRSDNBVm12Sm0zWXpOUTlCM0NRMEFrN1hVS0E2Sy04eV95aEo2RllabnozMTVWemdFOFAteVFyU2tMa3RXOEFMODhPSjJteWk3WDFZaFJ5TmlxX3Z4QU80bXRyQjR0RlZ3VEFXUUtEWDVDaFFEc0tjREY5ZA?oc=5",
-        "source": "The New York Times",
-        "published": "Sun, 16 Aug 2026 04:12:01 GMT"
-      },
-      {
         "title": "Real Madrid goes all‑in: Inside the record‑breaking rebuild meant to end Barça’s new reign",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0NmNlJieEFVMXhtYi0wVmFIWU5WMmNYdE5NUlVlSllPRkhaRmFKMFRObVFSMG5yNW1IQ053U3Zxa2Jrem40OXRCVGZxdWZZVHVNT01KWEZQaUtUQkpTNkxfSUJmNm03bVpLWW81eVpSLW5Hc1VrelJGRC1KdlRMUmNSWFRHdVh0bUNHM085bWZNbzNLNm04V2hOXzg2TVAtRWpmV2ZnSERkLVpUVXNDYVgxbG1KdXEwMEpQNGJWRdIB0wFBVV95cUxNWDVNYUhGZG9lRWV1M3AtUGxvLVVwelJROTFqTEkzLXRVb29DbjgtZm5NY3ZYQ1lfaE52SWRSUkt4enFXR25tTkRFYW9Ud05qZVhCdzd2bHN0LUIybU4wc2xNblpmS1ctSnZVOW81VFBJRTBuM3NENm56Yk5nNXRpRVdWa25Pb2xHRmR5a2pnZDE4dUlNS0pLVWpjZXZINV9CX0dTbU01Q3VYQ0ZtU2h4V3pEU05nWHlOMXFVLV9EdmVDazBXX0s4YUtQLTV2Q1MwanBr?oc=5",
         "source": "Diario AS",
         "published": "Sat, 15 Aug 2026 13:10:11 GMT"
       },
       {
+        "title": "Carlos Espi, Real Madrid’s 6ft 4in summer signing who still flew under the radar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDRuNGRMNFZfUk82clpiRFdkTVkwYzN3ekYySkhRSDNBVm12Sm0zWXpOUTlCM0NRMEFrN1hVS0E2Sy04eV95aEo2RllabnozMTVWemdFOFAteVFyU2tMa3RXOEFMODhPSjJteWk3WDFZaFJ5TmlxX3Z4QU80bXRyQjR0RlZ3VEFXUUtEWDVDaFFEc0tjREY5ZA?oc=5",
+        "source": "The New York Times",
+        "published": "Sun, 16 Aug 2026 04:12:01 GMT"
+      },
+      {
         "title": "Bayern Munich News: Did Real’s Diomandé pave way for Olise to stay?",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2s3MENCbk41eWhuMHQ1ZURaMENXZzk5VDc3MGRnX0wxSWdqcktNUVpGSDlaZnhtdjFHaXVibkZSRTdMbmNjRldJck1SeE9PX09aNHVYeWoxb0tHVWNjWTkxM0Y2eEhwY0JTUWMtbVY1MkZ5ajdBOVRIby04VlEyQmhXZzJITVNuSktUSDdWNjZwTXRHVmpNOHRuX05fVTlSblA4dHlCOEE2VExNZG9fV0MxeXo1V3JTYUx5NFBrODJZX0Y3bHVQdXRIT3lKaU95RC1nMXhPV2FoTmRuRzlOZDk2LVA?oc=5",
-        "source": "bavarianfootballworks.com",
+        "source": "Bavarian Football Works",
         "published": "Sat, 15 Aug 2026 13:00:00 GMT"
       }
     ],
@@ -1604,13 +1604,13 @@
       {
         "title": "Transfer shocker? Bayer Leverkusen could be eyeing blockbuster sale",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ1N5OHhGa0pKRkxValM4bXVBZ040QWkxMlNkaTRFUGNCdm8zWHp6dDVFcmtNaGFQN0h2azFsU3NOdXB2Z2dSbWR5N3lzSUZVUmpyQzVhVy1ydzgwUUlVWG5LSmNFSGtJZGlHS3VaYXNidHN2NFg1VlVxM0VaMVo5V0hvNkkyTzA3aEZJa0JpTzdLcm45dThRUVpLbWR5azdBVENUR3YydkNMb3FaRDdNa0habmFVUEdVeGVXT1IteF85X09GeUhBcnJwcHFzSjVFdm96Y3RRUkgybkFINkNV?oc=5",
-        "source": "bavarianfootballworks.com",
+        "source": "Bavarian Football Works",
         "published": "Sat, 15 Aug 2026 11:17:38 GMT"
       },
       {
         "title": "Newcastle United could be ready to take Bayern Munich’s João Palhinha on full transfer",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT3JaQXNDdTRSRHBJaGlybXV3V3RtWG1oMkpuTHBCYmhUZjVEZDl3anJsUVhmQUwtRHFiNy00TnotbHRXWGdxVnJtZmdKOWc0bG0xNHBaRGtkZFBla2dPcnI1WWxBZkNZYlVZeWlqbm95YjJhbFBoSG5uMlp1UDFsTjNqR1gtU0VreXRHNmVPWFpxSnNrZTgxWm5XLTk0a2liQXd3UXB2YnBGOEhuVmsyRjQtMm0ybHU3WXpwMXRaYUxEdnpYSlVkQTNheEU5ZEw3SE9jVnUtRFVhRUFBLUg1SlRRUXZpbUlpcmdzeW5ScGlTNHE4VERNZg?oc=5",
-        "source": "bavarianfootballworks.com",
+        "source": "Bavarian Football Works",
         "published": "Sat, 15 Aug 2026 13:07:00 GMT"
       },
       {
@@ -1636,8 +1636,8 @@
       {
         "title": "Transfer news LIVE: Arsenal ‘lead race’ to sign £50m target, Tottenham reach Gakpo ‘agreement’, Fernandez latest",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVVjbjhJdjRMTmM0VnpaNzZuTVYxd0U1TUxad3pacUMxYVJKNzcwWmt0TmhuT3BCY1o0bWFneVA5cXJhRU1hQzZRUGkwV0l0bmlqa2NtYVh6VUtEODBTQ3FZWTdaT3hJOEt4Q0liWDFpU002OHh1UzY1Y3c0b1AxU29ZLWNPcU1PQlYydDJwM1VFMVdPekRqNjBhTG0zNnZrN2drN2ctU0hrZEJTbjZCTQ?oc=5",
-        "source": "The Independent",
-        "published": "Sun, 16 Aug 2026 02:36:08 GMT"
+        "source": "independent.co.uk",
+        "published": "Sun, 16 Aug 2026 05:45:36 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal done deal, Osimhen twist; Fernandez update",
