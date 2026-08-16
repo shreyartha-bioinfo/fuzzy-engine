@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T02:15:25.520058+00:00",
+  "updated": "2026-08-16T03:25:04.405842+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,12 +1538,6 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal target speaks out; Liverpool Barcola boost",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGFpcWJTcjVFUmVVVVJRc2ljcGZYczRvb1Znb1V0Wk56QzQ0QkRQMkQtazRvcGJLNVlSSFh6anoxanpGeWtTMUx3Tms1LXNNZjBzTUg5eHFQSWhsaXJQM05Sc2FzUzBBMVR4d1JHc1RZLVNwZVhZcXBHX2dhZTliV0NLZjFSeGk0ejlfYlVOdTMxMGlHSWVZdjNKMmVSWmtNSGY3amgtVmNoSDc1U2dlc0dyQnI4REhVSkNUZ0lWMnJFMFlpU1JiZjlWM2EtNjhtVlliT1VZWQ?oc=5",
         "source": "London Evening Standard",
@@ -1552,8 +1546,14 @@
       {
         "title": "Transfer news LIVE: Arsenal twist, Bradley Barcola to Liverpool update, Man Utd's new plan",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdrMnVDdUM2SllUclpDeU5HVGtuRmZfWlAxZk15Mkd4czJRalptUjM4WkpDNE1lMkZwTVBwWFJaaVlPcHJTaHdzSVpyYURYMklrbHh3b2t3MnJqWElUMURpbUZxWG1WRmRwUHFPQTd1Z01ST3ZvWTI1b0RmeGRtMXRSalhGSVBKR0E5dUhTZlEtTWM?oc=5",
-        "source": "The Mirror",
+        "source": "Daily Mirror",
         "published": "Sat, 15 Aug 2026 21:20:39 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Man Utd Battle Arsenal for Osimhen; Liverpool Suffer Barcola Blow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9aMU44Y2p2cDM0WU0zVDJVNUowUTVrREdrRW43d3FPY3N5R1BENGVOaTNoUEVmZTVFZ1dXM2M2VG96MkdjcmdJYlljYUNoQVdhS0xtQ2FrMm1RdTRuMmJIdG95eXZ6SDhjTWhUVU1GNC1vQkpOYVR2VmwwaWVyczZ4aXFFc2dITmdkaFlZclB5UQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 14 Aug 2026 23:05:00 GMT"
       },
       {
         "title": "Man United get clearest hint yet over next transfer as target left out of squad",
@@ -1562,10 +1562,10 @@
         "published": "Sat, 15 Aug 2026 15:56:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Mourinho Sets Up Man Utd Coup; Neto Sparks $350 Million Chelsea Exodus",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0lwR1hzS25fbi1RZmNuOG9mellCbmsxbjZteTB4VEFtWG9BYUFiTmU4SlVZcG1QdjhBREFQMkhqOW9kY1hGc2k3REFKUE95emxlUVBJTHpuWktqeG5hRFVEVl9BQlJaZjJqZUZzYlhGN1VKb1pZcVBlTTJEZ0xZbHVHVXNjZEtPVjhXVzRrd0xHUkZE?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 15 Aug 2026 23:05:00 GMT"
+        "title": "Man Utd transfer news LIVE: Kone opposition, Prem rivals 'join Baleba race' - the-sun.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm5SQmVOY3VSZkduMGM5RFV1cHdyZjBscFZzVWNybVQwTkZ3TjdfUVJRS3RMdmJEUEd2T2thTGhrR3Azckc2U0dOSDF2YXkwTW51Y0JaMkx6bE9LeTItX1IxcUpRcWVJZDlpcHpmYlFkS3lpYmVlaEtfRm5WOTdTXzlDTmlMSXN6dHFZVWdKaTBuTmdJd2lOb19B?oc=5",
+        "source": "the-sun.com",
+        "published": "Sat, 15 Aug 2026 23:04:36 GMT"
       }
     ],
     "rm": [
@@ -1636,8 +1636,8 @@
       {
         "title": "Transfer news LIVE: Arsenal ‘lead race’ to sign £50m target, Tottenham reach Gakpo ‘agreement’, Fernandez latest",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVVjbjhJdjRMTmM0VnpaNzZuTVYxd0U1TUxad3pacUMxYVJKNzcwWmt0TmhuT3BCY1o0bWFneVA5cXJhRU1hQzZRUGkwV0l0bmlqa2NtYVh6VUtEODBTQ3FZWTdaT3hJOEt4Q0liWDFpU002OHh1UzY1Y3c0b1AxU29ZLWNPcU1PQlYydDJwM1VFMVdPekRqNjBhTG0zNnZrN2drN2ctU0hrZEJTbjZCTQ?oc=5",
-        "source": "independent.co.uk",
-        "published": "Sun, 16 Aug 2026 01:35:37 GMT"
+        "source": "The Independent",
+        "published": "Sun, 16 Aug 2026 02:45:36 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal done deal, Osimhen twist; Fernandez update",
@@ -1658,10 +1658,10 @@
         "published": "Fri, 14 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Arsenal 'lead' Man Utd for shock 'top priority' signing as Romano reveals two deals OFF",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTg2N3RCYnEwYTZLMTVGVjd0UUdxLXpqaGhGQk5DdUZ4NWtIZ2ZiNDVaQ3p6YzlJSmFHVV9jZFp0ZW9ONV95X2k0TVNSaDZWUV9GLVFQaE55S3dzNm9fQmJJVEtveUV2QmY3OFRYM2o1Ym0wNW1NUlhHRldnQzJQV25KQWdidFZUdUoxbW04TmJFUkQtaV9aNHlOT3NWZ3dXQzJaeUNnendEenU1?oc=5",
-        "source": "Football365",
-        "published": "Sat, 15 Aug 2026 06:57:39 GMT"
+        "title": "Arsenal lead £51m transfer race for England U21 star Jack Hinshelwood but could face Man Utd competition",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDFBa3pXR2RhVjFXalZLQU42VnVXWTRibi1VQlpmdE4zc2JkQThtX09aLU5aNWQxYkVfUXNqRnlraHRWMDd0UHgzTEtKZGRQcW1tQnlDZlZObTZkUHN2TThOeHcwMV9TRkw2NWpEa1d2YnhoTy10TURsWnVqMUhXSXhuaWpOVFM0U3FCOXdKZk9GNkU?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 14 Aug 2026 20:16:00 GMT"
       }
     ]
   },
