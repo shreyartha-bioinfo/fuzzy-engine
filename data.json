@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T22:47:27.331156+00:00",
+  "updated": "2026-08-17T23:13:29.276745+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Man United transfer news LIVE: Bruno Fernandes negotiations opened, Lewis Hall latest, Hinshelwood update",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5JRXUyaGZYSl9HZlotaGRYQ2tWS0JBWE9TNl9XVEFxWkJKMkVZaXRvS2ZXVkppQ2RkTGlpdWZsVXJVb3lHOXNsbjNfa2xuaDZqU2VHQWlqdjVwTUE3VnF6V1ltTmxrbEhDZ1B6WGx2bDFYTlFidXlXME90VFd4cHdnc3U5akQ4TmhWTUJDcGZlVzFJV1VpYlZtY0RZUWxXb0ktYVdxREIyRms?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Mon, 17 Aug 2026 21:56:47 GMT"
+      },
+      {
+        "title": "Bruno Fernandes transfer news: Manchester United will reject any offer for captain amid Galatasaray interest",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNXhLejFjcWctV2syb3hYcW9WSGJ2SjFOWVBDVnFRUVEyRHVhUTZtaEx0VnBOeEZCRmZvenp4SER5aWk1QUdjZ2NGclVzUEF5b0JRT1AtVlNoZVVYNDlteWdETW82U0E?oc=5",
+        "source": "BBC",
+        "published": "Mon, 17 Aug 2026 13:55:54 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd eye striker deal; double Liverpool boost; Chelsea latest",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWdtZTlsc1MwOEFjV3Y2UGM4OEdsTTNIR1o3aV9SdllOWVU1eDVNTkxiM3l0UDcxZy16LXRGdGhCZ1IwbjNaNlJSUllUZG01Nl9OaVpoQzJ3M3F5a1hLTHZ3TXpaZ0dzbkhkdzhBdW9iV0phNWFBZXJvOGk4Skk1OGlVcTVCbkFaNVRaTDFoOGotQThVWHdpZUk1U0R0YlljdjFBXzh4dktDdWVHZWpCTTlzcGxrcmJsVmhHMUJPODNCRVlUQVVlLWQwMWJ1QWZ6?oc=5",
+        "source": "London Evening Standard",
+        "published": "Mon, 17 Aug 2026 20:31:10 GMT"
+      },
+      {
+        "title": "Transfer news live with Man Utd's Bruno Fernandes talks, Liverpool PSG agreement",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
+        "source": "mirror.co.uk",
+        "published": "Mon, 17 Aug 2026 21:48:48 GMT"
+      },
+      {
+        "title": "Man Utd told they should have signed 'unbelievable' £60m star ahead of Chelsea",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWER1c1Q1by1ZR2NzRkN5d25Ob3F6NmxSdER3WnNjb1NKVVhsRmFkUE0wS1o3U2ZVUm5wT0RTcEwxZDNfQkU0eXE0OFRvMVJyZ1JuWWdnZm1fUjFDbHpyVGw3ekVCM1Z3N1ZmYW5aU3lDSjFOcUtpV0JIRzJKSXVkUlFYcDVCaURDc3VXQUFGaWVmNTNRc1JUeTdsVFTSAaIBQVVfeXFMTlZLXzI3anJ2bHBTbXd4c1hxcDNaaE9VRXd3eXRIZ1FvU1lEVmZibXU0eGl3bmZySmxmQThnMlFYWmctMDVXcmlrSW5ucTFWeGxQakIweDZaRjFIazBGUGN1dnh1cUFERVkwRmhjeDVqbW56T3dhN0lMR3FiWmVMR2JEalRxNzlkdmVmUEhWZ2ZiMXFfbDRReUhqSWtVMkNuYnRn?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Mon, 17 Aug 2026 19:36:00 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sun, 16 Aug 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 17 Aug 2026 19:24:00 GMT"
+      },
+      {
+        "title": "Mourinho green lights bombshell Real Madrid raid on Arsenal for star open to move",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZU9CTDVWLWYzMnZvRDZnWnJOcW0xTVllS2N1OUJQQm5USHowdVQ4aXlUWVlFVzBmRWdGU3dGVTVRekVHbmlJMFdsTUJYcGs2S2VNNE5FR2NLc0t5MUhlWWhWY01Ed1p0Y0hUSVFGX3lpSWpHVGtYZ2ctX1hfczhYNTJlSHpLYnVrVndhQzA5MmstNHp1eXBIYmU2bXNFUQ?oc=5",
+        "source": "TEAMtalk",
+        "published": "Sun, 16 Aug 2026 13:30:07 GMT"
+      },
+      {
+        "title": "Arsenal Must Hold Real Madrid To Ransom Over Midfielder Transfer",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFQzSlBrZGJKMGlEMmpaV0ZvNWFGdTUydEljcWM4NldYRGNrUm90cVlzSHREeTFhOGRVN204bG9mRGlSLWM0YmNRM2wyaWZ3WEk2XzFnZmJxTC1rUVBERHpXZmxZVFN6ajhjSlF3Q2k3ZERJeEtaWU9kZTY2cEJKREcwUVBXSDJSVExCblFEM1Axc0k0WF9QbVJsUHVvdw?oc=5",
+        "source": "GiveMeSport",
+        "published": "Mon, 17 Aug 2026 17:15:13 GMT"
+      },
+      {
+        "title": "Real Madrid sell Jacobo Ortega to Strasbourg for €10m in historic academy deal",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd0IxNVJJZVA3b0NtWTFodjhvM2loN0pyRWE5bWd0eTFWYUJvd1hESlN0NTZFMDZVM0k5NkdoX0FxWDZ2dmlsbnE2am1UXzJKMGV3MFdWY1BIWUhHM0VvM3pLV1lqSDYtZklPc1dsdGpCLU5GZ01FZmU1S1BfakUwSFpBM1BVenpMbWlWUzhDM01udG5zcUNWTlhyT29qZHdDRW5Bc1Zha21MUkg2TWFqSFFraHdpRVVQTDZFN28xQzFoQ3BrZnNkbFZaNEdKTmNpU1FXejJkTUNWaEdCdEE?oc=5",
+        "source": "Managing Madrid",
+        "published": "Mon, 17 Aug 2026 14:42:17 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Antony talks decision on picking Real Betis over Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMTE1d3UxOG1UR2Y4YWtaZmFSczdKaDRoS3Z0UXNyOGJIejNjbldiV2tSRkNJNmw3SFZCMVNmLUM3RnlKNjVheUdlb0NZYVRkS2RFWk1lUTZDSEJrWkFJbWNsRWktQml1Z29jcU83c1lMZXJKaUhNSmtUNzY4ZzJIaE5mSC01dkEyWWY5bFAzeWw1SHdxS1JQMEFsM2dhZkIyak94TGY2Um1OUFdpZkd2RHlySVJRLTRMVzRncjRnUUVvVjNTSWFBcUVoT0drWWFTWUs3aTh1MXJKQQ?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 17 Aug 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Man Utd make approach to sign Bayern Munich star after £52m Chelsea transfer",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDlEY0toc1RVcWFKczdYQTVmTTgxOWIzcF9rek5FcElES1RHeWtBSVpnN3VwUmpYbmJDN1hhX3k3SkJhUFNnakJ4N3FpZ2lvUDFDWHhJN05td0Rrb0I2TEVrSFJaQjJNa0FpenlsQTRpOWtpNTlXWkIwVWMwWmktQko3a3ltLTNWekF2djN6RHhNbzViMmxGOHAwVHIydGNNNjBHVE9aUXItaVXSAbABQVVfeXFMT1liLUFMbldSSUR2SFNjQk83WXdGd3QwZk5ET2o3OUFwM1N2X0hpWDFTVk40aFRtMEhOZ2FidER1US11RlVyWDltVmQxVnJsTGIycVZrMS1zSS02ZF9Kdy02N2kycHh3NHFXRkFlTy1xQmI4emd5VjRLOUVsS2VmdXh6WWV4bGp6T2lkcV9UOUhHOUEzR2RwbXozcURUMi1qNVZDUzduS3JpRHZjeU1GdFc?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Sun, 16 Aug 2026 08:52:00 GMT"
+      },
+      {
+        "title": "Newcastle’s Move for Bayern’s Palhinha Confirmed After Collapsed Transfer",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZDZMdTd6SERQMTVRQ0Qyd3hhaXA0Vi1jb282aWFuNVBtUDFJT0tlaEdKVXZLX1hHS3N2c1ZURlBic2JDZE5uekZjQ01rU1hsb1NOdnBQWTJaeXQ5eUM4RHgzQW1Rd0poTzNlNU53S3FyanU3T040NVlTSXJUaHIzRGYxX1JSM2hDdU1zN2VWY3dlLUVrY0pEQUI2dUl6d0F5YTBQUm1fODB2V1M5T2UwVWMtVk9zTExmQmRNODlOYWg2ZzItdlJESnBfWmI0VWZNVjVNQ3FhQjlnZms0MG9ZNDRkcTFlSkt4N2h2Qw?oc=5",
+        "source": "SB Nation",
+        "published": "Mon, 17 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Bundesliga transfer flop: huge misjudgement instead of a move to Bayern Munich!",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY2VHN181bE1BSjM2UGc0SGFDdk90ZHlhdUhlYmUxSGhJd0VHZmNoaUpaZlluTktTcUNvVU9CTmxrYS03UF8xdlczZ1NGU0x0blZqTFJWZnFWVFJGQmY4VWtIZ3Z2cWJDWnpUUFFkbmlIS1RSZzJZVjlITWJMRHJDTktSdERSMkI1QVVLNF9mdXhCdFA0MDQwR1UwLThPZ1l0WDYwNk9wd2stNUt1ZFJRNldfclhiMC1JdlVmSTJzU1k3TUhxR1dvVTJ5T0xYZnR3LXBaNXVVT2tZVjUtZTdmaFlHcFM?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 15 Aug 2026 07:40:45 GMT"
+      },
+      {
+        "title": "Former coach says Arijon Ibrahimović can succeed at Bayern Munich, but he’ll have to work for it",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONDg4enV5ZjNuTGx1ZnAxT3JGUzV1RFloLUJJV241a2J3R2pDTFBZM0JuMU5PYlVpNm9zcHg5TFg5NXRISnltQUFOazl6NUNRTEZPMDU3cDJMQy1TVUVpbndjN2Y4Tm92VEVfNzRzT3c2Z2EyRTVpVTNyM2FDQjhiMWROeDdlWmxlVHNNQmpDa25GZG9DYUpzNVZqTlBLdDFwdW9UTnhtLUltanRsaHB1U3RBVDJiZFJmTWVINlh1WHFFcnJNVE5vMmVlb09leS1BRGNMTGlzdWNjUFpYNDJ3aUswMFk4WFVBaTl1RmtmOUw0V29lY3k3NWQ1NjU3X1RLLXpaMg?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 17 Aug 2026 20:00:00 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd eye striker deal; double Liverpool boost; Chelsea latest",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWdtZTlsc1MwOEFjV3Y2UGM4OEdsTTNIR1o3aV9SdllOWVU1eDVNTkxiM3l0UDcxZy16LXRGdGhCZ1IwbjNaNlJSUllUZG01Nl9OaVpoQzJ3M3F5a1hLTHZ3TXpaZ0dzbkhkdzhBdW9iV0phNWFBZXJvOGk4Skk1OGlVcTVCbkFaNVRaTDFoOGotQThVWHdpZUk1U0R0YlljdjFBXzh4dktDdWVHZWpCTTlzcGxrcmJsVmhHMUJPODNCRVlUQVVlLWQwMWJ1QWZ6?oc=5",
+        "source": "London Evening Standard",
+        "published": "Mon, 17 Aug 2026 20:31:10 GMT"
+      },
+      {
+        "title": "‘We are weaker!' - Mikel Arteta issues urgent Arsenal transfer plea despite statement Community Shield win over Man City",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVV85RzlwQW9VaW5ZU2YtUV9YVjRpU3NwTmhBbG80S215OHNGNkRRNnUxZXUyLXVLRFZKZ211SV9qbFQydTFXU0JQWWFFeGQ4MzN2OGtXaE9FTnJ3NVFpUERVTDNUZFhqRmlHSWMyZnR4a200YTVvNTVNa0NnYTR1WFNBeUNwdWVpR2VZMHJLVzNYVGhDVEFrVFp4ZXBCa0ltaU93c21fa0JhYTQz?oc=5",
+        "source": "Goal.com",
+        "published": "Mon, 17 Aug 2026 10:46:09 GMT"
+      },
+      {
+        "title": "Arteta delivers Arsenal transfer update as Deadline Day nears",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFYd1hfcWZSTURULVF4RjBtTjNqc3BHZ2RvdzViVHBhcUNfMmdBWWNnMkJKMnp4Y3ktWFU4a3djeVFyZXJMNnBOaUR0Zml6M1dNYlV3QVVhVVpNQTd3b1VUbUFYUzVuWnI2LXhDZi14eU1oeVZCeWJCYTVqRm1YdDY3enNGcmxxTFdnNzdoaEFYWHM?oc=5",
+        "source": "London Evening Standard",
+        "published": "Mon, 17 Aug 2026 09:26:58 GMT"
+      },
+      {
+        "title": "Arsenal: Why Gunners' Community Shield win leaves more transfer questions than ever",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHpSdEVxOTVtQkRmMzhHWnpBcHFTUlViLU5DNWZYanpqVFVvX2RyenEzbkVnYk5aaS1aQkdrTTZfSEt1ZUprZzIzNFVPXzI4dWUwR0pQRzNYSDlnMDU4WjZxS2F3QTRyb0dOVl9jS1lQSkc2V28yNDA0WE1rOEpLVHBwMEFFUFZ1OGR6bGVaTlNTNEJoZXdmTGFpdWxMaGF2QTFKZElXeXNUU1BxUXQwUTNENUdyNXdsSW94QjRtR2FwbGw1ZnA3cnVVSHJBSkRISENr?oc=5",
+        "source": "Sky Sports",
+        "published": "Mon, 17 Aug 2026 12:38:50 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 17 Aug 2026 19:24:00 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
