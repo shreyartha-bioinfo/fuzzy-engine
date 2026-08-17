@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:05:37.871337+00:00",
+  "updated": "2026-08-17T10:54:14.508708+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,28 +1538,28 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sun, 16 Aug 2026 23:05:00 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd eye striker deal; double Liverpool boost; Chelsea latest",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWdtZTlsc1MwOEFjV3Y2UGM4OEdsTTNIR1o3aV9SdllOWVU1eDVNTkxiM3l0UDcxZy16LXRGdGhCZ1IwbjNaNlJSUllUZG01Nl9OaVpoQzJ3M3F5a1hLTHZ3TXpaZ0dzbkhkdzhBdW9iV0phNWFBZXJvOGk4Skk1OGlVcTVCbkFaNVRaTDFoOGotQThVWHdpZUk1U0R0YlljdjFBXzh4dktDdWVHZWpCTTlzcGxrcmJsVmhHMUJPODNCRVlUQVVlLWQwMWJ1QWZ6?oc=5",
-        "source": "London Evening Standard",
+        "source": "standard.co.uk",
         "published": "Mon, 17 Aug 2026 08:45:12 GMT"
       },
       {
         "title": "Transfer news LIVE: Shock Arsenal bid; Man Utd boost; Liverpool deal",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMTRSUG9kR1VGMWJaZEV4QTlPeFMyeE9STFQ2TGxWa0tUeTlGMS1OaHpKT29aYlJONzVsYU0zMm84T2UzSktncDhnWnBaQU9KWHZvQmJxNGpISEF4dEFqYVVfeWF0X3R3X2dYbmRvdEs4RWpQWk9hdm8tTXQwNmNQSlVLcE1URkZwQW5YZ0ZNQTJTbThLaW1xbnJ3amlWTHFWV0RxamhvdjRBQVZzbDRtd0hmMDd1VXlkWVZSS0JtS0k0ZENBMDhfLTJybV92d0JEMEN1NjVB?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sun, 16 Aug 2026 22:33:05 GMT"
+        "source": "standard.co.uk",
+        "published": "Sun, 16 Aug 2026 22:33:57 GMT"
       },
       {
         "title": "Transfer news live as Barcelona agree Rodri deal and Liverpool get Barcola boost",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
         "source": "Daily Mirror",
-        "published": "Mon, 17 Aug 2026 08:59:05 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 16 Aug 2026 23:05:00 GMT"
+        "published": "Mon, 17 Aug 2026 10:16:46 GMT"
       },
       {
         "title": "Manchester United: What shape are club in ahead of Michael Carrick's first full season in charge?",
@@ -1576,16 +1576,16 @@
         "published": "Sun, 16 Aug 2026 23:05:00 GMT"
       },
       {
-        "title": "Jose Mourinho doubts Real Madrid man's quality as Man Utd prepare to swoop",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmNzVlVaMDJabXBWZXVMbk9mY0FnNkVBREtXaS1ScW8xLVhpSGNETmd0Qk9qYzd5TFc1bE03U1lvS2hja1ZZNlhSNnZEd0tFM2ZlMWItM0RaQjRyN29wR0dOa3Z5M2JjaUFfUUtDb0piZ05ybzd0TkZoS3VROXNSUWNMX0FfOWF3Yzk2QUR5N0QxdjE0U3UwQjdONEE3clpUNjhPag?oc=5",
-        "source": "Football365",
-        "published": "Sun, 16 Aug 2026 13:44:16 GMT"
-      },
-      {
         "title": "Real Madrid transfer news: Mourinho green lights bombshell raid on Arsenal for star open to move",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZU9CTDVWLWYzMnZvRDZnWnJOcW0xTVllS2N1OUJQQm5USHowdVQ4aXlUWVlFVzBmRWdGU3dGVTVRekVHbmlJMFdsTUJYcGs2S2VNNE5FR2NLc0t5MUhlWWhWY01Ed1p0Y0hUSVFGX3lpSWpHVGtYZ2ctX1hfczhYNTJlSHpLYnVrVndhQzA5MmstNHp1eXBIYmU2bXNFUQ?oc=5",
         "source": "TEAMtalk",
         "published": "Sun, 16 Aug 2026 13:30:07 GMT"
+      },
+      {
+        "title": "Jose Mourinho doubts Real Madrid man's quality as Man Utd prepare to swoop",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmNzVlVaMDJabXBWZXVMbk9mY0FnNkVBREtXaS1ScW8xLVhpSGNETmd0Qk9qYzd5TFc1bE03U1lvS2hja1ZZNlhSNnZEd0tFM2ZlMWItM0RaQjRyN29wR0dOa3Z5M2JjaUFfUUtDb0piZ05ybzd0TkZoS3VROXNSUWNMX0FfOWF3Yzk2QUR5N0QxdjE0U3UwQjdONEE3clpUNjhPag?oc=5",
+        "source": "Football365",
+        "published": "Sun, 16 Aug 2026 13:44:16 GMT"
       },
       {
         "title": "Jose Mourinho personally blocked Real Madrid midfielder Premier League transfer – report",
@@ -1594,10 +1594,10 @@
         "published": "Mon, 17 Aug 2026 09:35:00 GMT"
       },
       {
-        "title": "After losing Rodri: Real Madrid commit the biggest transfer window blunders",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1FXSm9VZ2pYTGpoUmg3dXJaVXQyc2ZEN1I3Y0hNM2taRXo1d2FlTlozZjZtTjRjQmU0Y2xkRGczS2ZQUG5QQzlRN3dXZUZmc3Bmb3RtNE0tOXU1Mmt1TmFwMHJHN2YwS1ZCUXZocHNCNkVpTWIxU3lEYUtEbnp4Zkc4YW9zT2d6MnZEYXJMRnlRbm5sM3FzRDVWLXA3UzdodWF1Y0xoMnY4aDh1LTliRU5xZXZOektHM2lCcGZJVjc?oc=5",
-        "source": "goal.com",
-        "published": "Mon, 17 Aug 2026 06:37:44 GMT"
+        "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkl1azVRc0NOUXFoOUtGdktUYjhQZDNqQnE5bUQ1LVpYSENtdjd6UXdyU2x3dVkzVGtKNUJLcWJtWjU4RHhHR09XREpNWVlndXlSM1hfczFsOXZzS21LSzRZOW5rN1lfazdZUkJ2cWs4czZnSnFrQ0c2S3d1MnI0TExEOFgyYmhrLVJPOFlJOUhvOGJaUWFKR25sUDVkdTV3dUdJVGluVjhuY0ZFM3hKWWExONIBuAFBVV95cUxNUjdSbEFBWlBid1R0MXpCMUNHTnVpcVJKekFWbUl4cENsM2tQZ0d5bWdmQUFleTNIRlc1NGVXeTRVT0k3bHZSRGs1RHVndWUtbmU4dDY5MVEwak1HZHRWNS1mck1ZNVhaVnZWTW5NOG14TXQ1MnloTExlTFAxVlJQUHloSE1SbHZxeWFlaGdNS3hSYWhKcTNDOE5sNDJ3Y2hydzBrZ2RSZzlSUmhNNEN6WEVqLU5NSDFH?oc=5",
+        "source": "Al Jazeera",
+        "published": "Sat, 15 Aug 2026 18:27:52 GMT"
       }
     ],
     "fcb": [
@@ -1620,16 +1620,16 @@
         "published": "Mon, 17 Aug 2026 07:00:00 GMT"
       },
       {
+        "title": "Bundesliga transfer flop: huge misjudgement instead of a move to Bayern Munich!",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY2VHN181bE1BSjM2UGc0SGFDdk90ZHlhdUhlYmUxSGhJd0VHZmNoaUpaZlluTktTcUNvVU9CTmxrYS03UF8xdlczZ1NGU0x0blZqTFJWZnFWVFJGQmY4VWtIZ3Z2cWJDWnpUUFFkbmlIS1RSZzJZVjlITWJMRHJDTktSdERSMkI1QVVLNF9mdXhCdFA0MDQwR1UwLThPZ1l0WDYwNk9wd2stNUt1ZFJRNldfclhiMC1JdlVmSTJzU1k3TUhxR1dvVTJ5T0xYZnR3LXBaNXVVT2tZVjUtZTdmaFlHcFM?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 15 Aug 2026 07:40:45 GMT"
+      },
+      {
         "title": "Former coach says Arijon Ibrahimović can succeed at Bayern Munich, but he’ll have to work for it",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONDg4enV5ZjNuTGx1ZnAxT3JGUzV1RFloLUJJV241a2J3R2pDTFBZM0JuMU5PYlVpNm9zcHg5TFg5NXRISnltQUFOazl6NUNRTEZPMDU3cDJMQy1TVUVpbndjN2Y4Tm92VEVfNzRzT3c2Z2EyRTVpVTNyM2FDQjhiMWROeDdlWmxlVHNNQmpDa25GZG9DYUpzNVZqTlBLdDFwdW9UTnhtLUltanRsaHB1U3RBVDJiZFJmTWVINlh1WHFFcnJNVE5vMmVlb09leS1BRGNMTGlzdWNjUFpYNDJ3aUswMFk4WFVBaTl1RmtmOUw0V29lY3k3NWQ1NjU3X1RLLXpaMg?oc=5",
         "source": "Bavarian Football Works",
         "published": "Mon, 17 Aug 2026 05:30:00 GMT"
-      },
-      {
-        "title": "Bundesliga transfer flop: huge misjudgement instead of a move to Bayern Munich!",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY2VHN181bE1BSjM2UGc0SGFDdk90ZHlhdUhlYmUxSGhJd0VHZmNoaUpaZlluTktTcUNvVU9CTmxrYS03UF8xdlczZ1NGU0x0blZqTFJWZnFWVFJGQmY4VWtIZ3Z2cWJDWnpUUFFkbmlIS1RSZzJZVjlITWJMRHJDTktSdERSMkI1QVVLNF9mdXhCdFA0MDQwR1UwLThPZ1l0WDYwNk9wd2stNUt1ZFJRNldfclhiMC1JdlVmSTJzU1k3TUhxR1dvVTJ5T0xYZnR3LXBaNXVVT2tZVjUtZTdmaFlHcFM?oc=5",
-        "source": "goal.com",
-        "published": "Sat, 15 Aug 2026 07:40:45 GMT"
       }
     ],
     "ars": [
@@ -1637,12 +1637,12 @@
         "title": "Transfer news LIVE: Liverpool and Arsenal get Barcola boost, Man City identify Rodri replacement",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmpRcHFGRlF4dXJUd0tlWGEtRGhPb1ZtQUtabG10aUtERjczNjhKOTRXdmhQb2ZaU203OXJVaGZhMGVva08xWXkxa2dnMDZBY1RyNTJHc1JETHhLZ0VVUGdhbWRmLTFUaVNoNzNPMERmWVprLUdsRjVqbllQNWdlQmdyTS1peDRjQVdHWkZnSVFPcDN5V1hRMlQ1eGJuajRmdzZ2NkxnazI2OU1TX190WA?oc=5",
         "source": "The Independent",
-        "published": "Mon, 17 Aug 2026 09:33:51 GMT"
+        "published": "Mon, 17 Aug 2026 09:15:38 GMT"
       },
       {
         "title": "Transfer news LIVE: Shock Arsenal bid, Osimhen twist; huge Man Utd boost; Liverpool deal close; Chelsea latest",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzBodXJWSm9seUt4UGxjSGtjREtSZDhxTVJ0bU9pWnY5THU5ZFQ4VEtzcmtvTjU2RXNJUy1GVU9iNV95NmQ4dUR6eUpDbWNEbWVQWm1TLVRzYmFicGVYRFhobWhSUFdvbmVoS0NKdk1aVU1SWXZCU1lPcEhYZXkyVEpvMG5hR2Q4TDYwZ3k5MHB1WUszQXI5OEhFMUVTZlg2RHlNMmJabVltWHFnMll0aG5fTGxBMUFuOUYzSnI4bk5IbEZ0ajNfUWZFVVgxVWhwZnNIM0NqbktFeGlnY0w4?oc=5",
-        "source": "London Evening Standard",
+        "source": "standard.co.uk",
         "published": "Sun, 16 Aug 2026 22:17:49 GMT"
       },
       {
@@ -1652,16 +1652,16 @@
         "published": "Fri, 14 Aug 2026 22:59:12 GMT"
       },
       {
-        "title": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 17 Aug 2026 07:29:00 GMT"
+        "title": "Osimhen gives Arsenal transfer green light",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrME44VGF6UnRqUzBiTENVdUItYXF5Zi1vSDBsc3BfU2lWak9aQkFYM3lPZFRDU205Zy1fVC1EY0dHTTc1ZWlZMHFEUmhWdnVObmRBN18wbkxtQ1VlYlNCaTRSaGZOWkpfdjllZXBkYUc?oc=5",
+        "source": "Punch Newspapers",
+        "published": "Sun, 16 Aug 2026 00:20:01 GMT"
       },
       {
-        "title": "$125m blockbuster as Spanish giants land World Cup hero; shock Arsenal raid looms – Transfers",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdS1FbXAxdTRaU1FOOWt2aUl5ek9HY29zR196alctSjdDd0dxN1pybEUtcm5nQVlycXJUWi11ekRxakdpeWF5YUZSaFRqYmZYVTVfTU4xT2FyWVQ2bEFpdUtDT3dnazdGX21TV1Nqc29iSXJ2UE03aVhDTlpIRE9KNGVGQ3ozWmdqNlVsWk1WaFkyYktyVXZqMUpkODRmNndweDU4Y1ZXWkZxT1BCSUN0VE4weWhtQ0tTZEpoVTdtOHFEcE9DZUQtUW1IWVoyRTU1NkJjc0xUSDBIZGtLYl9kZ0k3YlBkamhpNTZDcmg5MDhTZmp3V1BESGZ2VGRZVmNSMnpTM0l5WjVOVnU0SEt4anhSV1VqcXJRZWZDbUpuLXY1SUhVNXh1S3hySUcyNVVhdHo5Z2h2Q3VRYjNoOFE3M3BtTWpSMG05WEcxTjRUeDNDX3dH0gHUAkFVX3lxTE11LUVtcDF1NFpTUU45a3ZpSXl6T0djb3NHX3pqVy1KN0N3R3E3WnJsRS1ybmdBWXJxclRaLXV6RHFqR2l5YXlhRlJoVGpiZlhVNV9NTjFPYXJZVDZsQWl1S0NPd2drN0ZfbVNXU2pzb2JJcnZQTTdpWENOWkhET0o0ZUZDejNaZ2o2VWxaTVZoWTJiS3JVdmoxSmQ4NGY2d3B4NThjVldaRnFPUEJJQ3RUTjB5aG1DS1NkSmhVN204cURwT0NlRC1RbUhZWjJFNTU2QmNzTFRIMEhka0tiX2RnSTdiUGRqaGk1NkNyaDkwOFNmandXUERIZnZUZFlWY1IyelMzSXlaNU5WdTRIS3hqeFJXVWpxclFlZkNtSm4tdjVJSFU1eHVLeHJJRzI1VWF0ejlnaHZDdVFiM2g4UTczcG1NalIwbTlYRzFONFR4M0Nfd0c?oc=5",
-        "source": "Fox Sports",
-        "published": "Mon, 17 Aug 2026 03:53:58 GMT"
+        "title": "Victor Osimhen makes Arsenal transfer decision after Galatasaray warning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamN2WWl6bHFYa0l3SEhzSE83YTI5V3ltbjNyYXlxdFJLLUQzMEg3U2hIbFVTaVZ3RE9hWUl2MEhkNEdLMGRhWHVvNjBnSENFMXdGczlvd2poTDRHTjc0a1dUMXg2U1Jrc0ZsM2lkSF83YWYtb2FrNmNDblhwdGV0UG1VSWdHenUya1Z4YzJINkhjMW9LeExGcVJ3ZzJ3dGo2cl9OcFdFVndDbjjSAbABQVVfeXFMTU02eHVtd1Q3MFpqTlNRZU52QVFnTTJhblNuRFBOZUlNQ24wa0VWZE5tVWlGRHhEVWticEFtcVNxVXpEdS1FZ3h4ZjJHc2lfaHZhNjdqUGNSQkRlUy1pSl9ZTHNkd2tWamdPNUlTWndyYlFxMnZTd3pOcTNEdDVqRmh3ek1GR3pBZ0VkZW5leUhnZXFVM2lWeC1LcGdEQVhrNHFJYldkUERvWkVsazNGWGE?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Mon, 17 Aug 2026 08:44:00 GMT"
       }
     ]
   },
