@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T04:08:59.633751+00:00",
+  "updated": "2026-08-17T05:04:53.496337+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1541,19 +1541,19 @@
         "title": "Transfer news LIVE: Shock Arsenal FC bid, Osimhen twist; huge Man Utd boost; Liverpool deal close; Chelsea latest",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUkVpLTUxNzR3V3FyLWRSeTAzZldwaGRPZTdMSFVBdUhmRklaRW1wZWVnU3NnbDRINEluVVpmV2dQSjJYRE9uaWFHUU1SMzBDZVhoSU9jYWU0OUNPTjV1T0RYellVT1QxWTljNmpYMWRYaWxOVFRiTGVGbVhaOGpvSmVNMEtaUU03VnQwUWZJX3hZQjd2UkVLUFZTelFjWVVaNXRsNjNoTzRFMmMydU1tMU5VMmMwbC1RUlJoc3pXMFJ6cFE2c1hVNjJ6QmllZ19heVVIZGJCTV85VE1QanJv?oc=5",
         "source": "London Evening Standard",
-        "published": "Sun, 16 Aug 2026 22:53:09 GMT"
+        "published": "Sun, 16 Aug 2026 22:57:55 GMT"
       },
       {
         "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
-        "source": "Sports Illustrated",
+        "source": "si.com",
         "published": "Sun, 16 Aug 2026 23:05:00 GMT"
       },
       {
         "title": "Transfers LIVE: Man City sell Rodri to Barcelona and identify replacement",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjl6Y040eDVDeHVTQ19EYk5xS3Y1LTQwclZDbi0yam1rd3B0NEdNV1o2QXI0ejBWY1hCRWZhVS10UXl6d0s1MFZrZFh0S09fZ1dFd2ZTUHRHbUIzMXdDRnBnR3FrUUdSemNMU0VxRVY1bGxTT1g2VF9lV2RtQ3EyTHpfaFhGbVVsVG40ZWVJRkZUWmRqQWNWdTFhRkNFaUR0Tmd6UUhEc1JocUFENmUzUw?oc=5",
-        "source": "independent.co.uk",
-        "published": "Mon, 17 Aug 2026 01:30:52 GMT"
+        "source": "The Independent",
+        "published": "Mon, 17 Aug 2026 03:00:52 GMT"
       },
       {
         "title": "Man United transfer news LIVE: Lewis Hall truth, £85million interest, Kim Min-jae stance",
@@ -1570,12 +1570,6 @@
     ],
     "rm": [
       {
-        "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 16 Aug 2026 23:05:00 GMT"
-      },
-      {
         "title": "Jose Mourinho doubts Real Madrid man's quality as Man Utd prepare to swoop",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmNzVlVaMDJabXBWZXVMbk9mY0FnNkVBREtXaS1ScW8xLVhpSGNETmd0Qk9qYzd5TFc1bE03U1lvS2hja1ZZNlhSNnZEd0tFM2ZlMWItM0RaQjRyN29wR0dOa3Z5M2JjaUFfUUtDb0piZ05ybzd0TkZoS3VROXNSUWNMX0FfOWF3Yzk2QUR5N0QxdjE0U3UwQjdONEE3clpUNjhPag?oc=5",
         "source": "Football365",
@@ -1588,16 +1582,22 @@
         "published": "Sun, 16 Aug 2026 13:30:07 GMT"
       },
       {
-        "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkl1azVRc0NOUXFoOUtGdktUYjhQZDNqQnE5bUQ1LVpYSENtdjd6UXdyU2x3dVkzVGtKNUJLcWJtWjU4RHhHR09XREpNWVlndXlSM1hfczFsOXZzS21LSzRZOW5rN1lfazdZUkJ2cWs4czZnSnFrQ0c2S3d1MnI0TExEOFgyYmhrLVJPOFlJOUhvOGJaUWFKR25sUDVkdTV3dUdJVGluVjhuY0ZFM3hKWWExONIBuAFBVV95cUxNUjdSbEFBWlBid1R0MXpCMUNHTnVpcVJKekFWbUl4cENsM2tQZ0d5bWdmQUFleTNIRlc1NGVXeTRVT0k3bHZSRGs1RHVndWUtbmU4dDY5MVEwak1HZHRWNS1mck1ZNVhaVnZWTW5NOG14TXQ1MnloTExlTFAxVlJQUHloSE1SbHZxeWFlaGdNS3hSYWhKcTNDOE5sNDJ3Y2hydzBrZ2RSZzlSUmhNNEN6WEVqLU5NSDFH?oc=5",
-        "source": "Al Jazeera",
-        "published": "Sat, 15 Aug 2026 18:27:52 GMT"
+        "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
+        "source": "si.com",
+        "published": "Sun, 16 Aug 2026 23:05:00 GMT"
       },
       {
         "title": "Carlos Espi, Real Madrid’s 6ft 4in summer signing who still flew under the radar - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDRuNGRMNFZfUk82clpiRFdkTVkwYzN3ekYySkhRSDNBVm12Sm0zWXpOUTlCM0NRMEFrN1hVS0E2Sy04eV95aEo2RllabnozMTVWemdFOFAteVFyU2tMa3RXOEFMODhPSjJteWk3WDFZaFJ5TmlxX3Z4QU80bXRyQjR0RlZ3VEFXUUtEWDVDaFFEc0tjREY5ZA?oc=5",
         "source": "The New York Times",
         "published": "Sun, 16 Aug 2026 08:27:07 GMT"
+      },
+      {
+        "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkl1azVRc0NOUXFoOUtGdktUYjhQZDNqQnE5bUQ1LVpYSENtdjd6UXdyU2x3dVkzVGtKNUJLcWJtWjU4RHhHR09XREpNWVlndXlSM1hfczFsOXZzS21LSzRZOW5rN1lfazdZUkJ2cWs4czZnSnFrQ0c2S3d1MnI0TExEOFgyYmhrLVJPOFlJOUhvOGJaUWFKR25sUDVkdTV3dUdJVGluVjhuY0ZFM3hKWWExONIBuAFBVV95cUxNUjdSbEFBWlBid1R0MXpCMUNHTnVpcVJKekFWbUl4cENsM2tQZ0d5bWdmQUFleTNIRlc1NGVXeTRVT0k3bHZSRGs1RHVndWUtbmU4dDY5MVEwak1HZHRWNS1mck1ZNVhaVnZWTW5NOG14TXQ1MnloTExlTFAxVlJQUHloSE1SbHZxeWFlaGdNS3hSYWhKcTNDOE5sNDJ3Y2hydzBrZ2RSZzlSUmhNNEN6WEVqLU5NSDFH?oc=5",
+        "source": "Al Jazeera",
+        "published": "Sat, 15 Aug 2026 18:27:52 GMT"
       }
     ],
     "fcb": [
@@ -1634,10 +1634,22 @@
     ],
     "ars": [
       {
-        "title": "Arsenal transfer news: Gunners lead race for Brighton midfielder Jack Hinshelwood - Paper Talk",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHZJNWtzdVNsRVNWUElEMGVDQzBYUGgxOWFEeXBsRmwtUGJaNS1KbDB3VHNjemRjSTNWUWw5YnhkMHBHbEltdlpBVzRwWTdMN1NrdzBuV3MtcUtmMXJvUU52aXcwVjRUcWVCT0w1ZERLc3k5Qkl5U1hJX19UdXhhdndUcHlRdTlkMFUtbHdFcFJFbzBKYThmVFhjd0hvemlSbkFhdXptWjc5Y280VWhtb29CRGJ4dXpydEhPSHY0aFl4YWZEU0FJWDR6QXE4c0ktdGFqLUFqclRiN2lNdVdB?oc=5",
+        "title": "Transfer rumors, news: Como want Chelsea's Delap to bolster attack",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2ZhXzY2MDVudjIyUGlhendvUEU3RWItUWdrT09yQTVTTWxIOUNGalQxRl8yQjlGMzFEQTVkNHkxNWpwNllBd2lLOXZZRjNQTkZrMTZvaWYydEwwU0Y3VlBZMHB5dGpmZV9pdkwya05RS3RKTEt0dVBuZEJkZmRjWDZQZkx5a0l1eHFOZFFib3BXOFlKMjRuVzhFQmUycDJVNnVmTExmbVNNSWMyX1VDeg?oc=5",
+        "source": "ESPN",
+        "published": "Sat, 15 Aug 2026 18:57:00 GMT"
+      },
+      {
+        "title": "Chelsea transfer news: Liam Delap and Pedro Neto move closer to exit door - Paper Talk | Football News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa19JRUJmWUZ6TmV1d3hjZ0ZsRXdNclRPUVc3ZGgtZnVqaW8tQ2VnSmdPSVZaX0VqM2lqeVJvc3lBZkpsRGo2RGJSUkYxQnFSTU91eWlVdGRkNUhqSU1sR2Vyd01lVmRlUmJoWmlxNnVRVXdyVzBzREF5eldDSWN0dzB6ME05ZE53bzIxNlJRYWduX0dJVGJ0ZVlNSU5Tenl2RWc0LU90YU5aS09IUGtvSDljVk5Eeld5WkxHMWJ6bERNN2x3cUVjZ1E1S0stSXVZTWNLaQ?oc=5",
         "source": "Sky Sports",
-        "published": "Fri, 14 Aug 2026 22:59:12 GMT"
+        "published": "Sun, 16 Aug 2026 22:01:07 GMT"
+      },
+      {
+        "title": "$125m blockbuster as Spanish giants land World Cup hero; shock Arsenal raid looms – Transfers",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdS1FbXAxdTRaU1FOOWt2aUl5ek9HY29zR196alctSjdDd0dxN1pybEUtcm5nQVlycXJUWi11ekRxakdpeWF5YUZSaFRqYmZYVTVfTU4xT2FyWVQ2bEFpdUtDT3dnazdGX21TV1Nqc29iSXJ2UE03aVhDTlpIRE9KNGVGQ3ozWmdqNlVsWk1WaFkyYktyVXZqMUpkODRmNndweDU4Y1ZXWkZxT1BCSUN0VE4weWhtQ0tTZEpoVTdtOHFEcE9DZUQtUW1IWVoyRTU1NkJjc0xUSDBIZGtLYl9kZ0k3YlBkamhpNTZDcmg5MDhTZmp3V1BESGZ2VGRZVmNSMnpTM0l5WjVOVnU0SEt4anhSV1VqcXJRZWZDbUpuLXY1SUhVNXh1S3hySUcyNVVhdHo5Z2h2Q3VRYjNoOFE3M3BtTWpSMG05WEcxTjRUeDNDX3dH0gHUAkFVX3lxTE11LUVtcDF1NFpTUU45a3ZpSXl6T0djb3NHX3pqVy1KN0N3R3E3WnJsRS1ybmdBWXJxclRaLXV6RHFqR2l5YXlhRlJoVGpiZlhVNV9NTjFPYXJZVDZsQWl1S0NPd2drN0ZfbVNXU2pzb2JJcnZQTTdpWENOWkhET0o0ZUZDejNaZ2o2VWxaTVZoWTJiS3JVdmoxSmQ4NGY2d3B4NThjVldaRnFPUEJJQ3RUTjB5aG1DS1NkSmhVN204cURwT0NlRC1RbUhZWjJFNTU2QmNzTFRIMEhka0tiX2RnSTdiUGRqaGk1NkNyaDkwOFNmandXUERIZnZUZFlWY1IyelMzSXlaNU5WdTRIS3hqeFJXVWpxclFlZkNtSm4tdjVJSFU1eHVLeHJJRzI1VWF0ejlnaHZDdVFiM2g4UTczcG1NalIwbTlYRzFONFR4M0Nfd0c?oc=5",
+        "source": "Fox Sports",
+        "published": "Mon, 17 Aug 2026 03:53:58 GMT"
       },
       {
         "title": "Mikel Arteta drops massive Arsenal transfer hint as three star players miss Community Shield squad",
@@ -1650,18 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFYd1hfcWZSTURULVF4RjBtTjNqc3BHZ2RvdzViVHBhcUNfMmdBWWNnMkJKMnp4Y3ktWFU4a3djeVFyZXJMNnBOaUR0Zml6M1dNYlV3QVVhVVpNQTd3b1VUbUFYUzVuWnI2LXhDZi14eU1oeVZCeWJCYTVqRm1YdDY3enNGcmxxTFdnNzdoaEFYWHM?oc=5",
         "source": "London Evening Standard",
         "published": "Sun, 16 Aug 2026 20:45:30 GMT"
-      },
-      {
-        "title": "Arsenal duo expected to leave club after being omitted from Community Shield squad",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2hKV3VMOEpGYzQ3N0pha1FfWk0wQklzUEw4ckpja0NGRG5aTmtYYkd0dXJoeDJIaUk3LW9JWlFpTDFVMU9FSU5FQ0E5YXFyWGtyQXpiMkc1NFdVd0JGWjBtbi1pTUY3TE1TczRZdTNPQkNQbVluM1prc1dyZWEzeXFuR0ZjWTZSNDNKZjdJNjhPTVV6MFRDb1FBV081Tk14SFBhV2lOMERsem9OalJRM2tBNUtzME1na09EUlc1dw?oc=5",
-        "source": "talkSPORT",
-        "published": "Sun, 16 Aug 2026 14:23:22 GMT"
-      },
-      {
-        "title": "Arsenal transfer news: Who are Gunners like to sign this transfer window?",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wcW5YRS1mV1hLWnkzRmZPUzl1WlBSYWlhTGgyWDducmgzWWtGTXJLN1pBLXU3cUhRZVRqSnBoYnQ0ZXp1YU5wVXNTOEQtYV9sbkJlTFh0WFRYalNIWlJjUzlrNkNUa28?oc=5",
-        "source": "BBC",
-        "published": "Mon, 10 Aug 2026 20:32:37 GMT"
       }
     ]
   },
