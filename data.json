@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T21:16:31.290959+00:00",
+  "updated": "2026-08-19T21:47:09.154496+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,6 +1538,12 @@
   "rumors": {
     "utd": [
       {
+        "title": "Man Utd transfer news: Brighton midfielder Carlos Baleba close to Old Trafford move",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TUGsyVUFOZ3pIakxtUF9fRXVicEpDV0hMcXlhVWFSbnNpMWJSVDFvZlJYQ2RpM2JzT2VaTzZZellOdWlXSmloZTBJVkhiQ1B3dGlRVDhqcThZM2kwNDNNY2V3bWhma1k?oc=5",
+        "source": "BBC",
+        "published": "Wed, 19 Aug 2026 09:50:55 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHI1cFhoOEtwNkpyVm52V0tYTmU5VlhOeXRIMjZLZEpxNGJpOE5TXzl5bUlxUl9YSjdVMnhTNXdwLVNjLXZpTDdRcmtnSXhyV1p3OVBqaHBBN1VQSXBlUTZKNHBVTFpnSGI3Sk90N0hKdDk1VXM5LUhZc0RSd192QTJxY1g4MXNETWQzWU52NFVFVVZEazdOWFE2aXFSaV85WVRWOURzdmhIOV91ekplMG9PMV9MNVp3MTZBejZmUEZRRnVRZEFheVhQLThmdUU?oc=5",
         "source": "London Evening Standard",
@@ -1550,29 +1556,23 @@
         "published": "Wed, 19 Aug 2026 20:31:25 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal 'closing in' on move, Man Utd make £65m bid, Spurs huge double-deal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
-        "source": "Daily Mirror",
-        "published": "Wed, 19 Aug 2026 20:08:17 GMT"
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFPWTJyWXVkSGRBZl85dlR4NGprSW9adTdjdVlEUkRSdlVJb3Z2eDN4SG9zcGNIOFk0RmM5SkJTeF95MGdKeDRJZW9yVXJ0YmxIZUJ5YXE2SEM3QUkxcUFCcWM3djBOdXVmWi13RUtxWjY1MURPSUJOQW5OOU5LaTFYUWlNX0FCXzdWYmw4azVQVDQxRnJ5RVNLN2dlcVBiUHh1dzhuek9TeDlpaERfbnRILS0zdw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 18 Aug 2026 11:49:56 GMT"
       },
       {
-        "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5",
-        "source": "nytimes.com",
-        "published": "Wed, 19 Aug 2026 14:49:22 GMT"
-      },
-      {
-        "title": "Star baffled at move to Man Utd collapsing, as Romano confirms different deal will be agreed",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHN1V0pWT0ZRMW03Rm15eGhkcE5CdkhwOVpqS3Z3dnVvM25DZ3pCaEU4bkczWG9oUnNXUTBPem5CVno4TFFFV1Bub3RadkFhcnNvZTI0dkNsdlRtTlZRaS05SnRXazUxQ0o5WVJvalJvVTkzR0I1cnBxMXRCbk1LWndlMExZXzlYWkloeWM1NVJKZmVhd1M3Y19yVkhQWUphMk50RWxFcEFGVjhlaDBNYWdsVVRJaWZpTXg0?oc=5",
-        "source": "TEAMtalk",
-        "published": "Wed, 19 Aug 2026 16:28:10 GMT"
+        "title": "Marcus Rashford drops Manchester United transfer hint ahead of Premier League opener",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFUWWVUZDcyZXBMWE03bVo4VlVKSTRsTUk1bXdIYzczbkJkdy1ZSTBsdEVzanhtTE1GWmRrZnFFdW02YXkxSE1TNzVwY2VpSmR1di0xT1B0ZkR6b3JZaHYtVXllY1B3REQ4azFMV01wV2lvQU1vZFprS1RnaHlnUnYxTk1STnJ5eW5YMmRadU9kZw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 19 Aug 2026 20:49:13 GMT"
       }
     ],
     "rm": [
       {
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFPWTJyWXVkSGRBZl85dlR4NGprSW9adTdjdVlEUkRSdlVJb3Z2eDN4SG9zcGNIOFk0RmM5SkJTeF95MGdKeDRJZW9yVXJ0YmxIZUJ5YXE2SEM3QUkxcUFCcWM3djBOdXVmWi13RUtxWjY1MURPSUJOQW5OOU5LaTFYUWlNX0FCXzdWYmw4azVQVDQxRnJ5RVNLN2dlcVBiUHh1dzhuek9TeDlpaERfbnRILS0zdw?oc=5",
-        "source": "nytimes.com",
+        "source": "The New York Times",
         "published": "Tue, 18 Aug 2026 11:49:56 GMT"
       },
       {
@@ -1602,10 +1602,10 @@
     ],
     "fcb": [
       {
-        "title": "Vincent Kompany ‘big admirer’ of new Bayern Munich midfielder",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY19LeUd0d3BsU2lyQ21xOGNWQ1haMjNFSDJ0cU5nd3VFQmhWVjJZLTlwRTNzSlNOQV9ZQW9nYk1GMHBGeEVCNEJmNG83cy0xaHdmSHlOZzdqQnZUVmxpclM2Zm1uSlNBY0VJVHktRkplbUQxWEpXVXN0ZDB2eWc3Y0ZnLUdMVTJxVms5NDFydC00clVrSDJTdE1PWllZM3g0Y0lTVVNQczJYdHNvLUZ2R25rM0RidEJfcXpyeTV3?oc=5",
+        "title": "Aston Villa not giving up on Bayern Munich’s João Palhinha, Newcastle United might be out",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOG1lNGFiWEFwNVkzUEZ5T1BJT2Q2MUtmb1V6ZmVuYVN0Rnd6NDI0WFY5M05YOFBSRFF2bVlWa1BwQjNraFhqSzIzdUFPeTlMc1d1c2FRWXBzRFcxUlY4VTBablRjckxzQm9wZHhadUd6bHhSLVRncXVBT0d0Z0I2N2xhM3c1OHAwM1E1WkR4alQ0V09nUm9wT0VnY2s2RGJxS2QtZzZVcFNZMmZ6T2ZOZGVfTm5QMVJFR2JXU200ZUY4QmRRWm9ONk5tTnhPWllwN1hBLVFjUGZZZzhyMkVTWnVieHUxTTZiSGxKbUpCQzVhU2xxaWpBcWpfMA?oc=5",
         "source": "bavarianfootballworks.com",
-        "published": "Wed, 19 Aug 2026 10:15:00 GMT"
+        "published": "Wed, 19 Aug 2026 09:00:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Al Hilal eye shock move for Kane",
@@ -1646,22 +1646,22 @@
         "published": "Wed, 19 Aug 2026 20:31:25 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHI1cFhoOEtwNkpyVm52V0tYTmU5VlhOeXRIMjZLZEpxNGJpOE5TXzl5bUlxUl9YSjdVMnhTNXdwLVNjLXZpTDdRcmtnSXhyV1p3OVBqaHBBN1VQSXBlUTZKNHBVTFpnSGI3Sk90N0hKdDk1VXM5LUhZc0RSd192QTJxY1g4MXNETWQzWU52NFVFVVZEazdOWFE2aXFSaV85WVRWOURzdmhIOV91ekplMG9PMV9MNVp3MTZBejZmUEZRRnVRZEFheVhQLThmdUU?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 19 Aug 2026 18:47:33 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Al-Hilal want Harry Kane as Coventry bid rejected for AC Milan star",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeG9EQktRY3ZtNWZsa2ROLV9MTkk0VjVSbDgtQ1lJTFQ0VEFKbDNtSWZQcEx2RkxSVklqdzMxaUdKcHVseU1rUjZ2MjRONkVVazhmd1hoOGlTbWpzTDY2bXFVbnAzNmtxXzRrMFV0OWhQWjN4STV2aTQ0cUVEMkNlTUxnTWpvcGZQTHkxVmtkN3VXT0Jael9CSnl4aDRGQ1B2bHp3OU9leWJoWUVZSUNFOHZBWDdVd214Q1h0WlUybUFDSmFHS1U4UkppOERBZw?oc=5",
-        "source": "transfermarkt.com",
-        "published": "Wed, 19 Aug 2026 20:20:53 GMT"
-      },
-      {
         "title": "Bruno Guimaraes’s Explanation for Arsenal Transfer Is Vindication for Mikel Arteta",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZiNEN5eE9EUHFBTi0yMkx1dUFfOTUtSTRZZTl2R2R4b09Vckp2by14MllZT3ZBUnNhWDFJclNHZG84bHV5NVNjckZJQk9IZmMyV0tjaWdpSTMzSFoxVUhmWFFFSkZodDc5V3E0dVg3VEl3Q20yYUk3bUNhSHA0T2tsSjZ4Wk0zZXM0dDdpY0g0TEpkWmFZZTUzUQ?oc=5",
         "source": "Sports Illustrated",
         "published": "Tue, 18 Aug 2026 20:00:01 GMT"
+      },
+      {
+        "title": "Real Madrid boss Jose Mourinho says advice to Vinicius Jr stopped Arsenal transfer",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmZHemdibFVSQTVGTU5mUnNsSDFKNEJ2NVdiRDRYeXRWeVBuUEFRS0tpUTBXMFFNMkRtUUIzT3pXN3JrTDZES0lQWlQxUWkwY1NTZlhydEVIVS10VmxZVkpMcjM2ZVM3blEyQmhrNFdUTU1nYThtdDdCYVRwWThiY3NEYWpDdw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 19 Aug 2026 14:24:49 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHI1cFhoOEtwNkpyVm52V0tYTmU5VlhOeXRIMjZLZEpxNGJpOE5TXzl5bUlxUl9YSjdVMnhTNXdwLVNjLXZpTDdRcmtnSXhyV1p3OVBqaHBBN1VQSXBlUTZKNHBVTFpnSGI3Sk90N0hKdDk1VXM5LUhZc0RSd192QTJxY1g4MXNETWQzWU52NFVFVVZEazdOWFE2aXFSaV85WVRWOURzdmhIOV91ekplMG9PMV9MNVp3MTZBejZmUEZRRnVRZEFheVhQLThmdUU?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 19 Aug 2026 18:47:33 GMT"
       }
     ]
   },
