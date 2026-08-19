@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T20:15:43.063003+00:00",
+  "updated": "2026-08-19T20:50:49.767991+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,10 +1538,22 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal close on Konsa, Liverpool drop PSG deal",
+        "title": "Carlos Baleba transfer: Manchester United close to full agreement with Brighton for Cameroon midfielder",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVE8tUlFCLUlfc253Q3dQbWJnd1gzdlJPU2hBbEhpSWlGR3BfUDYwdHRWOFVwUmwxNDVIQllYdFFxNFN1ejdoVUtGbUNMX1ZYeDdOMVVJMDFLYmU5YV9LdXFRRGF5Q21wOFJORnNzVVNOdjFmb29XME03WW1FclBYR1QxT1dwbWFkeUlFa3pOa2QzbFQtSFlxbjVrMk9Zd1pDbXdDV0I4NlkwRklteG5aOUVkQUVERXU4VWtRMzhoSmZwelVNemJvUWxEQkJMR2dCU3BvV2FiUVJHa1QxNWc2d0NYSEtnZkk2YS1FTkpR?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 19 Aug 2026 13:43:43 GMT"
+      },
+      {
+        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFPWTJyWXVkSGRBZl85dlR4NGprSW9adTdjdVlEUkRSdlVJb3Z2eDN4SG9zcGNIOFk0RmM5SkJTeF95MGdKeDRJZW9yVXJ0YmxIZUJ5YXE2SEM3QUkxcUFCcWM3djBOdXVmWi13RUtxWjY1MURPSUJOQW5OOU5LaTFYUWlNX0FCXzdWYmw4azVQVDQxRnJ5RVNLN2dlcVBiUHh1dzhuek9TeDlpaERfbnRILS0zdw?oc=5",
+        "source": "The New York Times",
+        "published": "Tue, 18 Aug 2026 11:49:56 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdoT2FCYWdPLUwxcTB6T0VQcHEwMllnNVBZLWFsMG8zRGw4R2gwdWVDa05MakR4V2JpbGZfc2FBSllSSmpZUThEaFhFRE84MWNfTGRudzZfOFBhbjVaang3M2RqcFk4WEFBeV85NkdqUWVaNEdZdGFwNDZkemhPOFIwSkpUNTZ2eU9nOXlSVVJCd3JrYlBMTXgwdE45X3BON3Zud21qT0JESmlucUswZQ?oc=5",
         "source": "The Independent",
-        "published": "Wed, 19 Aug 2026 19:16:46 GMT"
+        "published": "Wed, 19 Aug 2026 20:31:25 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
@@ -1550,22 +1562,10 @@
         "published": "Wed, 19 Aug 2026 18:47:33 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal 'closing in' on move, Man Utd make £65m bid, Spurs huge double-deal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
-        "source": "The Mirror",
-        "published": "Wed, 19 Aug 2026 20:08:17 GMT"
-      },
-      {
-        "title": "Man Utd transfer news: Brighton midfielder Carlos Baleba close to Old Trafford move",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TUGsyVUFOZ3pIakxtUF9fRXVicEpDV0hMcXlhVWFSbnNpMWJSVDFvZlJYQ2RpM2JzT2VaTzZZellOdWlXSmloZTBJVkhiQ1B3dGlRVDhqcThZM2kwNDNNY2V3bWhma1k?oc=5",
-        "source": "bbc.com",
-        "published": "Wed, 19 Aug 2026 09:50:55 GMT"
-      },
-      {
-        "title": "Marcus Rashford thanks Jamie Carragher for shutting down Gary Neville over Manchester United transfer talk",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU21salZ1bUxhamx2WERYcEwyZTg2b3FvbzV0UVhSdW9OZ08tLTRrUTdoOGNLYlQtZnNwTmFJSmxiWWJZZEdoMHdJd2NTS2NKajJmSW94SjctczdCQm9QTTlnSF90UTFES1VHN2Y1d2J4U01KeEkxQnhwOXdNMjJMQTNiYXcwYlF2cktCT0dEbw?oc=5",
-        "source": "Yahoo Sports UK",
-        "published": "Wed, 19 Aug 2026 18:03:25 GMT"
+        "title": "Ederson opens up on collapse of Man Utd transfer and is baffled over failed medical that 'went well'",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVhHS09oRUkxYkdrbTEwNm9EWm9HZ3lIdTkycWpfTGd0UURfMGpXbS1jbmtiMThING54V3A2MWRpT1l5RFJ4WFY3YXhMNFBUaTUySHJweUE0aFpqSzJyd2gwaWtobjZzUkRVT1VsRVVfb3VvRDdncGdWS2NidURQakxiZ25nOHpZaEZqdDdGcm9EeUJIc2dzVnB6WTEtblVJ?oc=5",
+        "source": "The Sun",
+        "published": "Wed, 19 Aug 2026 15:36:00 GMT"
       }
     ],
     "rm": [
@@ -1582,35 +1582,35 @@
         "published": "Wed, 19 Aug 2026 13:43:13 GMT"
       },
       {
-        "title": "How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFB4Q2loNGxLeHUyd1hkWm16MEhZMnp4aE45a2txMUpIcWl3aDBYbXBpeWhMc2RncVZuSklvM25oVTNkc09yX3JnazNfRU5HZEY1aHB6eEZhSHk0eElYRHgwXzh1cUZEekFOS1hlRTFjbkZYWnpGeUN4blVkOFJSUmt3emplQTRCZFUyUlYxUHQxZmxubm05UWJlMTBkYUk?oc=5",
-        "source": "The New York Times",
-        "published": "Wed, 19 Aug 2026 04:58:00 GMT"
+        "title": "Fans in stitches at Julian Alvarez's official Atletico photo for 2026/27 season as he targets transfer exit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnRLQ0ZwMTk2UzJHNms5eVZrVU5XUE0tMVBUNHBWTVVyd0NSR2NNVEk1TWxtZFlIQ0sxZHNlc2pKZWRKVFFSSWhGYnNDWmQtbFF3TG55QU51OTBzV2l4R284QjdKbXhxcFBIMjVVZDhkMGdZZDNGWFBGblpzSXpZMTlpRUluNFdfZmthUVVHOVFBYnhOb0xQdGQ0WQ?oc=5",
+        "source": "The Sun",
+        "published": "Wed, 19 Aug 2026 18:56:00 GMT"
       },
       {
-        "title": "Real Madrid boss Jose Mourinho says advice to Vinicius Jr stopped Arsenal transfer",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmZHemdibFVSQTVGTU5mUnNsSDFKNEJ2NVdiRDRYeXRWeVBuUEFRS0tpUTBXMFFNMkRtUUIzT3pXN3JrTDZES0lQWlQxUWkwY1NTZlhydEVIVS10VmxZVkpMcjM2ZVM3blEyQmhrNFdUTU1nYThtdDdCYVRwWThiY3NEYWpDdw?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 19 Aug 2026 14:24:49 GMT"
+        "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHpDVVBXTG9QVmhDMzRIZ3RtV2dYZGtyTF9mRXJ4aGk5ZTVpUjZld3phMjlWQjA1OTljMzJDbC1ONnZQRzdHRHNNVl9JZFhuZWU5ckhXVkItcDNkYW5sRDF6OV8zQTYyd3NWdmJkTmR4dUtZWkxRSWVXUkJlaFFGel9aTE1rOU5lU1ZQR1lfQms0RGpSTHZEU21nYkloNDFPYjNqWEFIeFk?oc=5",
+        "source": "The Guardian",
+        "published": "Wed, 19 Aug 2026 14:18:00 GMT"
       },
       {
-        "title": "“I could smell something” - José Mourinho opens up on Vinicius, Mbappé, Barcelona and the Real Madrid locker r",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEE1N2RGRENUYzBBZkg0QXpleVcxVlZvSGwwRFJmQlhPUThWWlRUb3ZQVlN6VkZYa0Zza1lHQmRHUUZIS1BVS2FOTGFOenhUZFRMUnV3RTRaRWRQdEU1bkcwUW9CQl9LMC14UkNlby16b1lBd0tJSjkwc3VHeEhrVzBzT0RzeVBOZWVxdEhuSVVWdi1vaXNEcVdFOFhTbVRVdlZfcV9PN2lSZWU0R2NGZF84SG9SN3hNRWFSWFc0b2R4R0U4SjNTSDBHSExpZlBYZlRQZVY4eVNEMTNNZ2ZQbldaVWNzNXNjNy14ZdIBgAJBVV95cUxOTjVOald4Rm1ldGd4dmtXU1YtbHJZb3VHUVZCd2d2Z0NfVm9CSVotVmFrNGJtaXd2amJWdXpSeHNwZFlPeGJkNkYwblNuV2p6eENCczVYUFYxQ2FPVGw4ZzA5M0tsemtIYkg1aUZodmQyeXNFMFFmUWExeFIzdGlfWkZxbk5fb2NBblZ0X2Vvbko4M0VfQTRPZXJrR013dlNkeWlySTR6X2dWNHczWWpJN3JVek8zMkRLWnQ2cnRvMEJtTmk0NXVEQnZMMjZEX1NCZTU0X1o3cFR0QWFBWlZReXBUUWViYlF6OVEyQnpnRDlCX1RJc2JOVkFwTTdPSldw?oc=5",
-        "source": "Diario AS",
-        "published": "Wed, 19 Aug 2026 06:28:27 GMT"
+        "title": "Transfer Rumors: Osimhen Wants Man Utd Switch; Real Madrid Make Zubimendi Move",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sun, 16 Aug 2026 23:05:00 GMT"
       }
     ],
     "fcb": [
       {
         "title": "Vincent Kompany ‘big admirer’ of new Bayern Munich midfielder",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY19LeUd0d3BsU2lyQ21xOGNWQ1haMjNFSDJ0cU5nd3VFQmhWVjJZLTlwRTNzSlNOQV9ZQW9nYk1GMHBGeEVCNEJmNG83cy0xaHdmSHlOZzdqQnZUVmxpclM2Zm1uSlNBY0VJVHktRkplbUQxWEpXVXN0ZDB2eWc3Y0ZnLUdMVTJxVms5NDFydC00clVrSDJTdE1PWllZM3g0Y0lTVVNQczJYdHNvLUZ2R25rM0RidEJfcXpyeTV3?oc=5",
-        "source": "Bavarian Football Works",
+        "source": "bavarianfootballworks.com",
         "published": "Wed, 19 Aug 2026 10:15:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Al Hilal eye shock move for Kane",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOWpuTExyMkQ5dmQ1aGE3ODZoaURDVmxDVkZPUmNrLVVyNjVRTTFnRDBHQzRsMXFCUGM5NzNNMVZJRWFSRHg3ZU1qQU1naWJITEZIdXVUQy1GN29MQTRJVFdQd3NDUEliNDdMMXd3aTAyNFlBenZhMlEzT3o5QTRXalF2b1FyckVrc2FMMGgweWxMS1JvS19jNXJ1ZGZVMWJXSXV3TDJ6YTlWRFVOZ2NUa3BoZFF2UTRseUZrS21mc28?oc=5",
-        "source": "ESPN",
+        "source": "global.espn.com",
         "published": "Wed, 19 Aug 2026 08:30:01 GMT"
       },
       {
@@ -1622,7 +1622,7 @@
       {
         "title": "Harry Kane's stance on mega-money transfer as England captain targeted in Bayern swoop",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTR4clRIMXlxV0lybVp4a2JYZnBJTG1BWlc4T1BXS3JJY3VJN240dmZhc3FmRjhXYTM5R2hxcl9KTVJQMWhoLV9CT1lCSWNvYlM0NVVWNEdtMmxLZHl3Ul9qcjhHMFhYalNVOWpvNEJtTko1Mk5RLWs2M19oRk13cUZ4QkJYRkdrdDRlQlhQSTZHZHBRM3JfSG5ObGdid9IBowFBVV95cUxQdzJTV3ozT2VqdHRnODM0X3NxOXRFYW42MHF0RnBjaXlLeUpoUFJoakNJazZic3VRdUpFM0x1cjVYamNBRHd0WTltTEpjTWZZUElaakRGRF9VMndUNXZyU1dObG96RHpMalpQQ2ZhbEVManIwTzA4V0dnY3RRWWFlYXhlTDJENkdIcEhDSGUxZEV6RDFzbU1SeXl0OGhpWXVXQkg4?oc=5",
-        "source": "The Mirror",
+        "source": "Daily Mirror",
         "published": "Tue, 18 Aug 2026 15:00:00 GMT"
       },
       {
@@ -1636,14 +1636,14 @@
       {
         "title": "Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for £50m-plus",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tODFJb3JkbTI3amJnV1A5RW9zd2JQcmp2T1ZhNUVKbU4ydUFiNF9TOGVvU29TWmxnelkyT2tZc3BNc0RCUG1qbGo2RHRXM2FtTWNEX3NPZEVOSGxJQzJjWUJ6VkZwZm8?oc=5",
-        "source": "bbc.com",
+        "source": "BBC",
         "published": "Wed, 19 Aug 2026 11:06:20 GMT"
       },
       {
-        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal close on Konsa, Liverpool drop PSG deal",
+        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdoT2FCYWdPLUwxcTB6T0VQcHEwMllnNVBZLWFsMG8zRGw4R2gwdWVDa05MakR4V2JpbGZfc2FBSllSSmpZUThEaFhFRE84MWNfTGRudzZfOFBhbjVaang3M2RqcFk4WEFBeV85NkdqUWVaNEdZdGFwNDZkemhPOFIwSkpUNTZ2eU9nOXlSVVJCd3JrYlBMTXgwdE45X3BON3Zud21qT0JESmlucUswZQ?oc=5",
         "source": "The Independent",
-        "published": "Wed, 19 Aug 2026 19:16:46 GMT"
+        "published": "Wed, 19 Aug 2026 20:31:25 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
@@ -1654,14 +1654,14 @@
       {
         "title": "Transfer news LIVE: Al-Hilal want Harry Kane as Coventry bid rejected for AC Milan star",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeG9EQktRY3ZtNWZsa2ROLV9MTkk0VjVSbDgtQ1lJTFQ0VEFKbDNtSWZQcEx2RkxSVklqdzMxaUdKcHVseU1rUjZ2MjRONkVVazhmd1hoOGlTbWpzTDY2bXFVbnAzNmtxXzRrMFV0OWhQWjN4STV2aTQ0cUVEMkNlTUxnTWpvcGZQTHkxVmtkN3VXT0Jael9CSnl4aDRGQ1B2bHp3OU9leWJoWUVZSUNFOHZBWDdVd214Q1h0WlUybUFDSmFHS1U4UkppOERBZw?oc=5",
-        "source": "transfermarkt.com",
-        "published": "Wed, 19 Aug 2026 18:16:21 GMT"
+        "source": "Transfermarkt",
+        "published": "Wed, 19 Aug 2026 20:20:53 GMT"
       },
       {
-        "title": "Myles Lewis-Skelly Transfer: Clash of Comments Expose Brutal Arsenal Reality",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVdEb1o0VXQtY0YzbnVaakpiT1ItWnRZRHFsT0pjQngyNVUxcE1VVUJxZ3J2WUhSWXVKeVFIdWVlR0cxdW90SDd1a3h5Rlk5YnZodUM3TWk0X3dvYWJINmtGZWlfQnBIZXRkc3VIbmRJTk0wQVYwMzczNkpOdUo3YmZUYUJwbm1tbHpVcktwU1dPbHM?oc=5",
+        "title": "Bruno Guimaraes’s Explanation for Arsenal Transfer Is Vindication for Mikel Arteta",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZiNEN5eE9EUHFBTi0yMkx1dUFfOTUtSTRZZTl2R2R4b09Vckp2by14MllZT3ZBUnNhWDFJclNHZG84bHV5NVNjckZJQk9IZmMyV0tjaWdpSTMzSFoxVUhmWFFFSkZodDc5V3E0dVg3VEl3Q20yYUk3bUNhSHA0T2tsSjZ4Wk0zZXM0dDdpY0g0TEpkWmFZZTUzUQ?oc=5",
         "source": "Sports Illustrated",
-        "published": "Wed, 19 Aug 2026 10:35:00 GMT"
+        "published": "Tue, 18 Aug 2026 20:00:01 GMT"
       }
     ]
   },
