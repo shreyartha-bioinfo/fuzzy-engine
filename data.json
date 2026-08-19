@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:05:13.329440+00:00",
+  "updated": "2026-08-19T04:59:19.321535+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -655,15 +655,6 @@
           "assists": 0
         },
         {
-          "name": "Franco Mastantuono",
-          "position": "Midfield",
-          "nationality": "Argentina",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
           "name": "Jorge Cestero",
           "position": "Midfield",
           "nationality": "Spain",
@@ -712,6 +703,15 @@
           "name": "Daniel Yáñez",
           "position": "Offence",
           "nationality": "Spain",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
+          "name": "Franco Mastantuono",
+          "position": "Offence",
+          "nationality": "Argentina",
           "goals": 0,
           "ownGoals": 0,
           "net": 0,
@@ -1541,7 +1541,13 @@
         "title": "Transfer news LIVE: PSG cut Barcola price tag, Arsenal get Alvarez update, Chelsea set new Enzo price",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDc5eUhENnk4YzZZNHV6MHd1UGQ3azc5OTJSZ0hzNDg0LTRmRW5MNk5DRTZSa1p4WWNFNzZveWhzZzNyYW5Jb3hwM3NpaThkVXdmdThMQlpHSlR3VFlZeGRVWkc2NmRndkl2emlzQlo1RzRoVzNCZW54dHZFUXdDLUpuMDJPRUxXWHl0ZEQtb1E4akhId1ptTjBFakItem5PXzk3WEs5Nm1zbXJ6eWdHNw?oc=5",
         "source": "The Independent",
-        "published": "Wed, 19 Aug 2026 03:28:32 GMT"
+        "published": "Wed, 19 Aug 2026 02:34:39 GMT"
+      },
+      {
+        "title": "Man Utd transfer news LIVE: Bruno Fernandes in contract talks, Gavi 'snubs' United, Kim Min-jae a 'target'",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTExZREFZMzlQYWpJWGJnaTVLcUNhSVZDM0t6Q19mVWM4QktBVjRES1B1d1JwOUxtNC1Hd2xPOE1UMUMtUkVlWVNFazd1eEdDajAwdmJoamxqVGpjUDRjMlJjWlJ4Q1lVLV9MMVBwZXdoUG1mUElJUXFfeHVXc1V6SzZ0eWJYN3RfeTVjcFZ6VUV4RjZBdFVuZDhSUnRfeU0?oc=5",
+        "source": "The Sun",
+        "published": "Wed, 19 Aug 2026 04:01:43 GMT"
       },
       {
         "title": "Man Utd transfer news: Barcelona midfielder Gavi rejects chance to join Old Trafford - Paper Talk",
@@ -1558,22 +1564,28 @@
       {
         "title": "Barcelona confirm Rodri signing, Manchester United in Bruno Fernandes contract talks: Live transfer news updates",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbHBTUFJEWkVDdkUxX2FONXpuMm9MOXhSb2tDTVpqYjhGNTRFbWdVRzhSWXBwU0lvSEU2cmM4VkRaVngzUEQ4N1Q4elB0UkNOcW5SeEtlVGRHOWpkZGhPeHpHSjR3aWJUY0ZRLXBqTUZ3MWxHU0t0X3p1QU1SWUFmVEw4cWU2UGtsZkVscg?oc=5",
-        "source": "The New York Times",
+        "source": "nytimes.com",
         "published": "Tue, 18 Aug 2026 22:30:12 GMT"
-      },
-      {
-        "title": "Manchester United in contract talks with Bruno Fernandes as Galatasaray make lucrative offer - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2JLZS1vUUk1Wi1VTXpfY3NHaGdPdDR2RUN4MEJwTFZsWEFlcmM1YmFERW9CM29EblZ2aEd1ZjBuaS1TdDRWV09yMkJKeFRlSHUyZTV3SHFqWVQ0cjBzT1dRYWlBMVhrSDNTV0M1US04ZG9lX1FMZmM2dUJUbFplMGRsZmZ6V0ItX1I2d2ZCRm1saE0?oc=5",
-        "source": "The New York Times",
-        "published": "Mon, 17 Aug 2026 18:41:30 GMT"
       }
     ],
     "rm": [
       {
+        "title": "Transfer news LIVE: Galatasaray in Bruno Fernandes bid as Liverpool eye Ibrahim Mbaye",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXl2bFFUZkEyQU5WZFZRNThSYjBHeTIyT1RvQzFFS0gtVEh1c0ZYaHpfekNEZkpDaWw2MmJDNEJDSFRQcE50U0VSZG83NGVzNG9KNHd2SGQ5VndKaU82anVUSFJCZDV2VDhLTW9jR1hkbTBTcGRxakdyQ0IzeTBTNjhRelMxMEJoVlJWcGZnYVkybUZKdlFibU96Q0loT0lvR1l4UW9RSHFyb3hQdDl0SFpNUGtsQ1B2YzJ4OExnb3JLVThVOTRYYm5Ycw?oc=5",
+        "source": "Transfermarkt",
+        "published": "Mon, 17 Aug 2026 07:00:00 GMT"
+      },
+      {
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFPWTJyWXVkSGRBZl85dlR4NGprSW9adTdjdVlEUkRSdlVJb3Z2eDN4SG9zcGNIOFk0RmM5SkJTeF95MGdKeDRJZW9yVXJ0YmxIZUJ5YXE2SEM3QUkxcUFCcWM3djBOdXVmWi13RUtxWjY1MURPSUJOQW5OOU5LaTFYUWlNX0FCXzdWYmw4azVQVDQxRnJ5RVNLN2dlcVBiUHh1dzhuek9TeDlpaERfbnRILS0zdw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 18 Aug 2026 11:49:00 GMT"
+        "source": "nytimes.com",
+        "published": "Tue, 18 Aug 2026 11:49:56 GMT"
+      },
+      {
+        "title": "Real Madrid player completes 'historic' transfer with Chelsea now on red alert",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzVkdnZPXzJSQ0NNTE1XenVvc3VOelhzR242T2pneWVGNjFBRXhDLU1rd0RKSkZOYzNoMVlFelFnWDBwM0NXSWppNGsxdzh1MjBPOWZpTUhybm52QnBvWjRuVlV6a2JRN1ItLWh6OTdPTmNqZzBlbVRsLUxGTDdlc2xaU0F3bGxYVTVKOThnU0dVN2ZYRXdzNTd5WjdfcHJyVlU3TnFKNFlSRnFwdFVKaDdTRzM?oc=5",
+        "source": "SPORTbible",
+        "published": "Mon, 17 Aug 2026 15:52:45 GMT"
       },
       {
         "title": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi",
@@ -1586,18 +1598,6 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTlhS0RvT0RRV2RjZE5hWWZiUmJ1UnFldG5xa2lqa19NSlE3cC1VVENkZC1JQlQ3RTZ0bl9tekVDWk5aQXhMYUNUU3AzMExmSXg2bHdGSEI1b1QwM3dwSUUwLUxjTXZfNWZXbGpFbzhQTEJORlNNdzFJZ0FzQVZVay1YTmxmc18yT3JvTFB1V0NibGJjNTFXd3l3WXNzVmdrd0VScw?oc=5",
         "source": "Sports Illustrated",
         "published": "Sun, 16 Aug 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Arsenal star tipped to make shock Real Madrid transfer after falling out of favour",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3VxcE5fVU8zeG02SlVfS19lbnlQa2ZvS3IyZWtQQXE1MUVGSzE3ZmpsV2xGRDhYQ3VXYUxaYjFMWkFpMVdIRDlpWHl0RExPOVZFZVRwWktmU3NwdVhEYlNJUi1SN3NybkJEejlHUTNfSTdKZWpnZW4zbW4xeEJLSkFjUjUtcmhORkJSTDlMT2Rfc0pScmpWZzE0YjdIdw?oc=5",
-        "source": "talksport.com",
-        "published": "Tue, 18 Aug 2026 11:18:14 GMT"
-      },
-      {
-        "title": "How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFB4Q2loNGxLeHUyd1hkWm16MEhZMnp4aE45a2txMUpIcWl3aDBYbXBpeWhMc2RncVZuSklvM25oVTNkc09yX3JnazNfRU5HZEY1aHB6eEZhSHk0eElYRHgwXzh1cUZEekFOS1hlRTFjbkZYWnpGeUN4blVkOFJSUmt3emplQTRCZFUyUlYxUHQxZmxubm05UWJlMTBkYUk?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 18 Aug 2026 17:32:21 GMT"
       }
     ],
     "fcb": [
@@ -1614,21 +1614,21 @@
         "published": "Tue, 18 Aug 2026 10:17:56 GMT"
       },
       {
-        "title": "Aston Villa might have to take on obligation-to-buy with Bayern Munich for João Palhinha",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOXJhakZwbHkyN1RrSk9mRHBCd1hqZGdkUzRLeTIyOTR3ZnZPR2RPMzU0VW4zN04tcW9nSXU2d1FzaGwyWm1PRTNiSTFTbGpReGJ5VmpCSGdKdF9hc1hYNEQ0R2hLaUhLZ2FINHh4NEE3MkVhRlc4QmU5RzFSQnhObGVjMVczWDdoemVGdEswVXp6NW5pTDJrWm9iaVhneWUxZWhlMzM4Y1FlbmIzcy1tRmtyOVJESDVMeXQzUDY5QkZPZHNVTm5WUE13a1A2ZDloS1MzWUt4SWZtNEgxYkF6WmxTOFNSclVxZVN0R0lNbFBFczFZVXp1N0RQRTM?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Tue, 18 Aug 2026 23:30:00 GMT"
-      },
-      {
         "title": "Harry Kane's stance on next move after Bayern Munich emerges amid Tottenham return hope",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWg0Q3FYVlVXR21CZ0RQdUpjd3k4V0tjYzVoSk1Fel9ObUFaZ0FPRlQzc0I5MDlPell4V1Q2bHZRcS1uUkdUcHpqbUlleDR4aDFGbVBsRS1WZmczempCVzN0S1VGSlN2dW9jalpDWHlSSGtGb2VaMkRXM2pSMUJjbGV5SWR2UXlWUVdtRGNIRHF5enJYWWt0WHJTMENZQVphalJ0WVRQVy01Rlpo0gGyAUFVX3lxTE5RRkJUeWl2OUF1bEtDT01lSFd1dUU1UnBGdE9DbzlMWWlBVDlWTktQeVNDbDJFWmZtZjRnUU9ta1lMSUw1SXI1akxEeHRHSlVyU0tKRGNDbVdYSE42NVFuQUJkcG94MHppV0ppX2pBXy1COVVhN3otQ3dLLU9xT0ZNUmZtZlZqSkk1RW9Sa2RyajFzWmt4bFBZTFotZGFRZ01sRUMzUTZFZk0zVzRQVENUWFE?oc=5",
-        "source": "football.london",
+        "source": "Football London",
         "published": "Tue, 18 Aug 2026 15:00:28 GMT"
+      },
+      {
+        "title": "Newcastle’s Move for Bayern’s Palhinha Confirmed After Collapsed Transfer",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZDZMdTd6SERQMTVRQ0Qyd3hhaXA0Vi1jb282aWFuNVBtUDFJT0tlaEdKVXZLX1hHS3N2c1ZURlBic2JDZE5uekZjQ01rU1hsb1NOdnBQWTJaeXQ5eUM4RHgzQW1Rd0poTzNlNU53S3FyanU3T040NVlTSXJUaHIzRGYxX1JSM2hDdU1zN2VWY3dlLUVrY0pEQUI2dUl6d0F5YTBQUm1fODB2V1M5T2UwVWMtVk9zTExmQmRNODlOYWg2ZzItdlJESnBfWmI0VWZNVjVNQ3FhQjlnZms0MG9ZNDRkcTFlSkt4N2h2Qw?oc=5",
+        "source": "SB Nation",
+        "published": "Mon, 17 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "Harry Kane's stance on mega-money transfer as England captain targeted in Bayern swoop",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTR4clRIMXlxV0lybVp4a2JYZnBJTG1BWlc4T1BXS3JJY3VJN240dmZhc3FmRjhXYTM5R2hxcl9KTVJQMWhoLV9CT1lCSWNvYlM0NVVWNEdtMmxLZHl3Ul9qcjhHMFhYalNVOWpvNEJtTko1Mk5RLWs2M19oRk13cUZ4QkJYRkdrdDRlQlhQSTZHZHBRM3JfSG5ObGdid9IBowFBVV95cUxQdzJTV3ozT2VqdHRnODM0X3NxOXRFYW42MHF0RnBjaXlLeUpoUFJoakNJazZic3VRdUpFM0x1cjVYamNBRHd0WTltTEpjTWZZUElaakRGRF9VMndUNXZyU1dObG96RHpMalpQQ2ZhbEVManIwTzA4V0dnY3RRWWFlYXhlTDJENkdIcEhDSGUxZEV6RDFzbU1SeXl0OGhpWXVXQkg4?oc=5",
-        "source": "The Mirror",
+        "source": "Daily Mirror",
         "published": "Tue, 18 Aug 2026 15:00:00 GMT"
       }
     ],
@@ -1637,7 +1637,7 @@
         "title": "Transfer news LIVE: PSG cut Barcola price tag, Arsenal get Alvarez update, Chelsea set new Enzo price",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDc5eUhENnk4YzZZNHV6MHd1UGQ3azc5OTJSZ0hzNDg0LTRmRW5MNk5DRTZSa1p4WWNFNzZveWhzZzNyYW5Jb3hwM3NpaThkVXdmdThMQlpHSlR3VFlZeGRVWkc2NmRndkl2emlzQlo1RzRoVzNCZW54dHZFUXdDLUpuMDJPRUxXWHl0ZEQtb1E4akhId1ptTjBFakItem5PXzk3WEs5Nm1zbXJ6eWdHNw?oc=5",
         "source": "The Independent",
-        "published": "Wed, 19 Aug 2026 03:28:32 GMT"
+        "published": "Wed, 19 Aug 2026 02:34:39 GMT"
       },
       {
         "title": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
@@ -1648,14 +1648,14 @@
       {
         "title": "Atletico send Alvarez transfer message to Arsenal after 'Arteta contact'",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXhVeXo0cDN6TEhHODNWVzNlWk4wQmVXdDBOalVrWlNrRTZXWHBWWUplLWRPZE1NYWFyZ3hMVFVoajVaQXd2cGJxX2hIUEtXWTFCdV9PZTFJV1lBS2Qxd0x0YTNjZVVwNENYMlREQnFaSGJnMGVaV3VodGRYTlpRRV80MVJ6Z2lLT0d2LTZqNEtjOHZHcDlPbURpTDRWazRBcVpyZUk0cWVNTzlkR3E4?oc=5",
-        "source": "standard.co.uk",
+        "source": "London Evening Standard",
         "published": "Wed, 19 Aug 2026 02:36:28 GMT"
       },
       {
-        "title": "Diego Simeone speaks out on Julian Alvarez and confirms decision on Arsenal transfer target",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGZ1RC1USWl6TUlkMldlbG12cHJjd21LUnhPRVZSWUZld1lYOWtxZnBkXzBfdS1OUDdtV1E0Vkk4T0pQU0ZSX3QzaEtNVUZFeHhkaW1paXNNRDAtSmlrU2d2VkpiUG14VDN3cWFBWkdmVTlOSmlaelNnMGpDdnBMZ04yelR6OVR0NXhmWU9CemE3VTdaZkFLeHN3OXhmZUFnMjdJ0gGoAUFVX3lxTE1EbkdPai1HWkJBejBqbmlXYV9sem5hQml5N1ppLVFNc3AtQ0h0M2F2TUlVYmY0dHVFTVFwVHFRbzNObEx0empCY3VYMHdsS1ByclZQeGRpWURsV2trS2JHeU41X3J1dGZDVVJRdEhlM1VwX1ozckNRVjEwM1IybkxEVVowbjRWdkxiMGJVWjZhdUFDakpQSWhoWjhOai0zVzVobUg1ZFVSdw?oc=5",
-        "source": "football.london",
-        "published": "Tue, 18 Aug 2026 11:37:52 GMT"
+        "title": "Arsenal latest: Mikel Arteta's transfer plan as Julian Alvarez discussed",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZEcTM2ci13c29xZmdURU90dG1MUGNmNmFURFBRdjNVZG12M1BGcjcwbWp0SFR3TUJocFV4QTlsVFdTcU9IendmVU9aaU1xOU1WT2VObzl4Yk1Zc2puWnBFbmpzcmplVkx6WEFsa21vQmZRLW1sX2tvVENRQTlhbEtDNHQwSm5WTUJ6eXJReDBOckJJ0gGaAUFVX3lxTE51YWZQcWpkQ2IxMnVPU0syR1h0VDFaZ19FM1ROUGd6ckpqdVBrU2UxQ3ExTWlOZXdXRnJWSERXX01MbTViMWJyejBoYWM4NFVjYkpDbVQtbmxJT3YyWTdrT2RxOEhiUkI2WEhlbTBLUlpuaDdpSkRsd1NKOEZkMkxJQ2NZS3BsSFh5cmE2Q3JvSF92SlVzMVNBcGc?oc=5",
+        "source": "Football London",
+        "published": "Wed, 19 Aug 2026 04:01:15 GMT"
       },
       {
         "title": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi",
