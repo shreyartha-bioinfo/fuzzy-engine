@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:58:56.622857+00:00",
+  "updated": "2026-08-20T17:29:11.131761+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,134 +1536,10 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Man Utd medical; Chelsea signing; Liverpool latest",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVRxT1prUTllT243TTVUYUE1M24zSDlqdkEzT0JqWE1fSHF3WGR0aXBiUFVRSUZRekNzaTNIZ1kxMGFCcmcxN0ZSb2RDOExQVHlFdTBZMC11SFVtNWdIeXBsMF9uZUZnczlDa3VZZVBwMXhxR09NTlFqOTh4eU1pZVZIb3lkcFRvRGFockZyNWJzYThERURzdmhqak9SX1Qza3FnRFdSSFpIQWtRYzFMbFd6RlB5MTd6emR3ekxrWmk3Ty0wWFdHY2dJblQ?oc=5",
-        "source": "London Evening Standard",
-        "published": "Thu, 20 Aug 2026 14:34:37 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal eye Vinicius alternative, Man Utd want Barcelona star, Liverpool in Minteh bid",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzV5b0s5bWMzUEUzUTEzXzBLelZLZldSd1p5LXd6cmthR2w5RS1tcElSSm9xY0Z6TXl0ZGNudWYyNkxaelBFN01lOF9iSEdGbEhBem1RTkFocEJBeFZyWVc4a2VweGxaYWVNU1ZwMkNHRml1TTcxZjV2TU5uQUd4Q3ZNYTR0MFZJcmRGQWZwdjFiUjBSU2VrbGFNNnNScFJuY1FiRjV6bmhDNjBHWHFXOQ?oc=5",
-        "source": "The Independent",
-        "published": "Thu, 20 Aug 2026 16:42:32 GMT"
-      },
-      {
-        "title": "Transfer news: Liverpool Barcola agreement, Baleba to Man Utd, £150m Spurs swoop",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnIxMGo1ZkhsaXIzTS1EQXRPUmxDUnFQS1d3eV93a3RpNFJTODQtTjNjRHNOS3Y0OXZ3NkxtbXpKMVdmT1JhN0tHeU51SUVDRzlqb1hsc1htOFkzYmZ3Vzh3TFRsVlFGaDIxMFNhWnNjamZ6Q0FMSkk3VElJZkNmOGc5Qld5MFRqS0pjSXhVZWRmQUlBeVZMTmV4cFlwMVhsTmpDc0JR0gGrAUFVX3lxTE8yY2sxbi1mUktHaFYxd1JOSnBKOUgzSmJFT05jcnY2QlRDWlk1XzRzRE5QU2R3Vk50ZnRGMV9ZS3U3NERSTkMxUWI1dzU4M0J5bzNRclBhSTFwV2plSkcyeHVESkdHTG9WOHNtbFVlbDZNWjlENTZySHp5Y0dkNkFfeVpIMFhjV0x2a2x2MngyWTA2Tm5qMDRnbWsxbzNMYW11WjFqWHZ3ejVYYw?oc=5",
-        "source": "Daily Express",
-        "published": "Thu, 20 Aug 2026 14:09:00 GMT"
-      },
-      {
-        "title": "Willy Kambwala about to strengthen Man United’s hand in the transfer market as deadline day fast approaches",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2tvd0JfOC1wanFQOTR3bmZFdFV5SHFveHhITEc1aTdPbF9FVlp0eXpZa3B2RHRWMnhpQnRZSDhGTkZOS0dPdkVkRUdmV09ERUpacjl0T0w1cURTelNTblBJLThzUmlyT0o0LUpCOE15ZkoxUG5SeFdCVWRXbE5vNzZnX1ZtbzdMeXY4Ti13?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 20 Aug 2026 10:05:00 GMT"
-      },
-      {
-        "title": "Michael Carrick press conference LIVE transfer updates plus Man United injury latest vs Hull",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmNXTHJPVDdRaFlmMnNCRTBRenRyYWxCZVpLbGZRLTJsTlIzVnY3alZhUG5CbDktY01SdnVfZWhSNHBrWlVzZnVEaVlKNDI2T0pGT2FMS2NjMGNRa09tWmVJZ2hSRHRyT0doNHZ0c3ZCQW1SWXJURlM4dDVKeU0tY081bk1ncnZYUzRheVp3S1ZQTUk4akh4bEhVZzBwa3BSRGhiNW8yeGJ2eHpKc3NtSklEYXFoUQ?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Thu, 20 Aug 2026 16:33:28 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Here’s What You Need To Know About Real Madrid Target Sergio Martinez",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVVsZXRpNXh1UWNKb1M1OUdHZGZSYldxWjA1UDYxMGxGSno2X2JTQWdfTEZZdHJYNzNubFpCb25veHNvS004a1BUWi1fb0tqSXFleVlwa2p0TnN1T2ZyWXRnby14T0EzWTRlNzVhMVBESHI0MjBEUkloT01INWdmSWpubHZFLVFfN0gxbDhqWDFScWRMV3dSY3RFRG1keEpZWUlPQUpHY2tva0dVRmp4S3d2US03MFROZHYwdEtpdmtaV0J1WDUyVDFWTFF0VWxkckhF?oc=5",
-        "source": "Managing Madrid",
-        "published": "Wed, 19 Aug 2026 13:43:13 GMT"
-      },
-      {
-        "title": "Big questions, predictions for Barcelona, Real Madrid as LaLiga campaigns begin",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRng1SDlQYzQxREk0dmcwcFJWZjVJckx2WGN6ekRhSXVsaTF0b0RkaGZEbWpMZjU3aU1hQUU5bDdyM3JHLWU1enN0VGdKV1pZSHZhcmRPNC1YcV9BVzkwR3daYmJ1WTlfS01pdzQ5eG1GeWd3WDlkS05IWklOS3RZUW43SElyQVFqVTF1OUtMQlN5czVqVHFzUWNQQ1MzQjgtTkFuSDJMUGlKNHRGbXNGdmxJckdEdjAxVlE?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 20 Aug 2026 09:27:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Liverpool target Adam Wharton as Galatasaray's Sarr bid rejected",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1ZVREdRMC1TY3NFQmhSUGNVRWZ5WHd4VEFWNXBvalJzOVlVeENLWkI2OGJWVndETEQwcG5ZUkJfNVphYTdhRndfY2E0OTNsSjFwd1J3R0pfRHV4bTZjMkVuR3p1VThicmxTX0RGd1E1cjN2T05uU19JQk8za0tOdVFJVEJ4al94U3g0MnZHSXpWQ2JHSTRLN1BwV2VaY2Y4UWxmc3FvNld2WmpHbXhQdVlaOVhVaHB3djVRcE5rd05DNXZaSFNIQg?oc=5",
-        "source": "Transfermarkt",
-        "published": "Thu, 20 Aug 2026 15:20:55 GMT"
-      },
-      {
-        "title": "How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFB4Q2loNGxLeHUyd1hkWm16MEhZMnp4aE45a2txMUpIcWl3aDBYbXBpeWhMc2RncVZuSklvM25oVTNkc09yX3JnazNfRU5HZEY1aHB6eEZhSHk0eElYRHgwXzh1cUZEekFOS1hlRTFjbkZYWnpGeUN4blVkOFJSUmt3emplQTRCZFUyUlYxUHQxZmxubm05UWJlMTBkYUk?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 18 Aug 2026 16:46:56 GMT"
-      },
-      {
-        "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHpDVVBXTG9QVmhDMzRIZ3RtV2dYZGtyTF9mRXJ4aGk5ZTVpUjZld3phMjlWQjA1OTljMzJDbC1ONnZQRzdHRHNNVl9JZFhuZWU5ckhXVkItcDNkYW5sRDF6OV8zQTYyd3NWdmJkTmR4dUtZWkxRSWVXUkJlaFFGel9aTE1rOU5lU1ZQR1lfQms0RGpSTHZEU21nYkloNDFPYjNqWEFIeFk?oc=5",
-        "source": "The Guardian",
-        "published": "Wed, 19 Aug 2026 14:18:00 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Benfica could be closing in on deal for Bayern Munich’s João Palhinha",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVlPenlTNEIyLWlpcGxFdzQtZ3N3UkUwaDBxSHdybnpHSzRRN25XcVc3azBvWnhFYlZEX09rb202MWRaaGtjLXQ0TXFpZWVNN2xPZEhTbF83NmMzODNoOGNYeWNwSEhHTDNzNkNyR29DQ0tGeklmMUR4OV9KMGRKc05lUkx2SnJDT0lxQVNuTXd0b3p0c18tUS1xNEQtdHl2YjlOdHl5UkE3WmpsSENYenFIWk9IS0IzQTdRNTFxLWRuNG1GSmRva09IcjNWOXJaMld2OVRLZjFTRTFKZjNCNWhB?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Thu, 20 Aug 2026 15:30:00 GMT"
-      },
-      {
-        "title": "European giants 'monitoring' Harry Kane as blockbuster transfer eyed if Bayern contract talks collapse",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFI5dHZnNjc1SlZWVEE2WmhXcFpLXzVmdHRUc1pPZDVaLUdaSHhuZjdnbmVJeUMwVWZFY1FrdmJwZjZXUk1LaVB4ampYancyUDJPYUJjY29nRTVOY1lMeTgwZlBadEZkT3lBaFp4a3lYcEFBaVRTZ3puZXFRLWNqVkRueVdSZzB4Y0g2WjZQamZ0ZzJWZ0F2WDZud2kzWFpibmFoTUF5ZHhIUDc2N2N2UWJobTYwNUN3dnc?oc=5",
-        "source": "SPORTbible",
-        "published": "Wed, 19 Aug 2026 20:49:58 GMT"
-      },
-      {
-        "title": "Bayern Munich, Benfica reach deal for João Palhinha per report",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdV8tOFZ2VUswdlhTX01Vc3Fyd3BPY1FxSFR5UFJmc0VfdllnZFU1a3RhV05vWlV1Z1hjSjhVYTRsMHNQRjhsV2FOS2VEbmVnRHpuaXdFQnZKaTYyZ0MwMW1wTmpIQ3BIeDh1SXQ0cWtuWWMtYU9JcFh4MTJoeW85TVNMa0NiMWVFMFlGN1pXMUZGR1hqMzdKYmZwX1g4cXZhU0NWMnRWaWYtX1c2aGgwMUNiajNiTkJISG5LYTN3VExmWVY5QmdleWNqOHc2MlN1SXRJUjV6SDk?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Thu, 20 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "More details emerge on Bayern Munich’s potential sale of João Palhinha to Benfica",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV043X1dsMEZ5a3I1N2xrZHRUQ2RVY0RlSmNWbHB5YnlzaU03dERIQVBkeEozNER2M1dOU1BFbS1zak5ZTnNIOXEyeHc2UlFqU3V3MElvMFdoMDVYTjhWRERrSmZGdjN3VjBxYmoxMlhaUTgzMjdrZmd0WlNVbHN4d0lmSVRfNThuNnNzVjEtSENTSG13dUxReVd5LUFLd2E5SnRQWk1qV0lLbmFlTVRRbjZpQWpJeXhLVnRUbWV1Z0MzamF6SFZxVzRBR0JpWWFuQjEycWxIZEhxQTNXb2w4WDJqWWZFaURFS1pITEpnVXVzdw?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Thu, 20 Aug 2026 14:30:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Napoli eye moves for Zirkzee, Jackson",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjRxam4yNjRRRzFodkFqQ280N2xzQ0tnQk9zeDd6M1VvU1BiaHdTTWgwVGxWeGFLUk1wSGY3UUdtaENKYTk4Y2hoaThmbnBXUlpsdU1XNlNLZGFXLTRHWUQ4d2hkSWNjclNpeFlqS2xobnI2ZzZHVEtKWjZqZlJfY3pVcmtqZnJqRWsxRVI4S2FZaWVkLTlKb1pVa0V0Qngxb3BGSGY0Qkl3bkRTWTRZRExZY0t0enRKZEE?oc=5",
-        "source": "ESPN",
-        "published": "Wed, 19 Aug 2026 20:53:00 GMT"
-      }
-    ],
-    "ars": [
-      {
-        "title": "Transfer news LIVE: Arsenal eye Vinicius alternative, Man Utd want Barcelona star, Liverpool in Minteh bid",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzV5b0s5bWMzUEUzUTEzXzBLelZLZldSd1p5LXd6cmthR2w5RS1tcElSSm9xY0Z6TXl0ZGNudWYyNkxaelBFN01lOF9iSEdGbEhBem1RTkFocEJBeFZyWVc4a2VweGxaYWVNU1ZwMkNHRml1TTcxZjV2TU5uQUd4Q3ZNYTR0MFZJcmRGQWZwdjFiUjBSU2VrbGFNNnNScFJuY1FiRjV6bmhDNjBHWHFXOQ?oc=5",
-        "source": "The Independent",
-        "published": "Thu, 20 Aug 2026 16:42:32 GMT"
-      },
-      {
-        "title": "Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for £50m-plus",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tODFJb3JkbTI3amJnV1A5RW9zd2JQcmp2T1ZhNUVKbU4ydUFiNF9TOGVvU29TWmxnelkyT2tZc3BNc0RCUG1qbGo2RHRXM2FtTWNEX3NPZEVOSGxJQzJjWUJ6VkZwZm8?oc=5",
-        "source": "BBC",
-        "published": "Wed, 19 Aug 2026 11:06:20 GMT"
-      },
-      {
-        "title": "Myles Lewis-Skelly transfer news: Mikel Arteta '100 per cent' confident Arsenal will keep teenage midfielder this summer",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUi13WGVUeGg2VnJKaW5oQ1M3RTF2MTVUYnhMYmFlTzJ5SlpPM3lwT1EzNHFsbFl6Y1otZjN6UU1iSkFPcFZpbkpMOGNsTnR3cVdNSmRqYmhTZTZSbW5JbGdRbkRMMUVuaS03WVB4dU9mdlExUkltRGZFTGpvZXdxMll2TFNPaDdmTkR4TkEyUjFDX29xRnJTQl9IVjd0eGxWdTN1ZDA1d3hTRUZNLUxNUkJXc3lzMnZHMkotYllza21vVHdSeC1kNEZWY0RlNjI1RHk3NENlVXdrZkotbXczWG8yMGcyTmt5cmdoWTVYSjhRdVNTblN4dEZWR3ZRbmJpaHc?oc=5",
-        "source": "Sky Sports",
-        "published": "Thu, 20 Aug 2026 13:52:30 GMT"
-      },
-      {
-        "title": "Ian Wright reveals Arsenal transfer worry after Myles Lewis-Skelly exit rumours",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTFISDRNejFTbHl6TU4tOWlSOUVpUFJkTi1na2tkemk4S1pSdUJPZXZ1N3pPZXBnWW4wdVhkNS02d2x6SjlVYWhsdDFaRFdwZXZLMnJZLWZ3cnRETWdSZVRQUzJ1bzBJWWhfenozLUtmTmpqcHBrYXBiVTk5Rnh0ZzIwSG10OGRkUmdoNQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 20 Aug 2026 09:40:58 GMT"
-      },
-      {
-        "title": "Arsenal manager Mikel Arteta responds to Myles Lewis-Skelly transfer talk",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEIxYUJoWXQ0RFh3U0VjNlFoOUdXaHRBdWhOZHptakpoM0puVTVvdU9xTzZOY0VldDBSSnlIdlg1TXBseHlPUU1uS0F1VkNjS3hPSkhNWS1JcTdOM2JuSndXenFOX0M3Sk5rWVllT1Ezb3ltbWR2UE13WEJMdHZBRjV6MVdKQWdIZTF5cTFoTGQ1aEEwR3Jxdjc4M1M2Z3cxM09z?oc=5",
-        "source": "The Independent",
-        "published": "Thu, 20 Aug 2026 13:39:00 GMT"
-      }
-    ]
+    "utd": [],
+    "rm": [],
+    "fcb": [],
+    "ars": []
   },
   "upcoming": []
 }
