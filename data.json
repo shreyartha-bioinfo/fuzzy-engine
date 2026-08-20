@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:53:04.343367+00:00",
+  "updated": "2026-08-20T06:27:41.029314+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,6 +1538,12 @@
   "rumors": {
     "utd": [
       {
+        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdoT2FCYWdPLUwxcTB6T0VQcHEwMllnNVBZLWFsMG8zRGw4R2gwdWVDa05MakR4V2JpbGZfc2FBSllSSmpZUThEaFhFRE84MWNfTGRudzZfOFBhbjVaang3M2RqcFk4WEFBeV85NkdqUWVaNEdZdGFwNDZkemhPOFIwSkpUNTZ2eU9nOXlSVVJCd3JrYlBMTXgwdE45X3BON3Zud21qT0JESmlucUswZQ?oc=5",
+        "source": "The Independent",
+        "published": "Thu, 20 Aug 2026 05:31:26 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHI1cFhoOEtwNkpyVm52V0tYTmU5VlhOeXRIMjZLZEpxNGJpOE5TXzl5bUlxUl9YSjdVMnhTNXdwLVNjLXZpTDdRcmtnSXhyV1p3OVBqaHBBN1VQSXBlUTZKNHBVTFpnSGI3Sk90N0hKdDk1VXM5LUhZc0RSd192QTJxY1g4MXNETWQzWU52NFVFVVZEazdOWFE2aXFSaV85WVRWOURzdmhIOV91ekplMG9PMV9MNVp3MTZBejZmUEZRRnVRZEFheVhQLThmdUU?oc=5",
         "source": "London Evening Standard",
@@ -1550,22 +1556,16 @@
         "published": "Thu, 20 Aug 2026 04:04:28 GMT"
       },
       {
-        "title": "Man United will regret it for years if they don't take transfer opportunity this summer",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3F3TWtnM1g4U3JnN2hxQ1VleTRDYXRJejZtU1I3Ny1CVHNEWVFUNGdXeTFQNlFWM1FNR3JXWU5mbll2Znk4QzcybWtPZ3BudDVaOE1FUDZvWUpzRUlZb1NubWxhbFNzcmtBU1FqWXRubTNEMU9sVWx6V3lpLWNLVExhcFQxNjZsaWdwMlNJemg1VXFvdFlFaklRczhoNURyd2wzdE5vS3ZDeXpJUVHSAbMBQVVfeXFMTklvVlc2bk1FMHUzTVZJcGo1VTZaYWx4YnowYkItSjdnRm9GaDlrN2ZLSkVwZjZ1YVl4dHVCOXBMcy13OWVDU2ZSYkM5UXBFOG1VZmJyc05PMjVFazlOdVZkb1ZaQXAzWFc1MTJIQWVIRk9yekdiUG40Y09tZVh3M0Jmai14TlNqbUZ3ZVBEQXdraVNocXN2QXoyWWNGblR5OXdqNVZ5WHBWNlpJSnBCRm8wZ00?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Thu, 20 Aug 2026 03:30:00 GMT"
+        "title": "Man Utd transfer news: Brighton midfielder Carlos Baleba close to Old Trafford move",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TUGsyVUFOZ3pIakxtUF9fRXVicEpDV0hMcXlhVWFSbnNpMWJSVDFvZlJYQ2RpM2JzT2VaTzZZellOdWlXSmloZTBJVkhiQ1B3dGlRVDhqcThZM2kwNDNNY2V3bWhma1k?oc=5",
+        "source": "BBC",
+        "published": "Wed, 19 Aug 2026 09:50:55 GMT"
       },
       {
-        "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5",
-        "source": "The New York Times",
-        "published": "Wed, 19 Aug 2026 14:49:22 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Fernandes Rejects Man Utd Contract; Liverpool Raise Barcola Bid",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDVOc19oQUVJY0RYUHFndWNLMEN5SXlfX3ZvZzVLcmxXSHZyZm9sbnMyZ0k3aW5DWHpsX21tRU94SU1ORTZ4cVFnbU9KaGJCUkQxb3hmakgzQTJiNGVFQ2oxQ1Q0S3NzX0l5elBaMVJsQk9ucENobFNWNWlzYlVaZ0JHOHhIZVpDSVRKemxMbFRnQmoxZTh3QUVTRm05b1FTdmtoRUhVRQ?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Tue, 18 Aug 2026 23:05:00 GMT"
+        "title": "Man Utd transfer rumours: Zirkzee, Salinas, Scanlon, Ogunneye, Kone",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT0NUMHVEV2h4LW42WEV5Z0NvSURCU2pzNzU0aWlNUU1nLUx2OFFsNHY4YWVMbjZYbnlLM2ZkdHhBcG9TSC1JNFlNWUltWTF6ZGVCZXEzNXRORHRaZm1WWTBGQnFjeUhTSERPQm5IRXhlMjhSbHNWWW9WVW5rdjM4VFpWT3JzX29McExweWIxNGJ6cThhMWx3ZzVuTHdTaG5iNFA3a2tnWG1fak0xN1JCXzZxQ3lxLUQ5TjlHbTNNbGFUU0tWNi1TUXBDT3JhRmxOUFNpSWsyUXF0bUxDQXprbk43bTl5MEloNVFMZ3gxMmQ?oc=5",
+        "source": "BBC",
+        "published": "Thu, 20 Aug 2026 05:49:56 GMT"
       }
     ],
     "rm": [
@@ -1578,7 +1578,7 @@
       {
         "title": "Here’s What You Need To Know About Real Madrid Target Sergio Martinez",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVVsZXRpNXh1UWNKb1M1OUdHZGZSYldxWjA1UDYxMGxGSno2X2JTQWdfTEZZdHJYNzNubFpCb25veHNvS004a1BUWi1fb0tqSXFleVlwa2p0TnN1T2ZyWXRnby14T0EzWTRlNzVhMVBESHI0MjBEUkloT01INWdmSWpubHZFLVFfN0gxbDhqWDFScWRMV3dSY3RFRG1keEpZWUlPQUpHY2tva0dVRmp4S3d2US03MFROZHYwdEtpdmtaV0J1WDUyVDFWTFF0VWxkckhF?oc=5",
-        "source": "Managing Madrid",
+        "source": "managingmadrid.com",
         "published": "Wed, 19 Aug 2026 13:43:13 GMT"
       },
       {
@@ -1626,13 +1626,19 @@
         "published": "Wed, 19 Aug 2026 17:28:48 GMT"
       },
       {
-        "title": "Newcastle’s Move for Bayern’s Palhinha Confirmed After Collapsed Transfer",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZDZMdTd6SERQMTVRQ0Qyd3hhaXA0Vi1jb282aWFuNVBtUDFJT0tlaEdKVXZLX1hHS3N2c1ZURlBic2JDZE5uekZjQ01rU1hsb1NOdnBQWTJaeXQ5eUM4RHgzQW1Rd0poTzNlNU53S3FyanU3T040NVlTSXJUaHIzRGYxX1JSM2hDdU1zN2VWY3dlLUVrY0pEQUI2dUl6d0F5YTBQUm1fODB2V1M5T2UwVWMtVk9zTExmQmRNODlOYWg2ZzItdlJESnBfWmI0VWZNVjVNQ3FhQjlnZms0MG9ZNDRkcTFlSkt4N2h2Qw?oc=5",
-        "source": "cominghomenewcastle.sbnation.com",
-        "published": "Mon, 17 Aug 2026 07:00:00 GMT"
+        "title": "Harry Kane publicly addresses whether he'll return to Premier League after Man Utd and Spurs links",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemVNZGNYWUg1XzRoWjNoQkJLVFhBVlZlRXpLLVpLaHJlRGliSzFFREVsd2t0bkhoZlVyV0lBTm8tZTlyYUllZzk0M2ZzUUt5Ym5NNERENHVmWlZkejl0NExsUXVDU1pqZHpwc1VNSE9aekgzd3B2bzdrd0hVYkJYTmI5LXp3SDg5VjVLUy10Rko2eXJqSDhrY0lMS2M3aXhuTVJtT0xGSU5GZzJzY05wMmZnNA?oc=5",
+        "source": "sportbible.com",
+        "published": "Wed, 19 Aug 2026 18:13:03 GMT"
       }
     ],
     "ars": [
+      {
+        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdoT2FCYWdPLUwxcTB6T0VQcHEwMllnNVBZLWFsMG8zRGw4R2gwdWVDa05MakR4V2JpbGZfc2FBSllSSmpZUThEaFhFRE84MWNfTGRudzZfOFBhbjVaang3M2RqcFk4WEFBeV85NkdqUWVaNEdZdGFwNDZkemhPOFIwSkpUNTZ2eU9nOXlSVVJCd3JrYlBMTXgwdE45X3BON3Zud21qT0JESmlucUswZQ?oc=5",
+        "source": "The Independent",
+        "published": "Thu, 20 Aug 2026 05:31:26 GMT"
+      },
       {
         "title": "Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for £50m-plus",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tODFJb3JkbTI3amJnV1A5RW9zd2JQcmp2T1ZhNUVKbU4ydUFiNF9TOGVvU29TWmxnelkyT2tZc3BNc0RCUG1qbGo2RHRXM2FtTWNEX3NPZEVOSGxJQzJjWUJ6VkZwZm8?oc=5",
@@ -1640,28 +1646,22 @@
         "published": "Wed, 19 Aug 2026 11:06:20 GMT"
       },
       {
-        "title": "Carlton Cole says Chelsea star 'messed up' Arsenal's transfer window",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzd2My1pT3kyX2xwRmZyMnJSZjlBUG11TXZPLXJHcVNaakNESVF4MktUdkNvNWxJaFJkdTRDREQ3THRWX1J2anJBdUpoUm0wdUctZVB0YUpXNXNDRlk5eTU2YVdDOGZlRFZuT3FJUTh4NGFIbGZySWNDYWdhdV9hSlc2X2QySzczSjJtNW9ST3B1bEpQRGVobGRwLTlQbmlOdGJVWUZSVTZYQdIBrwFBVV95cUxOcE1BNVR0Q0NaT0RjUm1oaGV6TnZrR2g5VHVpa0N2dVEyVW5WOXc4NVdqb3VnNG41Wms3ZDRQLWhJVHJCXzZPYmNtejJpNDlJcUxVc3NHc05zM1ZmV3FoblVtN0gtcFRaUVVRZ1lxMVRmM2RNUmVIRjljaUM4Tlo5YkhWTVU2M0Z1RUN0Z0tscGhYZE15X1Zya0FwZ0lpU0NrVTFUN0M1MDZmdFkwRXhv?oc=5",
-        "source": "metro.co.uk",
-        "published": "Wed, 19 Aug 2026 16:13:00 GMT"
-      },
-      {
         "title": "Bruno Guimaraes’s Explanation for Arsenal Transfer Is Vindication for Mikel Arteta",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZiNEN5eE9EUHFBTi0yMkx1dUFfOTUtSTRZZTl2R2R4b09Vckp2by14MllZT3ZBUnNhWDFJclNHZG84bHV5NVNjckZJQk9IZmMyV0tjaWdpSTMzSFoxVUhmWFFFSkZodDc5V3E0dVg3VEl3Q20yYUk3bUNhSHA0T2tsSjZ4Wk0zZXM0dDdpY0g0TEpkWmFZZTUzUQ?oc=5",
-        "source": "Sports Illustrated",
+        "source": "si.com",
         "published": "Tue, 18 Aug 2026 20:00:01 GMT"
       },
       {
-        "title": "Arsenal confirm transfer target for remainder of summer window",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTXVVTDJ4Q0V4NGlyWXpJYVpwVENvQVFhVHMyMFdQYjlOaTdBOHcwUkN5V2dfV3lWMGM5VFY2MzhtZ2NBc2tBU2c5S193YU1DckNZSTRFcWF4cm5jRVJPS3hSNUR3bmtxak94NnRxdDczZTFlTWFGdUxXemZXQU5fVlM4SXJRRWxhV3ZrNHgyU1hrQQ?oc=5",
+        "title": "Transfer news LIVE: Arsenal medical, Alvarez offer, Baleba to Man Utd",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHI1cFhoOEtwNkpyVm52V0tYTmU5VlhOeXRIMjZLZEpxNGJpOE5TXzl5bUlxUl9YSjdVMnhTNXdwLVNjLXZpTDdRcmtnSXhyV1p3OVBqaHBBN1VQSXBlUTZKNHBVTFpnSGI3Sk90N0hKdDk1VXM5LUhZc0RSd192QTJxY1g4MXNETWQzWU52NFVFVVZEazdOWFE2aXFSaV85WVRWOURzdmhIOV91ekplMG9PMV9MNVp3MTZBejZmUEZRRnVRZEFheVhQLThmdUU?oc=5",
         "source": "London Evening Standard",
-        "published": "Wed, 19 Aug 2026 12:14:40 GMT"
+        "published": "Wed, 19 Aug 2026 22:51:02 GMT"
       },
       {
-        "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFdoT2FCYWdPLUwxcTB6T0VQcHEwMllnNVBZLWFsMG8zRGw4R2gwdWVDa05MakR4V2JpbGZfc2FBSllSSmpZUThEaFhFRE84MWNfTGRudzZfOFBhbjVaang3M2RqcFk4WEFBeV85NkdqUWVaNEdZdGFwNDZkemhPOFIwSkpUNTZ2eU9nOXlSVVJCd3JrYlBMTXgwdE45X3BON3Zud21qT0JESmlucUswZQ?oc=5",
-        "source": "The Independent",
-        "published": "Thu, 20 Aug 2026 05:31:26 GMT"
+        "title": "Arsenal plot double transfer raid on rivals Manchester United for academy prospects James Scanlon and Habeeb Ogunneye",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPajVyazBrRU13Smk2NWJ1cXpzd3FPcEhNNW5TRXJtTFh2LWtuUmZFLWxmbElYTHdaT005ZDVKcE5pVXh2NUVEaVoyWmxfMnZ3TGxZdXYxWmM2U0VfYTRadnRaLVNtWUlKT1ZyejViQ2pTRDlXcGxmQVBjaXVPQTFocVBZOE52UldJU3RtV1BCWEc4aUZ3Y2luZHIyZTBlTlNKMDBmNWxkRks1dFJGQURZcE5nRzRWM2tzdmJSM281QmVfSnY2OGR3RnhCYWVNRDBnUFoyY1RsYjFfNzBnVDhud2tqck5qWmlRTVMwd0lPTnI?oc=5",
+        "source": "Goal.com",
+        "published": "Wed, 19 Aug 2026 18:40:42 GMT"
       }
     ]
   },
