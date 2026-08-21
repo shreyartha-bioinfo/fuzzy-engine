@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:58:29.267402+00:00",
+  "updated": "2026-08-21T17:27:09.962381+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1544,6 +1544,12 @@
         "published": "Fri, 21 Aug 2026 15:11:03 GMT"
       },
       {
+        "title": "Man United transfer news LIVE: Alejandro Balde push, Carlos Baleba £70m deal, Salinas move",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQwLUFwck4taHNDTU5wOWcwVUw0V1VPVTM3aEFJSUpROFBVNFRIN2piaUgwMnZDa05WeWU4c1l5M28yYkpQbGMwM29pRVlEdk1oV0UxcVlyTDNNM2lFdDk3YTZaVFN2T3BwN0xFWFctN3JEbDZiOEdCTU1OV09KRXhKMFJMNHpKemtrSGd2RXBFay1pRTFSUWFuaUhPV3o5UFMtMWFCY1JEU0HSAbABQVVfeXFMT3JHUU9UQW1VZXhRLUlsRXBJcWJVNEQ5d3hXQTFTX2NmZ0V0VjdRRFplc1U2TXFydGpDMzZwOXVPVmtEMC1UWlFQbGotQkNteUhGb3ptcmRuZUFISzBDZXdhQjVoTWljay1MT3J0OUZ5ME1id0RjdXNZaDhPQUwwVjJrYU5iQXlpY2luSzdBWmYwOEtveFZOQ2szUU9IenRVS1FLR0RKbmNrcGRLeHhmYWc?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Fri, 21 Aug 2026 15:03:16 GMT"
+      },
+      {
         "title": "Brighton chief breaks silence on Carlos Baleba transfer as Man Utd launch £60m bid for Michael Carrick's latest target",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDNsZmRQZl9GaGMyOXJfdDZEYWg5VERSVnozczl5a0w2ZUdLa0dmWERLTjF3VnBNYy1PdjhKMTYzaGg4LThsMWF4X3dSYXV3TWVmMHlUZHY5QVduc1BfdVFoWVByUVliMndPektCT3RIdEVaamtYbkZZRVBxazdhdlB3N25lMHlXV0VCUFR6dlFQOHc?oc=5",
         "source": "Goal.com",
@@ -1560,12 +1566,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNU5waUdSblY3bEhKcXEwY3I1Sll1MlFrWDV3blhRLXVfWF90YU9Xc1RRNW1TSUZRT2stT3JERUtfLUNMcUUzWmllYmJtUGdQbHE1bFpSbWltcnlVczlxa0JRTWlQbGZVRHBBT0VHa1QzNUZFbDVIOF9HQ3VMSHl3V3JZZGdtWFo0WFNYQWh1Qnc4SnZL?oc=5",
         "source": "ESPN",
         "published": "Thu, 20 Aug 2026 20:30:00 GMT"
-      },
-      {
-        "title": "Man Utd leading race to sign £42.8m-rated Bundesliga defensive boss as contact made",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0tQLXdadVQzOENXQ2VhT200T1pJdVdRU2tTVllscENBeWh6ejdaazdvdk1YbkczaXI4bC1oanp0V2xfQ3RucjBMdW5CQjY2YXVZRGdURFV3b3RMYkFBcDJPc2ZCRkNmT193MlZHcy1IRVFSdGtfZzZBSkxzQzFNRF9iNW9NWl90Y0NLRUxhdU1ST2VlcE9ka0tFNUUyN3ZU?oc=5",
-        "source": "TEAMtalk",
-        "published": "Thu, 20 Aug 2026 15:16:01 GMT"
       }
     ],
     "rm": [
@@ -1576,36 +1576,36 @@
         "published": "Tue, 18 Aug 2026 12:51:20 GMT"
       },
       {
+        "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHpDVVBXTG9QVmhDMzRIZ3RtV2dYZGtyTF9mRXJ4aGk5ZTVpUjZld3phMjlWQjA1OTljMzJDbC1ONnZQRzdHRHNNVl9JZFhuZWU5ckhXVkItcDNkYW5sRDF6OV8zQTYyd3NWdmJkTmR4dUtZWkxRSWVXUkJlaFFGel9aTE1rOU5lU1ZQR1lfQms0RGpSTHZEU21nYkloNDFPYjNqWEFIeFk?oc=5",
+        "source": "The Guardian",
+        "published": "Wed, 19 Aug 2026 14:18:00 GMT"
+      },
+      {
         "title": "Real Madrid makes U-turn on Man Utd transfer decision as Mourinho wants him out",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkRRRTRVUjVSM1FhUjVkck9ESlcyVTAtR0tjWFYyZGR5MWFrZDBvUEdKQVI5bkJmNFR4SVZCNUlZSS03TlhLdFhVczRPRFJGcTNEVGFPS2g0Z0RVNEY1T3RjaXF4OHRxN0R1cjIxWVNJYnhQRzlHSGFBZVlkajl5cWhVRldwTjlhWTdXZjU5REdfTENsSmI1eXJtSXdYcHdzNzFrcW0zei0tVEhpOXVFSHlR?oc=5",
         "source": "Football365",
         "published": "Fri, 21 Aug 2026 13:53:49 GMT"
       },
       {
+        "title": "Mourinho tells Real Madrid defender to find new club as super agent steps in",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamJfTlR3d2ZvVFJ6TVJOcGt2WmJHRFhMN1BvR0U0bi03QkRZNkpIMzZzZFhtSGs1R0swcnJycFhFZ0M5U01LTm40WWRwcFlzMHh5TTA5TnYtU09LMHU0QXF1SGpZOTlxeWlQRV84Qm5hQ0hsRnJNb24yU0FSWmlqOFlmQ1hjMjdXa2FSWg?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Thu, 20 Aug 2026 11:45:00 GMT"
+      },
+      {
         "title": "Julian Alvarez 'open to Arsenal transfer' as Atletico Madrid star to make final decision",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWNOMW0tT1lHSm1tWHpxMnprOFdtXzVwTml6ajRpcHp5cTZOMGsyRWd2ZENWUTU1Nzc2cE5IcFlXVE1MTGhSN3RBSXJ6T0V4bFVyaGVWYzBpQl82amZQTUNCT3B2cDUtWTV3RmZVTTJtVXlvME5nbktrX1Jib1gyTDZEWEJSdXgzV2VYS08zWFJFSjNZTnl2T0hTLVJlM2hYRGJ4M9IBqgFBVV95cUxOb2k3NHE1Y0VubkpPWnExQkFUUTE5ZXdCZE1hVXE5cVl5czRmTUJZbnM4TFhmZUtzNE9Kc3ZDVWgzQUZKQkJCSzVRLTM5S1ZlcG1LYnZXOE56TUl0T2Z5d0p3YjhUNnRvOU1fQnV0OHJNbEZrT2hkcmZYMXdGcDJVWGZSUjZ0Zm4zbkF4b3hXbnVZRGJiaEhRQzRGTDJrUFVzaXpMVjNIVzJ3dw?oc=5",
         "source": "Football London",
         "published": "Fri, 21 Aug 2026 14:34:41 GMT"
-      },
-      {
-        "title": "Big questions, predictions for Barcelona, Real Madrid as LaLiga campaigns begin",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRng1SDlQYzQxREk0dmcwcFJWZjVJckx2WGN6ekRhSXVsaTF0b0RkaGZEbWpMZjU3aU1hQUU5bDdyM3JHLWU1enN0VGdKV1pZSHZhcmRPNC1YcV9BVzkwR3daYmJ1WTlfS01pdzQ5eG1GeWd3WDlkS05IWklOS3RZUW43SElyQVFqVTF1OUtMQlN5czVqVHFzUWNQQ1MzQjgtTkFuSDJMUGlKNHRGbXNGdmxJckdEdjAxVlE?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 20 Aug 2026 09:27:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal want Kenan Yıldız as Barcelona eye Lautaro Martínez",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3l4SEVYQWNiTnBVTXJTTXI0QmlmU0hTMEp5TzJ0MHJxZ19NMVhueEtRWGpMOFY2bFdJMDFHSTdfT0hhU09BYnpxamRGTVZhY0h0TEVNTE95bkp3bDgtajZZQ0VwMEI3aFRYYk41dHlRTDc1eXRBOTB4VXNwa1p0N0x3eFF0V242T3U0WWUwR3dFV0lxSnJ2OElwQjlPSzg0T1cxVmhWRDUzTmh3ekZlbmx6cmk3QTVoY2dCTnQ4M0RIcFE?oc=5",
-        "source": "Transfermarkt",
-        "published": "Fri, 21 Aug 2026 15:39:51 GMT"
       }
     ],
     "fcb": [
       {
-        "title": "What’s holding up Bayern Munich’s extension with Harry Kane? Now we know",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLTZhUFozQTVua2MzWUlpLWkwWFZESndNajMtdktmaUtVamtWTlJ3TEFtQi1zRVBiUFluSUVIVzB6NGZSZlU4TVgwLXJtd1ZtR0tGbDlnaU9URnk0SlNFNkxKOC05aXBpclhRVGpFaldvb3h5N2t2b2FyNXpLRUdfQjd2MkMxTktFeXc3RHhteW9VdzRFeGJlX2t5MnJ2aDRWWkxyVEpLdDk0UlotOE9kUkZJcUdob1RyZlFrV2xSQWExWHVGd3RuN3Qxdzdhd2ZMa0RjV005Nk16N1hTZ0xLZ1V3dw?oc=5",
+        "title": "Bayern Munich target French wonderkid Soyan Ameur",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUsyQVlvXzJQVFkyand2b0hCcGNrOFN3dWY0X1BwZUhEWEUyTTRyUkR3bnJsWFV5YWZhVndHcy00N0pKMV9KY3duVktET3FIR1dWaUVRblR3LTRNNXZOUE53dzU1ejBhX2pqcUs0OURQMXJyTlpxTHFhV09FVWRlcUd3M0xPODJkUWVpZmVJVnBwOEpBcFhtVEF6VkhpM2phTF83c3VlRFh2bnFqb19iMmJIdUZWbFVZTmxjYldxdzZmbTVjREFFaWs2a0U5ZTNpSEpSOFRn?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Fri, 21 Aug 2026 05:00:00 GMT"
+        "published": "Fri, 21 Aug 2026 02:30:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Napoli eye moves for Zirkzee, Jackson",
@@ -1634,10 +1634,16 @@
     ],
     "ars": [
       {
-        "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+        "title": "Arsenal transfer news: England defender Ezri Konsa leaves Aston Villa in £50m-plus deal",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yMWhLdjAwMjdEQ2RSYXJ0ZkpQS3laQzJuR2ZDMm84RkJtMlBIYjFmUDc2NGdOYnNIN0s3c29iRlo1eFF3bHRNSDdOd0hrbUNySFFHOHRTUGFTOVQ2SmZGMllGZk9UVTQ?oc=5",
         "source": "BBC",
         "published": "Fri, 21 Aug 2026 15:20:45 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Man Utd medical",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYmRLUUVPelQ5bXVnUjNqNnpwZlhOeWo2bmxpZlc5Q3hRd3k3R3FPNnpMY2oxb2YzV2xNc1pweDd6UmlHUUhqSHltR2ZTVy0weDNqb2ZYTU9oa2dPa2NDRG9fc0stQUxxTGU4el9XS1ZCdllpVWhiOWdhTUhYVGV2VDhFRXIwbW9HU3lDaF9IaHhhaDN2V0xaTDZXWWdaYklsUVdkUUdDVFNzS2lDVWpleFZRc2NCQnJaYnV6LXJMQ1dGT3piVXU0S2dBZ2xyYTg?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 21 Aug 2026 15:11:03 GMT"
       },
       {
         "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
@@ -1656,12 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa05rSDc2MllsaWNJME1DNUpxTzJGNmh3bHBOMnZ6WHJ5Vk4wTUh0VlJRdWFQNXREejktb2gwSVN0R3Q1WHQ4UERtUHpzakFwMnZoQktRMGs2SWlPaXNlTkpEcXdXM0FSTUlGSy1NUGxPWmhPXzVhVHhUTDRDMUNQNURYWQ?oc=5",
         "source": "football360.com.au",
         "published": "Fri, 21 Aug 2026 00:10:00 GMT"
-      },
-      {
-        "title": "Julian Alvarez is open to massive Arsenal transfer despite lingering doubts over Atletico Madrid exit",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanFraXhqNGNUSDZnQklNTjRkWWRvYVJjYS1MUUZncG1UM2ZBRnA5Zng3cmFZNnUxR3NBSzhldHQyU1dDLWVHTXBWUkZwYm1reTNBLUpsOXl5QVkxNmV2OXJMdlVlYWhiYUEzS19Wc3JnQVljN2NJZzM0UmJxS3RqTS1IdEZMc0xZUlYtWQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 21 Aug 2026 13:35:40 GMT"
       }
     ]
   },
