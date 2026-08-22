@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:11:35.634189+00:00",
+  "updated": "2026-08-22T22:44:29.402132+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1544,16 +1544,16 @@
         "published": "Sat, 22 Aug 2026 20:29:19 GMT"
       },
       {
-        "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 22 Aug 2026 21:11:08 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Liverpool £140m Barcola issue, Arteta contacts Alvarez, Spurs close to huge deal",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUpqV2tIbkZNM2gwTUZEUFlxNGhOOEZEV2d5YndFMDdZN1hnSWJvdzhoZWdPZEx6ZlA1ejI2b19Ld21CcEdhVkJTbW1LRk1GeDBkM3lrbVowMGpWam1ENS0zQTlLbW44aGNpVklrYmFPdGJ3UmdUb2lJRnlTUXFJZ3RuMWlvWnNFSzRzYjFiSFg3Ym5kRzJzTkU3MEVfd0l1b3FJdTNR?oc=5",
         "source": "The Mirror",
         "published": "Sat, 22 Aug 2026 21:05:27 GMT"
+      },
+      {
+        "title": "Jamie Carragher believes Liverpool's starting eleven is better than Man Utd's going into the 2026/27 PL season",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1NwOXdxSldsdjhxelhGeDY2anpOc2dIOWpzdlBXSkVKVlRyQThHUEczUUdad284LVFpNV9kZld2RE5ZeTEtUGFBWkdPc3h3WmVETDJ5NGZDSXVQcE4wX3JZcVVoU0kwWFNVREIydURjYjVhazhOM1ZRWC1sX2gyT2t2cG04T2xyOGFGSmozSVUzNGc1cWZaZUFpT3dQZkJSNXBNSTA3WUhFbHEzMUJONFA5OHhVeEtRd2c2UTNlckRTWWxPMVJrMXg5ckNLZ1V2N1VRYmZiWEM1QnBvMW5KVHAtMVo5UUxyR3JFRGRjcTVYa0QtcVNZ?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 21 Aug 2026 22:16:28 GMT"
       },
       {
         "title": "Man Utd transfer news: Club agree £70m fee for Brighton's Carlos Baleba",
@@ -1573,13 +1573,7 @@
         "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
         "source": "The Independent",
-        "published": "Sat, 22 Aug 2026 21:11:08 GMT"
-      },
-      {
-        "title": "Zubimendi makes decision on leaving Arsenal for Real Madrid after being benched again",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeF8ySzMwWUl3YVRvTVByR1oxTENWLVpmajgtNFZxVGNwVU85OXJ5S1o4Q2o0dXRLd2txc0N3bGoyeG9TZ2VwM29kU2tOUzZ3SWdULU04N1JMdHNzR2RRMnZZNWg2bnJDTTF4bTdfanJDd3VQaDJRUFFOWkpyZHducnRSRjY2Wk05Y2E5U0lCbWVfVkRpdkUtbkl3?oc=5",
-        "source": "Football365",
-        "published": "Sat, 22 Aug 2026 12:54:23 GMT"
+        "published": "Sat, 22 Aug 2026 22:19:53 GMT"
       },
       {
         "title": "Liverpool ‘Turn to Real Madrid Star’ After Failing With £60m Winger Bid",
@@ -1597,7 +1591,13 @@
         "title": "Transfer news LIVE: Liverpool make Endrick enquiry as Arsenal chase Osimhen",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGdEOU56dFYwZUtLbEpMZjhrUWZvSkdkazdTMUpaWC1NVVM2anZkWDd3dExUendGSV84RVloUDdOeTM2TmNaR2kxVllleEdvS3dPalVlVjBUTHFEUU5mSkVOQzlST3F4cnhoY0E5WEN0b1VENDItbmVQWVFBS2YyVko4SGI4bHZnVzF5S1FETERrSHA4blRkalFDM1I5VUs4MHJ2MUJvU2ZUamdIUEtxSXZnQXgxR3RnQ2FiSFVn?oc=5",
         "source": "Transfermarkt",
-        "published": "Sat, 22 Aug 2026 19:12:55 GMT"
+        "published": "Sat, 22 Aug 2026 22:13:24 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Atletico Madrid’s Alvarez U-Turn; Messi Offers Barcelona Boost",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFVwS3d1VHhSV19NblBZZGJSNnJPME1Jdk1JOTZOYS1YYl9YNzhWYS1RRUFGNEswU2NRVmNlVExSZ2ZjM2p4bEttM1RPd055dm9jZ0UtRjlReFN5Z2ROQXJJcndiZ2w2QmJaQkE4anlMNXVWLVp2eVBEMDh0QjN3QWhWMTItVVRvZnlWWXI0TGU?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 21 Aug 2026 23:05:00 GMT"
       }
     ],
     "fcb": [
@@ -1637,19 +1637,7 @@
         "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
         "source": "The Independent",
-        "published": "Sat, 22 Aug 2026 21:11:08 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Alvarez to Arsenal twist; shock Liverpool move",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY2l0UW9rSTBXY3NmZnRub0w4bVh3eDYzVjJvUjNndHRicURlM1E1dFI2SWY2VzV5TGlGa3A4VTVVWmp0VElRVGdoTzQ1Wl9BMnhaWGJpVzR2ZXZ5S2QzVVlpYnZQVU9BNkJRdjdtcG5Mdy1NTzdLQUd6MWQwZ242emh2Qk5NMHZoYjl5UXo3U1g1dGt0bWVrNGZGT2hZdkFxbTNzbFBjNUNjcG1sTTFUb25CSlJwNUpobTEyZk1ubXlxcW5oWmQ0a3R0ZTE0M1U?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 22 Aug 2026 20:29:19 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Liverpool make Endrick enquiry as Arsenal chase Osimhen",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGdEOU56dFYwZUtLbEpMZjhrUWZvSkdkazdTMUpaWC1NVVM2anZkWDd3dExUendGSV84RVloUDdOeTM2TmNaR2kxVllleEdvS3dPalVlVjBUTHFEUU5mSkVOQzlST3F4cnhoY0E5WEN0b1VENDItbmVQWVFBS2YyVko4SGI4bHZnVzF5S1FETERrSHA4blRkalFDM1I5VUs4MHJ2MUJvU2ZUamdIUEtxSXZnQXgxR3RnQ2FiSFVn?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 22 Aug 2026 19:12:55 GMT"
+        "published": "Sat, 22 Aug 2026 22:19:53 GMT"
       },
       {
         "title": "Arsenal transfer news: Julian Alvarez would add 'magic' to Gunners' frontline says Gary Neville as he urges them to sign Atletico Madrid striker",
@@ -1658,10 +1646,22 @@
         "published": "Fri, 21 Aug 2026 22:44:29 GMT"
       },
       {
-        "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHo0OUI2ZzhFUXZDVkRST3NfQXp0X0xhRzU3Ymp3bmpJaXRXc3dZUDZveVY3cnZOMU9FVXU5WXdFbm13S01RTXlIUWlHZWVSbHZ4OF9vS3VvXzR5TnAwNnRWS0J6ekZaQWJGYklSMDFXQkNXRmFKVmMtUUlmeHcyOTFvbnFVWVJqQjdfVlc4bHB4Yk9YNlJTQVNxY0dzOGF1RDVlVVJjdkx1QzRfdmVOelE5dFpPY0tuVG8weUxJWQ?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 21 Aug 2026 07:24:17 GMT"
+        "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yMWhLdjAwMjdEQ2RSYXJ0ZkpQS3laQzJuR2ZDMm84RkJtMlBIYjFmUDc2NGdOYnNIN0s3c29iRlo1eFF3bHRNSDdOd0hrbUNySFFHOHRTUGFTOVQ2SmZGMllGZk9UVTQ?oc=5",
+        "source": "BBC",
+        "published": "Fri, 21 Aug 2026 15:20:45 GMT"
+      },
+      {
+        "title": "Ezri Konsa completes £51m move to Arsenal from Aston Villa",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGt5azM4dUhBZUlJS1FqOUxKWEhROGNBQVExdlF1ek9FX1ItSlRjRjBTLU1WaUNfTDVfTVF5Wm5EcmE5V1FzbkRVQ2hkZXFoQkk2VWJKMDNMQUxmdFByWXhhNkVYbm5LTC1EVF9fUFlnZWJJSEkxdjExMUxwQXhZNGtwV1lEakoyVHVscHFDd05qcnNYeE1uQzhMMFNWZw?oc=5",
+        "source": "The New York Times",
+        "published": "Fri, 21 Aug 2026 15:21:59 GMT"
+      },
+      {
+        "title": "Bukayo Saka breaks silence after 'brother' Ezri Konsa seals £55m Arsenal transfer",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFNRWENFVHp5cUJYT1Zvb2x6QV8wRkpsckpyeXBlRk94MXZfQWY3V3JUQ1RkNi1RRTg0RnhmOElSUFRVTV9YOHdsTHNpaGRVdzRKQ3JUTFlVYl9GZnJvaXRHNHhvbjJkcXdTYnVmMDdMSmlMWlhCMDdlVm14NGljYnN6aVVCLWZqZ3NZSWhB0gGTAUFVX3lxTFBDU3piMWx3T0p0aTdwalVXOVJUV3ZhLUpjaWh3T1pUamhyQzhOMFpzV1hBM0RlbThCLUYzZDhycFdaYjlHSDdKRWtVMnZFeFhOUXZQY2FRcXdPMmRCZmZWbXNoMXdWT2FNVDBlNmVKUTBlcnZXdzQ4ZlVaR3RmTlNUUEZpaWVZNTBOX0VlY1hqMWR2aw?oc=5",
+        "source": "Football London",
+        "published": "Sat, 22 Aug 2026 09:20:17 GMT"
       }
     ]
   },
