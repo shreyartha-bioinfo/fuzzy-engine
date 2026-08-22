@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T09:48:43.398661+00:00",
+  "updated": "2026-08-22T10:12:52.668167+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
+        "source": "The Independent",
+        "published": "Sat, 22 Aug 2026 10:01:36 GMT"
+      },
+      {
+        "title": "Man Utd transfer news: Club agree £70m fee for Brighton's Carlos Baleba",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PTkxTNkNkeWdpai1LYUJ2T21TRVRTZEx0TS1DbThsZlBHdjlVbV9JU2ItVU81Mnc1MUQybjBBdFRBS2hRY1hoRGdVVlpGX0hXNVRnRVdMcVBfR09sZVZUNnozOWV0NEU?oc=5",
+        "source": "BBC",
+        "published": "Fri, 21 Aug 2026 19:58:11 GMT"
+      },
+      {
+        "title": "Man Utd reach shock decision on Lewis Hall transfer after INEOS enter bidding for sixth signing",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtqdVFsTVJZTTAycUxOd0NiSUxobU1KOTdickFTS2VTSWkzSVhRYzVMcGVQa0RFWmI0eUIzM05mYUFSem9OWnVkNWZjOHMzVENNQUlUdnp5T01KdmN0VDNjendybTZuWDdGSlF1ZlBtRGZqdHpfOW1LS1pYMFh0Z3VENGpITzNaUGs2M3dMY2VjbGlxa0E?oc=5",
+        "source": "Football365",
+        "published": "Sat, 22 Aug 2026 07:49:25 GMT"
+      },
+      {
+        "title": "United identify two left-back options after missing out on Hall",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODBuNTZ3MUdycGVjQ3huUWVVdHE5eG9TZF9XMEVnbXlHWGhkaWx1V2k0V3lXT01tWGJvWFF5aEkzYmJCU3p1TmNLUGd3cEl5Wm5XeUpUemxmRGM2eTZzVDN3SXpFcmc3SUR2ZlZORjliOE9DNWRUOGRHb0tYclhvX0RyMlRXTnU0YXVaRXlkQXYwckdqSVpQbU5Hc0x2VFJ6aGc?oc=5",
+        "source": "talkSPORT",
+        "published": "Fri, 21 Aug 2026 16:28:32 GMT"
+      },
+      {
+        "title": "Newcastle Makes Lewis Hall Move as Manchester United Links Intensify",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTZpSFNid21iVVV2VE9sTVp1cFZXRm5zLVlDekUzTzR0ZGxNc3Fucm4zS2NXWXQ2RlExT3BVTEd3ZElLUENqWkJ5dFhiRVZuTnotZlp5V3JoUmdpMnNmMGhhdXN1OTV5YlRwUEhVblJkOXg5VjZJM3FVZmVRNXB1em9WNFBlX0hFSWRBSVVYdnFZblRzdkV2UDRPd29FX2w3SHFacGdNb1ppcGRDdjVpaGVITWdTMWZJME5LaVRXSC04dE5sTVpXcXdIV0tScEdxVFl5OWEtZEhBQnZFd3ZPdm5JZ1hKdmhT?oc=5",
+        "source": "SB Nation",
+        "published": "Fri, 21 Aug 2026 13:00:00 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
+        "source": "The Independent",
+        "published": "Sat, 22 Aug 2026 10:01:36 GMT"
+      },
+      {
+        "title": "Real Madrid react after Romano confirms Liverpool call for shock signing",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0FRNExCUkJDZ0hPNVF2cWVSNGhwTTBJd0VoRGZSNjlyeU1Wa3d4OVpsYmVEM1dSRnAySTk1akc1Z2RJZlQ5aEIza0pfcm1kMFpZWTVmUS1PWS1yVU42OEV4VktmQXh2SjFaS3RjenhZaVBLVHpUQTAzeG15UkduQjI1bzIyc2J2UGNJUU1uYVVPY3VzZlFtU0NJLXFiek82Wi1JeVEtc0s4MzA?oc=5",
+        "source": "Football365",
+        "published": "Sat, 22 Aug 2026 07:55:25 GMT"
+      },
+      {
+        "title": "'We are thin' - Andoni Iraola vows to act after Real Madrid starlet snubs Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXEyQUNvS2xTcTZnVzM2YXhQS3ZmdWxMeHFxX0hhYlFBcXZoUGNYWkpfdHpFZzBURDVudHppT1dMem5tVGMza2xwRGVtZzQxN2VMNElzNUE5U0Q2Y1hpYkllNGVfdVptM090OUowMmVVVHBSUk9TUG94d2w0ZkludQ?oc=5",
+        "source": "Yahoo Sports Canada",
+        "published": "Sat, 22 Aug 2026 04:31:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Nkunku in talks with Newcastle, Savinho and Marmoush latest",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc05lcTlLMUNYb3NfUUlqNmk3Z3hETnp1bmd1TmhhczlhOUtSbWxfVEZUNW1pQ1FoaGhNd0t1NWFiREZDWVFxRXJGSE8wSEdOMGR6cGlHN3UxRWU1X2RqSHRzSlJIbmtLV1lyeE5CUHpFSEdBX0tmVW5kdEtEbW5SWmFVX1prZHZoTnRFWENZdWZYM3pVa2lGWl9iMjJXeWJqa3c?oc=5",
+        "source": "The Sun",
+        "published": "Sat, 22 Aug 2026 10:07:18 GMT"
+      },
+      {
+        "title": "Liverpool have called Real Madrid for spectacular signing – Fabrizio Romano",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVVBakRmU2FUVTIzUHhfQW0yTVMtSzdrbUFmcTM5c2MtTW9UUVRxWlVMNjEwRll4Qm5UaXJNc2lEMEZMV3hpVmRud3lCWHVJem1TTnZkSFFrYnFTVFJUZnVqYmhjTmF6OTlGUVZLSVRZckhzb2U3amVQZm1MdzBiMVdWMEZTemM4U2M2UzIyWkpNb2VybklvYlJZak95XzhrWVdOMGtlTkc?oc=5",
+        "source": "TEAMtalk",
+        "published": "Sat, 22 Aug 2026 07:26:24 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern Munich’s Max Eberl says ‘some details left to be clarified’ with João Palhinha transfer",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTkptb0JZWVJlZ05aOHFlZGItZkdpa2tzbGR6eURmYk5qRmNFb0k0aFFTSm1LS190NWtWVy16aVdmczFwb19ZV2t3eXEzWWJOemM3aWN1ZzgwM2dySXJuUURvaUVTOVhidGV1WWFlbXpZUFlJN1ZfNlFlNXNXd1ZROEhKTjduajN0cmEtZ2hJTlZ2S0dOV1FhWmNKNmpPcExJSXBIVlRIeTRQUXByYkhHOVhKVHl1S2ZJVTVtQ29HcVJ6clNNeXVyLU9Oelg3ZUJZRFZrRTN5aWhsY3UzS0E2VzdmN1RuNVVtbjBUdFVQVl9qME1Ra3pVdHZqZFlBZnpx?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 21 Aug 2026 19:30:00 GMT"
+      },
+      {
+        "title": "Sudden major progress in the negotiations? Exciting transfer option for former Bayern star Leon Goretzka",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbnRJSjJMdDMwY25PVEVpQ0dGQUt6TldhZG1WMl9aa3hYQVVqbE1oZVQ3cDV0cXljNDIwTk9yTmt4T1JPdXhkNTNlZV95U2R4aXNDMnFqcUllSjAzV210aVdVY0dqYkE2c2R4eE5SaExXUFFFVTZTQjNoRU5UMllyeVd2N2dTNUhhYzVvanl3a3JFdmZ0bFF0S2NKWHpKRHUtaFhGNm1vMGVNdXRlSy1mbXN5aXRpR2hLWXFkMkE3Q1UzemsxMUIyZkE1S2Jfc0d3Ul9CamFWOEVrckl2TVg1TGtjdno2TTQ?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 22 Aug 2026 09:08:35 GMT"
+      },
+      {
+        "title": "Leon Goretzka in talks to join Premier League club on a free transfer after leaving Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMno2UkM2eE93MWtoeENabWdPNVhONE44a3ZxbDZZQ2JBeUsyQW5OQWZfYWlMT2stWVhIWjREajlHSjVLTDZBVDBnRFhvWUhtNHVXVDJNdE9FYlJ2dE5YS3Y3dXllLVVtN0VuVHhCTjIxV0l6TTJKQjRtdWpsTzdZN2dkc0dvQUJuSHQtLTRoYTB3cy1ubmZjUFdSa3VCbGNJSHVCMGM4ZG9MbW0xQmFER21wOERBVXh4UlE?oc=5",
+        "source": "SPORTbible",
+        "published": "Sat, 22 Aug 2026 08:04:17 GMT"
+      },
+      {
+        "title": "Bayern Munich will not make any more transfers per report",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTm9RQjhOcnR5RFhiMWxkRThNQ2hXcmZ1ZzFiaUF1TC13aXRTbVBfendGUHdteF9uX3dicFlLbWlHTk5abmppLXNyWGRmeW1BZnJXNl91TlcybUstT3paeGFuYUYza2Z4QU5mNDRLenFJVGJKRVBPZm1zb0hfckxSdnFZMmhRdDVW?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Fri, 21 Aug 2026 20:30:00 GMT"
+      },
+      {
+        "title": "Bayern Munich target French wonderkid Soyan Ameur",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUsyQVlvXzJQVFkyand2b0hCcGNrOFN3dWY0X1BwZUhEWEUyTTRyUkR3bnJsWFV5YWZhVndHcy00N0pKMV9KY3duVktET3FIR1dWaUVRblR3LTRNNXZOUE53dzU1ejBhX2pqcUs0OURQMXJyTlpxTHFhV09FVWRlcUd3M0xPODJkUWVpZmVJVnBwOEpBcFhtVEF6VkhpM2phTF83c3VlRFh2bnFqb19iMmJIdUZWbFVZTmxjYldxdzZmbTVjREFFaWs2a0U5ZTNpSEpSOFRn?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 21 Aug 2026 02:30:00 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Arsenal transfer news: Julian Alvarez would add 'magic' to Gunners' frontline says Gary Neville as he urges them to sign Atletico Madrid striker",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRk8tUi1ERXg3V2JqYXFvUDV4VW1tS0thMjRJZm1ET2h0WFZ3LWNXMzZDVmR6X1dlZ0tOZWpweVZnQTBiUkZGZDFEbU14LWU3ajhrY1RfbFRud1p4c0VXeVdzZDdPX1F6VFByT0M0RmpsSFVOR2ktME5tTVQzdWgwYUpNLUVDRmJEUGtpVEpvUzlSM01HYWtwdC1FeDlQU055OTliTU5aT3NvdWZ4Z3ZoTU5JUVcwM3loZW1Jc0N6ZEs5bXFvN0VWczlicGx6cmthQ2NQWmdGLWRLQVY4UUhEYkRkbWVBcEo4dmhxSl9iVjJqS3RmbUc5ZENXdTd4OHFYMFBIUC1Ua09jNWNSdWxzMU8zcU8wdGR5SExDWThpS0c?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 21 Aug 2026 22:44:29 GMT"
+      },
+      {
+        "title": "Atletico Madrid have finally shifted their position and are now willing to sell Julian Alvarez to Arsenal Daily Express",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNb0VqaE53WlJZREItcmdpSGFWTl9OTDAxWm9ROFlZRmwwN2JpcTdOcHFud3JuNzRBTXZjaktaYW9hQU1jLTlpRkdUZ2xSQS04MXVfdVVMbllSZHE4bG45d2tvQ2lyN2s0X2Nxdk8wbjFEWHJyenlmZGRJRzVjLWNaa3kzeXRTREp6OGlLWUs3aDJPOWpVWHZKY2E4SmJxanpHTE84SnRCODloaWZSVGYyOVp6Z25hd1F0bWh4bmFFYlRtZzZONVpqWG9YLUx0OXktOHFLQ3RUc3NZZEwxak44TWl4Rl9UTHdmZ25ZbjdNOE5zYUdBQ1FHTzdIdkZ6ekNFRGYyQWV5ZUdMYlZzNjl4NU1WVExuYTlQUlBHSEh5NE50emJ0TWs3aEJYNA?oc=5",
+        "source": "Sky Sports",
+        "published": "Sat, 22 Aug 2026 09:12:52 GMT"
+      },
+      {
+        "title": "Julian Alvarez is open to massive Arsenal transfer despite lingering doubts over Atletico Madrid exit",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZWNibjhwaE10LWU5eXdvVmVzbFpkT0Y1RzlOOGJCX3Z6MmZ0bTlfVXVZYTVrZk1FVm1ZTi1Dd1BVTW9MaE1ZTE0wVlZDeDMwcUU2Q19hemR2aEtPLUN0NDduem5FWXZjRTVOTnRkY0JSaDlpeFNJWFRQM2F3dVFkS1c0clZpRDVyTm9CRms3d3dDQzFZQ2lhY014LTk5WGZNWU1wNWhFbkw4SDBaYUlSMkdQUFJDdTl4SlNpN2poRXMzemxGbDJWRU9JV3I2R1RKT2VqOTJablJYZHF0cGc?oc=5",
+        "source": "Goal.com",
+        "published": "Fri, 21 Aug 2026 15:36:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal signing today, Iraola frustrated by Liverpool business, Baleba nears Man Utd switch",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0I3a0dCaDJjMVhTWUNhbVU5bzJTZTdOS0FPSzBSYXNqNzYtQjJrQnA4c1EtczQwcjNUeFdKS3ByRVlMYmRSMjg2SXkxSVowVXFKTkdLX3V2N2VYZ0hpeFBpVjN3N3ZHOVcwZk9MRy1xUjNnOTBYdW4zZGMyRUhyNWQxd3oyOGJJRm4zUXg5cnBQNWpSVFM0amt6X0VkajlIc2ZBWEY1dDMtWkFNWUJ1Qg?oc=5",
+        "source": "The Independent",
+        "published": "Sat, 22 Aug 2026 06:48:49 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHo0OUI2ZzhFUXZDVkRST3NfQXp0X0xhRzU3Ymp3bmpJaXRXc3dZUDZveVY3cnZOMU9FVXU5WXdFbm13S01RTXlIUWlHZWVSbHZ4OF9vS3VvXzR5TnAwNnRWS0J6ekZaQWJGYklSMDFXQkNXRmFKVmMtUUlmeHcyOTFvbnFVWVJqQjdfVlc4bHB4Yk9YNlJTQVNxY0dzOGF1RDVlVVJjdkx1QzRfdmVOelE5dFpPY0tuVG8weUxJWQ?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 21 Aug 2026 07:24:17 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
