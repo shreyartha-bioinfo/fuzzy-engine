@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T05:50:20.830886+00:00",
+  "updated": "2026-08-22T06:21:52.440001+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1544,12 +1544,6 @@
         "published": "Fri, 21 Aug 2026 21:09:17 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Man Utd medical",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYmRLUUVPelQ5bXVnUjNqNnpwZlhOeWo2bmxpZlc5Q3hRd3k3R3FPNnpMY2oxb2YzV2xNc1pweDd6UmlHUUhqSHltR2ZTVy0weDNqb2ZYTU9oa2dPa2NDRG9fc0stQUxxTGU4el9XS1ZCdllpVWhiOWdhTUhYVGV2VDhFRXIwbW9HU3lDaF9IaHhhaDN2V0xaTDZXWWdaYklsUVdkUUdDVFNzS2lDVWpleFZRc2NCQnJaYnV6LXJMQ1dGT3piVXU0S2dBZ2xyYTg?oc=5",
-        "source": "London Evening Standard",
-        "published": "Fri, 21 Aug 2026 23:35:13 GMT"
-      },
-      {
         "title": "Man United transfer news LIVE: £70m Carlos Baleba agreement, Alejandro Balde push, Salinas move",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQwLUFwck4taHNDTU5wOWcwVUw0V1VPVTM3aEFJSUpROFBVNFRIN2piaUgwMnZDa05WeWU4c1l5M28yYkpQbGMwM29pRVlEdk1oV0UxcVlyTDNNM2lFdDk3YTZaVFN2T3BwN0xFWFctN3JEbDZiOEdCTU1OV09KRXhKMFJMNHpKemtrSGd2RXBFay1pRTFSUWFuaUhPV3o5UFMtMWFCY1JEU0HSAbABQVVfeXFMT3JHUU9UQW1VZXhRLUlsRXBJcWJVNEQ5d3hXQTFTX2NmZ0V0VjdRRFplc1U2TXFydGpDMzZwOXVPVmtEMC1UWlFQbGotQkNteUhGb3ptcmRuZUFISzBDZXdhQjVoTWljay1MT3J0OUZ5ME1id0RjdXNZaDhPQUwwVjJrYU5iQXlpY2luSzdBWmYwOEtveFZOQ2szUU9IenRVS1FLR0RKbmNrcGRLeHhmYWc?oc=5",
         "source": "Manchester Evening News",
@@ -1566,6 +1560,12 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTm5KUDNORWZVaGl1SkJHVXgzVDU0R3NXNEE2LUxNSzRKd3BqZU55c3JWQkRib3BSaGpoVFZRNEZ1S0U5ZGYtaEFpUVdqdDZOODhqTnNjYTJ5bEh6LW56S1NmN3VIM29fZnVYWmdxc1o2Z1cyU05ieVNGNVFMbGZudUdCUFdueG9iN2NNOTlVdUZJQmpSbTd4c0lxTzR1UUZEUEJURURLa1pIMnFIRXI2OFJpU0w?oc=5",
         "source": "TEAMtalk",
         "published": "Fri, 21 Aug 2026 11:50:20 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Man Utd medical",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYmRLUUVPelQ5bXVnUjNqNnpwZlhOeWo2bmxpZlc5Q3hRd3k3R3FPNnpMY2oxb2YzV2xNc1pweDd6UmlHUUhqSHltR2ZTVy0weDNqb2ZYTU9oa2dPa2NDRG9fc0stQUxxTGU4el9XS1ZCdllpVWhiOWdhTUhYVGV2VDhFRXIwbW9HU3lDaF9IaHhhaDN2V0xaTDZXWWdaYklsUVdkUUdDVFNzS2lDVWpleFZRc2NCQnJaYnV6LXJMQ1dGT3piVXU0S2dBZ2xyYTg?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 21 Aug 2026 23:35:13 GMT"
       }
     ],
     "rm": [
@@ -1576,16 +1576,16 @@
         "published": "Wed, 19 Aug 2026 14:18:00 GMT"
       },
       {
-        "title": "Endrick responds to Liverpool offer as Reds plot Jose Mourinho transfer revenge",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjdSMENucEtlZmFPTktuNHFEYjdIOTdFU2lmQjJ5b0xoS250NWxjQVZNamlKWWFXcFl1elF3dE5scllWRUZRQnBaOEdTVnV3QzhHSzRNbEZERW43LU13V1dfYzRWUTB2aTE5VzNiVklWVnpCVXNrXzdTVE9fbU9LYlFjWnlILVRJSzI4Y2poeGxWcHphNmE4Vm1yckNYSFnSAaQBQVVfeXFMTTJnQWtKem9LNmNfYWN1VTBucXNoMkZyNHYwMW1CakljUjBUQURIaHVjMTdPZzZ6X1RhS3BzX1pkcWxsMjRUajc5aUdmRHRnOVotS0NzMjdQLXctbDBScGtjRTM2N21aTDMtbXRfbXlvOEhIWFBzaExrSVVWd0R4bXFTV010S1NvZUo2SW1mamkzTzRRdXJDS2tDdzdPbHRCNVo1QUI?oc=5",
-        "source": "The Mirror",
-        "published": "Fri, 21 Aug 2026 09:17:00 GMT"
-      },
-      {
         "title": "Real Madrid makes U-turn on Man Utd transfer decision as Mourinho wants him out",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkRRRTRVUjVSM1FhUjVkck9ESlcyVTAtR0tjWFYyZGR5MWFrZDBvUEdKQVI5bkJmNFR4SVZCNUlZSS03TlhLdFhVczRPRFJGcTNEVGFPS2g0Z0RVNEY1T3RjaXF4OHRxN0R1cjIxWVNJYnhQRzlHSGFBZVlkajl5cWhVRldwTjlhWTdXZjU5REdfTENsSmI1eXJtSXdYcHdzNzFrcW0zei0tVEhpOXVFSHlR?oc=5",
         "source": "Football365",
         "published": "Fri, 21 Aug 2026 13:53:49 GMT"
+      },
+      {
+        "title": "Endrick responds to Liverpool offer as Reds plot Jose Mourinho transfer revenge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjdSMENucEtlZmFPTktuNHFEYjdIOTdFU2lmQjJ5b0xoS250NWxjQVZNamlKWWFXcFl1elF3dE5scllWRUZRQnBaOEdTVnV3QzhHSzRNbEZERW43LU13V1dfYzRWUTB2aTE5VzNiVklWVnpCVXNrXzdTVE9fbU9LYlFjWnlILVRJSzI4Y2poeGxWcHphNmE4Vm1yckNYSFnSAaQBQVVfeXFMTTJnQWtKem9LNmNfYWN1VTBucXNoMkZyNHYwMW1CakljUjBUQURIaHVjMTdPZzZ6X1RhS3BzX1pkcWxsMjRUajc5aUdmRHRnOVotS0NzMjdQLXctbDBScGtjRTM2N21aTDMtbXRfbXlvOEhIWFBzaExrSVVWd0R4bXFTV010S1NvZUo2SW1mamkzTzRRdXJDS2tDdzdPbHRCNVo1QUI?oc=5",
+        "source": "The Mirror",
+        "published": "Fri, 21 Aug 2026 09:17:00 GMT"
       },
       {
         "title": "Real Madrid told they are wasting Endrick's 'extraordinary' talent as Liverpool set for disappointment",
@@ -1637,7 +1637,7 @@
         "title": "Atletico Madrid have finally shifted their position and are now willing to sell Julian Alvarez to Arsenal Daily Express",
         "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNb0VqaE53WlJZREItcmdpSGFWTl9OTDAxWm9ROFlZRmwwN2JpcTdOcHFud3JuNzRBTXZjaktaYW9hQU1jLTlpRkdUZ2xSQS04MXVfdVVMbllSZHE4bG45d2tvQ2lyN2s0X2Nxdk8wbjFEWHJyenlmZGRJRzVjLWNaa3kzeXRTREp6OGlLWUs3aDJPOWpVWHZKY2E4SmJxanpHTE84SnRCODloaWZSVGYyOVp6Z25hd1F0bWh4bmFFYlRtZzZONVpqWG9YLUx0OXktOHFLQ3RUc3NZZEwxak44TWl4Rl9UTHdmZ25ZbjdNOE5zYUdBQ1FHTzdIdkZ6ekNFRGYyQWV5ZUdMYlZzNjl4NU1WVExuYTlQUlBHSEh5NE50emJ0TWs3aEJYNA?oc=5",
         "source": "Sky Sports",
-        "published": "Sat, 22 Aug 2026 04:53:09 GMT"
+        "published": "Sat, 22 Aug 2026 06:12:47 GMT"
       },
       {
         "title": "Julian Alvarez is open to massive Arsenal transfer despite lingering doubts over Atletico Madrid exit",
@@ -1658,10 +1658,10 @@
         "published": "Fri, 21 Aug 2026 15:20:45 GMT"
       },
       {
-        "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHo0OUI2ZzhFUXZDVkRST3NfQXp0X0xhRzU3Ymp3bmpJaXRXc3dZUDZveVY3cnZOMU9FVXU5WXdFbm13S01RTXlIUWlHZWVSbHZ4OF9vS3VvXzR5TnAwNnRWS0J6ekZaQWJGYklSMDFXQkNXRmFKVmMtUUlmeHcyOTFvbnFVWVJqQjdfVlc4bHB4Yk9YNlJTQVNxY0dzOGF1RDVlVVJjdkx1QzRfdmVOelE5dFpPY0tuVG8weUxJWQ?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 21 Aug 2026 07:24:17 GMT"
+        "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFRRbExRUExvZ0dNbFFHZDZwTkxkZ3Bmb2ZKZGJmTkctbXc3cFVETTUzOXkzWjEwSDJYOGZLNG02ZFMzNFZXVjh3VnM5RnQ2S2lNZFFlU2d1bTQ1UzlobjZ3al80VGkyTzU0YXhnNWFkVXJuU2loN296V2FyNUFhWWJZZW9ueXB5OUNIUGFRa2c5akl0Q21CR2JfaWhia1I1Tmh3M2VfazBhMDhXUko5cW1TY1NvM3l3Z3JnWnhCaVFISmdNbDl4Z2lmMW1yQQ?oc=5",
+        "source": "The Guardian",
+        "published": "Fri, 21 Aug 2026 12:17:00 GMT"
       }
     ]
   },
