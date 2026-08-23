@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T23:42:08.073295+00:00",
+  "updated": "2026-08-23T00:42:57.729679+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,134 +1536,10 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Transfer news LIVE: Arsenal want Alvarez and Barcola; Liverpool shock",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY2l0UW9rSTBXY3NmZnRub0w4bVh3eDYzVjJvUjNndHRicURlM1E1dFI2SWY2VzV5TGlGa3A4VTVVWmp0VElRVGdoTzQ1Wl9BMnhaWGJpVzR2ZXZ5S2QzVVlpYnZQVU9BNkJRdjdtcG5Mdy1NTzdLQUd6MWQwZ242emh2Qk5NMHZoYjl5UXo3U1g1dGt0bWVrNGZGT2hZdkFxbTNzbFBjNUNjcG1sTTFUb25CSlJwNUpobTEyZk1ubXlxcW5oWmQ0a3R0ZTE0M1U?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 22 Aug 2026 22:06:46 GMT"
-      },
-      {
-        "title": "Man Utd transfer news: Club agree £70m fee for Brighton's Carlos Baleba",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PTkxTNkNkeWdpai1LYUJ2T21TRVRTZEx0TS1DbThsZlBHdjlVbV9JU2ItVU81Mnc1MUQybjBBdFRBS2hRY1hoRGdVVlpGX0hXNVRnRVdMcVBfR09sZVZUNnozOWV0NEU?oc=5",
-        "source": "BBC",
-        "published": "Fri, 21 Aug 2026 19:58:11 GMT"
-      },
-      {
-        "title": "Alejandro Balde makes huge transfer decision after Man Utd hold talks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTU93alNyY0RMY1NDdklVbEVXNFlBcWlXRVFkR09BSVVQWnpYdl9ManVydk5JVXRLdXNTaVRYc0o5Z1F1aFFobWlLLTgyUk9tVDE3b0ZJakRvOXFuTTB2LXIwOU11UzAtU0t0YUhRWWNaLVA5WGRRd3AtVHloUzR0Y25uNmRjUE05NmpEMmNGQ2pWRFB0ckg0QjdoYUUyMjR2ajNtanFZc9IBrAFBVV95cUxQYkJBamVXNzJQWnJKN0YzVHJFV0U2VVVhZDltMm8xZmpLYUI3QTJTWjJkaTluSEdNUEVfVk1NUWptWndlcUEyME10dzI1ME1iZ3JhLTNMU3NGQTZ1RFYzYS1wUWszaEZ2U3Q5b0MwdHZEak1GX0ltNXFkeGU1ZVNSVHNqeWVseTZqSjhMSi1KbVJZOU95R2NOR0h0cTBUWlJ4Z1ZPXzBwclNHcEYx?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Sat, 22 Aug 2026 15:27:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHo0OUI2ZzhFUXZDVkRST3NfQXp0X0xhRzU3Ymp3bmpJaXRXc3dZUDZveVY3cnZOMU9FVXU5WXdFbm13S01RTXlIUWlHZWVSbHZ4OF9vS3VvXzR5TnAwNnRWS0J6ekZaQWJGYklSMDFXQkNXRmFKVmMtUUlmeHcyOTFvbnFVWVJqQjdfVlc4bHB4Yk9YNlJTQVNxY0dzOGF1RDVlVVJjdkx1QzRfdmVOelE5dFpPY0tuVG8weUxJWQ?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 21 Aug 2026 07:24:17 GMT"
-      },
-      {
-        "title": "Man United recieve telling response after transfer call with Barcelona as next signing decided",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFBV0JFYUZhNHR0XzdPRGZfTlpURFZqdzlXZnU3dVZBNG5SNUJIUkdINmJFSDlvZmFkZUY0c1Rscm9yQ2pZV1NlZFJTQ040aFc4cjRLQk1veTh0ZERnSDBYUDZfaG8yekRhekJMQ29seDVHQUI3UzEzWkQySk9mVjJOajJkOUd4R1E1Y1ZKYUwxV3RXNnZMQmE4amdWOVF4bHJZMXVaMkF3UzJMZUtLWl91b0LSAboBQVVfeXFMTmlvanZXUFR3dENaZENiQWFmQUF6UVV1RnA1TVIyakJTT0Iwc055SmQzTGpCOWFrSG9RLUZQQVNsS0lnTlZfMEd4MnVzQzRMVm9xdUdSQjBYMmhYdDZrQXQ0SXV4QTVwYVI4Q3F4bXNDQndzcGJNcFR0RExYWWpGNHZfVkhrRTk1XzRPYWZCZWszdlpCMDdVTlhmR3VlWDRNYlRrU2hRbzlEb01SYlBqMnR1QzZzX2d2bkJ3?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Fri, 21 Aug 2026 08:57:00 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 22 Aug 2026 22:19:53 GMT"
-      },
-      {
-        "title": "Fabrizio Romano confirms Liverpool talks for phenomenal £55m Real Madrid forward",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaHJPM0gwZUxIRFpnVDFZYmlET2Q2dWlabXpJNnhuNkJsdGs4RGtnVmpCZUE1akZCWnZiaXlTTWxyRWlhVUh6bHlNX1FxVGRKOXp5TXVIeWZYVU9MalV3dUh6T1pad1RQZ1FmUmxuRl94UE5heE1vcXFueXB0TV9nXzJKRXBCWVBiampPMFFlbHFGX0VzWXp2ZEYyTm9tRXNJUVVKUEdtbjh4TjV6U0NWcjlERVB4bk5rWVZwd0wyYzRXM0tmZGtHb0Nsd3ZBRk5WQ2lGY2FuV2l4V0xjYndrWlVpSWs?oc=5",
-        "source": "Anfield Watch",
-        "published": "Sat, 22 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Liverpool make Endrick enquiry as Arsenal chase Osimhen",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGdEOU56dFYwZUtLbEpMZjhrUWZvSkdkazdTMUpaWC1NVVM2anZkWDd3dExUendGSV84RVloUDdOeTM2TmNaR2kxVllleEdvS3dPalVlVjBUTHFEUU5mSkVOQzlST3F4cnhoY0E5WEN0b1VENDItbmVQWVFBS2YyVko4SGI4bHZnVzF5S1FETERrSHA4blRkalFDM1I5VUs4MHJ2MUJvU2ZUamdIUEtxSXZnQXgxR3RnQ2FiSFVn?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 22 Aug 2026 22:13:24 GMT"
-      },
-      {
-        "title": "Liverpool ‘Turn to Real Madrid Star’ After Failing With £60m Winger Bid",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEdMOTA1ckRrYTkwSFotcTk0V01SVTUwTm1EdTFVUXk2cV9LbGMwVGVPNG9OUTdZM2NXTTMxM1N3UzRMZDh4Rm5mR2FjaVo3Y1VWNE5nYUl2OFk1eGFoLXgwMzdZYUZtVklwSnhtaEctWjVwd1NFcE5kN1N2YkZjNlZPREtBS0dNeTJxa2NZVG1sUzJ6Vk04NFVUSHhBaEVjZmZCcFZRU3o4NFk?oc=5",
-        "source": "FotMob",
-        "published": "Sat, 22 Aug 2026 12:30:00 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Atletico Madrid’s Alvarez U-Turn; Messi Offers Barcelona Boost",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFVwS3d1VHhSV19NblBZZGJSNnJPME1Jdk1JOTZOYS1YYl9YNzhWYS1RRUFGNEswU2NRVmNlVExSZ2ZjM2p4bEttM1RPd055dm9jZ0UtRjlReFN5Z2ROQXJJcndiZ2w2QmJaQkE4anlMNXVWLVp2eVBEMDh0QjN3QWhWMTItVVRvZnlWWXI0TGU?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Fri, 21 Aug 2026 23:05:00 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Premier League club set to sign Leon Goretzka on free transfer after Bayern Munich exit",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDZVYklFQ3JldDhBUF84cUdwOXh1WFoxd0pBU0ZpMm1ISUZFcU5oSXd1enNBeFZxMlZTaDc0ZmV5ZmRnV2hLVVkwejNLdkk3azBJTlJWMHRKeVJzLVNKaFNqS0FZWmhYSFY2TjBKRlcyVjNPZ09SVzZ2ekhpQlpNZDVsZVFxVGFrb1NBX2poeTV0N08tV3NBRw?oc=5",
-        "source": "talkSPORT",
-        "published": "Sat, 22 Aug 2026 15:40:00 GMT"
-      },
-      {
-        "title": "Bayern Munich’s Max Eberl says ‘some details left to be clarified’ with João Palhinha transfer",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTkptb0JZWVJlZ05aOHFlZGItZkdpa2tzbGR6eURmYk5qRmNFb0k0aFFTSm1LS190NWtWVy16aVdmczFwb19ZV2t3eXEzWWJOemM3aWN1ZzgwM2dySXJuUURvaUVTOVhidGV1WWFlbXpZUFlJN1ZfNlFlNXNXd1ZROEhKTjduajN0cmEtZ2hJTlZ2S0dOV1FhWmNKNmpPcExJSXBIVlRIeTRQUXByYkhHOVhKVHl1S2ZJVTVtQ29HcVJ6clNNeXVyLU9Oelg3ZUJZRFZrRTN5aWhsY3UzS0E2VzdmN1RuNVVtbjBUdFVQVl9qME1Ra3pVdHZqZFlBZnpx?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Sat, 22 Aug 2026 14:15:00 GMT"
-      },
-      {
-        "title": "Aston Villa: close to signing free agent Leon Goretzka",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85T05aal9IaHJOVS0wdnUyX2VCTU5xY1p1OXZUZnFoSUZzX1RhRkp4eFpBeXMyd2FrY1JEVVgzYW4tZTB3QXdmWUpLai14TUEyal90emR0UVJIREtBcmUzUTk2Y19Rb0E?oc=5",
-        "source": "BBC",
-        "published": "Sat, 22 Aug 2026 14:39:46 GMT"
-      },
-      {
-        "title": "Leon Goretzka reach agreement and choose the Premier League after leaving Bayern Munich on a free transfer",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTEpWTW83eGpOektPekFiM0h6X0RxWndLWnZ0VkNsUk16ZTU5MzVrbG5ZbF9kd2xkcXJiZ285Y3lwNG1kbjFxWjJTQnM2dXNVVFFmU3FaUmdaRjFaWDhnUWF3eVBWQkkxTUFJcldoeFNQSmFtTk9wRF9xWGh5dXhaYm45ZXZjM0YtZExGbnNaT1lreUNYWnREeUhaQnBnWjJUZUNrRmNIVzY5eEdVQk1YZTBUWHdKM1BHUlBiUDE4STVDOTVsaVllQnlnY2lhSmk4YlljWWVSYk1YMmF5dmlJMGFPdXJBQklncWNjeXI0dw?oc=5",
-        "source": "Goal.com",
-        "published": "Sat, 22 Aug 2026 13:37:06 GMT"
-      },
-      {
-        "title": "Bayern Munich will not make any more transfers per report",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTm9RQjhOcnR5RFhiMWxkRThNQ2hXcmZ1ZzFiaUF1TC13aXRTbVBfendGUHdteF9uX3dicFlLbWlHTk5abmppLXNyWGRmeW1BZnJXNl91TlcybUstT3paeGFuYUYza2Z4QU5mNDRLenFJVGJKRVBPZm1zb0hfckxSdnFZMmhRdDVW?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 21 Aug 2026 20:30:00 GMT"
-      }
-    ],
-    "ars": [
-      {
-        "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 22 Aug 2026 22:19:53 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal want Alvarez and Barcola; Liverpool shock",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY2l0UW9rSTBXY3NmZnRub0w4bVh3eDYzVjJvUjNndHRicURlM1E1dFI2SWY2VzV5TGlGa3A4VTVVWmp0VElRVGdoTzQ1Wl9BMnhaWGJpVzR2ZXZ5S2QzVVlpYnZQVU9BNkJRdjdtcG5Mdy1NTzdLQUd6MWQwZ242emh2Qk5NMHZoYjl5UXo3U1g1dGt0bWVrNGZGT2hZdkFxbTNzbFBjNUNjcG1sTTFUb25CSlJwNUpobTEyZk1ubXlxcW5oWmQ0a3R0ZTE0M1U?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 22 Aug 2026 22:06:46 GMT"
-      },
-      {
-        "title": "Julian Alvarez is open to massive Arsenal transfer despite lingering doubts over Atletico Madrid exit",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjNwdUJqQzc4UlItWGJMREt6SS01UEdXZnVrOTBPUkhtMHkxcEdPTS0ybnVXYmNFT0VOY05tTFhpS2x4eV9DcnptZjloTDREZ0k5dmZxMzhlTGR1ZXVNcnZVdjVJNHdJcE9ueDVGTVpBc3NPUFpobDM4MFhKY1JXUWNSV3MyNmp3clJvZGp4c29td2RvNUFaN0VJSTNyNWJpVWRMblJjVUlWM3dnWWs0Z2xPaUwyLWRpbXk4VlJvZ2tfUHNiNUc5YzI3VWRBM0gtcVdKaFVyeXl3anl2RWFCUmdB?oc=5",
-        "source": "Goal.com",
-        "published": "Fri, 21 Aug 2026 15:36:45 GMT"
-      },
-      {
-        "title": "Arsenal sent new transfer update over £85m football 'phenomenon'",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVNiQXozaG9ZZ18xNlVnS1F5LXNJMlgyLVU3a1pFSGZoR0xSekhnQWI5TXFVOXBNcFdQdHZFQTV6Ti0zdTFDV3RvZHRqbXllb2UzZ0ViU0FWNGk0T0ZuczJGdm5HVEx2aEdkWUZJdFBfNUtvOGpaZ09VNTJIbGJyeFFfR2tqMFRQMlFzUGlGZGNjYXRBNHFXMQ?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 22 Aug 2026 21:20:34 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHo0OUI2ZzhFUXZDVkRST3NfQXp0X0xhRzU3Ymp3bmpJaXRXc3dZUDZveVY3cnZOMU9FVXU5WXdFbm13S01RTXlIUWlHZWVSbHZ4OF9vS3VvXzR5TnAwNnRWS0J6ekZaQWJGYklSMDFXQkNXRmFKVmMtUUlmeHcyOTFvbnFVWVJqQjdfVlc4bHB4Yk9YNlJTQVNxY0dzOGF1RDVlVVJjdkx1QzRfdmVOelE5dFpPY0tuVG8weUxJWQ?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 21 Aug 2026 07:24:17 GMT"
-      }
-    ]
+    "utd": [],
+    "rm": [],
+    "fcb": [],
+    "ars": []
   },
   "upcoming": []
 }
