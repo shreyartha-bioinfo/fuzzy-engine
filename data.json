@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:16:42.482042+00:00",
+  "updated": "2026-08-25T23:45:30.590799+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3YtdFp2Rk1NcUZJcjAwS2dGekNsWEJhMmRYeF9Od1c5eXRpYktZMHB2d2NVRkpKUVZWbWMwNXVOV3VqV1NwQTZILWhiVG5KdFdNRmcxcTUwMDJuZHdCeEg4MXhpU2FKM3pMR1dfeXhIN1R4Z2QzWEFTOFlWbWRhdEFTU3FtalNZdVNxUjBXYmlmS3hFbFBMNWV6TEpPUTg2dVBHcXhpNUY4dw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 25 Aug 2026 14:45:33 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal make Barcola decision, huge Man Utd boost, Alvarez latest",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXVUdlk0V3lmbzlDeTV6RW82VmhhQ05QdnRYTS1CNmFuMVh2Q0VGZHlHNWVxWWs1Zl95c0ZDckMzNEdFYTF6RERDMGIyOVAyd1NINXVfTUY0UlE4TTNaa1pYSFotY2s2S00zQXJtaHU2bHNJeC1Ea1BGVkhZTmlIUnhkdm9PNFJmWkdRZk9SZzBlU0JDOEhxdDN5bjgwNDQ1NTA2Rmo3MVFWdjk3ZVpHUA?oc=5",
         "source": "The Independent",
-        "published": "Tue, 25 Aug 2026 22:02:16 GMT"
+        "published": "Tue, 25 Aug 2026 23:19:22 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal make Alvarez move; Barcola to Liverpool",
@@ -1556,16 +1550,22 @@
         "published": "Tue, 25 Aug 2026 20:46:05 GMT"
       },
       {
+        "title": "Transfer rumors, news: Al Hilal eye move for Arsenal's Martinelli",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0R0X044V1JhOHlMb1ExeTUyWDRqODlyc1JuVi1mcGd0WWM1bndEa0kwZkxJWEVKMkdkZXd5REliUkQtQnZLVmtZb28yZ2FrNk5TcFZaQ3U4TDY0YW4zQm9Fb3E3UGZfWVd5ejAzbk9RcjlESVg1YkVidkc3QkVlVUFKTEVqdXVGeGQya3BXZEFCZ21vODZkSWhlRGRvMUVVbjVqMmpGWWZDT2l5?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 24 Aug 2026 18:23:00 GMT"
+      },
+      {
         "title": "Man Utd transfer news: Will Michael Carrick's side buy a left-back before transfer window closes?",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udUpjMTdaWWRPcHVCVndjU2lCUDhpSldqRWVXZ202bHBRR3hHUmRqaFI0M2VsOTU3OFVHeEd0bFZsZVZMeDMtXzFGOW4zQWtMMm42bktPVS1HX3JzMi1xdnlXaUxlaHM?oc=5",
         "source": "BBC",
         "published": "Tue, 25 Aug 2026 16:03:24 GMT"
       },
       {
-        "title": "Transfer rumors, news: Barcelona's Balde open to Man United move",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFFkSGRIOGVqZ0oxV3I4TmZTU2RJd3QwMmdEU3I5QTNFb3dQcDVkd2lDdHhXVTE4UUtHclFPR2FwVTdDeFREcjI3aVVmVFFrTkNsUDRCQkRvUW1taktTNGxNUTFFZnJFWDUzVmRnQUhhVnl6NWFxSl85SWJub0hudFE1enpKM2xpZ01McUkzT0dqSFBMbWZaMkJEdG9xSG1jMjhNVUNqZmZMSC0xOEU0V3I2VmJEaUUzdXdxby00Yw?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 24 Aug 2026 07:24:00 GMT"
+        "title": "Enzo Fernandez transfer news: Manchester City to make late move for Chelsea midfielder - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMFdBTE91TUlEWXZwTUFyc05wRHVyR3BLdlB4Q0JUNnN4eXBUNE9oWWxkeUt0QXZwNFdPZTVsY00tTDFvYnBfY0xPeXU2SjNRcVdPZS1WUEFaMF9ZS0NmXzdaVzFQVzU5SzlHY2gxcjZTUjRNYThnbUlGTWlhX0w4NGNpTjVZaVBFWDNrS1p3dUI2OFlkcjIzZmcyWm9ORXhSTWdmLVlCWTVHTExqNzI5MHlYRlI4M3VrYzZReXFyRTMzV1MxNkVWSXRmUzZZRmFWRUZWWUxqRkc2V3FWRzRYMDFPZVc1NktZNG93NnBYU1g1Q3hSc2tETmtB?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 25 Aug 2026 22:00:45 GMT"
       }
     ],
     "rm": [
@@ -1574,6 +1574,12 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejk2ck5LOHhHX29yM091dE5yMjZTcVl6ZGVNWnpiVFJkUWZEdlZYRHlWQTBjazllcnZQQXBVNmZYN3F3Y0tuLUhEamM2VlRQSHNMYi1nbktJSlFFdmtCNjFLOEtWbEFNQUxsS09QMklQSGhRM3M5aGNITUNJTlpKbm1iMGZPUFRV?oc=5",
         "source": "Get Spanish Football News",
         "published": "Mon, 24 Aug 2026 18:40:00 GMT"
+      },
+      {
+        "title": "Three Potential Deals for Real Madrid to Complete in Final Week of Transfer Window",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEp4N1RoVHhySnRGczZ4OG9QdGllLTc2WW5SMC0xZzQtdmlWSnVjaTltaUc4UFYxUjl3eHBCTUFCNWVCaTFzZEVIN2FqcTNGV2xkY1lRQUFZTWgyckZnOF9YNVVNN3F1OHpreWNld2gyRUU1MlZDZjlzWmRyUHN5S1NR?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Tue, 25 Aug 2026 21:00:01 GMT"
       },
       {
         "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more",
@@ -1592,12 +1598,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdl9zVUpBekdPdnhNY0xlYXBVMXYwcEQ2Ull2cWc1djJJcDJOcm5wZGdzV1RzcEo4bFlUSHcwT2JmUHhNS0Q1enI1US1uVnlTZE96clpSRmlCQ3J4b2FTUG5TLTJfZERuY0hNX0lXQW50Sk1oa3BQSy1qc2Q3WHBCLS1DUnVwekhtaFZuZTRlQmFUWDBRX1pJWDZOQVo3Z29oVFlQbmlmdm9YVnJJbk1FMw?oc=5",
         "source": "The Independent",
         "published": "Tue, 25 Aug 2026 06:30:15 GMT"
-      },
-      {
-        "title": "Three Potential Deals for Real Madrid to Complete in Final Week of Transfer Window",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEp4N1RoVHhySnRGczZ4OG9QdGllLTc2WW5SMC0xZzQtdmlWSnVjaTltaUc4UFYxUjl3eHBCTUFCNWVCaTFzZEVIN2FqcTNGV2xkY1lRQUFZTWgyckZnOF9YNVVNN3F1OHpreWNld2gyRUU1MlZDZjlzWmRyUHN5S1NR?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Tue, 25 Aug 2026 21:00:01 GMT"
       }
     ],
     "fcb": [
@@ -1643,7 +1643,7 @@
         "title": "Transfer news LIVE: Arsenal make Barcola decision, huge Man Utd boost, Alvarez latest",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXVUdlk0V3lmbzlDeTV6RW82VmhhQ05QdnRYTS1CNmFuMVh2Q0VGZHlHNWVxWWs1Zl95c0ZDckMzNEdFYTF6RERDMGIyOVAyd1NINXVfTUY0UlE4TTNaa1pYSFotY2s2S00zQXJtaHU2bHNJeC1Ea1BGVkhZTmlIUnhkdm9PNFJmWkdRZk9SZzBlU0JDOEhxdDN5bjgwNDQ1NTA2Rmo3MVFWdjk3ZVpHUA?oc=5",
         "source": "The Independent",
-        "published": "Tue, 25 Aug 2026 22:02:16 GMT"
+        "published": "Tue, 25 Aug 2026 23:19:22 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal make Alvarez move; Barcola to Liverpool",
@@ -1658,10 +1658,10 @@
         "published": "Tue, 25 Aug 2026 14:45:33 GMT"
       },
       {
-        "title": "David Ornstein provides fascinating Arsenal transfer update amid Julian Alvarez rumours",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXgxU3BTZ1NHT2piTXJNaDJwRTF1Ujk0ZkRfRk5LZXJCRWpSSnFZMk1ZVEV3Zi1fV29BZUx4TEltTURqOGhQQVpCUDBIUjd2V0FVT3pOamszTF8ySXlSRVlLTVlMcnE1ZE1NdWUyTlNZOEdoaTFrLTh5emdZM19DOFJGQVM2aVBacmQ0ZWdUUmsxTzRHRkZB?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Tue, 25 Aug 2026 16:25:38 GMT"
+        "title": "Transfer Rumors: Barcelona Call Emergency Alvarez Summit; Arsenal Find Yildiz Loophole",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMm9PU0huME9hTnVYRzQzVGlMQU9SZVJoWjVUakRxLThTdXdQcnROcmpWTGNPR2Z6ckNteDlMQm11S181enRXeFBYUmJqVEN2NHFLUUxEYWNiWjRSNURZT2VJQzZIa1ZqeDBwQXFNRnFFOWhDSExZQ0dsSnNYMXNNMnkwX0pmZnQxcDFITlVLZ3dEZWJOUDZOSg?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Tue, 25 Aug 2026 21:50:03 GMT"
       }
     ]
   },
