@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:27:59.007075+00:00",
+  "updated": "2026-08-25T07:24:58.710951+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,134 +1536,10 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Transfer news LIVE: Arsenal in Alvarez talks, Baleba has Man Utd medical",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm50R0JGcFhCMGNFX0Y0QlZDc3BwU3M4eGtkSDVwMW5uVmc3a1hPY2Nmb0NPZ0RpOXpYdEdDVDNWa01HUkVTaE9pb21XV2Y5UXRHTllIVkdkLUJHX2c3ZXVuR0FrNm01MlNWZkw5a2dmd1NOQjBXdlo4RnNtdjByY3VKQmdyZkdXaEF0Uzl2WEl1SVhabUYtSWdZc0dpN2lRM2pOTndsbk9IZldMeUxyUndWRm1MOWYyYUtRenhFQlM5MDZUQmlEQ2czeXV5UQ?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 24 Aug 2026 19:03:51 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Chelsea eye Real ace, Newcastle's City deal, Alvarez update",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkpjaU11WmZEaWVWMHo5NGhOVEVJSUdwQmdVeGRkWS0xVGFzNlBVU2NzNVdMTHI2SkdZVjc3S2loSmtZaTkyMERnOTFqUTZvZXMtX3dmbzJkWHA1eXg4TnJ1bmZ4d3ZPVDljb0tZaDZaOWkwWlNjem04RlFrOGZwUFh1XzBtUFU?oc=5",
-        "source": "The Mirror",
-        "published": "Tue, 25 Aug 2026 05:34:20 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal learn Alvarez price, Man Utd medical, Barcola to Liverpool latest",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdl9zVUpBekdPdnhNY0xlYXBVMXYwcEQ2Ull2cWc1djJJcDJOcm5wZGdzV1RzcEo4bFlUSHcwT2JmUHhNS0Q1enI1US1uVnlTZE96clpSRmlCQ3J4b2FTUG5TLTJfZERuY0hNX0lXQW50Sk1oa3BQSy1qc2Q3WHBCLS1DUnVwekhtaFZuZTRlQmFUWDBRX1pJWDZOQVo3Z29oVFlQbmlmdm9YVnJJbk1FMw?oc=5",
-        "source": "The Independent",
-        "published": "Tue, 25 Aug 2026 05:00:14 GMT"
-      },
-      {
-        "title": "Manchester United's transfer plan has paid off with £45million boost",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTMtWWtuZHM1LVBENU1ZSzIwak83T01qdXVGMk1NYlBOaE81VmtDc2ZMSWpJUHlvWmVHeTJucnFlRFBlZEJjR0JYVi1hLW1BMDY4QlYtbFBTUUFQQzlRTHdmYlZUQjVibDEyUktLVTBXX1RubWR5d0NfYTlpVEVZWmltY1dnYmhaUTdTeHZwYldhSnpReGRSei1WNG9rWFRkRUF3?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Tue, 25 Aug 2026 04:00:00 GMT"
-      },
-      {
-        "title": "Arsenal issue Bruno Guimaraes ban just weeks after completing £75m transfer",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTZIWDRXN3ZxZ2ZuZkpyRmt3ZkxQWjYtQzlVVlZScEFwM2h4UG1hNk0teXlRWXhrYVJIZEtvbjV5WFFDQW5lNHFOVk1tSkI2Z0N4YUNJMzFfVmhuRkpLbXFOVFh6cldTWEFab2VxU096REpXTmxkZGFHbGU5eGViSFJjZWtuX05BdDNZTHEzaGI1YUNSbjQ00gGcAUFVX3lxTE1DUXhRRTc4bkVCMWF0OVhkZUNTYW5ILWZsZ3o4aFI5QV9jU1A1WjRfMnU4VmdxT1VSRXRSd1JfV0hfVXBWSng4dW8waXJRMjZJQnJzZ0hlTXJHQ0JvQ040NEVOdDd6dkthdnJzVGhLVTJXUG1rWkRzU0Jsd2hUdks1YU1YSHRGbTVhRE1HUk1wX3djUzk4YURvbEZzMg?oc=5",
-        "source": "Daily Express",
-        "published": "Tue, 25 Aug 2026 05:30:00 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Arsenal report: Real Madrid quoted record price for star Mikel Arteta doesn't want to sell",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmpHc2RlRDRiekxTcTVoNlpabndFZVFua1VEVmM0SGJFXzBLSTNmRk5LV2RNOW5CQ0FFcVA4QzBSSEFGU2dnQmVtWVpZTG5HVFk4QlpiVlNtS3o4WG5DcUxSal9jLVRFZUxvemdseTNTZGtsTnZvM0VuNmNqZUx1bGtid3JleWk5RllpVDY4R0lJMnhlbGtKRDZLTjJaZzlLNWd4OWdHWFNDUFFKZmpla3dSSlg1WDZyY1praksxcFFxRU0?oc=5",
-        "source": "FourFourTwo",
-        "published": "Mon, 24 Aug 2026 09:10:48 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJaQUtkNTM3c0FNWW1IZHBMckxlMWlLLXppeFZ6RjR0UFlLVjhXR2xWWHFXb1R2eFBMUXowNmJTNm4wSm9CZ2swbjdQRUhsOVY5Q190RnNHc2dyMUNnMXhfX3ZHbHRINUFLRU1FQkp5SlNMX1hCeEhfbldwSm1IYm50bG1PLUlFaDJ1YVZUZGlNc2dETU05ODBhMy1KOVloVUE0dEl3WTItaGFnZENxWQ?oc=5",
-        "source": "The Independent",
-        "published": "Sun, 23 Aug 2026 07:19:53 GMT"
-      },
-      {
-        "title": "Real Madrid is ready for the final days of the summer transfer window",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0tNckVBV2VGd3lqd19Ta0ZaRVpzaTNwX0FlNmxUZXFaMmlvN2pjWmVjaXktOHE4OG1kajhOOWY2M1dvWU5nSXRucUJXRjYyZXFqQjdFSjZ1SUxLR2xLRWVJd0VoUzRnT21ERm95RVhVYWF1dFg2amhaYm1Za2NLdWxTVGxuMWpHLWw2Ny13d21rOVc2anpfczd4d1pHQmktOXd6ai1vYXPSAbwBQVVfeXFMUEswb0hEeTZ1YzdLNHZiX195QXRfT09zVzJTbTcyamVZQmVsZXh6SlFRZnh5STNkQk4tTkM5NHdaQ0lCeHpYZ1JjZVlDSUZRcnRnWTc1N1ZUVi1Od1BGQUxzd083bUViZFdMZXBMR2owd3l3YzVXUHNRZnZiRGtLaTRUbkxjeGFVdGFhZlVEY2tMeDZ3NEh0RkVkMVBWVU5YUjhOM1BOYkdDcDhZUFZRSUFIUFJRLVlfUVZzR18?oc=5",
-        "source": "Diario AS",
-        "published": "Sun, 23 Aug 2026 12:41:33 GMT"
-      },
-      {
-        "title": "Chelsea make approach to sign Real Madrid star after £68m bid rejected",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS20yeHpZMVkyZm4wSGtaSnB1V1otV2JkamFIUUpJdXBDZ29qSVJDR2M4ODRWVkZtOXlpV3RJc3lPeElnSXk3V2NUMWhqRDZYY3g1WTU2RldmT25VUUlrMU1YNmpKX1dHVG1VVFZnU3JuWEVFdzRmd3VRZTFuQ2JBNHNmckpnYXgyOHJnZ2k2NU0yeGp6VER2czc2OUJfMU1qcmlZ0gGoAUFVX3lxTE5rRWk4YmNlY3M2X0JMVXFyVmxNVllBdThOemx3WHhSUEJ4TkEwZElMMlZTeUxtbjUxazNNSXZNUUE2QTF4dFRIcVpRM3l0c3RtbVk3SmxieG9tZFZ4X1Fvc2VKTWdyaTFBMldSQ3hqWEt6TnFNNWozWW1kVU9rOGRRZm5jRUMxZ1BNNEM3bVlaZ1VWYU5UWXVyd1pRUXRiOXRjYmduTDJ3bg?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Mon, 24 Aug 2026 23:55:00 GMT"
-      },
-      {
-        "title": "Arianna Caruso join Real Madrid in a record transfer: more than €600,000 for the first Italian in Blanco",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkV3NC1mZzZ1QjdYQ2ljQWxUMmwyOWl1Z3pHLU5iN0lnbXVmeEVCVTc3VkFxX2dQRU1PdGJpdFZ0SVc2TWFWR1drbklsMDM3R1g4Q1hJcUNaY2JLQzFXMFl2cGNTT3VuMkpvbEg5TGFXcS0wb1pRamF0cHFBRW0tTjE5MUZXZzFueV9DZm5JVU1TMWVwbkY1aXFXOWlmUm5XUDJuMFllcHBBTUpnbXI5cVhpUDhwUVRWQW1rSHBSVGNTY1lzZTd0T3pqR3dLTjJMR2JoTWhiaUNWVzZkWnNzXzE2YVR1VkhtRzhr?oc=5",
-        "source": "Goal.com",
-        "published": "Mon, 24 Aug 2026 17:32:50 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Transfer shocker! Bayern Munich prospect Wisdom Mike sold to Club Brugge per report",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVTdtZXljbjFXSjVmMGl2SE5Oa21udnVnc1h0Vnh5eF96bXhiUjZXQmtLT21XNWhyR0d1TVJZNWY4VDl4SFFCMnN2YWpucHpsRm5xM0NXSWJ1WmNRd183aEV2OUpqdzZmaUU0cjkzWGVCTGN3ZkNwTkM5YmRPYTBvS0JIeXNIenlfN05pNzdUeTJNMUJIazhfYlVub0lOZk90NmhPeGhWVG5tTzM0bEJMU1JpdGdIc3lsTTh2VUNVT1FtdHFDQzBuMWJlQnk3TUVoNHJnZ3B5SWhKbGhiTTV4VzhzSEJyOXdBMGVSaTRyaG5qSk9y?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Mon, 24 Aug 2026 20:15:00 GMT"
-      },
-      {
-        "title": "Arianna Caruso join Real Madrid in a record transfer: more than €600,000 for the first Italian in Blanco",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkV3NC1mZzZ1QjdYQ2ljQWxUMmwyOWl1Z3pHLU5iN0lnbXVmeEVCVTc3VkFxX2dQRU1PdGJpdFZ0SVc2TWFWR1drbklsMDM3R1g4Q1hJcUNaY2JLQzFXMFl2cGNTT3VuMkpvbEg5TGFXcS0wb1pRamF0cHFBRW0tTjE5MUZXZzFueV9DZm5JVU1TMWVwbkY1aXFXOWlmUm5XUDJuMFllcHBBTUpnbXI5cVhpUDhwUVRWQW1rSHBSVGNTY1lzZTd0T3pqR3dLTjJMR2JoTWhiaUNWVzZkWnNzXzE2YVR1VkhtRzhr?oc=5",
-        "source": "Goal.com",
-        "published": "Mon, 24 Aug 2026 17:32:50 GMT"
-      },
-      {
-        "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0pKd3luWGd3OW5HUmExd3NjYUJmakFCREh1VTF3ZHp1Z0NIbXlqbFk5SUpOT3M2dk5FNklCMy16M2U2M1dROGY1emtNcWpJMzdVWkJKVmk5RjhNZG1mcUJ4d3hGblhnd2ZMeDBnZ2wtalRLM2MxN1pJQUxscVRUSVhyZVAtRDlRXy1HUmNnTnN0amxySUpKdTM0ZFZVV1g0dEJuN3pjVXh2elVYQUVCcjRrSk5LZ3lod1gtc0hTaFlKY0M5N01EbGI0UVg2STR6VFF4STdydktyckZsXzdpaXJNb3JVWG8?oc=5",
-        "source": "Sky Sports",
-        "published": "Sat, 22 Aug 2026 18:39:43 GMT"
-      },
-      {
-        "title": "Aston Villa hold Leon Goretzka transfer talks - What could Bayern icon bring for Unai Emery?",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNazFzRk9QaTFFMC1Td1Y2alRuM0xFM3pvTjRFZi1rMkJLeGx6VV90QndmSUxnejYxbGZ5YXlzMHpiWmt2Uy1fUlhCRFF1M3ZXYlB6TnEyWGdpTVVXZTV4R29UZFpHM0JSajJ0Qkd3T2ctRjdqYi04bDF1eXp5OERSUFAxbHo4Nk5IZVZBNTM1OW5PN1dJWjJORDBoUDlGSy0tTUlXYWdEZVZPeEpTR25SN0d0VVN4cVFQdHpVTTNVbUdvVXpjcFUzbnZsVmFuNjc4QjFz?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 22 Aug 2026 12:58:25 GMT"
-      },
-      {
-        "title": "Herbert Hainer acknowledges recent Premier League signings pattern is no coincidence",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU0hfWGE3Wlg1YzM5UGFwVlR5Y214aVlqTlRwYmJSNGlGWjVVdlJMcmNLTVpmZzR3eU5SX0p0bDRKaDdqZ3lUeXZiNVcxTV8zdVNpY2UzSmotZUhWaEV4NWhRcGNwZS1FMmpqb0ZtVzlCZmgwMzc3bzhoaWRtWVdkbzhQd1J3bkJsY2VodVFWUzBmcmxHdnJNbG5EMjFWMVlCbVQyYjkza3M5VHdnU3N2RWRLb1lmdHNPRTFTeXNLY3BCeUdUYUdwVERLNjlnOHBBekVETG5JQzlEX3hBSW1tdVk1QjhwZW41R215T2VQNUZIVmprcGxR?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Tue, 25 Aug 2026 01:00:00 GMT"
-      }
-    ],
-    "ars": [
-      {
-        "title": "Atletico 'to begin Arsenal talks over Alvarez' as asking price set",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2NZWVNVMm9sM0VGZXBIZlpmOW1VNFNYaXZFQ0F1eEx0dGtyZG1GZGdqSzVMbkVqRVk2dWZucUFGcHRfOGpFV1E2TnlaVFZhQ2RuLVkxVlFhWG9CQUtsM2lnRnRyTVUwRl84MW01cjVXQ2ZsemlXODR1b2dOaUR5eEIxMm9vRFJKWFJxUzFLWWRvZXFyZXVvMnF0SGpIU0lpSzNv?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 24 Aug 2026 16:19:37 GMT"
-      },
-      {
-        "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mdy10SzdGd1JSd3V0Xy1vZ0dBZklla3NEM2tqS2dWVmNWLWtsVzJ2aHRNUHAzc0l0SXc3NGNjUFRyS3hXbFJoVzE3RjVWUm01VVJqMm1aNW95SnVNYkl4cmhsd3lrSXc?oc=5",
-        "source": "BBC",
-        "published": "Sun, 23 Aug 2026 17:37:06 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man City ready to sign Enzo Fernández for £120M",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0R0X044V1JhOHlMb1ExeTUyWDRqODlyc1JuVi1mcGd0WWM1bndEa0kwZkxJWEVKMkdkZXd5REliUkQtQnZLVmtZb28yZ2FrNk5TcFZaQ3U4TDY0YW4zQm9Fb3E3UGZfWVd5ejAzbk9RcjlESVg1YkVidkc3QkVlVUFKTEVqdXVGeGQya3BXZEFCZ21vODZkSWhlRGRvMUVVbjVqMmpGWWZDT2l5?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 24 Aug 2026 12:51:52 GMT"
-      },
-      {
-        "title": "Arsenal to confirm two new signings after medicals with third imminent",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUDdMRjBMTXFnUHc2dU90UjRvT0YzNXpXZkIxcmUtRDZnNEJfYWRNdUJFV05XMXpUdVZOQ2FsNmhkdWhLYjBvRF80ZlZ1cWFjUFdQZ05pckVNMGJjODZFN1RwZzRyWlUwZzctVzRUT3pJNFZCLUphY0dIWnlfM1Y3VlJ0eU1jN3BZVXZPUHpTQkd1M0NtR1NtbWVudEszUURmMzBjY29n?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 24 Aug 2026 18:35:41 GMT"
-      },
-      {
-        "title": "John Terry makes shock William Saliba claim after £55m Arsenal transfer",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTlGcVA5a0VneUVTR3JMaVhsTkk4dFVBc3RsNWgzRk9IaWFEaThieVpmcWJoZWxST2hxWnViMVVpaXAwYjdUODhZUEtKMURFdU52MHBQekhucjNiN1Z4bWVxMzYxbERHQVVoMEdQdUJmZW5RTTFaREhZb3VKXzBiY3Q0NFNPRDRGQnY3enlvQl9LUmYxeUlKckZOSmk3dkpUU1RzUlpxVzfSAa4BQVVfeXFMTzJISDdFZ2VnNlF0QnM4X3FPZ2ZjekhfZkNHSGJnTnJzOXVrVDZRYlhkeW1zQWZKNnEzX3pKb19KUEFIcC1oRjhJcXBSSnFpQVVNbkxiRlFTZkRIZlFITFJuUGJVOU1LbTJDSXpKYjFBMjZoQ0k2azFpb2Itai1nMTVoc2RCdGI2b2ZOZjJmbUJabld3XzQyT2RvSm5tTEx3aDB1WlJYRzRnc1hFVmFn?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Mon, 24 Aug 2026 13:56:00 GMT"
-      }
-    ]
+    "utd": [],
+    "rm": [],
+    "fcb": [],
+    "ars": []
   },
   "upcoming": []
 }
