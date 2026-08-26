@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:28:43.217583+00:00",
+  "updated": "2026-08-26T11:55:51.171220+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,38 +1536,7 @@
     }
   },
   "rumors": {
-    "utd": [
-      {
-        "title": "Transfer news LIVE: Arsenal triple deal, Alvarez twist; Liverpool open Barcola talks",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSk9vaWhrNkJxM1Y0ZmRrbVdka29xUnR1YmRoaGk4SlNDVy01cl9iN3dfV1J1M0xYbUJ5bnVkSkZLc0M0N1N3Y0JnNnpfeHYwU1VkNnNpN2NuOXRLOGVYM2h6WVZUM2xmZW1BaUN3blkwcGFBcGFrc3hDeG5GVnlwQjNPSHZsUDZtcDA1eVB1bTdnNzliVXNxYlMzNU1hQ3QyRzRPWlAxSWlWWEg2N2kteVpKUU9pR3c2amZOemhCZ2c1cHJXTkxrOGZ0NDVVQktqTkRV?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 26 Aug 2026 09:26:02 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal £50m agreement, Man Utd land huge boost, Barcola to Liverpool",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFVIdDk2Zi1hTjZYWWRLdFgxUWhYc3BIREhPQjhCUHRha19PNGluenhjdFMtS2djenpOZ2pUY0wxQW9jU1NRY0FyY2V4SjhZak9LT0VLTnkxVFBDNll0MU9GTjRPWnhMblA0MnZpb3VydDB3NG1vMTRETEZISlR5YlVKT0ZfcHVpZ2pXcC1jNzJhOXc?oc=5",
-        "source": "The Mirror",
-        "published": "Wed, 26 Aug 2026 09:54:34 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Liverpool get Barcola boost, Arsenal learn Alvarez deadline, Man City back in for Fernandez",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT01qTFAxR252SW5oTWNTY0pBZEl3Z19lWkV0T3FBVXE2bHVWd1pyYndmNVZ5VTlwaTFrTmVWcFN5elozX2luX19EWnJwSlRkbThpQ3R3aFh2cGNzaS1Zb3JCa003ZE9zZFdRX0c1SExMenh2YXV0dHc5Qm51U2RZU2tNUExRRmxHNTY5UllFeTRIVWwtUkZwQ0I1M0ZLTFF2eC10RHhXYUxPZ05QWHNWQ2FUSGtkTXJqSTRHdEpZXzZHbkpGOEE?oc=5",
-        "source": "The Independent",
-        "published": "Wed, 26 Aug 2026 10:39:11 GMT"
-      },
-      {
-        "title": "Man Utd transfer news: Will Michael Carrick's side buy a left-back before transfer window closes?",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udUpjMTdaWWRPcHVCVndjU2lCUDhpSldqRWVXZ202bHBRR3hHUmRqaFI0M2VsOTU3OFVHeEd0bFZsZVZMeDMtXzFGOW4zQWtMMm42bktPVS1HX3JzMi1xdnlXaUxlaHM?oc=5",
-        "source": "BBC",
-        "published": "Tue, 25 Aug 2026 16:03:24 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Barcelona, Man United to hold Balde talks",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSENNZmlWMDZDc0F3Szd0dVBuallLTXlDTlNBZnI5RWZqTzhqT0tyVDNjc3Q1a1VvbzBhZ0lPeFAySl9XNkxUNkM1b1BLMU03ampNazVzREtDQWZKeXFTTGpvTlRqX2duRlRoRnJZVGlpSDJJaXd5aHlsbFp2dk4xNmMyeG5HRWhtbjY1YXBUengzWFJaRERfNHg4ZC1uSGR6UHZvMGxmbjF2SW5nS3VIZ2M4MXh6WjhIRGc?oc=5",
-        "source": "ESPN",
-        "published": "Wed, 26 Aug 2026 08:00:00 GMT"
-      }
-    ],
+    "utd": [],
     "rm": [
       {
         "title": "Three Potential Deals for Real Madrid to Complete in Final Week of Transfer Window",
@@ -1576,28 +1545,28 @@
         "published": "Tue, 25 Aug 2026 21:00:01 GMT"
       },
       {
-        "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEdPOV9OTXN3R1VGdllpTnRneFpUNk1BT0g4YmQ2REg1U3g4ZDVCSXozNFFYTENtcllFUG5VejhMRXF2UzY2VkF2b0NiUy14MXZEbzJVcDZsZU1MTzhnWEtMZFh3akthelE0STlOMkxyNy1hQ0hNV2h0MHViZVJNN1gza2lqNXBfVGhMUnl4NUxzaDJteERqalpTWGFzTEp1VC1WS2JmbUZLQlc40gGyAUFVX3lxTE41LUhqMGNkZi1BajNZMHhMNVV3NC10eFUzNVFaTXRSUUFlazVoTUotSkRJRXMtLXJwOVo5bDh0T1ZKbWdBTzZhSzc0bmpWUENyNnR5NTBxRTFGYml1YnhxUXd1dVF6TXppY1U2YXFycDB0d1YtMEd1b19URkljbFRWSFRIOVBvYTB1T2ZESGtWNjZzb0xVZXZwWHdrUnB4eUtpVllZOWpaa0V1bTUtR0xNSkE?oc=5",
-        "source": "Al Jazeera",
-        "published": "Tue, 25 Aug 2026 21:38:57 GMT"
-      },
-      {
-        "title": "Real Madrid is ready for the final days of the summer transfer window",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0tNckVBV2VGd3lqd19Ta0ZaRVpzaTNwX0FlNmxUZXFaMmlvN2pjWmVjaXktOHE4OG1kajhOOWY2M1dvWU5nSXRucUJXRjYyZXFqQjdFSjZ1SUxLR2xLRWVJd0VoUzRnT21ERm95RVhVYWF1dFg2amhaYm1Za2NLdWxTVGxuMWpHLWw2Ny13d21rOVc2anpfczd4d1pHQmktOXd6ai1vYXM?oc=5",
-        "source": "Diario AS",
-        "published": "Sun, 23 Aug 2026 12:41:33 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3YtdFp2Rk1NcUZJcjAwS2dGekNsWEJhMmRYeF9Od1c5eXRpYktZMHB2d2NVRkpKUVZWbWMwNXVOV3VqV1NwQTZILWhiVG5KdFdNRmcxcTUwMDJuZHdCeEg4MXhpU2FKM3pMR1dfeXhIN1R4Z2QzWEFTOFlWbWRhdEFTU3FtalNZdVNxUjBXYmlmS3hFbFBMNWV6TEpPUTg2dVBHcXhpNUY4dw?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 25 Aug 2026 14:45:33 GMT"
+        "title": "Blockbuster deal: Manchester United open their coffers to sign Real Madrid star",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnFXaG9UZ3ZQbUhMZlFLaFFDU0pYV2x6OUpDOWhWbl9zX2Rjb3dSRHZ6V29XSy1pQmVOR2toYlVxenVnSUE4SWhkUEVLX0hhXzBHaFpVMlJOSkZiSHA0YzFPLU1DRlhJVURJOGNpVHNJRE9ZOWxHMHhNdk1XWTFVRkZvdHNmeTFYMkszLXVXUHZMc2xDX2lOQTJSTl82YnlOdlZaS2UwbElhNHZuR3Z3cHVDZ1hwUVhWQkdUampaUHR4cHI0eWc?oc=5",
+        "source": "Goal.com",
+        "published": "Wed, 26 Aug 2026 11:22:49 GMT"
       },
       {
         "title": "Transfer news LIVE: Liverpool in PSG talks over Bradley Barcola as Man City prepare Fernandez bid",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWFJT3pmZGlyTVA0Sm92QmE4V2xRcnktTHVGZ0VVcVJ6SFJSbmpFRmg0VlFseDJiYWQtLW1DSzdrQXV2c1Q4bUZiYW9MQ1lab0EzeGttdy1Id2JfZ3NjY1Jvd05McTlqbm9maGdOZlUzZTdJem0xMTA3M2JZMUVyMC1CQ2JwelRoLVZiYWFJTDdqb1E0RHZrclpVR21JZ1ZsU0pmSGVvMnkteUhpSEJSTkNWS1pKTTRnQ3NKaTJ4RXJXdURpVTBkVTlEVnM2SzNXTXUtdC1VcDNnQTg?oc=5",
         "source": "Transfermarkt",
-        "published": "Wed, 26 Aug 2026 10:53:51 GMT"
+        "published": "Wed, 26 Aug 2026 11:37:42 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal learn Alvarez price, Man Utd medical, Barcola to Liverpool latest",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdl9zVUpBekdPdnhNY0xlYXBVMXYwcEQ2Ull2cWc1djJJcDJOcm5wZGdzV1RzcEo4bFlUSHcwT2JmUHhNS0Q1enI1US1uVnlTZE96clpSRmlCQ3J4b2FTUG5TLTJfZERuY0hNX0lXQW50Sk1oa3BQSy1qc2Q3WHBCLS1DUnVwekhtaFZuZTRlQmFUWDBRX1pJWDZOQVo3Z29oVFlQbmlmdm9YVnJJbk1FMw?oc=5",
+        "source": "The Independent",
+        "published": "Tue, 25 Aug 2026 06:30:15 GMT"
+      },
+      {
+        "title": "Jose Mourinho rejects Liverpool transfer with clear stance set",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblJ5Q3Y2c0lzWmVKOFYyYmpJaDdzZ1owUW1WeXNyemNzcmQ4dHFxVUcwaGxqM1JyY0ZDT09iakJNd3o2R2ZvWURLMGliWjRPbno3ZXVwdWJUU3dKcWtxd3dKQS1ZRDhCU1BtMmVBR3BkZVgtZnNoaHlPbkl6aHJwS2o0UnRVUzJ1Y2VBQ2pKMTJhVGY1M1BqVG1sQUhhdGIxTUVIVXJiekNnX2tvZERv0gG0AUFVX3lxTE5IRnhGLW9VbGdKLVZWdmRyVVVZaFo2b0RiT1NraUw3cG4zQ1RoR3FLUmJROUVtTTBUdEozOUJNMUY4UW84dE9BbF9Fclh2Ml9aZGpYc1phUk1CdTVNQVZ3ZWJKanFabnhPRUVOM1V2eEpVRjJocWZHa1ByUHFjbkNtaXg1QWw4d1g2ZDNsNjVzVURqUWJzak8zRllmOWx5RWtaUnBYNGROa3c4a0h5RVNkajBSQQ?oc=5",
+        "source": "Liverpool.com",
+        "published": "Wed, 26 Aug 2026 09:46:55 GMT"
       }
     ],
     "fcb": [
@@ -1606,6 +1575,12 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3RxRWlOLWZIelZBUS0xMXd3THdUdEtDYW5jcUpJREV3REFQZzF0a2Jqd1E5Z2JpWkxuWjgtNWJhQURpRVpaakRpQ2VOSkh1SnI5WnRneHdrd05rd21IYm44TnNsNmpBYkFXOWV6TDVILU5ZU01xZTR3Y0RQRGZqaEVzNGp5czA5UHNYOHBzVjFvaVVqWXJVSFNzNVN5MTllSHhMVllTQ1pNZXM0UGxKY2w2Q0c0SmdtTjZUTkJWNEJwVXpaVDd3VUU3RQ?oc=5",
         "source": "Bavarian Football Works",
         "published": "Wed, 26 Aug 2026 06:30:00 GMT"
+      },
+      {
+        "title": "Official: Bayern Munich sells João Palhinha to Benfica",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVNWdXZTTWRuQTk2UHotRmN2ejFhVl9BNmRpb252Q2k3UHZucjZhYXh1dzVCV1lsRUd3Nlo0TWZBUG5YZGNvUHpfMGc2VnFqRUdlOXA2TThHZXVHeW5XY0hmRkNjMmFWNXJOR3BNTXZMYUp5aXhqMVd3V21kUWJvNHpLRTNLeDBoUU94WWZINDRxM28ycHQ0ck95Q0VGb0lsR2twWVZfNURqX3BVQnFaY0tiX0dnSXp5eUZHeXNZNlphVGNpQ0tiSVJmcHdyZw?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Wed, 26 Aug 2026 11:15:00 GMT"
       },
       {
         "title": "It is about Edin Dzeko: Bayern Munich's spectacular transfer plan revealed",
@@ -1624,12 +1599,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYnNmeXBVdTNLOWpXXzRLaGdpWF8tMFNHa2JSWE9YLUsxcEYwSVZwczI3Zm84Sks0MkNKU1VqazQ1QWVuV3ZwMHAwY3BxbDVaZUZxcU52eXV5VTNxWGQzXzVERno3cWJxY0FEWko4VkZqRGZNVU81elNoNDNtbTBnaGZwbEJWRzZpaUhoNGRLd0Jka3Rkcm9uTEZaNUJXRkstci1nbFdaNzVSWTVFUXd2U3QyNGdBV2QyQjQwRV9pd3p6YlJIbTcycFRXWk1FTktNYkVBY3pobkFBMm56QXJqZnRn?oc=5",
         "source": "Bavarian Football Works",
         "published": "Wed, 26 Aug 2026 05:45:00 GMT"
-      },
-      {
-        "title": "Another youngster on the move for Bayern Munich?",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcU80WmpMTzQ5U01pdmVxUUM2TERMQUs1RnhVaVlUS3VjRFVjLWw5QUJHd2ctcWJORVVoRzJmWWlzb0t5Nk5pTm5aQXkwWDhxc3g5UGdick5tSHphOU1WZFpidVhMN1duekRiUFE2Y3lfUlRTcHRGbW9JVkJmeGhoSTVvRUlIaFJ4Q3ppakJadHBUVzVGa3VQVWwyek9yWGJVckFnRDQxYlZWMVR1a2ZhNFNlT3FLbWpJbWVSU1oxSWdJMzFFZEE?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Mon, 24 Aug 2026 20:45:47 GMT"
       }
     ],
     "ars": [
@@ -1640,10 +1609,10 @@
         "published": "Tue, 25 Aug 2026 18:11:59 GMT"
       },
       {
-        "title": "Transfer news LIVE: Liverpool get Barcola boost, Arsenal learn Alvarez deadline, Man City back in for Fernandez",
+        "title": "Transfer news LIVE: Alvarez misses training amid Arsenal deadline, Liverpool get Barcola boost, Chelsea saga twist",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT01qTFAxR252SW5oTWNTY0pBZEl3Z19lWkV0T3FBVXE2bHVWd1pyYndmNVZ5VTlwaTFrTmVWcFN5elozX2luX19EWnJwSlRkbThpQ3R3aFh2cGNzaS1Zb3JCa003ZE9zZFdRX0c1SExMenh2YXV0dHc5Qm51U2RZU2tNUExRRmxHNTY5UllFeTRIVWwtUkZwQ0I1M0ZLTFF2eC10RHhXYUxPZ05QWHNWQ2FUSGtkTXJqSTRHdEpZXzZHbkpGOEE?oc=5",
         "source": "The Independent",
-        "published": "Wed, 26 Aug 2026 10:39:11 GMT"
+        "published": "Wed, 26 Aug 2026 11:43:52 GMT"
       },
       {
         "title": "Transfer news LIVE: Arsenal triple deal, Alvarez twist; Liverpool open Barcola talks",
