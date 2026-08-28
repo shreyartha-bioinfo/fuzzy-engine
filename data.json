@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T17:05:27.920087+00:00",
+  "updated": "2026-08-28T01:34:02.279729+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,10 +1538,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal get Alvarez boost; Liverpool reach Barcola agreement",
+        "title": "Transfer news LIVE: Arsenal get Alvarez boost; Chelsea done deal",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdERMd1cxNktNUUNXbV9LUGlVdy1BWHkwNlp3OUptRnd0cVNESHRWQ1FmUWJUaUNMVFB0dzNFYVMtcTJFY0RkMTNCRlFYaXFpdk84SXJQdUlFVy1XRngtUzlwMnl4MDZtRmFMNEJ5UFdtU2dtRlRPZVhYOEZ3dUFZekhIYTBHX1FOcTBXNDF6RHZIQV9UVk5KVG5ZQmkweUZNenNldEdNM19oZlEzRk1qMkdsSE1aX1N4RmMwVHE3ZW9EdzBiV3FGOThWM0p0QUk5N2c?oc=5",
         "source": "London Evening Standard",
-        "published": "Thu, 27 Aug 2026 15:26:08 GMT"
+        "published": "Thu, 27 Aug 2026 23:56:51 GMT"
+      },
+      {
+        "title": "Fiorentina in talks with Man United over Zirkzee loan",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hZkxrMVhhM045dXNDSHVtNXpScnpuSWhlUjZVMVRUbXNDMHdhdXlVbjlBcnlwc1NjRlFXb0xlNkhfZXRtOHVfMnJHaGJTN3c1OE5hVFA2Y0lhSkxSZWo1SHdhb0MxVzA?oc=5",
+        "source": "BBC",
+        "published": "Thu, 27 Aug 2026 13:30:17 GMT"
       },
       {
         "title": "Romano confirms Man Utd ‘deal on’ as INEOS turn to Tottenham target to be new striker signing",
@@ -1550,16 +1556,10 @@
         "published": "Thu, 27 Aug 2026 12:19:22 GMT"
       },
       {
-        "title": "Club Brugge make Nicolo Tresoldi transfer U-turn as Man United lurk",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVpRZlltcndGU0k0Y2p3LUdkYzBNOUhwRVV0N2U3RG4tcU95bTdpNWtpWTRLWTg0R3J6cEw0MXdnTUxMZTRfX3pfSDJvQ0IxUlBxdTd2dVlyOEdXOEtfM1MtcWVWWDZPZkFKWnhCZS12YXIwT2lfYWw3WDluSENvNTd1X1dJdmFjVFN2ZEZn?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 26 Aug 2026 22:35:00 GMT"
-      },
-      {
-        "title": "Fiorentina advancing in talks with Manchester United over Joshua Zirkzee loan move - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2VvSWp2bmxTcklDVE5ITjhhT2hXZjhaVk1LV3BaWEFFUWhBMURqajUwTUNzTE1ZUVZtM2NpVkp2YWlsNC1EeWVZYVdjN1c5c0F0UkhsS3B2cXZKMWNOdllweUpwd2tVbVhSdlVlbzJpR2U3c0FQRmZlU2ZxSk8zVXFETWs3V19yVHh0UHp5MlFoR3FMakk1c3dyOWJJMUF3bnM3WllVc0U?oc=5",
-        "source": "The New York Times",
-        "published": "Thu, 27 Aug 2026 13:40:44 GMT"
+        "title": "Man United latest: Joshua Zirkzee eyeing exit as £30m star makes decision on transfer",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZG9ULVUwY1FmSm12czNKZFVpSkN4S3pNaUpRVFpJMHhYajE3NGFrcVl4ODg0YVkzaUVLLXh3bnpXWkJkTThMMkxMODB3V2VIVlpYb0ZLdmpwNThETGxiQWtqSUJMRXVEMG5ucWRvbU9XMGgydEtwMHNkNXgzYzJ6VW5kM2VXQklXYURHRjBkTFZFRFFOVWV1TkY5cFlqc2cyQUluY0IwMWFMV05hWGY5UTNR0gG3AUFVX3lxTE9kTEFaRXViQzBPOFBsMHp1LXUyaHB3YW9oWlEwMEphdlpreVNQalY2MzJrSS1jYmdRcGdUY1dxTEsxeWNFUzVHb1cxY1E2dmZQdk1uS3lUTW9ybGVUeUtoZ243Ul9zeUg5aTVpRzFaM3B4RFh4RTVSZnRzQ0tBQ3dWbUNRNXJYYXhjZmVyalZTdm1jbVhaYmZsd0U0aWw4Vnp1bkxfUzB4MTRzZU5vSDRyU1d4Zk52SQ?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Thu, 27 Aug 2026 04:30:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Man City expected to send offer for Fernández",
@@ -1570,34 +1570,34 @@
     ],
     "rm": [
       {
+        "title": "Transfer Rumors: Liverpool Make Barcola Breakthrough; Alexander-Arnold’s Real Madrid Exit",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0tMX21ETHNaR3NMdm8teW1FVzBzWDZlZkRZaVlITTRNRjl4QXo3SnZFNVg3amhmUXpDMjNRSExTQzJSZXJTSnktMGRaQXRZQXdtR2xJQ0VFNFNYd0VwTURwRW5XUlBETmhfdW1xdkEwdnlTR1VSQWhydFAxUTMwQTQ2YW14YVlwamVQZXgtVGR5UDViZnlILXY1bVd1MTRoS2FWenpQMVU2Zw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 26 Aug 2026 23:05:00 GMT"
+      },
+      {
         "title": "Three Potential Deals for Real Madrid to Complete in Final Week of Transfer Window",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEp4N1RoVHhySnRGczZ4OG9QdGllLTc2WW5SMC0xZzQtdmlWSnVjaTltaUc4UFYxUjl3eHBCTUFCNWVCaTFzZEVIN2FqcTNGV2xkY1lRQUFZTWgyckZnOF9YNVVNN3F1OHpreWNld2gyRUU1MlZDZjlzWmRyUHN5S1NR?oc=5",
         "source": "Sports Illustrated",
         "published": "Tue, 25 Aug 2026 21:00:01 GMT"
       },
       {
-        "title": "Liverpool transfer green light as phenom £55m Real Madrid forward wants move",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYU1vVGc5Qm9NUnczV2hhaGRRRk9VNTUtM25aUHlncnBHWXA4TTZCUDZZeGdXNXJDNDJPVnlseGZ3d3RQdWRDRFFJQXM0eTNLNDdZeFN5OGVLUHF6UTRhQWJwTWRsdUp4VEczWGRBLWJtVUtvaVVSVWUxbFZQZWtSanVxTkRWNHh6TkVGYlRJX1R3aTREeUw4SkZCUjYtREJQbjhaVWRiNm9MNmI5a1I2N29YTlQwazliNVNoazNidzY4UU9nWU44UWIteXcyeVBENTRqMC1Tcw?oc=5",
-        "source": "Anfield Watch",
-        "published": "Wed, 26 Aug 2026 21:00:00 GMT"
-      },
-      {
-        "title": "Real Madrid monitoring Roma’s Kone but transfer only likely on one condition",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWFNT2JCc1F4azVfUng4bEdUWC04bW5HQWMtRDhpaUM1OE1HY3VoV1QtTXBCRjRWQ3laYnMtVlk5SlA4Ni0xNlBCb1pNZjdudF9mSkEteGNzX0M1NHlON01HaldRa1p4Uk1xdnI2ZjdjQm5fY2k3WE9uTnJ5US13Z0pVTlJvU3Vw?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 27 Aug 2026 14:00:00 GMT"
-      },
-      {
         "title": "Deal agreed: Real Madrid on the verge of announcing a new signing",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQam82YVl3REFDR0hvWnN5VWZnaTNPd01ZSXZVT1k1T2hOaDFnRTd6WW0tRWhoekZSVldNVW14eDk4cElpbGNtRGNBY28wdTE1czNkVlhmM2tvbUZVWXJhQkRoeXl0Zm1uNmpUVS1DU0FXVHVHdXltdk5HQ29UQWpBOVZ1SGJqUTVBeDRqZmVzWVJjM0h4UEFmOFlpVTRfTU5HUzcxYmIxdTEtTjNQQVUtQ05FQQ?oc=5",
         "source": "Goal.com",
-        "published": "Thu, 27 Aug 2026 12:50:40 GMT"
+        "published": "Thu, 27 Aug 2026 12:53:55 GMT"
       },
       {
-        "title": "Real Madrid refuse to complete the transfer chain that started with Rodri to Barcelona",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXNtd3V1UjhUYjd2bzlmcTc5cFQzWTd6SDV0LXJCTmJXZjBOZl9CekdsbFk4Qkc1dHlqZlpiV2hJbGJjeGlib3dQT0U1U2VkM0NaYTBFLW5paW5ZUzhHSmNCR0tTWmV0Q1gzTlN5ZnZzUDBhTWNuUmNqZlcxUjJGX2ZNUDgxQTZpdzE1cGU5aGlRUi1Hd2lGUkJMa3hQN0tYQ2pVTnQ3S29oQ0JiNFR5cGs4T2wyUDJ0VHAzdFlpSzhPQ2s?oc=5",
+        "title": "Real Madrid transfers 2026: Every summer signing, departure and deal so far",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVNYaDhRWnRMSnNRRmgxc2JUSEJnOGhaQjk1TmZrZjlSdEljU0twVlpmelh0NHNHWHdZS0FlSFJjdkliVVpub2U0UVRUVVFjaEdxODZTaGhuUmJYcU1EbTF4UzBocmJLa2VReTZaRHVGTml4djhHR3NuMXlMRmxtT0dyaHIzT3EyU3lQNGhmcXVMM01DR0FrcmQzSjktZ0g0bkl1eDNLSEFLS2xQNmpsaTRR?oc=5",
         "source": "The Real Champs",
-        "published": "Thu, 27 Aug 2026 12:30:00 GMT"
+        "published": "Wed, 26 Aug 2026 16:13:44 GMT"
+      },
+      {
+        "title": "Real Madrid keeping tabs on Roma midfielder Manu Kone",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlJncXZLSENWTDFJY3U0bTRGZGhYYUVmaDVfQ2J5bkFmWWtmbjVZMFY2TUh4dDF2VUpGblZYYXZqM2gxN0xDRC11R0tfQ0dDQm53dXZfR2ljQlVqamZkMkVlbXllUVVRTnhqOUNnMnY1dWRKX1JVem42MGlFamNPcjBOTW0?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Thu, 27 Aug 2026 21:10:00 GMT"
       }
     ],
     "fcb": [
@@ -1605,13 +1605,7 @@
         "title": "Has Liverpool just pulled off the biggest transfer of the summer?",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOanRFRko0WXRZUndSUGYxWTdlVFVteHFUZFFzSHA4cjMwRHZSSnk2QnRYempsMFY2dHZsNDlDdHBaQzdMYm94S2JIMC1NQkRhRHhYSDYtRkdIa2wwOElEVDJhNzV4cWEyUkx6cllTS0U2X00zeXo4VVR3R3RjR3RLN0ttR0FOc0h4OExUcXllR1ltUWVJdDNzaVBLd2g1Tkc2Tkl4clN3YTY1VmQ4NjhtVzdYc056VzVFY2pBRGlUTXJlUzA2MEZqcldYdXhGRTEySU9hZDRpZlQzdWY3SHhB?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Thu, 27 Aug 2026 14:00:00 GMT"
-      },
-      {
-        "title": "Leon Goretzka: Aston Villa sign former Bayern Munich midfielder",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xbXJQaWtwdEl5dWloRjFiMXBtVFJtdHh3VEFMLW1IU3M2Yk5lN2FrcUpua1pJUzJCRTFYM1lMMkVPWHFObkVxZGNkQmtKbjNNV2wyMm1NdFM0U1c3TEpTYTdtODBVSmM?oc=5",
-        "source": "BBC",
-        "published": "Thu, 27 Aug 2026 15:39:49 GMT"
+        "published": "Thu, 27 Aug 2026 23:00:00 GMT"
       },
       {
         "title": "Aston Villa sign Leon Goretzka on free transfer after he leaves Bayern Munich",
@@ -1620,24 +1614,30 @@
         "published": "Thu, 27 Aug 2026 16:34:00 GMT"
       },
       {
-        "title": "The Unkindest Cut: Bayern Munich boss addresses Sacha Boey omission from team photo",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQXVRbktSMVVJOWphUXZDN093ZHJteXd5NlBtQlRmdFUyTnllX1ZRaWU3YUw2YTZxZUNrSWV6QXhWSjBod3BkSTljZC1GYm1NWllzeGZCOWljRDFPU0o3NDJKdmVGaGFjaGMyUG5ZVmhwMjlUVi1BR0cxU2t5Tlo2M0VFT2NWWm1TcFlKRUEydjdMZVJ0ejBTdVBfbEx6SFg3eVZoZ3haUkxJZXFEd3F4MFVxNHRMVEdFRHQ5TmJMVi04ekdfUE1FUVAxRklwM2h0aThHNllhRDZJNHg4aTNLdWx0bnV2NDBtQzZPbFN1SlQtM0Jp?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Thu, 27 Aug 2026 14:30:00 GMT"
+        "title": "So you’re sayin’ there’s a chance? Bayern Munich boss doesn’t fully close door on late transfer",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdENrcEtwdVdSTVBDYzIwVTF4Q1RVSmJDdFdzUGVlWWw0MEU5N3h5OW1FZ0c1aHZNVVBKRnNEdkhITjBzYlBZQ1Z1ZXNvYjRxcGxieGNXNy1ENkhYYS1GUEx4UDBrWGl0TkJkQV84TjRVcEd4TDVFa2trWS13UW9WOU9WVGpHS3M?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Thu, 27 Aug 2026 19:00:00 GMT"
       },
       {
-        "title": "It is about Edin Dzeko: Bayern Munich's spectacular transfer plan revealed",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYVBXZzVwcVRISjhuREZ4SDMxZGdsMllUNTREU0stSWdjUHAtRW5iOVpXUWRRN0JYRi1fcDlBZFU1bU9IbFVZejU4ZWxIT0ozbm9YbTB0WGlBb0R5UGp2ck9pWVJWdDJxUWhVX25pMmhkRWl5T2JLMk0xU1kwUnNLMElud2ZhTHpxMTZpeEpaZ05PNEtyc05tbWRFT3lyeGRXZ00td0J5ZXVYdUZJbWcybmpHSGlMUlpVRElNTEgxZGk2QnMyQnlCdHBtTVp5dDJSNG1INmJnUU5IZ3NaaXA5T2g4T05rWDJyMG8zYkZSSkhTOFpMN1RWOTRUa1ZyaUR3dHRodmJ6Z3FLLXZFOFhn?oc=5",
+        "title": "Leon Goretzka: Aston Villa sign former Bayern Munich midfielder",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGaHBCN3hhZFB4UW16WFVlcVc1MHJTSEVuamRNbko2SHpOTTU4UUxUZXBQenBzdGxmOXdUYW1VRENQUm1kOHBZbENKU2FpUTBGTEstN1NoVW9KaDNhVnZHMnVydF9oZTYtWWc?oc=5",
+        "source": "BBC",
+        "published": "Thu, 27 Aug 2026 15:39:49 GMT"
+      },
+      {
+        "title": "It's about Edin Dzeko: Bayern Munich's spectacular transfer plan revealed",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN0lnaWozTGxOcDBnNExaYmpjcV9taEstdm9oRFFzVDZNMFhmLTVLLUR4Uk1RbUd4cGRILVp3RnpiRkE5cnR2Zk1RQ3Y4aEh1dldDMWxRYjZQTGQwZXBhd29neGtIai1IdThrS0JiY3RSS3BFdmxpWHhYd1BKRVBUTFNLb1pqOGprZjJwcGFGNTUybklMTkRVeGozVUt3TllGMWp3RFctcUZvYWhxd2ZBSzY0SlkzNXF4Und4LUk0dDlIVW5iQ0IwZHBPdEkwUkxwV2dvaUVaUXVMcHZpSWQxZXE5Q2V1Rlp2eEJHd01qTGw1LXkwaUNzYkNrSU9JRGhhVjJQTUJMYlA?oc=5",
         "source": "Goal.com",
-        "published": "Tue, 25 Aug 2026 06:59:54 GMT"
+        "published": "Tue, 25 Aug 2026 06:58:47 GMT"
       }
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Alvarez to Arsenal boost, Barcola set for Liverpool medical, Martinez agrees to Chelsea switch",
+        "title": "Transfer news LIVE: Alvarez to Arsenal boost, Barcola set for Liverpool medical, Chelsea agree cut-price Martinez deal",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2ZldGhHSmhFelJtZjBIaHlvbkhPYTRMcWRQNno5d3Ryeno0aGYtLUdQUFc3bzZ3eWkzY1FfUWlfalQwcWh6TG00R1MyQTN3TFg5VXFiSGItRElzSllxVTE5SDNHazBXLTJKck9BUndCWmVTakpLZjdCRVZVWjEtaU5YYk0teDRvZVR3NGd2U2d1bDBfcDVYSXVna3hxc293N0Q5eVRpM2hVak9yMElYeFZpOFNhWElyNGg2R0liajEwMThpUUE?oc=5",
         "source": "The Independent",
-        "published": "Thu, 27 Aug 2026 16:53:12 GMT"
+        "published": "Fri, 28 Aug 2026 00:16:36 GMT"
       },
       {
         "title": "Julian Alvarez transfer news: Arsenal only likely exit after Atletico say no to Barcelona",
@@ -1649,19 +1649,19 @@
         "title": "Transfer rumors, news: Arsenal, Man City to fight for Everton winger Ndiaye",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGdWU3RpeTN2T0FJemxoS3F3Z2lkdURCR05FN1VGRHdLbkg2LWRYSUFKSThCdG1jSjZwXzJLOV9qLTRPblFwNWVDazJ5cktQeTU2dUlScWRKSUNxbHlrUnV2SmdOOVFSTk1CQnRTNHJnZlRZRWhKMFc0Y2hzbFFGMWJHXzk4UERXTU9GTUhZeFZPcndMbVB4ZUlFeUhFNk9lXzlnU25UY2hSVWlURlhtem5Ebw?oc=5",
         "source": "ESPN",
-        "published": "Thu, 27 Aug 2026 07:25:23 GMT"
+        "published": "Thu, 27 Aug 2026 13:30:00 GMT"
       },
       {
         "title": "Manchester City & Arsenal lock horns in explosive £80m transfer showdown for Everton's Iliman Ndiaye",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGlTMURNdlZKOGdvZVZLWGRyWWxVMHBZbVhkY2NZc0JZdFotN0RTRXlSNTU3OVBBMjhOMVRZMTFkRHlNNWt1cFE5MEZxRHhpc2NXWFJfZVFvUHd3bkRJQVZ6TUJuX1d2NWszT0RyQ3RMd21oaWthWFA5OVVHT3ZpOU11eEsxejVtUlFDRDVWWEZVLVd3T01LUWh5SjNtYVFuNXU1QjRBRWduQ2twZUI2ejRmZW8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXN3Z0hJN21nU1F0QlJLcHoySGxZS0RSMUUweFlOeUVMRGRzLWNsYkRJbEpBWkNuSzhSM0owcl9NUF8wcEdfWE4xOUE0RUoydjdCa1VCQ0ZGRkVyNUFDVUlHMGxoUGhaVlIwaVhleVhIQzlxaDBfTDZ5dUNVczRHVmg3QkxuLWpwQUdNTHZaYTQ3Z3QwYUNqSmpwS0ZHVlBncGpIaTRMdDZCY0tNLUVZNg?oc=5",
         "source": "Goal.com",
-        "published": "Thu, 27 Aug 2026 10:21:54 GMT"
+        "published": "Thu, 27 Aug 2026 10:21:47 GMT"
       },
       {
-        "title": "Manchester City & Arsenal lock horns in explosive £80m transfer showdown for Everton's Iliman Ndiaye",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2VWQlpEeHE2VUVPbDh2eklyZFZKMHJvdTdJSXF6U0xTb19TU0xVdDRMUHhEYW9wam9WbmF2UkVPb2s5Q2FPMGJ1X0VnQ3U2bktJeDJjT09WOGNHV3V2ZUNqWkpoOFdSYk5TTS1GQjFCSXlpdlJTS0YyYXdBczBBcEpVUWFzQzRaR1lB?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Thu, 27 Aug 2026 08:19:36 GMT"
+        "title": "Arsenal and Man City could have transfer showdown for £80m-rated Premier League forward",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWpvbk41UVdMSFowa1lzbkt4b2VFZGFWLUhNVDhvWjQ2b0ZQMlhtMFE2RkxHTXE3aXNhcnlwdWJCbGtlTnJ1dnJJYXNMUW9WSGRNVUNzdlJsOUtqNWFuQnVMclNJVUdGN1Ewb2o5MGxtcF91a0lfOHBld2U4ZndPZDJMNzl6NlRweVNtWDM4Mk51V0hnc19RSjBZMGc?oc=5",
+        "source": "talkSPORT",
+        "published": "Wed, 26 Aug 2026 21:12:27 GMT"
       }
     ]
   },
