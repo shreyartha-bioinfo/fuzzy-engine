@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T13:53:32.667775+00:00",
+  "updated": "2026-08-30T17:50:33.980845+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -170,15 +170,6 @@
           "assists": 0
         },
         {
-          "name": "Patrick Dorgu",
-          "position": "Defence",
-          "nationality": "Denmark",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
           "name": "Tyler Fredricson",
           "position": "Defence",
           "nationality": "England",
@@ -320,6 +311,15 @@
           "goals": 3,
           "ownGoals": 0,
           "net": 3,
+          "assists": 0
+        },
+        {
+          "name": "Patrick Dorgu",
+          "position": "Offence",
+          "nationality": "Denmark",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
           "assists": 0
         },
         {
@@ -1538,54 +1538,42 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal in Alvarez talks; Barcola undergoes Liverpool medical",
+        "title": "Transfer news LIVE: Arsenal Alvarez talks, Martinelli medical; Barcola to Liverpool",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDQ0dkExaGpvMFE5Q0RhWEZ4SFpGRlJsZ1FDd0ptSGllOGU2LUFzdlVkdFk2ellIMGZObE9JZWdEbXlRQ1pxLTI4ZjZjV1hfVGpoRzR6QThIeHVsR3NiblRiajM5Q0NyQzlzSzNKeVEyU3I0dktaSFRzOFlIa1hLNDFUMGpkdXliWGNPMDBiRjFBSXNFamVQaExRVlV0Q0lVaTBLam51VndidlMxWFRldlBteklRTnlSN3lwSTVGRVFNMDJkT29RRURaWmJaZw?oc=5",
         "source": "London Evening Standard",
-        "published": "Sun, 30 Aug 2026 13:20:55 GMT"
+        "published": "Sun, 30 Aug 2026 16:48:04 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal announce deal; Barcola undergoes medical",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWpOY1FUV2lFS3h3clZ4OXZaZFJlc2lNSEhhQjFqV19MUFh6T2x1YWItQmpZbTM0Yy1HU3B3Z0pSUGh5Wi1LNzM0eWJESGtzN282MzNnTmpmbXJtRm5DbEU5NTFlcUdDY2ljSHNJbEpKRVdWbHVYQURyc2hTQ0dxalF5Q0RqTEd5dnlCVFI0TWFkcVBrZzE2emhuQ2I5TV9KS0NMeExPWko4MFM5LVh0aTc2aE1fcHg0bnR4YzNZSjBtV0V2VkRKVHpiM3BRY1d4c1E?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 29 Aug 2026 23:39:15 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Gakpo chooses City, Atletico give Alvarez deadline, Barcola set for Liverpool medical, Enzo latest",
+        "title": "Transfer news LIVE: Arsenal striker to join Barcelona and Gakpo chooses City",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjJ3MTkyRE1Bb1hFQVpOM1dSMkpfS1gyN1RDUGl6aEFDQWlBQTR1VEprekVXbmxPNEpEQUVrVTRLaGRCejRNTDc1VHlJYzhRSU5QM040TGQwYllpelM1aG13aUZQclNOWDMxczVETnlrYWdSTTRuTDFqd3VVS2g3cl96WGhmLVViaWkxY1JGVi1VRi0xWElZekVpdGs3N1RIYWszR0stQTEtTHMtVzFnU3hOeTh4WkxhMFJLN1BFVFNXTklyMEE?oc=5",
         "source": "The Independent",
-        "published": "Sun, 30 Aug 2026 12:57:39 GMT"
+        "published": "Sun, 30 Aug 2026 17:41:09 GMT"
       },
       {
         "title": "Man United transfer news LIVE: Marcus Rashford latest, Arsenal agreement, Amad bid",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0F3OUVYbHhLNk9SVWVaaUZscTdDOUlRMHBRLXJKMmo3VktQd291WS1JNW1LQ1VCLUlleWxRVTRZb1IwbWc2SU9wOGxyVFJfazNRRUNfcjFlbm5aaGxJSV9tazc1ZU4xUTVIR1AzSHVFR2JRNFA5Nks3N1RleXJGbDhCOGlMTVlIalRSNTNKeDRTRFdleVZuLVVVcXNMVjZnVmo2TDFHdy1uTmc?oc=5",
         "source": "Manchester Evening News",
-        "published": "Sun, 30 Aug 2026 13:01:54 GMT"
+        "published": "Sun, 30 Aug 2026 16:18:50 GMT"
       },
       {
-        "title": "Transfer news: Ogunneye signs for Arsenal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EcmlZRG85UzVzZUgyajJlNml5QmI2SlotWXZzMGdXM0xXT1hnVTh0NFJ5ZkkzLXNRZEFUNUVzS1BKc3RMOW53V2RZT0tuVkJtTC14R0MyY0o1VldtcWFwdmk0VmxNS3BjODN2RXJySGN1ZGVjNHZ5N2VlRQ?oc=5",
-        "source": "Official Manchester United Website",
-        "published": "Sun, 30 Aug 2026 13:03:07 GMT"
+        "title": "Manchester United transfer latest: Gary Neville claims the Red Devils must buy a centre-back and left-back before the transfer window closes",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxObUNMSk11QkNLWVFKMEV0a3RZWlRmNVYyMnVtR0ZVTm40dzFZZjA3ZlJkUEJjUkY0cnVkbmpYMDhpME1FRFM0V3Rnb3JHU0ZVc2JrM1NHWVlHVDRJcjJwWDI3N25UMEplYTFjWncyQmxteU5WZW0td0dibm55RWp5QWNRTzZDV1R2M25ScjR3STdhQVNiaTF1NU04d2tUd2RIUVpGVEpKd2Q2NkE3RFBuZTJacWVzU1BSd25Ra095UVN2QmtCQTN4YVFOQ1pGSkd2Y3FDTTdScF9KcVpiTVRldVhHQ2JOeHFmeUd2NTduSHNsZ3lPdU5NYmd4OHlSM3QzSXd4cWZoVkdxWmtMUlFwdmhRUHZwVThlTnNHTGdDcw?oc=5",
+        "source": "Sky Sports",
+        "published": "Sun, 30 Aug 2026 14:45:51 GMT"
+      },
+      {
+        "title": "Fabrizio Romano Gives Update on Man Utd Replacing Zirkzee With New Striker",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT1RKYzllenBmRUhPX0kxSUtEdGpMLXFGQ2ViNGk5S3NMZFI0RFl2V09GX1pmMElLTi1vZEpJd214bmhqeE93R25BTUVkYktiS29JNXJrNjA0U1B6MlZUY2ktOU83QjR1TmUwOWlSUUNnZVNwXzZYc0o1a1NUU3FCX1pfSjRZZw?oc=5",
+        "source": "GiveMeSport",
+        "published": "Sun, 30 Aug 2026 11:16:12 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "Arsenal transfer news: Gunners hold talks for Real Madrid and Brazil forward Endrick - Paper Talk",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFZxVnA3ZXhKd3prNWRZay1YdVdfRllrZFNxbEFReHhySGstYkxXcFVwdjhsb3Q0dHd4VnhnTE9lMDl5d1R4S1ZYWEVXeFp6ZS1CeGg2c3cyTG15QzJDZEowdUhaVWNlOTg5elY0cVBNaWQzcno1Z3JFZllJaFRqOE02VFdONXRITTBxMFJSUXNiNTFyR0ZZeUI2VWliWGMxdjhESWFyckVnTEtoWjItVy1sdzB2SzFldFJEbzdwZDgwRU02bkNhWmFIWEl3ZXY3Y0JrMlAzVGk1cW1JaU5kaXY5WQ?oc=5",
-        "source": "Sky Sports",
-        "published": "Fri, 28 Aug 2026 21:40:55 GMT"
-      },
       {
         "title": "Barcelona rocked as midfielder rejects ‘calls’ to ‘sign with Real Madrid’ after Jose Mourinho ‘got involved’",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0ZSQ1llbWU3M0dueEhDMzNibjFhNENHWDNLbklqcTU0Xzd2SkRDcm83d2JRYnlTVWs4N0RzSjJFUnRxU3J1OVdZaUN4Rkk3QnFNOVJCZUhOdFJ1bXJXOFM5NzAxTk5pMi1oeUhETURnNE9VU204RDhpdzdoVFJnYWQ2YmtXWDBoR2ljU2NVZnFraUpPMTRxY01R?oc=5",
         "source": "TEAMtalk",
         "published": "Sat, 29 Aug 2026 14:46:22 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Real Madrid eye move for Roma's Koné",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVF2c3loWDQ1Q1JBSjEtcUhhOG5kaWVtWDFEX3F3V05TMlh1UXV1YUNDaVdScmtTTFVoeERrTHYwUEpwN2RzamljOTBmOGg3ZGl1ZW44TjU1bUxmQ3ROOWNXLW5xRC0teGItMmhnRzZlaS1GaFIyeS1vQWVWT05oNEJQSW1YNWtTcTFXOE10elBtMFkyRTdSU2pkcW5MUXZybl9hQm1Semt1bWZpUEk0?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 28 Aug 2026 07:44:58 GMT"
       },
       {
         "title": "Marc Cucurella set for immediate Chelsea return after completing Real Madrid transfer",
@@ -1594,10 +1582,22 @@
         "published": "Fri, 28 Aug 2026 05:02:35 GMT"
       },
       {
-        "title": "Transfer news LIVE: Harvey Elliott to leave Liverpool as Chelsea eye Camara deal",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmthRGtScWRBMHUxVjRCOEpYMl9uX2JjbEFUNVphRE5MYmFCamZfdzBSVE5MT1VHcTBHcW1uRkNEX04zOGtZRnl0MGFsNDk4TEJRLU1aelRhSUJsZjJXbGF1TDh3VXZOTXFjZkhkRmxKOGFuSk5PcDVYVzVDOUNuRURRT3lOZDhyWEh3a1JtZ2RYZ0JfZUY3NERtZk1IQmZyYTRXWFhOVFVCQ0tzcWpSaFFheDNKQ1RtR0RXcngtNElsaFRU?oc=5",
-        "source": "Transfermarkt",
-        "published": "Sat, 29 Aug 2026 10:47:16 GMT"
+        "title": "Liverpool and Real Madrid 'set for intensive Trent Alexander-Arnold talks'",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdEg2Njh0ZEh0QjFuOXhTUXdHb0p6dTZrdVB0dmd5UWVVUHFaeU1uZDVTVVFYQ0lzN0NDdzZiTjRnQVRwYlpuMmVKNW9xdC1qT3NtTnprcTlXdkpZX2lVYWthY2Fyamt5aWdrNnJCa0dhVWkxSVY0cG9SSk5Yc0paZmljaW5GSktMOHEtYldacE41SHRPMWZpTlFKeEttTDkzTG1MZ9IBqgFBVV95cUxQNWh5OVZQOXAzcmtjLXppQkdHbmFLWjhmRUt6TnFLUEgtSVRrdldCaHo2N3VfYU9WMWdaWmpIZXdtaTZxT1JMdWEwbE9tNThrS0JEVkFZb25RQU1RUDk4VWF5NU5rOVV4M3VjRGRkNVppeXZ2UWlYMUZmX2wtZy15NlEtWkI4c28wWkNMTDRwLVZiNGUxU1d1TWNTNGlBcGFJQnY1VlZvaHNCUQ?oc=5",
+        "source": "Liverpool.com",
+        "published": "Sun, 30 Aug 2026 14:47:24 GMT"
+      },
+      {
+        "title": "From Serie A: Real Madrid fans call on Perez for one last signing",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0FQamVhcVdQVmcxOEMwM0xtT3k0ZXl4WDljVGNBTWo0OFBXUmk5NnY4M0JsMmNJQkxkaWJmOWU3UGNEeWFnQllabkxMcE5nUDJ6enVDM2ZGNGxDTTZMc2FncmpNU1JhTktSMWtvU1lBVVFoTDJ5bDA4UmR2S044dWFjaFpoR3lzd1dOZEZIUlN1ZHdQci1YZVFXdE1NRkNwdjZoSGhMUUI1RndXWTZLd2wzd0c?oc=5",
+        "source": "Goal.com",
+        "published": "Sun, 30 Aug 2026 16:31:59 GMT"
+      },
+      {
+        "title": "Real Madrid still have 2 unchecked agenda items in the summer transfer window",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXlmQTJGc0JoMGxESzhqNzJ0VXpoTjdxUDdqOWxaSlpMZWlLejN1Zi10OS1kbEFFa0J4MEVQTmJFYzZ1amE4cXl2OEtYZkhXdk8zdmI5SS1iSGIzS3NaM2hyZjQ0bjM5eDJaMEJNUk5DZERFbXRDWmZ2NUZZVEN5aVQ0S05DcTlQclRLdUhxUUhTTmlMSDhqX3h1SFUwSzd1Q0NCVWhDZ0VZdGtxdnBGRlNYNXd4MHc?oc=5",
+        "source": "The Real Champs",
+        "published": "Sat, 29 Aug 2026 19:46:09 GMT"
       }
     ],
     "fcb": [
@@ -1626,10 +1626,10 @@
         "published": "Thu, 27 Aug 2026 19:00:00 GMT"
       },
       {
-        "title": "Aston Villa sign Leon Goretzka on free transfer after he leaves Bayern Munich",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGxVTXlaa1VrdThUeUphYk9WNXpUUVVNbU5wR3FkV1h2bS1oN3YtT3Jzdy0wZUFrT19SM0ktZXlNcHZsY25uQ2hoUk53VjNuRFRoTHM1RWk5bDA0S2k1ZnRrTGE2S0lmUDNGQmJNOGJuMXRIaU9YTDdEWFBvQTBWNUxnZVJ0SURkYWhSNkh0MV9CNGFXcWRXS3AxdUI1clFRc1JoTXR1c01VWGRsZWw1emRaOA?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 27 Aug 2026 16:34:00 GMT"
+        "title": "Bayern Munich boss scoffs at Michael Olise transfer reports",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSmxwbTFCcjRwZnE1WUNKMkd0SEhnTE5BbHViLVhDb1JXNHBCeWt6cVFDbFpWQWsyU2ZCenRVbk5rTXh6ZmZIY1M4REpJWU56UlZCbExhdlhsYkN5Rmg0d3NYRkhjSGl3bEROcmNzNVI2a3lYbnluNW9IWkp2d2JwbEdET01sZmFRSlZJU3Y4QzJKTzd4RnRrNzhXa1Z5My1iVFFOTWpLd0VoT29CWU96ZkhBWWNlM3B4elJoM01vV2VTbDg3d0pjQXpxY09pQnh1aWFZSE05Q1Z6XzNsZHRlcnRrT0hwbklHYWtsZm5UNUtqQQ?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Sun, 30 Aug 2026 09:00:00 GMT"
       }
     ],
     "ars": [
@@ -1640,28 +1640,28 @@
         "published": "Sun, 30 Aug 2026 13:06:25 GMT"
       },
       {
-        "title": "Arsenal transfer news LIVE: Barcelona 'AGREE' Jesus deal, Alvarez's 'proposal', deal 'agreed' for 'next Kvaratskhelia'",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzFjdlVmVzFHX05KSXVBVHQxZWozbDlJMF9sandONUlTY0tCUHVwN2VNT3A3b3BfMVpiSC1BZEFSQ3VnTWNhUldxNzVHcXpPWktGbzFic056WDJMRjN6TW9USHVqejNuOUpGb2dqWk5KSDFSUU1TanQwTkEzU1dYZWtkZkJmcnNTMURWZEw5MVdjMlFBQ1BtWjhka3JZa0pmSXc?oc=5",
-        "source": "The Sun",
-        "published": "Sun, 30 Aug 2026 12:55:28 GMT"
+        "title": "Transfer news: Ogunneye signs for Arsenal",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EcmlZRG85UzVzZUgyajJlNml5QmI2SlotWXZzMGdXM0xXT1hnVTh0NFJ5ZkkzLXNRZEFUNUVzS1BKc3RMOW53V2RZT0tuVkJtTC14R0MyY0o1VldtcWFwdmk0VmxNS3BjODN2RXJySGN1ZGVjNHZ5N2VlRQ?oc=5",
+        "source": "Official Manchester United Website",
+        "published": "Sun, 30 Aug 2026 13:03:07 GMT"
       },
       {
-        "title": "Barcelona agree shock deal to sign Arsenal star before transfer deadline",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVFkSWREY0QxdFlKd0pVSmFBcTlsR3ZrWDlzdU56ZWRHcjdnd0JpaGwzVi0zbFVSLVRhZko3Zk1DSFdnQWdBWXBVVHJhbXAwUkhIZVVLd2FacmdVeUtBUEN1aHY2a1d4cXc3elhaSXlaLUpKV2JDVURxQmdqOG0zX1gxY1Jycmpid2QtanI3LXVGc0NQWnEtQnBaR1lPdVVzTVlDLTB30gGrAUFVX3lxTE01c2hkX0FVWF95b1huQjFLZ05iMTlRV3ZPZTdjMjZyM01NcTBkYmVKbW5JWnM1YVZhbmtRR2ZOSDBUME1acTZqLWZsOEVYd0t6NktmMTRtT2pJMi00VXpLdUFaeF9jc3VKSnNZM252WjBYTE5sby1lNFBraHRyd2x3dzB6YVJJSDlsYnhoNndKUG5tSWlWWEJqY29BSGxDUFlCUUNUeGVzUHNGOA?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Sun, 30 Aug 2026 12:44:00 GMT"
+        "title": "Arsenal transfer news: Gunners hold talks for Real Madrid and Brazil forward Endrick - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFZxVnA3ZXhKd3prNWRZay1YdVdfRllrZFNxbEFReHhySGstYkxXcFVwdjhsb3Q0dHd4VnhnTE9lMDl5d1R4S1ZYWEVXeFp6ZS1CeGg2c3cyTG15QzJDZEowdUhaVWNlOTg5elY0cVBNaWQzcno1Z3JFZllJaFRqOE02VFdONXRITTBxMFJSUXNiNTFyR0ZZeUI2VWliWGMxdjhESWFyckVnTEtoWjItVy1sdzB2SzFldFJEbzdwZDgwRU02bkNhWmFIWEl3ZXY3Y0JrMlAzVGk1cW1JaU5kaXY5WQ?oc=5",
+        "source": "Sky Sports",
+        "published": "Fri, 28 Aug 2026 21:40:55 GMT"
       },
       {
-        "title": "Transfer news LIVE: Gakpo chooses City, Atletico give Alvarez deadline, Barcola set for Liverpool medical, Enzo latest",
+        "title": "Man United transfer news LIVE: Marcus Rashford latest, Arsenal agreement, Amad bid",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0F3OUVYbHhLNk9SVWVaaUZscTdDOUlRMHBRLXJKMmo3VktQd291WS1JNW1LQ1VCLUlleWxRVTRZb1IwbWc2SU9wOGxyVFJfazNRRUNfcjFlbm5aaGxJSV9tazc1ZU4xUTVIR1AzSHVFR2JRNFA5Nks3N1RleXJGbDhCOGlMTVlIalRSNTNKeDRTRFdleVZuLVVVcXNMVjZnVmo2TDFHdy1uTmc?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 30 Aug 2026 16:18:50 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Arsenal striker to join Barcelona and Gakpo chooses City",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjJ3MTkyRE1Bb1hFQVpOM1dSMkpfS1gyN1RDUGl6aEFDQWlBQTR1VEprekVXbmxPNEpEQUVrVTRLaGRCejRNTDc1VHlJYzhRSU5QM040TGQwYllpelM1aG13aUZQclNOWDMxczVETnlrYWdSTTRuTDFqd3VVS2g3cl96WGhmLVViaWkxY1JGVi1VRi0xWElZekVpdGs3N1RIYWszR0stQTEtTHMtVzFnU3hOeTh4WkxhMFJLN1BFVFNXTklyMEE?oc=5",
         "source": "The Independent",
-        "published": "Sun, 30 Aug 2026 12:57:39 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United offered Atleti striker Sørloth",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzZONS02VFlXMmVCLVpfXzdacFh5QmFRRVdhRmxSTDNKcGxhQnlJSEVTQWVyZC1sQXNhSUpXZ3FNSldyTjFnQkhabm9kY3VTdThKdWJVODVGWkFPWGlsbzcwRy1GRkdOZUJ4bEtENHZmbUVGcV9fa0JsR21LamxhclRDQ2FPUnFhZHRhYnVTMFRVajFVak5ZcmNWcHNWZ0p0OUl4aHN1N0dlcUphVUFJQ2FxWHBtbExESnZ4WjlobVFoSkxCaHFTUVJSNFdEUQ?oc=5",
-        "source": "ESPN",
-        "published": "Sat, 29 Aug 2026 19:25:00 GMT"
+        "published": "Sun, 30 Aug 2026 17:41:09 GMT"
       }
     ]
   },
