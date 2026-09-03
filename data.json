@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T22:43:42.527932+00:00",
+  "updated": "2026-09-03T00:51:47.541749+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,43 +1538,37 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal make Alvarez plan; new Chelsea target, Camara OFF; Man Utd, Liverpool latest",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUtxUFBwMGdDaHhHX0FfdThucldYWTROWG9VSkVrVGtJSFE2SE1ncXRrajN1RDNaZi1DWUduRU54QjBsaG4ta2RMZWlFVTdFbi1uVC1WT0c0bnAtN1E4aC1rOGk1RFB0Q0NaSHNoN3BYUjM3aWtHUW9kNEUxenJpOWY0Z1MzVERCd1BHdVhQYmRfbFN1RXhZaVAxY2l2SDRmU3dma1FGTzIwSkthWFlLTUFoV0lzbzc2VUw3NFJPVldweWpY?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 02 Sep 2026 21:02:50 GMT"
+        "title": "Man United transfer news: Man City star offered, last-minute move, loan talks held",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0F3OUVYbHhLNk9SVWVaaUZscTdDOUlRMHBRLXJKMmo3VktQd291WS1JNW1LQ1VCLUlleWxRVTRZb1IwbWc2SU9wOGxyVFJfazNRRUNfcjFlbm5aaGxJSV9tazc1ZU4xUTVIR1AzSHVFR2JRNFA5Nks3N1RleXJGbDhCOGlMTVlIalRSNTNKeDRTRFdleVZuLVVVcXNMVjZnVmo2TDFHdy1uTmc?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Wed, 02 Sep 2026 13:00:33 GMT"
       },
       {
-        "title": "Man Utd transfer news LIVE: Zirkzee set to STAY, SHOCK Ait-Nouri interest",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDJ6VG90SU01U3RMZlN2X3dRTmlNaFZUY1VYOVU3Tmd6SnVkNm5pRmtmdFlsekVNYUEyMTdjVHQ2cmgxVmM4dkVLaUpuOGVyY0U3NmdPWDhFVGJxU2ZGQXh0MTdVQUZkcG0xT1loYzc0SGllbml1WS1WcmwxNEVEYTVmanBrNm9keE5XR2Q1NVhsR1ZDb25OMC1FU1k0QkRGZ2NN?oc=5",
+        "title": "Man United full confirmed list of ins and outs for transfer window as 7 arrive but 24 leave",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVdKNGFpaHJFMHBsaXVzVjNqV0tWS0lSVktUYkJ3aXlLWC04QW1nd2prY1U0X1ZEN2ZDWGZQTFdFcl84SEh1SzFKN0tHOGJDWFoyVnpVTGxkT3FGbS1uNGtUUXVHRjBOOU11LVJaOXN1ZDI1dVMyajVpRzdYNWtXbVIyaV9iTzhDRGd5TzJGOVN3ODdqYWozakNzZVBOYjNCamZuMHlZR0pkNjE50gGyAUFVX3lxTFBLcng1Ukd6M0Qyamhhck4zWlpsQVYxWmhYODNaSEtqY2hCSUtWZ0JxLWw0ME1lMDNaTnRhOXNaTlJIYVBKcWU2bTIzRVBDWGUyNHZwQ0R4ZTdNdXRBVEJGdWVFcDlKNXhHVXVaSlFWTGZDY0VnSDNYOVktM3JLNmNJVzh1VEJYNFZxUjFwMzBOM01VcFhXWTJvYlMyd3pSejJmNkIyVkIySmZsZkdHamVtX2c?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Tue, 01 Sep 2026 22:00:00 GMT"
+      },
+      {
+        "title": "Manchester United’s three-tier transfer strategy could come back to bite them",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVhmOWxGNHl5aXZDWU9vZkZ2SXQtUFpJNG8yUEdRNkx3THY1ejF0X2ppYkNaVnp2VUpBQW9saGE3dENkZlFDN0trb0JYRHk3UWxNQkw1REVjN01iT04xX3pVbnhVWS0ycFpoVkVpdUhtNnZfWGtvMnpHaDlXQnVxRURFVXc0NHhOOEtOYnFZOEJ2SGNsLWFNUkxRX2pqeWowajlEcTF5WUs?oc=5",
+        "source": "The Telegraph",
+        "published": "Wed, 02 Sep 2026 06:30:00 GMT"
+      },
+      {
+        "title": "Inside Man Utd's transfer window as club 'overpay' for midfielder, Lewis Hall long game and struggle to sell players",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9paENzUFNXcURic2JTQUhlbG1GTjBCUG1rTDVTN0ZwUlNvanZHMXNvTUZ2TnhHSXZwUDhzRGVKcG0wVTlwblFEZks1eWJCTUdsMXJsYmt4WTZZWU9yTkxzZG56b2FfYXRER2tSc3VIU2JmRFJTVTVaLQ?oc=5",
         "source": "The Sun",
-        "published": "Wed, 02 Sep 2026 22:25:48 GMT"
+        "published": "Wed, 02 Sep 2026 07:35:00 GMT"
       },
       {
-        "title": "Man Utd in shock move for Man City left-back Rayan Ait-Nouri before transfer deadline",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDVYMl9sVS1YVFNmekJWVjNWOF9Cc2ZaMTNyTzR0YjhabzdLcjZVeHBrYThWN0VsTmM1MURtMVFKcWY1NFBBTWpfZDhSOG5udWpCOGJVWkRoN2VPcjk3WUhqRnNqYVhIV2lUejBPZlZMQURPY1NtU1hTUXlGNVpqa0l0SnhxdVB2c0lQeUxKTm01dl82NlN4MnNWcW8zdUhaY1pXS29iVFk?oc=5",
-        "source": "The Independent",
-        "published": "Tue, 01 Sep 2026 21:56:00 GMT"
-      },
-      {
-        "title": "Why Man Utd did not sign Ait-Nouri on Deadline Day",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXNVaGFHaWxUN01fVUpMT2F2ODJjMFd4YzhrSi1YYUZBZ0JoOVRLbEJ6bE1qOXNWdG5YRU9VaDkxN1BjYy05dFBValNTbXliZ2kyT0pkYUlLZWE2OEJacm1kWXdmSWNFZVFHN2dqR1NQbmhlN19DZnpsRUtaSExEaU1fOU1WblR4dDNnWHBEOC1wODlIakZ3ZG9n?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 02 Sep 2026 21:45:30 GMT"
-      },
-      {
-        "title": "Man United complete loan deal a day after transfer window closed in England",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkVXdE1PWE82dW8yV1V5Q2cyZFVMdjZ1cXdlQVkya0s4QXd6X3FvdDM2WjBnRGtCZnVlZjdBN0hsVWdXVzlpT1VJM3pmRlZtOEF1STE5dkFCeW1uVk9vS05JREExM2gzbFI0R0NBT0ttVkRtUDhXSEJrNURLQTVpWE5obHI?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 02 Sep 2026 21:40:00 GMT"
+        "title": "Man United sign Mexico's Rebeca Bernal from Washington Spirit",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0gxQjVZbXVaVS1GdnR5R3JtTE5KMTVFaGpUejZTb2lhejdGX296WDVZQjBSNnFwaVU1S2RBXy13SHFhSThTZm1kTk0tRnY3OGE2dGxoR0N3NEJHZHJfY2FxSHFHX2Y4UGpTM2pGNzV6d0dOM2FhQ0RGaDN2aWF4SFMzRFFGVmRXUVl4TFc0Z2dEMHB0V3Nwb0RiSURCa0VkYnZzVVZ3TVFZUQ?oc=5",
+        "source": "ESPN",
+        "published": "Wed, 02 Sep 2026 22:02:00 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "One A, Two C’s—Grading Real Madrid’s 2026 Summer Transfer Window",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Tc3M2VUN2bFhxdGxLVVZoTXNXcVZ0ZGpSeGNWWnUxWUZPTElGSDhzOFJ1Ui1DVXE3Ti1VVDhoQURwN2xndmRVRkpmdGQ3TG0xYVVMT1M5ZGVnZ2Vpb2U3SGpkODJjRjBSMzQ4dXJrWW5IN2YwaFFWTkFpSV9CUQ?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Wed, 02 Sep 2026 19:00:00 GMT"
-      },
       {
         "title": "Real Madrid awaits surprises on the final day of the transfer window",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDRfaENXeWNuVnd3VklabUpWZHA3N2ZyUTVDYi1wd092cXB1RTZpcjVPWGIxUDIxRVlEUloySkxQQjBaOTlZTVVtc3N1eGwzUWdFWjU3Tk1kT05QSWhIVGVBMUJJLXh2eHpzdkFOTGpfSkFIUmg3RDJNRTFQcTNPeEFjYnRfU2I5NHVZMlBjUUdxdkNUVlV1bGFpRXNmR1drNTNEUGZvSG1PQ25SXzhjTG9lS1loNmFH?oc=5",
@@ -1583,15 +1577,21 @@
       },
       {
         "title": "Chelsea, Real Madrid win transfer window; Liverpool biggest losers",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEU3U2RiYVg1QmxZV2RoemUtMW5nQXJuTGZEWGM4NTM5Uk10UzdpZ21hOTh3MjhJOS05Mk1CaUNrem9SRnRNZzhWMkxfQzhYdFVYT0pvWG1EWi1sTllLU3JHUEhyT0h3dlJEa1Q2VkdsNVhITnNYeGpUWWxQN2tRTExIdHFUSzdyRXhHaVBKU1ZQVUI3OUNtVE85TXB3OURfSWZvSEZPb1JJdTFpVmU2eUF6cmZRc2dB?oc=5",
-        "source": "ESPN",
-        "published": "Wed, 02 Sep 2026 02:07:35 GMT"
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaG5fbjc2dzhGYlhaV2hYUVk0TTBuNWxmSk1wM1hMV2xYOWxIVjdJWVVkSUd5WVJUTG1PMDZNMnhMVWVWbTRlMkVROTdtSmJuRy1FTmxTOGpTVl9UMmRULXZOMS0zWUR3c3lfUlBRSldqbmZYSUhKVTFVcGJOVlFMdTAyRTEwel95cWttdncxRXppR016UWJIQk1LVm53Y2RzWjhnZmp0V2pYOG0xTFRqZnNsQW5jNXJR?oc=5",
+        "source": "global.espn.com",
+        "published": "Tue, 01 Sep 2026 22:31:02 GMT"
       },
       {
-        "title": "Transfer Rumors: Real Madrid Ready Cherki Bid; Chelsea’s Mac Allister Move",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjFjQmJ6bjA5b1VSSXcwaGhZNkRGTDZZTjNBTEZBc0RDMDFzd0NLVmVQWnhLcXNhQmRBWUNSN3ozZG8zS3d4R0x1b3NWTGRkTGc3VnFHNDJyYjZfVXNPb1Q4NHRvR0ZyWVhLQnZNaXNQek43NWlMQlp6ZkVDM0w3MXRoTEhicXprQ3dTM3NHMFczOUhGSC1yeHptdU1GWXZhTTNzV1oycU5mZEZqMU5kQjVpUzhndW1yemc?oc=5",
-        "source": "FotMob",
-        "published": "Tue, 01 Sep 2026 23:05:00 GMT"
+        "title": "The 10 Biggest Transfer Deadline Day Signings of All Time",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mRHVxQm1Wek9UUDRSWXdDQVNFbEFYYlotSHYtUk5sc05fVGFXbmt4el9TX3hHQ0N4d1ZvMlU2QmxYQ1pCdDRyaFJ4ZlFGTDh5TVdpLTEyd3BudnM4MnFhMFRFekVsNEVVRmxxS2VyOC16V1VzUXd1OTJPMU9KQQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Tue, 01 Sep 2026 12:00:01 GMT"
+      },
+      {
+        "title": "Dani Carvajal slams reports of intervening in Rodri – Real Madrid transfer: ‘Lies’",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hPMGdoVXBnTE5CbjFBSGw4cC1GN0ZHVDlJaFkyeVNUek5MbnA0YlZMNVFkZzl4VlFxcFZoNG16dW45SEp3VnhYdkZoeDRkd3gzbnJJa21WSzlQdEJmUTlKSjNrYk14cEM3cVl6NWEyVFgxOGY4UjBpZUYxcHExSThrQlB5emVWY0xYdDl1eWg0dw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 02 Sep 2026 16:20:00 GMT"
       },
       {
         "title": "Real Madrid shortlist ELITE Man City star for 2027 – not Haaland",
@@ -1602,66 +1602,66 @@
     ],
     "fcb": [
       {
-        "title": "Bayern Munich News: FC Bayern, Liverpool vying for goalkeeper?; USMNT star Christian Pulisic to Tottenham?; Real Madrid, Chelsea vying for midfielder?; and MORE!",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZU42RDhrOC1adVZ4NW9YNEVlT2NVOWtlN1BSZHpSR2JEUWY4SUgxRHNWTWJzVkpyWV9xdkpmZ3dfdUc1TkJ4VjJXWWJLdmJLN3FmMlR5NzRtbVZVb1VqbFdzVktETWtza1hGalZ6aFpPcGVNcFpvSldlNm9aN3pOSkRhb05jcUM1NkQwNk1uWW03X1dRYTJkNjlIY19tdlZiT1ZfZ2l0ZzZWVWNYX05ENnduX0hHcEpCc2EtZ0lHY0VRbkUyMTZyc3NLQ2w5T2xpM1BQOERxbUUzYlQxUWJnRC1tQlJWbW9XdWNIOS1R?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Wed, 02 Sep 2026 00:30:00 GMT"
-      },
-      {
         "title": "Grading Bayern Munich’s transfer window",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjlUQ2xfeXR2MnRQdHQ2VzNHaUhReTFtRDdzdTFQeVo1bHRBTUhzSWtVZC1MN2tjQXdMaVF3Z3h5cnZlYWZlV3ZTUUQ4emxxNTN4dWYteVBmMEo4MV95MjBOSUdZQzVyYlB0YVlLZUp5U2NxQnhGZWUzT2dDN2d2TE1iUWt4LXlvQnY0eGl1SQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 02 Sep 2026 11:30:00 GMT"
-      },
-      {
-        "title": "Sources: Man City star lands on Real Madrid, PSG and Bayern Munich transfer shortlists",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXp5dVZwRjZoQjU5VlcxQXpZQmlHNW0teHhvOUtlem9JckJoMGx3M0M1NFU5ZGQ2RGVWZFRjclZYY0tEM3RfeE5FVDFjdnZOdk50NjhFU3Z1SE5kVW0zUm8tMTFmZWF6VURZRUFFOXRoQ01KaTZkTG5mX2Q1T0MybWxoVWZHMlhxSkdkMmJJWEVtUzRqYk84NDZTUdIBoAFBVV95cUxNeDlrNFVSUDZYSHJsdTV1Y29ORFlCVW9WNklua0F6VFQzMno2VEhLOVNYSEJHWjIwOVFQdWdRWGNkS01mck9xWW5OcmlUNHlxZlNEeWxGX24yM0plbVBaT1FXRFdnVTFSakRoazhFVmp4OElET09GUE5td1ptV1gxZXcxc0x2SGFvYVcyYndsVy1BVmJjOHI5ZENpUjdyS1Ey?oc=5",
-        "source": "caughtoffside.com",
-        "published": "Tue, 01 Sep 2026 05:43:16 GMT"
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDRvWkxLYUxwWmdyX3dESUwwWTlPMF9EZTJhblFQdy1lTUpFWFFkTks1bnJfN1NYckppVEZUNVljdDd3S3VoWXQyeExqN0s4a0tKUF8zMmFNNm9nSjZHWldscWJtWl9hYlozSXZsNHo2NmlOX0R4ekx0cWtVR1k2WEI1VVg0c3pUWjZmNEdXU2g3YXpQRHUxY2dtcjRKVWViQkRVTHdjdVA1cG1BWDVmdUlGZzRtTWM?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Wed, 02 Sep 2026 20:34:34 GMT"
       },
       {
         "title": "Man United considered signing of ex-Bayern Munich star before Youri Tielemans",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmFKY1pSektjNDlDQ0dnVXF6cDZyOVJMVUc2OEdRZWF4MlVVQU9Ed3lOdHRHT28xb1Bsempha19hLUR3bHNXZDV2Rzdsb2h2N0R2a2F3WHRZVnVWTjhFUXlabks1SUhtdGt0cDBYUC1BN3B6b1kyQ3R3OC1oYThwd0V0OXlqcGJEWVZqeHpYcFZhWmtEdHhFQlFKczUzVUJLbFVGa05PM3hUbzFmOVQ4UWRrRzlQVGdtVko2TzZsNWE1eFU?oc=5",
-        "source": "The Peoples Person",
+        "source": "thepeoplesperson.com",
         "published": "Wed, 02 Sep 2026 13:00:07 GMT"
       },
       {
-        "title": "Deadline Day — Transfer updates you should know #2",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0JvemV2MHpyWUQtbmVsRW14NjdXbFdScFF3ajhlNkRuRkxPRGxSWHdiMXpuTEVEdDNTb2hpTlNKX21qOW5oYmh4Q3dpbTc0blNQN0JzNC1hQUVEOEF2MzRRNHB3UXN4RlNpblJJT1E5SHk0MjdpNktJLTc4NWlvUlFURzJvZ05rcWNEV1dCSU9tUzVuWGlHRDVPWFBXNWdFNlRMRzJwdnFWRzM0eGhRRkFFNjhYWVNMeHg1NTc1Rmw1VjlyV0E?oc=5",
+        "title": "Question of the Day: Who won the transfer window?",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaUtma3prUll1R3NHVjBJVEF3cjFuVmVpUy1vX0ZTRmNsQkl0b0w5QTdmUGl4SVdHOF9CQklOQllpM011d2ZQS3BjR1VRMVNSSm9NaUd5dTZPZGFOU3dGaEJmM29lUWhoaU5kU1hDSzE4bmZIa1R0d0NsT3BsVEIyOGx2UEpKVTlBWTdZbFU4S0pqV0taeVBESGJDMjRwTi00Y2d3eHJBRDdWTHNTS1RScVJCTkwyVzJTRWt5T0tqM2RPN1F4N0xLMnJMeXJWWXJzbnZyLTQ5cmpxVnlZbTFxSHRmOG5mRUNvRUJ1eWxCWHhoaUFtZDY5d0hjWUlVZEZrX0IyWkxnZ19XcmdYYWtHeWFKMWFwNExLcXV4ZEZzUWMxZGJER1VrNzZpWTF4XzJNdlkyWQ?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Tue, 01 Sep 2026 18:30:00 GMT"
+        "published": "Wed, 02 Sep 2026 15:30:00 GMT"
+      },
+      {
+        "title": "Bayern Munich getting feelers on Sacha Boey, but not Hiroki Itō?",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGR3UFhDcG1fVkNLNk1jeVBjRGdmeXNsLVh1bGpJVGQzcEZnbUtZZ1djX1FjQmZwTzNSck91ejFoQU9BRHlTZk8xVmZBLUxlVXR2UFRuZm5sN1pCUlFqWTgzTGZYRkE2WXRsN1luQk8tMG5oNTk4ZWhJX2JfOXpaclBfSEVoOXZWMkZzdk56dllrOXYtcWdkZWkwaVFxTmNWTk9PMnNQcE93T0c4ZEZiaXFkZTBOYThVOXVHRThORVhXSGtkZnVTajBQT0U2bkwtVGNHNndvamxPQQ?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Tue, 01 Sep 2026 13:45:00 GMT"
+      },
+      {
+        "title": "Transfer rumor: Former Bayern Munich player could be headed to hometown club, play with his brother",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0hCOWRwWDRUR01fclZrWGhiVkhyZEJKN1BxZmdhQnhrZjR1R29fNXc0aTRSNEdaUXNCQVp1RkN2MkNsWXY0SHVwM2JEN2RjMHdlYUxrQ3hHalROVjNnLVFYUjQ4aU1uOEVubUlwMV84SXE5T0FNejlxT1BCSnpXV2hKcmZaMXVBUzN3Y0djSlpIRVRjWkItVVpjaHNMQUthRXpHbHdxOC1YQ2JtZWhZNkx6dmFyekZpaUtBdnRSTzVKcEVNTHh6TkY1QmNXMWtkTVhN?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Tue, 01 Sep 2026 03:30:00 GMT"
       }
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Arsenal make Alvarez plan; new Chelsea target, Camara OFF; Man Utd, Liverpool latest",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUtxUFBwMGdDaHhHX0FfdThucldYWTROWG9VSkVrVGtJSFE2SE1ncXRrajN1RDNaZi1DWUduRU54QjBsaG4ta2RMZWlFVTdFbi1uVC1WT0c0bnAtN1E4aC1rOGk1RFB0Q0NaSHNoN3BYUjM3aWtHUW9kNEUxenJpOWY0Z1MzVERCd1BHdVhQYmRfbFN1RXhZaVAxY2l2SDRmU3dma1FGTzIwSkthWFlLTUFoV0lzbzc2VUw3NFJPVldweWpY?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 02 Sep 2026 21:02:50 GMT"
+        "title": "Have title contenders done enough in transfer window to challenge Arsenal?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ybGc5ZE9RQnJOTkVjYTFqZ2J0RjRRVHV6R2tSMXhVM3dhZThTMVg5Y3l5anM4cDE2eWg0Q0Y2S2p5OXJGa1lpdU51dHRsLXduTmVGcWxqU1dLTVZIRG5TTkRJVlNJUk0?oc=5",
+        "source": "BBC",
+        "published": "Wed, 02 Sep 2026 06:12:02 GMT"
       },
       {
-        "title": "Arsenal’s big transfer failure leaves Mikel Arteta with one choice",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFYwSFdoTzExVExyakpFRWg0U2J6VlBXMDBzVkE5ZDZjLUNHVThwcVRjY2s4S1lvVXRWX0lkcTNqek8wbnNqNkNWYWs3LTdTbG1SMHQ0LUFuZ0tQVnl0QzVPMVQtSGE0R093TGN2Sy1wT0RoNEhWcDRSRlFCQ2d1a2pQakR0UFB2VFVsR1BRb2JPWjdGVlFBSGRveDVFQWtQekVUWHVFQ2RfWTgzRlJzSg?oc=5",
-        "source": "The Independent",
-        "published": "Wed, 02 Sep 2026 07:55:00 GMT"
+        "title": "Arsenal transfer window: Are the Gunners taking a risk in not signing a world class forward?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uekdKLTNTY1I4VGYwTUhTeHV0UXdscFF3OXNjUWNTenQ4M1o2T29JeHN5V291eGZ0SldxUzFMbWJRMVFpcUhXemQtRUtXSGlmYU00RGVLUEYzc2pRUnVNZTEtLVpkWlU?oc=5",
+        "source": "BBC",
+        "published": "Wed, 02 Sep 2026 07:25:24 GMT"
+      },
+      {
+        "title": "Inside Chelsea’s transfer window: Signing Arsenal target Rogers, Fernandez’s exit and the Camara drama - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkNzUDE4V3h2RW9Fblg1MDVINzRKNUhhNXhZUU9OR1kyRFpVRTZWa3dWcTNKbDN4S1QyTWxQazZ0dXZZZklDTTY5X0p6YTVXUFNmV2Jia09wZUdKMVVkY01JQm1TMDJrRkVKQWJKSVkySUEzTTFRZDVfZXFZWGRJYV9KTFRyT0NwendBaUI2UmhVYi0zbzRzLWRWM0JsMzZhTkhNRFF0OFMwQQ?oc=5",
+        "source": "The New York Times",
+        "published": "Wed, 02 Sep 2026 15:45:28 GMT"
       },
       {
         "title": "Arsenal lack a '10 out of 10' attacker after transfer window - Jamie Carragher",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDNFVzZQa3l6bFhOYU50RE5lckd6NkoyamMyR0NmdjRBWWJ1alZvVlh6MU00cjhtSUJ1c3RqWmpranlGUHFkTnZNdktybzhrdF9Zbk9uTFR0a1lSbDZzZ3lWRXZyb0JxcVVPT2IzOHlyTFdsUTJITGpzMl9wUVE4SmZZdjkyZEpSZWZveGswOXludks5T3VwbURLazI5WXZWcng4TWJuTEs4UzA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGtiTEhqU1ljVTdrUlFTUzM5Y19FUExkRXlwQ2tuUVBDemMwOERLVUw4S0Q2YUdHNVNWRnFMbzVhOGRPNTNzM29Wd1dnUVZtQVpXbDJDY0NJcXF3SXoxaFU1UXYzSXRHQVJaanpsYzZfbTBScWZhMnVfRnZueGlkajlIbXhhSEZ6bkhHOG5zYWJTNWhHTWdRdXA5NEdMYW1OMmlqUkZkWlhhTk55cHF3OEFB?oc=5",
         "source": "ESPN",
-        "published": "Wed, 02 Sep 2026 09:18:00 GMT"
+        "published": "Wed, 02 Sep 2026 09:45:28 GMT"
       },
       {
-        "title": "The Wrap: What happened on Transfer Deadline Day",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVRsQ0ZFYzVHTnRpY3dqUVhKZ29jNkRDcWktWWNTdng4OC1QcC1VLXBCXzMzV3d0ZC1hUkx3YUdRT2pEejhSTWRmUHVmRE9CZHRweUw4UlhoM0tjc0ZUcEs1dmxiT2d4T0hwWlY4aFpNOFd0YzhYaW1pZ2lsMTN6NjB2NVhsNkpfNHlqc09VZlhIamcxd2NBNg?oc=5",
-        "source": "Premier League",
-        "published": "Wed, 02 Sep 2026 05:15:32 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 01 Sep 2026 10:24:36 GMT"
+        "title": "Saga finally OVER! Julian Alvarez makes final Atletico Madrid transfer decision after Arsenal and Barcelona interest",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDROZ3JPd0REMjBKWG1MQUwyNTVuRXEzTHMwWUx6WlB1d3hpVW5wcTN3c2t1dS1oWS1oVDg5NG5vYmd4MVl4OE94QWw4eWJNVWxkWnhMTEFDN2gzWm1rNGVjZzVLVXJ6U1pOYkh1SVYyM2FkZXRGUy1FQXBVNEV2TWZZTEJPSERo?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Tue, 01 Sep 2026 09:35:08 GMT"
       }
     ]
   },
