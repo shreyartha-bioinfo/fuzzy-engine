@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T10:33:04.601486+00:00",
+  "updated": "2026-09-07T16:11:53.439787+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1353,15 +1353,6 @@
           "assists": 0
         },
         {
-          "name": "Ceadach O’Neill",
-          "position": "Midfield",
-          "nationality": "Northern Ireland",
-          "goals": 0,
-          "ownGoals": 0,
-          "net": 0,
-          "assists": 0
-        },
-        {
           "name": "Christian Nørgaard",
           "position": "Midfield",
           "nationality": "Denmark",
@@ -1461,6 +1452,15 @@
           "assists": 3
         },
         {
+          "name": "Ceadach O’Neill",
+          "position": "Offence",
+          "nationality": "Northern Ireland",
+          "goals": 0,
+          "ownGoals": 0,
+          "net": 0,
+          "assists": 0
+        },
+        {
           "name": "Gabriel Jesus",
           "position": "Offence",
           "nationality": "Brazil",
@@ -1541,34 +1541,46 @@
         "title": "Transfer news LIVE: Arsenal triple announcement; Man Utd done deal",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWU1eFRpR1I0Ty15TlU0VlU4NGROZmgyeVEzUlNmclVDaFNEaWhJWGhPX3RQTVVDa0pvMzZqbWlEQUx1OFJ1YV90RWVOYnQxOVlVb2RmUnNMektJOERyMnF0c0M5dWo0akdBMDBCUmVMRzNKdnBFNjhOSHU4Z290VHZYWk1DNkFwdHR1S19pRlF2SndycVZlZ2NMaW4ySnRfOXVVWTdWM3NxelBmVFZkNXVZNXEtendlbFpIdjl3?oc=5",
         "source": "London Evening Standard",
-        "published": "Mon, 07 Sep 2026 09:04:18 GMT"
+        "published": "Mon, 07 Sep 2026 15:04:12 GMT"
       },
       {
-        "title": "Lewis Hall makes Man Utd transfer decision as Newcastle show their hand",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2dzQm9DMUtkMEdhSHRTXzNPYlBOd2ppTU9LZ085N0dya05wNDdDUU54WkN4T1Fub0hLZmNwREhHMDZ5eEV5LWRNOEVsTXVTXzh1YWQ5N212NkF6VHN5anNHbFFiNjlNZFIyWUw4cTEyVDhrRVdCVnBkOU9oczUxSkhzMVhETlRja1Fid0JjWF9xVEpXY25GYkVJSmI5NGJkOVVTRVg3LV9hakduQjBJaA?oc=5",
-        "source": "TEAMtalk",
-        "published": "Sun, 06 Sep 2026 13:26:43 GMT"
+        "title": "Man United 'make official contact' for £86m transfer as January plans take shape",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnZESUZlaXZFa3pYSERDN0ptekpTc015RDVsR1QwVllYLVhnMWpKVmtyUGFKa2xjZXR4YldzZ2ZaVGV4SVFkbXBmYk1aVXdPaE9mcnFfX0hja1hlM2UwbGxaR3V4WWFqM1B1WkNlOUt5NXZoTTgwNjZyejl5NVBXcDJaWG5uREMwaGg2Q0l6YzB4N0VMRExobE9qOFdyN2Z3OTJYb0VpNXlDamh0Zk51TdIBtgFBVV95cUxQcGRKWjF6SnJCV3VGLVUtWm5CVG9UZm1PRHVyeldzeVc1ZGZ5Nm1NUFRnTmZVb0lPbEx3LWxsY3Rnb0g3Qjl5bTJXZ0l0VG1JNFd5bTBURGtWdlBUTDVXWDJ5dTRkUnVGZEhuaWMtWmJXWFJOU2R3eGlmZGw2NWFmejJnZ2ZKemlwZlRRQV9qYzU4VzVCM3VSbHMxaWdrR3JISnhiSVRmTU94djFaT3ExUGM5clZGZw?oc=5",
+        "source": "manchestereveningnews.co.uk",
+        "published": "Mon, 07 Sep 2026 05:49:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Barcelona Ready Haaland Bid; Man Utd Suffer Huge Hall Blow",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45eTBZU25KUTQwaWZoenRGUmc4ekRxNUdWT2Y1YXJkT0NyZUhBSHRkMFV4eTlFVUxtNWg0Zk9JNnB5VFY5ZTBxLWpyaTBxU0NJbkNodUZISk4xVFpidTgyb0d6eVdELVp5c0dJWDFGZC1HQ2FhbUhBY25zN3I?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 06 Sep 2026 23:05:00 GMT"
+        "title": "Man Utd reach decision on signing ex-Real Madrid star David Alaba as a free transfer",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFVvS2EtaG9hcUtTODh3RmU3eVlDLWJaMUJqTHVEX1V5STQwU0cwVDVxRjVkTThzWmIydjJuUlplUWlSRUs2Q3MwcEdWRzB6ZnF4enA2R3pqWktUbFlnVEtfVnhkVVp2bkNVVHE1VVkzVzBfNXBVdEFZSEdULXR0S2NOVTRBREQ4VGRDZjQwTHdoQWtHY2pqR2k1enVaMU9tNms4NkJB?oc=5",
+        "source": "Football365",
+        "published": "Mon, 07 Sep 2026 11:33:53 GMT"
       },
       {
-        "title": "Everton 2-2 Manchester United: Red Devils frustrated but Michael Carrick still optimistic",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zTEM2OW1zRVhTYnRIMkppeWI0QkkyZDdGdGIxUWEtWEt6TEYtOEMyRXI1ejZhSldZeEF1T1F6cjlfTm5qVjhwMzNOZ2tldU5QNTEzZGxwYmlWX1M5cjdkWHBJT0k4QW8?oc=5",
-        "source": "BBC",
-        "published": "Sun, 06 Sep 2026 17:18:32 GMT"
+        "title": "Newcastle United's incredible Nick Woltemade 'swap transfer offer' for £86m Man Utd target",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXF4emltUXB2azNnbjlpc05hbHRFbkd0VzJ4S1FrdXNrTjdJMUhkVWJkaHMzN2lmbjY2THR6cmI4RWtkTDhXM2EwQTRRXzlJS0hmemRnejMtLUdpdGRtTFRIdzhqVjNucVFrRXNnYmhzN2x0YmE2ZVlDSWNHcFZ3NjhyZmxtaGVFbl9PR01FVk1zazVjRG1WaGZkOTU4bVdjdG9MaE01bGN6QdIBrwFBVV95cUxQRFFJODBoS2Nkam9IdzYwNWViM0d5U1czU1FnVVUwR2xueHdfU0xoa1JVY0pJeHVhZGh3aUdzMXZlNmRRMXl4MUhEdk5VM21aekNuUXpjeWhDTng5dUFrNDYxb0FEVnlDM1BtM2tVS0JmN0lZSEF1NWdBMkkyLUhMLXljbGt6ZkFkVFpsSWo5ZDlYejQ3bXZNXzlfRG9KdDY3SElEUUZNNVJaZER4VTFz?oc=5",
+        "source": "Chronicle Live",
+        "published": "Mon, 07 Sep 2026 13:11:00 GMT"
       },
       {
-        "title": "Transfer news: Former Manchester United and England winger Jadon Sancho lined up for stunning Borussia Dortmund return - Paper Talk",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPN0FtdEdvcmxsRi14QmVRRjJaTXVhR1hKb2VFNjJKR2RXR0xCTDRwWHhzb201NlVqWV9GbUZOaEdMXzQxLV9NaFZMZWRZZEh2OGdza3F3d01ZRWFpY2FobHdKZ2FxQWc1cnl1Nk9LaENwbEw1cktFRTd4ZFZ1bVFaZDV4QW9Hc1pOZmpVVGxQQ1p2NG81a2x4M2xxWmtHS1JrdWNVTDBJdEgtYnB4NWhYRTRkbEJnYWdMaFQ4dVdSU3dXZTMzUUNrZkRJS0pKVzZack9KWUo5ZWg1REdwLTQ4X0pBSnRGXy1KbXd0bVQyTlBBZDk5V3NJdU8wLWZfQzlFcDZodkZiQzZqeGR3R3V3ZkRTbGFsNU9sZmlTMld0MzhHN2lM?oc=5",
-        "source": "Sky Sports",
-        "published": "Mon, 07 Sep 2026 04:15:14 GMT"
+        "title": "Sources: Man United's 'surprise' left-back transfer plan revealed",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTZVWWs4N0xpNnRabTVlSHMzVVpTaVFndWViLW9iRFpwVzFLeFB0VHRxejdjd010MjBXU2xzQmRnRjJ3Q3FqLUdPVXZjTlJXcDFRQlVkbkNtbnNCdE8taGhWMVVzZDdxSHZFeXNDU0NnaEFRYUFrVS0xOU5BVkY5TUwzcFNGNE9L?oc=5",
+        "source": "Yahoo Sports UK",
+        "published": "Mon, 07 Sep 2026 11:32:09 GMT"
       }
     ],
     "rm": [
+      {
+        "title": "Man Utd reach decision on signing ex-Real Madrid star David Alaba as a free transfer",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFVvS2EtaG9hcUtTODh3RmU3eVlDLWJaMUJqTHVEX1V5STQwU0cwVDVxRjVkTThzWmIydjJuUlplUWlSRUs2Q3MwcEdWRzB6ZnF4enA2R3pqWktUbFlnVEtfVnhkVVp2bkNVVHE1VVkzVzBfNXBVdEFZSEdULXR0S2NOVTRBREQ4VGRDZjQwTHdoQWtHY2pqR2k1enVaMU9tNms4NkJB?oc=5",
+        "source": "Football365",
+        "published": "Mon, 07 Sep 2026 11:33:53 GMT"
+      },
+      {
+        "title": "Arsenal working on new deals for outstanding trio as Real Madrid learn chances of Declan Rice transfer",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDB3S3pSNXBlQ2dEZVJTbkRyWkVRSDdBZzN1cDlrdWF6T2s4d3Vhd0ZQZ01NR25tT0JLYlVGaFNRNko3ZkVDWFM3R3JNT18tNGY1eXRpU1diSlBpVk5PdmVQQ2JLeXBEeHlnSkZ2d05LU0s4aklWUkJhVzFTbFo1ZjYxb0l5T3BqQ2U5T25jdzVxQ3J1M0JxTGlRZHpxeVBuUE5GamFR?oc=5",
+        "source": "TEAMtalk",
+        "published": "Mon, 07 Sep 2026 12:44:23 GMT"
+      },
       {
         "title": "Enzo Fernández found in Maresca what Real Madrid couldn’t give him",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEx3Y1MyYmZJU290eWltdG9saUtHQXVBSGFkNk5LbFpHekU3M1NlSWJzSmFWY3JNUUhDVW42N2xuRlI0OTFBZFdkSUpRR1drSFJSbVIybG1MUWFiSENIY0pHa0VlZEJwTjdobktqUGdMNjNHMTRmRWFtY3dKVVBwVDRoYW5BSno0eXVXb2hkcWtoT1JRUWJoazBrQ3MwNW1YVGhr0gG3AUFVX3lxTE9lMUR3MWc4c29GdUx6WXVQeERJOVhDRnE3RVVUbTlzTkxnaU50ZTZuSkhOWFo4UGhseUkycG12X0ZPWVgzcHRXNFNYVmxQY2dPUmhrLWRfd2g5bjZVR2VsMEJYNk9sVERZbEpMcldfLXVWSkowNjNCSkR2NEw4WmdiQmpSbTJQdkh0Z282THdTSTBVY3RQcEZVcjNRNGJ3ak5kdkpRMmctUVY4b09NQXk2M1JIaEo1dw?oc=5",
@@ -1582,22 +1594,10 @@
         "published": "Sun, 06 Sep 2026 23:30:00 GMT"
       },
       {
-        "title": "'I cried when Man Utd transfer fell through – I wanted to stay at Real Madrid'",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTVFNVVoMlhQU0JUVi1GMFdNMFFSaHlERVFKVFZvSXNTSkZ3Z2FBcGpoWTREcHZFUVFqNHBhQk5xZ3VGNzZtdDFTb3A2SnI0OG9FaTBzRzJRYXRFWmlIYllnT0xVQXF1NWlQRE5lbmtrQUJVVU9pUUMwUHF1WDdjeVlkMlc4ZkJQeGfSAY8BQVVfeXFMUG5aUjZVZU5oQmNOQlU5dVVZU3NIcm1fNm1UTEZOSXpka3ZEcTRZVVV1TkpDd0NTOUpnaXh6M3dzbHJLa3kyRG01cFVzMG1ma2htZC16TGxjODk1WnpWODNOcS1OV0VDcDZSLUtfVGFYOTJRcmVBYk1pTFpLYS1iaGZzenlIc2R5bndheUs0SDA?oc=5",
-        "source": "mirror.co.uk",
-        "published": "Fri, 04 Sep 2026 06:00:00 GMT"
-      },
-      {
-        "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5",
-        "source": "The New York Times",
-        "published": "Tue, 01 Sep 2026 12:14:38 GMT"
-      },
-      {
-        "title": "Chelsea, Real Madrid win transfer window; Liverpool biggest losers",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGpIaTMyY0xOaFUzNzVuYW5ZMElnS1VEcVloSHZweEdjYmhXTkctZk1wMjY4aFNEMDNMYXVMVVV1TVU2OHYxajFiMUFNSnBfUE1fNWZnczN6TmMxR1RjLVoxQmxRVk9tWXdpeVg2OVlGZVRRTUV0OWlzaFpLUHhoTFkyTmloRjJVY1lkbE5wM0FzZ2xCeVdfNmtsXzlDVGVwSEVzRXFrd3NDbHc1VFYxSTd3?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 01 Sep 2026 22:07:00 GMT"
+        "title": "Dani Carvajal offered unlikely reunion at surprise Premier League club after two months as free agent",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWJ0U3lreGdtajRseEMycmxJQXpCd3VfM3dINXMzWC1tUTBzdmI4MkdobHNSaXNuZXp1SHNxeWx3MXJ5SUNGcWd3R2FUSElWV0kwSEFWTmFSbHlfQ1JXZW8wNG5zcVNFekhQU3FGYzY3NW5JMC1iazhwOVlEZUxxSUtBeUNGT3ExYjVjcnVtN1Q0MjlJb015VGNWZGZ3b2M5Z1gtd0Y3d3I4Y083azVMWUtSb2xQWTdLU1FLSFRQSQ?oc=5",
+        "source": "SPORTbible",
+        "published": "Mon, 07 Sep 2026 13:06:06 GMT"
       }
     ],
     "fcb": [
@@ -1620,16 +1620,16 @@
         "published": "Sat, 05 Sep 2026 09:16:37 GMT"
       },
       {
-        "title": "Schalke 04 vs Bayern Munich: Vincent Kompany talks Jamal Musiala, transfers, and a tricky away day",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ0FiT0NzeUtpWTNiSWNjNXd4SlhhbWxUWVp6X21WQVhaQzZDbmZ1R0dMNUdiWk5RdEJMM1RCMl9JQUd6M0JNMlRncGRsSTk4TVloa1hKWlQ3TjdXa0haYzN5UDdaN0o4VmZ1WTJUbVk4dm9nVl9Ka3h5R3A5VU45M053?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 04 Sep 2026 12:25:00 GMT"
+        "title": "Sale of João Palhinha closes chapter on failed move for Bayern Munich",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFo1SThEeGxiTWxLbk1jd2hzT0otQ0NPckRyUkF2bXFIcDZBZjhGWU9CVUtBTGNlcnpBV1NjSVJQYWhHRUgyUDVDTHJBWkY2OVRpcUxaVDZTWXN1ckNTN3BIb011bzNGdm9lOG5iRlJKNTRpcmFaQnBKMnhnZV9BV1U4aXZydGp0cWY2UW92X0g2bEVHSldUM1NUV1N2c01STTlySlQtcEVoT0lLb2VOcGFUZnlqRmVySllHX2gwRlY2WGNObUM2ai1n?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 07 Sep 2026 05:30:00 GMT"
       },
       {
-        "title": "Transfer math: Bayern Munich nearing goal of breaking even on Bryan Zaragoza",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcmNGR0hsbjVjOVNuXzNzUzZia0dnWThnNXN5T0Q2SkZaTWxPczFETlB3UWdJSzVqRFlfWDRqOUpHYjBnVmVUbmlnV3dDMkVYTUxBd3lBS2NUb3dqX3FVUk1IR0tVcjVaSTdhc3FiSHVoOEQ1VFl2T20zTmVKcGstaF9HckxyQ2tjZzB3clhraktmNFFPdGM2MGtsaVZfYTlTT2J3QkFqRl9OSXJWYkUwTmQyb1pCMVNrRlhqUkNVTE1nejdtNEJVNVEzUHYyd19qYnQ4Zm96MWh2cjd0YWFtdW51Wl9HbmJoMk80?oc=5",
+        "title": "Choosing between Bayern Munich and Paris Saint-Germain, Ismael Saibari picked Bayern",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcGJrWnhDblRfdmVVX29mR2hQVDhhd04xQmpFellWNVU5dzIxVUdBNXN5Z0pjTXR4ak1YblNTWVd3cGoyZ2w0OHYwR2lVLVFSRUcwbXpmcTFwQmVuc2hKU0NIMThmbmhSYldJWUNZZmh3TVNNWDdZUjRpUFRLQ0x0Qm9GeXFwT20wSXR3TUdtUWlZXzNlaTlxNF9jMlE1SkJ2UWIyY1QtMktkNkR6LTBHaTNyNlplXzRSTGQwN1RHVmNlRS1jN29PUmRTa2FzeHk1anB1d09PbGswNllzT2NIZWt3WGE5d2JiV3hSNENIa0ZpR3h2UkE?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Sun, 06 Sep 2026 21:37:00 GMT"
+        "published": "Mon, 07 Sep 2026 14:15:00 GMT"
       }
     ],
     "ars": [
@@ -1640,28 +1640,28 @@
         "published": "Sat, 05 Sep 2026 19:08:30 GMT"
       },
       {
-        "title": "Transfer news LIVE: Arsenal triple announcement; Man Utd done deal",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWU1eFRpR1I0Ty15TlU0VlU4NGROZmgyeVEzUlNmclVDaFNEaWhJWGhPX3RQTVVDa0pvMzZqbWlEQUx1OFJ1YV90RWVOYnQxOVlVb2RmUnNMektJOERyMnF0c0M5dWo0akdBMDBCUmVMRzNKdnBFNjhOSHU4Z290VHZYWk1DNkFwdHR1S19pRlF2SndycVZlZ2NMaW4ySnRfOXVVWTdWM3NxelBmVFZkNXVZNXEtendlbFpIdjl3?oc=5",
-        "source": "London Evening Standard",
-        "published": "Mon, 07 Sep 2026 09:04:18 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Liverpool, Man United eye Mane",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0FCREFub1ZmeUlxTHo0YmExWTRvSHVYeTFXZUNfQjhpSjBCTGp0bkNmbXlnSUlDeHkzQnJHbnZCRlcwRWY2LUpJTktNRlNJTkUyVmJsREhMZEZkX2RQOFhCT1BLLVB3NDA5YWVWUmEwVGZZa0tPakN5eGhQNUpVNG5ndVJ1Rkh2Y1BmUklDNzF2TWdVck5UdHU1SUhDRjdMcUNLRkFMNWhZVlhBMlc5ZEdjVQ?oc=5",
-        "source": "ESPN",
-        "published": "Sat, 05 Sep 2026 17:49:00 GMT"
-      },
-      {
-        "title": "Putellas to Bayern; Paralluelo to Arsenal: Women's transfers we wish we'd seen",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDUtQmdwNUhDX05hNkp1NXJSTVV0TkFtYzN5dXIyX0JfQjhRU3gwUktqMTF4SktjVWdxeWFRY2loOEpybElXYU9hd09GWjdWSWRCcjZrYklwRDlJa0tMamJSM2NmMGlkdDEzMkZLM3AycmxHeE5pY3ZxZDIxYkZ3THFxN05xS2FYc2ZscllQNWt5OXJtdTBTY1dPdm52ckZjeGdic0FRS3p4cW5G?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 07 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Arsenal’s Transfer Mistake Covered by Bigger Chelsea Blunder",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRWGRjMTUxcjkwUkRFaWRiVnZiVWJMOTNVUlY0R0kwRm5GVmF4anZDRnBwd0dDYW5pX3RrQmxmdFZMVUVLa2dRd0FDUmlSOUt5UzUtRHhvUWZ0bjlJcnU0dXpseEl5N3lKczk1bGZhODJQdWVx?oc=5",
+        "title": "Arsenal’s 21-Player ‘Summer Transfer Shortlist’ Nearly Led to Some Unbelievable Moves",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1ppN29aVzRqR043NDBKSjhqWVlaRXB0UElham9tM3IwTHBDMVhKMHN4QWg2T3FfTXdpbmpaWkJnYkJDTnRrQmNDZ29ZVkM0WHpKSVlLVHBoUXAxdkZWRWNaeGEyMFYwQlJlVGcxS21xYlgwQVEzdVhlMC02a3VfZzZDQ2tMTVdZd3JKcVljN0lUQQ?oc=5",
         "source": "Sports Illustrated",
-        "published": "Sun, 06 Sep 2026 19:30:00 GMT"
+        "published": "Sun, 06 Sep 2026 11:45:00 GMT"
+      },
+      {
+        "title": "Arteta happy with Arsenal’s transfer window intentions",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXE3dWJRbEZXUzFHcER4aFEtYWkxSTcydk5IOG9TbUYyb3Azdk1pWVpHai1mTndnbGtDU1A1MFhHRUg0OW85RUZIVm9Wd2JmckVmNzVVLW9PVGViTFFkbktRWndKemVVQ3prUWpCVW5YU3g5SHFJSldYeEpPSDJmbHF6dWJVVmFZa2IwYw?oc=5",
+        "source": "Arseblog News",
+        "published": "Fri, 04 Sep 2026 14:03:37 GMT"
+      },
+      {
+        "title": "Arsenal transfer window: Are the Gunners taking a risk in not signing a world class forward?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uekdKLTNTY1I4VGYwTUhTeHV0UXdscFF3OXNjUWNTenQ4M1o2T29JeHN5V291eGZ0SldxUzFMbWJRMVFpcUhXemQtRUtXSGlmYU00RGVLUEYzc2pRUnVNZTEtLVpkWlU?oc=5",
+        "source": "BBC",
+        "published": "Wed, 02 Sep 2026 07:25:24 GMT"
+      },
+      {
+        "title": "‘Just Opinions’—Mikel Arteta Hits Back at Criticism of Arsenal’s Transfer Window",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtRl9oR3p0NTB5d05QcE5MVVdLc2JPYUtaS2FjaDRQTU1pNWZFb1RlWlR5Zkk3VU5QMmRpTXlPLTBsbmNkSDZ0cEJMRERNZFNvRm1yREJWeERMTWZtR25pSVNQbGpkWEhpenhScm53bWJ2YkNYZnRmQWdqNjkzNlU?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Fri, 04 Sep 2026 18:10:00 GMT"
       }
     ]
   },
