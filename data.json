@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:29:16.598833+00:00",
+  "updated": "2026-09-08T22:53:52.502540+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man Utd have highest transfer net spend since 2022 but Champions League return will test depth - Between the Lines",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM1N6bG85TF9MakVjOFNhbjkzZG9tck95OFVEZUtNd1VsTUQwdHBnQVZXVzVwb1ZncHdTeUt3TmFkSDNSMU11SExPQ0dHQ0luVFBHcWwtY09vbDdCM2RkeFJZUVFXZDkzOXp3ZjV0MnE0TEkzbjNNbFNaU1NkNmVvaDRJVFBPVW5yNHFTdHRqN0VRVUNYVGwzNDIxYWRDcVFGdHhMQlJHMG1KWW5YaDJrYWVhclhkLU9VOE9VRWU2N0RHU2tUd3dpUmNTQnVGU1E4NWEtS09TV3VRZVVfaXlNTFFzem9Tc3hyNUF3U1plN01hNDFaSWFaMUdSSQ?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 08 Sep 2026 14:08:54 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal triple deal; Man Utd sign Liverpool wonderkid; Chelsea plot Scott bid",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFlhdUpiTm1TMnVnQTJVWWg4N1ZWenVhM2o2bU5tSXdFNTVjYkw5WHBKWFVYYlNLMVg3dkVsOEg0ZnlvRmJHTTN5ZlFuZVRsVGFiOVQzUmxfQzRTWG9FcWJiNTNWeGVpZ2lCYmlBY3JCS2VhUUNXNTZkRDZWMy1XeWlCZGJYSjU4SlNFbTcwTlFobW55MmUtc0RyOGw4S3I0Z0V3SUhacVJWMHBZWlhLU0lyN09VeV9zRTY3QllVOUs?oc=5",
         "source": "London Evening Standard",
         "published": "Tue, 08 Sep 2026 06:04:39 GMT"
+      },
+      {
+        "title": "Man Utd have highest transfer net spend since 2022 but Champions League return will test depth - Between the Lines",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM1N6bG85TF9MakVjOFNhbjkzZG9tck95OFVEZUtNd1VsTUQwdHBnQVZXVzVwb1ZncHdTeUt3TmFkSDNSMU11SExPQ0dHQ0luVFBHcWwtY09vbDdCM2RkeFJZUVFXZDkzOXp3ZjV0MnE0TEkzbjNNbFNaU1NkNmVvaDRJVFBPVW5yNHFTdHRqN0VRVUNYVGwzNDIxYWRDcVFGdHhMQlJHMG1KWW5YaDJrYWVhclhkLU9VOE9VRWU2N0RHU2tUd3dpUmNTQnVGU1E4NWEtS09TV3VRZVVfaXlNTFFzem9Tc3hyNUF3U1plN01hNDFaSWFaMUdSSQ?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 08 Sep 2026 14:08:54 GMT"
       },
       {
         "title": "Official: Manchester United academy midfielder seals late loan move after transfer deadline",
@@ -1556,30 +1556,24 @@
         "published": "Tue, 08 Sep 2026 19:50:00 GMT"
       },
       {
-        "title": "Celtic star Camilo Duran at centre of false Manchester United transfer claims",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQjExMmVnRWh2UU56NjFTQXBXa3hkdVgxYlF2aXphWC1sUHNPX2MxNWlmSzl3U0dmazBCbHB4Zk1fMlVsWk53VmpEVjhHaXVYT21qclcwZXdCZzI4ZGVoR0FMdThuQlZ0YnZmUnFfQi04TkxvX3czbm5CX3BVekhKNzlRdmFRSGM?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 04 Sep 2026 07:00:00 GMT"
+        "title": "Lewis Hall 'closing in' on Newcastle agreement as Man United learn final transfer decision",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjY1S2N6Yjlnd1lmV2NBN1lZZjZBc0ZFQ0JSN0FrbWFGZHlyV1ZYTUFjdjdvdERoLVYxN1F6TlhjNjRQOGFrSFBGVUhXRENhX2d4dlE2VGZDTVdSaUVPbTNYRF92ZDE4ZkE5dXJwZkM2em1ReC03VGZhLVJNeHF3MW91REtZTXJTT05OeGlhZVdfN2pZTDlBbEpXcUdhVUtMcmpkdFBBNUs1bV9aUmZuLWhwWkZzTW_SAbwBQVVfeXFMT0JQMTY1YU04MU5STzZJQk9qZXhpazV1SUtkUTlVMEdLQTgzSXJSQXhweVkzZWoyY19YbHdSSkJ3WGZRc2xUd2VUZS14THY5UHdBY2tidUJGbXpVOElWOGFWd1B3SmdWb0ZVa1BuWUlvVEhMOE5oMkYwMkRsd21NSkZmUmpQLTV3SXdUaXFoSno1YWI3X3QtU0pSOF9EZ0t1dkJKVlZwbExQRlZuckRubXJsVGp6SzZlNUdTbWQ?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Tue, 08 Sep 2026 12:20:00 GMT"
       },
       {
-        "title": "Manchester United to confirm three signings from Liverpool and Man City",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDhTMnJzMFRBVzRNdkJlRmdkN1c2MXFpTWM3ZHN6ZjdZaEN1dVNuMmd6aGR6cnBwbzFfQWEyc05ZWXdMSUlHajdHZm9ndWh4eHAtVEtpN1gyanBHaWgtYkpuZGZ5WjVOX0Y1UVl1RllRRUxUUXFjSG5aVmZFa1ZLRXhDZnJfUndiZVNMdmNxYWVvQWh1VVFsYktfMjNVdkNhSktGSlhpYXU2UdIBrwFBVV95cUxOMmg5SDJHdWU1WGQ1SEh3akYxc2N2MktKU2FHcThVeDBGamhGYU9vRUhWLWo1ZTZqdDJuRnJyX040NlVqMUV4LW5ONnhZYTlFMmhWMzM3OTNVS0lYTjVLQ3J2QmxmN3NLUG9WcHg2TnhfeG05blNKOGdMRTNTV1JDeEFXbV9SZUtHeUw2TzFvdmRjRjBzZ2RGMnQ5RnpXb3gxUVNEMk5YNHA3Q05la3R3?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Tue, 08 Sep 2026 08:18:00 GMT"
+        "title": "Transfer news: Manchester United suffer hammer blow after top target Lewis Hall agrees five-year Newcastle deal - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOYVFRSEM5RHZuZEduR2xUNDdHOWNhaDJ6UnJuSVJJUFdBenFDdjVuRGFGNU1UcnhlUDRZOFh4ZkFtWldvVWhUb2ZVam5KNE52Zzh2SUcwTzg4bWVkd0xVd05LMnFaa2s2WW81RnZYZU9uRHZjb3VpUGgtRXlldlV2dzZnTHkxTFhfVU00ZUdGeFdfTTF1WllCZGs4TWxBRC05UnBSUm10Ty1vNG5wTllXajBnR1BZLTFCS0ZyY055U0p4U3J2bUtuenNBdWdueVAwS1cxdUZEY1ZNT0d4V21tNGtkSUtPUmxENzFMT1N6aW5QM21KRmxvamxGRC11SkhpNndjTFU3ODI1eUxZWXJseEpxUXFVRVlKQnlN?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 08 Sep 2026 22:26:48 GMT"
       }
     ],
     "rm": [
       {
         "title": "Transfer Rumors: Man Utd Braced for Fernandes Bid; Real Madrid Eye Rice",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2ZvTDBNR21yYUVPYkx1UFdNQ3V3VUZqc3dhek9NVFpvdnd0QlpEalBiUmN6bEdtOHZQeHh0ZkUtMmE1V0Z1dG1mVk5hS2FkVjlIWG1QR2N1N3hSRXFUQ3V5d0IxNmY3V2d5LUV6aXlXVW1Fa2xfV200eGlGUHRQRnJkYktCLVE?oc=5",
-        "source": "si.com",
+        "source": "Sports Illustrated",
         "published": "Mon, 07 Sep 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Man Utd reach decision on signing ex-Real Madrid star David Alaba as a free transfer",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFVvS2EtaG9hcUtTODh3RmU3eVlDLWJaMUJqTHVEX1V5STQwU0cwVDVxRjVkTThzWmIydjJuUlplUWlSRUs2Q3MwcEdWRzB6ZnF4enA2R3pqWktUbFlnVEtfVnhkVVp2bkNVVHE1VVkzVzBfNXBVdEFZSEdULXR0S2NOVTRBREQ4VGRDZjQwTHdoQWtHY2pqR2k1enVaMU9tNms4NkJB?oc=5",
-        "source": "football365.com",
-        "published": "Mon, 07 Sep 2026 11:33:53 GMT"
       },
       {
         "title": "Transfer rumors, news: Arsenal set for Rice talks to ward off Real Madrid interest",
@@ -1588,10 +1582,16 @@
         "published": "Tue, 08 Sep 2026 12:52:00 GMT"
       },
       {
-        "title": "Arsenal and Chelsea miss out as Real Madrid win transfer race for midfielder",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFRRZ0FWeVB0OWRabDZkeTJiSTJmLVhjdzFmMlRLNzNXTW52SVk2TldVZXYycW8yZWxQRGhEQUVybjdlOU9tZGw1SGhwc3VhM3IwLVlwaE5oOHlFdmxDbk1BNEdKa1paeDB4bm5DX0RqU09NTklYN1pPVTV4T3dMa0lfeXEzcEdKVG1WNXN4Sm9WZUR2Y3g3dWY1bnNFc2dQZWFJRUhlVWo5LXRZVFFOSXBiOWgzQXE1eFHSAb8BQVVfeXFMT0JhYnpFb2pNc1hIUUd6MnRjNlZmZ0F1alVjeFlFdDQzTVdTaEVSUF9KUngtYU5jeHQxa1JBTDRaMkFjdVJjMEFmMmNkUldKRnJid1BNUDBSWGZBbl9CSjgwclZjSGNOdTVMcHFBMURqdFk4WUJ0b2NFNzB5NWlEZU9FT294VUI5Z0pwVUxuTHFVSWhhM2dhd3FPdlBDRWlydVNFWmRFSDBzVG5KYTI4OFZrMGlyZzVmbXlOQnBKaEk?oc=5",
-        "source": "CaughtOffside",
-        "published": "Tue, 08 Sep 2026 16:30:27 GMT"
+        "title": "Carvajal tipped for Premier League move at 34 with three options",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmxwaDItZjZEcjVINHRyenBXdm9Kdy01VGV3amRnY2k3bkpwbHozOWxJQVJ4YkZ0dTNmUUVveHdfaGpVM3hyR3ZHZE9RR0l3NGRPc2ZsUWljWGtMaG9zd3NCT21Bb2lnWk0wd0dkVm5TenczU3JTcDNVZWdRMHRMRnk2UXA?oc=5",
+        "source": "talkSPORT",
+        "published": "Tue, 08 Sep 2026 15:19:15 GMT"
+      },
+      {
+        "title": "Liverpool decide first signing of summer 2027 as Real Madrid hero also offered",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjcyMXdwcEd6LXFKUUtYVEYzcTlDVDE2aVhGNGJwc3MxY3Q0UUdRS3VtUV9pZ252Y01MNm5YU190TS04R0drUUV3SERTZDRjNEwyRGR2MlNMUGg4cG5qLUZ3ZGVJd296cXpWZkhBT01BazZ1aFFzWUptZFFpbW93VlhWajVRRFl3NVNHeFZWTTZwb2hBcG41OU84VHNKb3hOT3cwNWVYSUJIcWMwSmEtcGoya090bmQ5cXp3?oc=5",
+        "source": "TEAMtalk",
+        "published": "Mon, 07 Sep 2026 21:47:41 GMT"
       },
       {
         "title": "Journalist: Liverpool offered the chance to sign Real Madrid star",
@@ -1614,16 +1614,16 @@
         "published": "Tue, 08 Sep 2026 07:15:00 GMT"
       },
       {
-        "title": "Boey increasingly unlikely to leave Bayern as biggest transfer opportunity falls through",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1RhX29SS2cyci16Ym8zM3NnWmh5RW82RW5fQ3FwUGNGQ3pYM01ZV2lfN0w0Y3RqU2tYcDBuNGxuSEg4ZWRYX0xJQkJnMzBnbDJOMHVXRTJreHpRQ2NtekRkbm00SXBtLVYxRUwxUldSMzFRU1Y3V3VScmtVSXpZczR4SGJxejdWeV9HWVVsMUZCdVdaWU1EdEphdUVzQkRJb2kwU2Vn?oc=5",
-        "source": "Bulinews",
-        "published": "Tue, 08 Sep 2026 08:50:00 GMT"
-      },
-      {
         "title": "Bayern CEO shuts down Real Madrid-Michael Olise transfer rumors",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSEc2MHJtYkVteldyODJ1UGpHUnZKMk44UDJTazhrSUpvT0RZQ0R2YkY4aVcwOWZFdUxvcktybFQyNVZNMThrR1VCcjVWeXI4Q2dCeWphdHhCa3c4TFVjaWljYjkwNWpEQ0dUN0VUYjNjLVhUOTlYRlhlVUp4M1owNw?oc=5",
         "source": "Yahoo Sports",
         "published": "Sun, 06 Sep 2026 23:30:00 GMT"
+      },
+      {
+        "title": "Boey increasingly unlikely to leave Bayern as biggest transfer opportunity falls through",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1RhX29SS2cyci16Ym8zM3NnWmh5RW82RW5fQ3FwUGNGQ3pYM01ZV2lfN0w0Y3RqU2tYcDBuNGxuSEg4ZWRYX0xJQkJnMzBnbDJOMHVXRTJreHpRQ2NtekRkbm00SXBtLVYxRUwxUldSMzFRU1Y3V3VScmtVSXpZczR4SGJxejdWeV9HWVVsMUZCdVdaWU1EdEphdUVzQkRJb2kwU2Vn?oc=5",
+        "source": "Bulinews",
+        "published": "Tue, 08 Sep 2026 08:50:00 GMT"
       },
       {
         "title": "‘Don’t shake when they see money’ - Why Bayern Munich are not afraid of Michael Olise transfer bids as future prediction is made by ex-France international",
@@ -1634,22 +1634,16 @@
     ],
     "ars": [
       {
+        "title": "Transfer news LIVE: Arsenal triple deal; Man Utd sign Liverpool wonderkid; Chelsea plot Scott bid",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFlhdUpiTm1TMnVnQTJVWWg4N1ZWenVhM2o2bU5tSXdFNTVjYkw5WHBKWFVYYlNLMVg3dkVsOEg0ZnlvRmJHTTN5ZlFuZVRsVGFiOVQzUmxfQzRTWG9FcWJiNTNWeGVpZ2lCYmlBY3JCS2VhUUNXNTZkRDZWMy1XeWlCZGJYSjU4SlNFbTcwTlFobW55MmUtc0RyOGw4S3I0Z0V3SUhacVJWMHBZWlhLU0lyN09VeV9zRTY3QllVOUs?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 08 Sep 2026 06:04:39 GMT"
+      },
+      {
         "title": "Arsenal transfer news: Gunners had more than 20 players on summer shortlist",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91NjQxdV9OczdzS3pxSmdZZ0NXNVdKTkdlMS1sODcwTEVFS1diYm9mLUJZd3pPd1ZpQVhlcHVzTkg4NjJoc2syYktJdWUtTTJsOGd2NF9ZSjRnUFRyeVJOd2haZFhEbUk?oc=5",
         "source": "bbc.com",
         "published": "Sat, 05 Sep 2026 19:08:30 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Arsenal triple deal; Man Utd sign Liverpool wonderkid; Chelsea plot Scott bid",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFlhdUpiTm1TMnVnQTJVWWg4N1ZWenVhM2o2bU5tSXdFNTVjYkw5WHBKWFVYYlNLMVg3dkVsOEg0ZnlvRmJHTTN5ZlFuZVRsVGFiOVQzUmxfQzRTWG9FcWJiNTNWeGVpZ2lCYmlBY3JCS2VhUUNXNTZkRDZWMy1XeWlCZGJYSjU4SlNFbTcwTlFobW55MmUtc0RyOGw4S3I0Z0V3SUhacVJWMHBZWlhLU0lyN09VeV9zRTY3QllVOUs?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 06 Jun 2026 07:30:41 GMT"
-      },
-      {
-        "title": "Arsenal 2-1 Chelsea win changes the transfer-window conversation",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVGt0OXE3eEVFaFBWLUJERmxybDlRY3ZRR2RKTmtVV1RVYmdBWU9yeEl1dUhoOS1XM2lOTng5dlRFOVg4OUI0NWF4RkJvRDRrWmx0RUJ3bWxHYnFweno2bGp0ZzlvR2pTOEItTFFyUm1PZkE5V3M0VGZWUm8?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Tue, 08 Sep 2026 19:05:00 GMT"
       },
       {
         "title": "Transfer rumors, news: Arsenal set for Rice talks to ward off Real Madrid interest",
@@ -1662,6 +1656,12 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1ZvQ295UEdnQ3pFTmdNUVBfYktwT2s3a0hjQ3M5Sjg4NG5qMnMtNGNkd1Z0ZDhXaXg2TkU0T0Vsb0hUMnYwMmxKRG5HRHhpSzYzaDhiVzNkby1fRFMyZVU2RmtyU3pmOXhfNXAtWkFmWldnRVQ3LVd3QkJhQ2RHOG9zb1ZyUVM0S200RUlreGtyV3ltTWVTd0sxMS0yVGhDTkJNeGdhel9yR3M?oc=5",
         "source": "The New York Times",
         "published": "Tue, 08 Sep 2026 15:41:47 GMT"
+      },
+      {
+        "title": "Arsenal announce signing of wonderkid striker who scored more than 40 goals last season",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjBLQ0tKYXhtMEwwd3ZVaVpxZ2IydXBhNGdrWlpoS0Z2elNKY09aRW5mc3hic2h5bHRUaDBhS29Bc2RKOEYwOHo1Z2p4eG1pb3JlS2JqT0JEelNhSnZiZTZCY0ZfaW9vOUZveG8tNDc5YnJ6VWJfb0xEcktPVTlxTWRqZEFhcE9HRDhZSUdkbEpSZmV3bUVWSjJva1FmaFNLMVNEc9IBqgFBVV95cUxPUEV6dlkwNVRRUVVyLWZaaGN0RndhU1loM3hDcnlVZWVhN3lUQXF5aWRhN0ZqcXgzOFFxMThrdTBtSGMyTkFoaFNpM3hUdmRDYW9xSEptTGpPNTB3OVBkTWRRWXNFT0htczFhb2d4WXFPeUI3Nm5tclBaTGdVTER2UEFUbVMyWGd1a3ZIUjdwV2xMZnZrN3BOZkU4Si1xemV1aG54TnF6MnprZw?oc=5",
+        "source": "Football London",
+        "published": "Tue, 08 Sep 2026 14:47:26 GMT"
       }
     ]
   },
