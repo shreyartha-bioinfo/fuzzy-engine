@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:22:57.203851+00:00",
+  "updated": "2026-09-16T00:35:39.680757+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "JJ Gabriel transfer news: Man Utd's highly-rated teenage prospect asks to leave Old Trafford",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaE9jWlhjOG9zcGdXM2hGYUJEQ3otNmExdU9HWFFQNkh3QkhYYkVNYmlJVEVVUjBlMTd0aEhXdGFDUDl5UXRRVkc3VVZBdFNKWWRwc0hQV0U0QXVPalZ2bFBRZEpMMnl0NXNPT3hYa0Y4cGtpcnpzWmMwYkJLQU16SXJ5Rjlpa0xyT0dneHppM2lJcjFFNjl6aEgxdmlZbEptWUU3S0dvU1Y0OEJfNVVLYmtidmNwYWxzNno0VkVjLXRCZUpLSTdzQ3lsaGNWTWRXWUp5cTNqT1pWUkpIdFY1U0w0MnlEU1I4ckE?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 15 Sep 2026 13:55:55 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Arsenal deal very close; Man Utd get Kane decision",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDVJUGFjQkRRRDN4T0xoSVlMLW1XY2ROUmw4VW52WXZQV2tkUlhpWDAtd1VxbHBIcU14bENiWEZVWnpmZkVWTmJZdDlFTDZYTk1iYUlOU1gtVU5fZmJxaFRIRVBLRVNpeG5NZng0a01rRG1sWnpFUjhyTDZIV0oyVGloSlMwQU5nVGtXT3g0dU1lOWp3a3VLRXRHSjlLdXlTVFRrX1lRdnpvMDE4UnJmQlBVTTlzRW8?oc=5",
         "source": "London Evening Standard",
-        "published": "Tue, 15 Sep 2026 06:21:38 GMT"
+        "published": "Tue, 15 Sep 2026 12:21:38 GMT"
+      },
+      {
+        "title": "Sources: JJ Gabriel Considering Offer From New Club Amid Man Utd Transfer Request",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcHBhMWFhV2ZKM3ctZGVOWHJPeDV3aFEyMWY5MWJPN1ZtdFU3bzNaekVKQ1g5aTJSVjNxazM0UU0wUEhXYzBRRW1WV0J6Ulh1djZRemVsc3YwWlRJRnFVeHpwS2ZkVkliWDdrZFk1WjBINjk1V2JXQS1ieHdZai1vZTV3NGx1RzNjZ1dDZnJLamdUWjBXWkZadFBXX3lDWWczTE5QdGJFQ3Y3eEh1Ry1qdG12eVAwVGxNUzhIekozd0RJcElYV0tlMHlkbTRlZlF1YnpMOWZZT01zSUltNElmakZhMXRodklET0E?oc=5",
+        "source": "roundtable.io",
+        "published": "Tue, 15 Sep 2026 15:27:19 GMT"
       },
       {
         "title": "Transfer rumors, news: Man United, Bruno Fernandes contract talks stall",
@@ -1558,7 +1558,7 @@
       {
         "title": "Michael Owen tells Man Utd to 'move heaven and earth' to keep star as contract talks stall",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXVDT2tLR0ZCcjdtcVJOLVNSV2gwdGswc193OEY4SndrNHBrZ3l4RUZ2Q0pjRVN6ZjVFYXlsQllhLVVRaFgyRjNTNmtkSFVIT1hrWnZ3blFhREtKMlFCWUl1Q0lfUElMUWRVcjdObFVnd0Z5UHc1SWVMMXJsaDBxcjBXWHhYY0MxUXl3TDFRMUN5RjU1cDhDOXdwbEdxUW9XYUVJWV9tTXU3MDdXRUd4SjFzOHp3TVXSAbwBQVVfeXFMT0JDX0Z2dmlXVVdnb2xQbGdjRWdvVlItNkN1UktjX3V2d29xZFFTMi1PYzRTN3EyRUlzT3JhSzJqXzY0NE5jczhjQzEyNGdoQmkzclBxMTktSnQwWlBTSFZyRnJhM0RrNWtLWDR4eVNMWWtnYUZReUh3QjE4MWZYZzRqcW40cnVsVDlnb0p3SzdNRlRIVHUtSWxaa2wzZEtEZ1lva191VUp3RlBZb0JTZzNkRDV5bnJnX1A4aGE?oc=5",
-        "source": "metro.co.uk",
+        "source": "Metro.co.uk",
         "published": "Tue, 15 Sep 2026 07:00:00 GMT"
       },
       {
@@ -1573,31 +1573,31 @@
         "title": "Transfer grades: Not sure if Real Madrid and Barcelona got better",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1NqbUM0Wk1xdzhxVzdtOXh3ZEh3dmJTc0hjYnhmeEhJcjVDdHV6dkRNUnZNMGR0clU5YjVXRG1BbGJKQ0xJZkJLWGs2RnpOQW5tQ3dIMTdLVzZyT1c4Qk9abjF2aW1EQVJpcGU1emhDNXlySXQ5dWRKR0N0ZWtMLXBBVWw0WDZVbExLLUkyOEdnZS12bWJQTHVQY3pXSWc?oc=5",
         "source": "The Transfer Flow",
-        "published": "Tue, 15 Sep 2026 14:38:43 GMT"
-      },
-      {
-        "title": "Arsenal star ‘is going to’ join Real Madrid in January transfer window – journalist",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUZtRUJqQmZHMkxHZzFhQnh1eHU0WEVQSHhGSElqV0U3R0xqbUpSc1JDV1lKbFhrUkFpTldGZnJlenJISnJOX3dldzE0QU9MSUNHaW4wcW9WS1IwMkhnMXo2aGVHdXZOT0RmYmctSFJOUkFiWVg1eHpzNDIzSWZoekVrMEFZeXRZZHhNRTB2VDFhMUc2UGhBa3FqSi02T2p0Y3BZak9tSnNEeVdNd2w5VzBR?oc=5",
-        "source": "TEAMtalk",
-        "published": "Mon, 14 Sep 2026 16:17:13 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Real Madrid Consider Zubimendi; Chelsea Decide Estevao Future",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3Q2cVF5d1Q1amtHMUhESlNLRExreUNLaWJQanhwVE9USnZBWENzT1VkTFZhNHpoU0loaGVmMXBLbl9PaThHaUFzRjRVNE8zSWd6RkRuajhzTWZvN3IwRjk0NmpSY21xcW5fVENNdk9Ba3N0Yl9KU2E0R0FpbDd3djhkbWRRcFdSZTlOWTRRZEZHcTgtdDRsbkF2dw?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 12 Sep 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Real Madrid make Martin Zubimendi transfer decision after Rodri mistake",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUtNTmdldXpZWC1vLS1kLU5NYmxwRi14SkxkY2dUendyZmNmSEpZRTBLX29UZDhzRmhQMndybmRrSEFrZXhEdklZX3AzUzRmOFMydTVqdjVsYnFwOFk5c0NBLTNvSlpjRjY4Y3lVd0pJbS02ZV9lTnV0WmNHY1JNQVpIa3hSNGdoWEpKUUhMX0pSUWZ3Z3F4cHNyemg2YUlUdHfSAacBQVVfeXFMTkEwMUIzSXl0RjNjWjFEQWg4T01HT0lwWlJGbF9fMllHVzBhYnRrSFVpY3pBaGNiTXF2Y0VMU2Z5RkttMjhnT0MyOElvM0FKN1R6Wk1ZS2QzVjBBQWtkSzdQNENaQkRzZEhJRy1WeGQzOWZ1V3Fmb25FQ1h4aGRzM1NYSTM3M2IwUFhvNUZ2VFpaLW0tbkhxY04xLTVZcjVtbUp6T2J4Zjg?oc=5",
-        "source": "Football London",
-        "published": "Sun, 13 Sep 2026 06:30:12 GMT"
+        "published": "Tue, 15 Sep 2026 14:39:01 GMT"
       },
       {
         "title": "Liverpool explode into race for £43m midfield talent also on radars of Bayern, Real Madrid",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdU5RUEo2Z2k5dDdfckwzUFo3ZVF0WEN6R0FZNi1TcVp4SzcyMXpJcF9najlFaTV4TmEyNldqRFhicHdGSHhLTGM1VDR2TnZpLU5sSVFKU0cwWFV4ckFRYXJVU0l1ZUlVQnFyRXFDYXotMVVxZTR5blYtNFZ2dWpPdFpITkpEWnVISVNyUVN6WTk2SW9PR0JNUXM2S1NKdW9HcXRlYU5PZw?oc=5",
         "source": "TEAMtalk",
         "published": "Mon, 14 Sep 2026 12:39:09 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Real Madrid Lure Man Utd Wonderkid; Alexander-Arnold’s Liverpool Return",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjhvcFBTY1AwOE5xeU51Q09ROERSTlpKWE9pTDUwWmllcVc2V1N3alJLcDMtUXI4WVJqdlVBS2swcEp0NHp0dHZheG9hUkxiWm1GeDdiYVE4OUU4MGt1U1FOWmlJWUo4QlpqTFFibjkwVlgtUzB2Uy1JN21sOXVTOE9HNkdpVmZZYkx4X0l6dTY1MlVXMndpcnJuV0FGQQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Tue, 15 Sep 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Barcelona blockbuster signing Rodri reveals private phone call with Real Madrid boss Jose Mourinho after rejecting Bernabeu transfer",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR3NiOXV1WXFScE9FUjlvQXYtTDcyc19rZXB4WTdZVkxjbDQzdmZQZUJNM0RkUW4tSGpacG0wbGliMEZEeHE5SUtWT0piNkd0SkxPQVUyTU1DX3labUl5VGNDd2F2N1A2UE00ZnhsdmdsSWN6ZUlKLVZMODc4bWlYU1VmVWNNQ2UwTjRRbmFGdlIyLTNBNDc0WVg2RFMwZTZTM0xYMzgyNThYbkpnUVE?oc=5",
+        "source": "Goal.com",
+        "published": "Tue, 15 Sep 2026 07:21:17 GMT"
+      },
+      {
+        "title": "Real Madrid make Martin Zubimendi transfer decision after Rodri mistake",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUtNTmdldXpZWC1vLS1kLU5NYmxwRi14SkxkY2dUendyZmNmSEpZRTBLX29UZDhzRmhQMndybmRrSEFrZXhEdklZX3AzUzRmOFMydTVqdjVsYnFwOFk5c0NBLTNvSlpjRjY4Y3lVd0pJbS02ZV9lTnV0WmNHY1JNQVpIa3hSNGdoWEpKUUhMX0pSUWZ3Z3F4cHNyemg2YUlUdHfSAacBQVVfeXFMTkEwMUIzSXl0RjNjWjFEQWg4T01HT0lwWlJGbF9fMllHVzBhYnRrSFVpY3pBaGNiTXF2Y0VMU2Z5RkttMjhnT0MyOElvM0FKN1R6Wk1ZS2QzVjBBQWtkSzdQNENaQkRzZEhJRy1WeGQzOWZ1V3Fmb25FQ1h4aGRzM1NYSTM3M2IwUFhvNUZ2VFpaLW0tbkhxY04xLTVZcjVtbUp6T2J4Zjg?oc=5",
+        "source": "Football London",
+        "published": "Sun, 13 Sep 2026 06:30:12 GMT"
       }
     ],
     "fcb": [
@@ -1637,7 +1637,7 @@
         "title": "Transfer news LIVE: Arsenal deal very close; Man Utd get Kane decision",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDVJUGFjQkRRRDN4T0xoSVlMLW1XY2ROUmw4VW52WXZQV2tkUlhpWDAtd1VxbHBIcU14bENiWEZVWnpmZkVWTmJZdDlFTDZYTk1iYUlOU1gtVU5fZmJxaFRIRVBLRVNpeG5NZng0a01rRG1sWnpFUjhyTDZIV0oyVGloSlMwQU5nVGtXT3g0dU1lOWp3a3VLRXRHSjlLdXlTVFRrX1lRdnpvMDE4UnJmQlBVTTlzRW8?oc=5",
         "source": "London Evening Standard",
-        "published": "Tue, 15 Sep 2026 06:21:38 GMT"
+        "published": "Tue, 15 Sep 2026 12:21:38 GMT"
       },
       {
         "title": "David Ornstein breaks silence on Arsenal's transfer pursuit of Rio Ngumoha",
@@ -1652,16 +1652,16 @@
         "published": "Mon, 14 Sep 2026 07:23:33 GMT"
       },
       {
+        "title": "Latest transfer news: JJ Gabriel asks to leave Man Utd as Barcelona consider Balde sale",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGNaWGpJRnFETzMtVGR5R2dyWXBYTHNUZWlnTVVVV05POUtaRnl0YjlNb1Myd1VPSDltWUZYM01FVVB2czZLdkZMekQ4Tmx4UHRqcW9kUUM5NGsxZklmTWE2MGxZa1B3c2xKZnJjeDFnOS11anRQWVltRmtXVWVKSFZOTGVIVkttcmlpa1l4c0twN2NuVU5LMzRCM0I1SnJFOTN3TWlrN0VVQzViLW5mbTFnT2RaLVpCLXpMRFFHVmZDdm1oU2dxS19ZSFRqZw?oc=5",
+        "source": "Transfermarkt",
+        "published": "Tue, 15 Sep 2026 19:35:18 GMT"
+      },
+      {
         "title": "Bradley Barcola: Arsenal transfer regret to a Liverpool flop in 158 minutes",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFoxNkFuLU9icTlXc3g3aXJ3emYyX1VQUUVZS2U5QmFEOUswem5TZkVnMC02Rm90b01wLVF5MXVzRjhLa3puelBhUnkxNlE5YUFia3pEajhrNE1MbEZXdUpLT3ZPM2MycUF2MU5QOGQwSDBZal9DYU4tU1c0MFR6TGhiZUJWYzI2OW1FcmlEVGhlRnFrSzZMN0xBMGdfb184?oc=5",
         "source": "Football365",
         "published": "Mon, 14 Sep 2026 18:38:25 GMT"
-      },
-      {
-        "title": "Arsenal set for chance to sign Man Utd's JJ Gabriel for free as Chelsea deal banned",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlFSUWtkV3lKNmhXQ3VWS3N4eE1VeWYwUm00SWFuSmd5UmZEcXVmUXp4dWZ1ajJRbFUxS18zLVZrWkJ3UHFBY1FWc1ZMWmxKUEJKX0czWFRock94ZjJMeFZCblcwVTZLN1Y1N0pxbXpETk1KSFRRQVgtRmtIRzhicEFjbkxONGFJa2o4UUF3bE5qLV95aFE2NFRoVdIBoAFBVV95cUxQU3lDam8tcEFLTWpTNVlDcVpmTEZXOWt4Z2ZjWnQ0SXNWNm1yZ0loN0pZZXhwMmdwcm05aUtSbU10VE0yeDdVc2ZkQ0VONzczcVdTSGJHV3o1TW9RQnVMUzlVMkt5em15bXlBTnlyb0NkU2g2TkJmTXMwOTJPbUFZOG9FN1ZNaFBJdnQ2WVEteG96b2xzSUZhdU5hVERkaUFU?oc=5",
-        "source": "Football London",
-        "published": "Tue, 15 Sep 2026 15:26:42 GMT"
       }
     ]
   },
