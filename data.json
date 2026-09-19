@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T07:26:06.971934+00:00",
+  "updated": "2026-09-19T11:59:06.784502+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,12 +1538,6 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Shock Arsenal twist, Alvarez update; Man Utd plan",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREcwRkliazBkZ3M5LWdBTDZYNDBSbTI1MUJtSzFOXy1DdXZVR1FXV0RrMFh5UmdYMVVWeVB4MENJemxtbVBVcm9LWFJ1SFktMmNMaTJfZEpQeGtnRzBQeWZMa0RXZlctUENXVFl4RC14RWFNY1RjRm9ZYXRIYzBLMkFpaDZfTWxjRmctczNTWlFFTzVyZTJmV3FDTzhFVGFfc0Q3R1RKLTNHOFF6b2FzQ04xNGhTYTJsRUw4Z0E0UjhsY29rRXFsRTVQZFI4Zk0?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 19 Sep 2026 06:43:31 GMT"
-      },
-      {
         "title": "Tyrell Malacia transfer news: Former Manchester United left-back joins FC Cincinnati",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UMWJxVXJHQXl6ZXByWjJqUEtkeS01Wlo3VDhlanRhdGprOXF4ZGN0OXdFbFA4dUVCZ0hxQWh4UHk2NmdVV3BOQ2lERnQybUowVW53UUZYSk5zMVlKZERLVThuOGZwRldX?oc=5",
         "source": "BBC",
@@ -1556,10 +1550,16 @@
         "published": "Fri, 18 Sep 2026 13:05:10 GMT"
       },
       {
-        "title": "Erik ten Hag's first signing at Man Utd finally joins new club after leaving for nothing",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDVnLVpjNGdaTG1naXZEQ2VBemJxSm4yUTNxcUROVjRhYXBBeTVLZm95NC1ramdaWGxrR2s3Q2VRV2dSdG1yaVNDYTQyYjgyQm5TT2xHRDZZcGtRNjZBRkN4dVdBMmExSFRvb0V6UGtIYjh2X21nX0lBdnRidFJWb24xdjlJSHRzUnFkRW9zM1VDaHFqVjdyS2RSLUZxVnfSAaQBQVVfeXFMT3FzdzJJLVM0SURTNDZLY043YXB4Q0E3SkpjeENJRGRUWG9UT1FLX1J0LVo0U3g0UUQxQldMelUxalJSc0R4MUNadDgwT0hrQ3N1SWdWYTM3Q0l4NjNoR21xa19MQ1VDV2tNZ3Q1WmtyVDRzNzBEY2lCYzRqSkNSVlNRZHNGS0IzdDFMVTJkQjJyeHB5YXUwb1dKSDJHd1ZYNXlLWm4?oc=5",
-        "source": "The Mirror",
-        "published": "Fri, 18 Sep 2026 18:29:00 GMT"
+        "title": "GOODBYE OLD TRAFFORD! Former Man Utd star Tyrell Malacia joins FC Cincinnati on free transfer after injury-hit spell in England",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVd2UFVHSnFUa0ZSM2N4ZU9oQm5MWjlXcWswb2VuYXU0N0hWNkh1aDJPTzdDZU9mcjgzSG1IWkh4bnF1OWdSTDYwWnA1MUxNTkJaWGgtMUZ1YzhONjhZVDRGMWt1MEVkVWViSGdfQ0k1bGxRUGZacl9RbmYtTy05VldXTTV4a2FPM2d6bV8wRXdaQW55RkljOTZYLXhPLWd3Ml9VUkxqX1EyLTlxVWlHS2c5M3VLSC1fWldjTUhNaUpveWF2NWdjWVV6cGNNdXc?oc=5",
+        "source": "Goal.com",
+        "published": "Fri, 18 Sep 2026 21:01:25 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Shock Arsenal twist, Alvarez update; Man Utd plan",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREcwRkliazBkZ3M5LWdBTDZYNDBSbTI1MUJtSzFOXy1DdXZVR1FXV0RrMFh5UmdYMVVWeVB4MENJemxtbVBVcm9LWFJ1SFktMmNMaTJfZEpQeGtnRzBQeWZMa0RXZlctUENXVFl4RC14RWFNY1RjRm9ZYXRIYzBLMkFpaDZfTWxjRmctczNTWlFFTzVyZTJmV3FDTzhFVGFfc0Q3R1RKLTNHOFF6b2FzQ04xNGhTYTJsRUw4Z0E0UjhsY29rRXFsRTVQZFI4Zk0?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 19 Sep 2026 06:52:02 GMT"
       },
       {
         "title": "Transfer Rumors: Man Utd Eye Record Raphinha Offer; Fresh Twist in Alvarez Saga",
@@ -1614,10 +1614,10 @@
         "published": "Fri, 18 Sep 2026 18:30:00 GMT"
       },
       {
-        "title": "Bayern Munich eye Florian Wirtz rescue mission as Michael Olise swap rumors swirl around Liverpool star",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY00zS21PUnotYmh1b20zV3pkUVQ0SWtMejJsa2FqaEhkdVRjS1oyMkU1eFVKaVNpVlNVLWJuSmFSX2xqMndZSG9tR2diT0syaGRWaTNCUFp2cFE3QlZBUnpKZDNwSnExYmx2SUtSSTFqM21aZXBEbHlaYTFCSmtzdGxmbWlNZ1l1XzZxV3llTE5fbWhQSUpBSVJvRmNMVUlHMjFnbUNTd1pGSUFheG00?oc=5",
-        "source": "Goal.com",
-        "published": "Fri, 18 Sep 2026 20:05:18 GMT"
+        "title": "Liverpool reach decision on selling Florian Wirtz to Bayern Munich in ‘shock’ transfer",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVGRXTk5Sc1JYd1NpMWNHeXlxaXhneFE2TlJDbU4zWDBUanRxeXRCcGlDWkxzbHpZaW9YOGotS01HTVFFOWFpbERJT2pEQW9QaW9vZjNYZG5vVWQ0ajZEVUpibWZEVk92S1F3cmxablBvSkd6dXVuWUo0NzZWVTVYTHZaRjdjc1dNdXBOSXNYSzdrQlRGZXFGTFV0RUtMSzM3ODhzMzVXczZRYVZvZm94UmY0NzBKT1RUcUpnenNXZHcwY1pPOHhON2hnY1NQZF90TU5sUkM4X0MtXzQwSlhwSkVoV1hiNHFzQUVz?oc=5",
+        "source": "LiveScore",
+        "published": "Sat, 19 Sep 2026 11:18:00 GMT"
       },
       {
         "title": "JJ Gabriel transfer news: Man Utd wonderkid attracting interest from Real Madrid, Barcelona, PSG, Bayern Munich and Premier League clubs",
@@ -1626,24 +1626,24 @@
         "published": "Thu, 17 Sep 2026 20:53:42 GMT"
       },
       {
-        "title": "Bayern Munich News: FC Bayern to ink Kim Min-jae to extension?",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVHg1REwtTUdpRDAxeDhVdVVaVnpsenR6b2dUTHNSclc5blZwcXFpY093RkZLVmRJUnFxTGlGRUhDMTVmMG5QZUZyVVByTzg0Q2tybDZ2TTVoTXZFMVlfeWpqdnBOZ1JHZGVSUXVXZlRfQ2p2V3lEb2UzRG9OZXRoSDhqTVB5NmZobUhyVE0xUVVuaW9wbDlMOWVIc1MydUIwTU5TUmdXbkpCWE8yYm5kN3JUN0xVVHFrbHZTRnYyem9PRlpZRzdQYzFrcWJCTWM2MmduMlJ3NW0yUjBuVTJpQmxtVGp6RmFY?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Fri, 18 Sep 2026 12:45:00 GMT"
+        "title": "Bayern Munich eye Florian Wirtz rescue mission as Michael Olise swap rumors swirl around Liverpool star",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY00zS21PUnotYmh1b20zV3pkUVQ0SWtMejJsa2FqaEhkdVRjS1oyMkU1eFVKaVNpVlNVLWJuSmFSX2xqMndZSG9tR2diT0syaGRWaTNCUFp2cFE3QlZBUnpKZDNwSnExYmx2SUtSSTFqM21aZXBEbHlaYTFCSmtzdGxmbWlNZ1l1XzZxV3llTE5fbWhQSUpBSVJvRmNMVUlHMjFnbUNTd1pGSUFheG00?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 19 Sep 2026 10:55:07 GMT"
       }
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Shock Arsenal twist, Alvarez update; Man Utd plan",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREcwRkliazBkZ3M5LWdBTDZYNDBSbTI1MUJtSzFOXy1DdXZVR1FXV0RrMFh5UmdYMVVWeVB4MENJemxtbVBVcm9LWFJ1SFktMmNMaTJfZEpQeGtnRzBQeWZMa0RXZlctUENXVFl4RC14RWFNY1RjRm9ZYXRIYzBLMkFpaDZfTWxjRmctczNTWlFFTzVyZTJmV3FDTzhFVGFfc0Q3R1RKLTNHOFF6b2FzQ04xNGhTYTJsRUw4Z0E0UjhsY29rRXFsRTVQZFI4Zk0?oc=5",
-        "source": "London Evening Standard",
-        "published": "Sat, 19 Sep 2026 06:43:31 GMT"
+        "title": "“We know…” – Manager speaks out on future of “highly talented” Arsenal transfer target",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaG03OWlxd2hwa0IyWVdLUWxneE5RMTBIdjRqVWVzNE1fd1gtZkdOaTdWNmVDSFpNR19WSkZuZEV1eUd5cmgzMm5TS1gzb0QzMkpBXy1BUWhXWlh5UjBmTFRhWTJackVYREhseWZFNFJkS28xcFdBY0ZIT0MwNFJBRVE1NkJFeV9aRWlGclh6TVZLSHhNY0loMER3YUw4UXZQUERrTG1wYmdNa1BJYTVXVEhEd296bWZLWEJQN0ZmbzB6bXFod3NOTWQ4YXZHdThKSVJpY2plY0lVSHFub1BDUkltMER2STg?oc=5",
+        "source": "LiveScore",
+        "published": "Sat, 19 Sep 2026 10:23:09 GMT"
       },
       {
-        "title": "Mykhailo Mudryk preferred Arsenal move before £88m Chelsea transfer - Paper Talk",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTZmSTFsWWVURlJBS0l5a0ZpZnc5YURpbFZLaXJhNFhXWTJJQ0RYRWhsTWZzU1ZYZTcwNU1fRGt2X2pWYUQwNTFBYTdiYlBKUDBnR3NJclhDMWEtUl9TeUh3STgxcjF1U2FhcFNQS0hoWHZ0ZWFjREJBTXZKaW1MdmZEMG0wdjJxWkpMRU9STmdEUGRTSUZPaHY4cHJGLTJjdGsxcTdqZWpUeGl0YWZ1X1poZS1iVTVUWUpwSGJ4Mi1ZbDkyd3VYanhvZFhtOVE?oc=5",
-        "source": "Sky Sports",
-        "published": "Fri, 18 Sep 2026 22:56:41 GMT"
+        "title": "Transfer rumors, news: Arsenal's Madueke eyed by Premier League rivals",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3JIcm1kNjM0TUlSNEdBYjRfZUNGa09MSlBqaFpfaDdwajhFdm5JQVpGbUk1MmhydkxON2JocTlHc3lram9USFllc3otVkZpNVRGaDZBQW5NREVIWEdoY29xMTBselBlS0FyTHJPR1lNY0xrN2pVYVM3RzNYWTdXZ1czOUYxMENpSWtGdGdQN2NiZnBlTnV1VlZkZG5WYVBGYzdPVFBoOTVQLVVlME10ODRMVFNDYm8?oc=5",
+        "source": "ESPN",
+        "published": "Wed, 16 Sep 2026 08:43:29 GMT"
       },
       {
         "title": "Arsenal handed January transfer message as Mikel Arteta plans to reignite dream forward chase",
@@ -1652,16 +1652,16 @@
         "published": "Fri, 18 Sep 2026 09:37:42 GMT"
       },
       {
-        "title": "Mykhailo Mudryk wanted to join Arsenal but was forced into £88m Chelsea transfer, says Shakhtar director of football",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemM2UThiX2l3bHNNTlRZUDJ4Q0s0cERmQTdjYy16MEg5aUhwT1U1cFVZNmhYTUFQeGU1Tmd3UzlnSFBhNnFuMVdNbGwydGNZLXBldnRsa1lBd3lvaC1YUmNhMlZ3RXFidkVnLUxTQ1hlaHp6Vk5ERW85aEpYVThmeV85Qlk0NzdLb3hJLTZ2RUhLbnNBc1NtSW83NUo?oc=5",
-        "source": "The Sun",
-        "published": "Fri, 18 Sep 2026 14:44:00 GMT"
+        "title": "Arsenal set for transfer windfall as Monaco confirm Balogun plan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm9LWVFlSHJqV1VOLURQVVlORklaZXdCcXIxelRSTDRBbG92VWdhTXRxLVpFYjFiUWlIWDZ4MGNORW15NUhqc2U0M0x0ZWtPVjBwYnVoNDJCU1hHT01vM1pZZ2VJVjB3eE44OURoOWVEcGVtbEFkS2lHbUVDaXlGQUt1TmEyVG9uaDRaVnJieGFHRUN0Zk1XMkJUMnhsUUFs?oc=5",
+        "source": "London Evening Standard",
+        "published": "Fri, 18 Sep 2026 23:34:20 GMT"
       },
       {
-        "title": "Fabrizio Romano confirms Arsenal transfer plans for Real Madrid star",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQldCNDRUdnpzUmZSbTgweVQ2LU02TkhoLUZydkRISjNYVkhZVzl4b2FQc3NkYkxHbnQ1a3JsZVpoY0JoYnFiODloQW9BYTVoQVBEbHBuMWU5SHZrdEFBWmZJRm5vVzNDYjJiNUdzb1diNW9rb1F1eW5kSnF2OFk0OTZDZUxEdHdoXzQxOE5Fcm94NGNy?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 18 Sep 2026 19:45:00 GMT"
+        "title": "Fresh twist in Julian Alvarez transfer saga! Atletico star 'set to change agent' with Arsenal and Barcelona still keen",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc25Db2kzT05tUTJwNW8yMVhCTmQycDd1RkI3bkNqRjNYTVBJTmMzejVZTm5HbVB2LU1QX3kweXk2Z1BORFhfWXMtT1Q5WllrZDNsNU1CcTBjTGdjM1N1cERnYnV3UUMwMS1JMDVDM05naU1RM0pYMzZZV0lJMHloT2RVTEtHVlN2aFZhMjlHV05fSHMtU2owS3REWWpORU5YY0xQLXJ3LWVaRy1OSUlMWGVIbktHOV9SVUE?oc=5",
+        "source": "Goal.com",
+        "published": "Fri, 18 Sep 2026 18:30:53 GMT"
       }
     ]
   },
