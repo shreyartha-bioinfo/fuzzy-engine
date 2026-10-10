@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:31:52.343671+00:00",
+  "updated": "2026-10-10T20:53:02.478552+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,22 +1538,16 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man Utd files: Red Devils could make big change to January transfer approach",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQU3FXYzFCV3d4RUpfVHJPbDFVNDJlUHVxaE8tQk1jd05GcXZNOWZHd2NLOXNyOEQ2a0xpU1VmYVVFdks3eG5DM0ctdkFIZEtGalFqNXJuNlFKUGM3eGRTejhWc2s3N0M3Y3NkQjRJQ09ILUJtYmlSMQ?oc=5",
-        "source": "The Sun",
-        "published": "Fri, 09 Oct 2026 15:55:00 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Alvarez wants Arsenal, Haaland twist; Man Utd move",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlNHT1p3elpyTGdxejJVQ2tPam9sdWhlQnVmaF94WjlEQkgyZDFxdjlnWVhvT0g1cXU3OXBnYVlnOHFlemtSaU4wUURKTFNaWWdsdW5ma280TURJaTJ5ZDVxTzJGMkQ4YXdIVUFQU0R3MGpxaXFRd3NKY3psXzJXWnpDMEE3Rk9qY0dfNGc5cElSMlhMeTA5aGZnU1RFZ1BMZlRJR1ZZZFhLaXphM01nUHlma2JEaWVDbVE3LWVQMGpGOElwemRSLWxwbEs?oc=5",
-        "source": "London Evening Standard",
-        "published": "Thu, 08 Oct 2026 19:35:04 GMT"
-      },
-      {
         "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQl9JelFpcG9sLS03VVltUE0yZTVtc003dk9nUWxyLUxJaW85VlNiWWl5U1BMSzhXN3E1SFpXQktkdnlfV1JhLVJqYU9lMWZDdlA2T0xqTFhiVTN3bnJIdy0tOENDd2VvVXp3UnExT1RHcGxsNFZOWXNYX2h0TWVsWVA3dFJCVklnRmpFZXBZaHRaaHM0MVNtZC1KUk95WlY2Z1dJTVlyZXRLOGprZ1UtMXlaXzEzdGwtVXpDQlYwWnBIVUhfVnc?oc=5",
         "source": "ESPN",
         "published": "Sat, 10 Oct 2026 08:38:25 GMT"
+      },
+      {
+        "title": "Manchester United vs Tottenham: Different summer transfer strategies collide on Saturday at Old Trafford",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWVwZDhBNHVWWkE1Q05vTU5VeU5aTXJiYjluNUh0RlBUVE9DUUVJRG1lUWlxd3k5LWloZGlaXzdzVWdBWV9nc2RWdmhUZUZaeEtFaldVTS1zVXNSRlJPd1Qxd1dXVG54QTlCb2FQeFlocnEtbVZDQkNJTFgzT0xpQm5hSjhyOXRJWGFtV21ab3F5aXlqOTlHdHNlVUVfMG10ZkZ2TFpkZmNMOXJfQVU5emdjcm14VFJ5cGlqbE1pZ3dRZkhhcXB1QTRnQ2cyeG1mOFl4S3JIQ0twNkpHTlFKd2RtWDlUcVE?oc=5",
+        "source": "Sky Sports",
+        "published": "Sat, 10 Oct 2026 18:12:09 GMT"
       },
       {
         "title": "Transfer Rumors: Liverpool Handed Olise Boost; Man Utd Battle Real Madrid for McTominay",
@@ -1562,10 +1556,16 @@
         "published": "Fri, 09 Oct 2026 23:05:00 GMT"
       },
       {
-        "title": "Man Utd on high alert as Bayern Munich set asking price for Alphonso Davies",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHdpMlFmVzF0dGJ0TEZHUzEtWjVRa3h6Y1VFak4zLTRKZHUwc3oyZTROcWk1YTR1S055cDBMeUZwOW5TY3kwblJCUXl5M2F6b0lXeEVSYU16a2owei14MHR1Q19pVm1RWUV0SzBWMVM2NDVwWDB6V1JJZWppYlc1djNlQ3NySU9TbVNkNkRpaFdoSEpibXdvd3hlb0l0M2VoTmN0RlFBMGJ2OGVLNFIwUDBKS0g?oc=5",
-        "source": "Goal.com",
-        "published": "Sat, 10 Oct 2026 08:52:25 GMT"
+        "title": "Man Utd files: Red Devils could make big change to January transfer approach",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQU3FXYzFCV3d4RUpfVHJPbDFVNDJlUHVxaE8tQk1jd05GcXZNOWZHd2NLOXNyOEQ2a0xpU1VmYVVFdks3eG5DM0ctdkFIZEtGalFqNXJuNlFKUGM3eGRTejhWc2s3N0M3Y3NkQjRJQ09ILUJtYmlSMQ?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 09 Oct 2026 15:55:00 GMT"
+      },
+      {
+        "title": "Man Utd in dreamland as €10m exit 'plans initiated’ for ‘worst buy in history’",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2FVZnlHckFQdkpSelhrcVNWbXJqaGRHaldqZ1drd1BzejRBajdZOEk5WEg4SUs0Z2hhOW5Xb2pMa2c5anU4YXUxSU1hRzFoTW81UDFMa1RIdFI0a04wODJaT0tnOG0ydFE1NGk1V1puNXBtOG84VHpYSWdiZjBOQ0JhYUxtbzhtRVF4R3BVZmxWanFmQjhnbm5KRlB4cHBM?oc=5",
+        "source": "TEAMtalk",
+        "published": "Fri, 09 Oct 2026 19:54:53 GMT"
       }
     ],
     "rm": [
@@ -1573,7 +1573,7 @@
         "title": "Why Arsenal star turned down Real Madrid in £32m summer transfer",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGpPZ25HWWZKbGstRHBzOWlnVlNhaWRyc1V2Z1E2dU1taFFISVZ6NExXVy1Qa2NQVEsteVN5UVJibldDLUM3c04xNHJ6SDUwMllxRWRULW9ELWsyVXNmcHNoWDVyQU92OGdrS3JkLUZTeGt0ZXJwbmRrRVo1Uk1IY010cEhHcExIbWdaSUtoMHVlYVlvYWNuTW83WGQzQ3FE?oc=5",
         "source": "London Evening Standard",
-        "published": "Fri, 09 Oct 2026 21:07:01 GMT"
+        "published": "Sat, 10 Oct 2026 17:40:19 GMT"
       },
       {
         "title": "Transfer Rumors: Real Madrid Want Mbappe Sale; European Giant Rules Out Haaland",
@@ -1582,22 +1582,22 @@
         "published": "Thu, 08 Oct 2026 23:05:00 GMT"
       },
       {
-        "title": "Transfer rumors, news: Real Madrid eye McTominay as Napoli talks stall",
+        "title": "Kylian Mbappe to Liverpool 'possible' as Real Madrid star 'not well' at current club",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdfYmpPd1lpYVdWM2xacjBmM0RvMnRzZWhrRVZxMml4WjlOTEtUQ2VYeWk2c0N3STFEWXBkbThsN092SlhFR1REdFRzdkpPcWNtN19HVnZhWGVOSFQtVHUxNmxpUlJITW5abVphV3FmUEZnRU9EaGpNeXA5SUpid0I3UWFER0pfTHB3SWIwOVZvbzlwWl91eUk5c01IZm1qd3h6c2NvYlJrOElz0gGyAUFVX3lxTE50a2pBaDdHdWM3NnVSRVVHRlp2X05MNEF5TWdFbEZGSmtKSm56bHVocllabkNHc1JpcE0yR1VsbVltb24yOGxSRm9BRUJFTnBUc21rZGRkSUlSdVlPSm12cnZJalJEN0RNbWo0SF9RanJHaGtud195al9WUTZROEg1SHlUTWpRN1c3UDl3UHFqQ1VfblFUYlE1V2VOVFVkQ05YeHlYUlgxTndCM0JGR0lXbmc?oc=5",
+        "source": "Liverpool.com",
+        "published": "Sat, 10 Oct 2026 10:44:46 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Mbappe’s Premier League Move; Ballon d’Or Winner Eyes Real Madrid",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXzdkMDJaaTBMaGp3RHZjbVktNXlvNW55RW9YVHIzZF9CWUdSTFpOcjJCWFB0MlJPa2NCcmIzMkQ3bFlDTkJRR3dXb0RjNGJyY0hMdU83RzdXNGlLNWR5VFVkZHp2NkNwUFNhV3cyenVyci1iZk44WjRaQWxwTy1vUVR3d1dMbzJWUktFbEJ3RjRldFJGMGJRQWxWRjgteWM?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 07 Oct 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlQwMlpERFd1N1UwU0tVOTZORFhiUUhKMnhHYmprU04xU0NCWFBDaGxhVFJfVnJpNjNEdS1nN1o2bjJMc2VTTmZ4LUpoZnE3bmR3b1UyRldGWngyUFNUOUNwVEh4RUJlNUhDRFhKZ2F6dzFFS24ycWtLbGNZT1A4bXhTaWNmZ2xZd1gycllEVGFKS2Q5VnBTQ054OUNiMkl6LThLYko1UFc3MTFoLWJHMW1NWQ?oc=5",
         "source": "ESPN",
-        "published": "Fri, 09 Oct 2026 15:06:00 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Liverpool Handed Olise Boost; Man Utd Battle Real Madrid for McTominay",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnlSSDBPTDhDQVl3MnZYUnF6S0RnZEhnX1FUQUFLcTBjUnFpeUNYQ0FLejBUUDN3cWg0RVVYYXRhRVRRbWI2Slc3d3FINjZWSFdfcFpxVzg2VjQ1anpGWjdpTzRVZFQwUU4zWVpxUnc5bGQ3RzNDMHpPbTBqb3FvbGZnM0Y2ZzJNNXJLd3pIeXdOX1JyMlpoMXpVQXZRNHdWc0E?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Fri, 09 Oct 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Football gossip: McTominay, Olise, Gabriel, De Jong, Quansah, Woltemade",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lRUxzQlFBSDc3UmlhZ21pUmRfNzdQelltbG9ZNkZ3UDlnbmVKdUJYeENKdnFXODR1bEx1cEtBTzczZnhzYkdGSHN6aExSMG5FaE5EN1RFeTNaN3JuX3RVd01jTjQzNHhL?oc=5",
-        "source": "BBC",
-        "published": "Thu, 08 Oct 2026 21:10:23 GMT"
+        "published": "Fri, 09 Oct 2026 21:34:00 GMT"
       }
     ],
     "fcb": [
@@ -1617,7 +1617,7 @@
         "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQl9JelFpcG9sLS03VVltUE0yZTVtc003dk9nUWxyLUxJaW85VlNiWWl5U1BMSzhXN3E1SFpXQktkdnlfV1JhLVJqYU9lMWZDdlA2T0xqTFhiVTN3bnJIdy0tOENDd2VvVXp3UnExT1RHcGxsNFZOWXNYX2h0TWVsWVA3dFJCVklnRmpFZXBZaHRaaHM0MVNtZC1KUk95WlY2Z1dJTVlyZXRLOGprZ1UtMXlaXzEzdGwtVXpDQlYwWnBIVUhfVnc?oc=5",
         "source": "ESPN",
-        "published": "Sat, 10 Oct 2026 08:46:15 GMT"
+        "published": "Sat, 10 Oct 2026 08:38:25 GMT"
       },
       {
         "title": "Transfer news LIVE: Bayern release Harry Kane contract statement as Milan want Endrick",
@@ -1634,10 +1634,10 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Arsenal get Alvarez boost; Liverpool target Mbappe",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTBWM2xEcGJsQ1QzU196ejdMNl93Q3E3Vm16OUNjOWhaUU5sVFVxWnRUejZQN2dZVFBZQ0RMbm0xYWVUR0FWVEE1UWdNQWtVNy1abWlIUFZrY0FFcXZDWHJEeWxLSXhOMHFEUjBpQVVuT3ByaS13R1N5OXZBVWhZS3phTHhQa1hGMS05OE02Ymp5c3JqYng5V3BRMDBPZjZ1ZHllOEVtakcxMlJYZ1VnQWVQSHU1TTR4eC12SVRuTnp6ZUox?oc=5",
+        "title": "Transfer news LIVE: Alvarez wants Arsenal, Haaland twist; Man Utd move",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlNHT1p3elpyTGdxejJVQ2tPam9sdWhlQnVmaF94WjlEQkgyZDFxdjlnWVhvT0g1cXU3OXBnYVlnOHFlemtSaU4wUURKTFNaWWdsdW5ma280TURJaTJ5ZDVxTzJGMkQ4YXdIVUFQU0R3MGpxaXFRd3NKY3psXzJXWnpDMEE3Rk9qY0dfNGc5cElSMlhMeTA5aGZnU1RFZ1BMZlRJR1ZZZFhLaXphM01nUHlma2JEaWVDbVE3LWVQMGpGOElwemRSLWxwbEs?oc=5",
         "source": "London Evening Standard",
-        "published": "Fri, 09 Oct 2026 20:49:44 GMT"
+        "published": "Thu, 08 Oct 2026 19:35:04 GMT"
       },
       {
         "title": "Real Madrid handed potential transfer boost as Arsenal midfielder considering January exit",
@@ -1646,22 +1646,22 @@
         "published": "Fri, 09 Oct 2026 07:55:00 GMT"
       },
       {
-        "title": "Arsenal news: Mikel Arteta set for transfer windfall as Mikel Arteta discovers £85million price tag",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0FwTlYtYXRlczl6VjdRZzVZeTk1VTFEeklSZGtQNmJKVHdPTjRTZF9wTThvV1ZqcjlnMW1lLXlQUm5leUo3MmZnalpHVjA5ZFFUU1luMlZSem4zSkY0TjlxellqMDZTN3l5RUptZU5mWktSbjU2UTlxMVk1QTB3VGNQazJGSFU1WnVPUW5qUjY1bjgxdWJQT9IBngFBVV95cUxOSlBVQmpuYnVyMUlzODBpSmdGbmx6V2NKOFhJdlFveThnNHhOdmNyT012VkdtOV9CVW1laUVSd1lXaXBzQ3lXbV96SGVHNmNLRENOT0NXMjZfR0Q4ZmNQMnNVcGtxYnJMc1VyT2VQbkNBd0J3UXdicHFRREZ1SGY1YmJ4RTQtS1dVQzQybzV3Wm9vSEZhQy1JVmZtclZtQQ?oc=5",
-        "source": "The Mirror",
-        "published": "Sat, 10 Oct 2026 05:14:00 GMT"
+        "title": "Why Arsenal star turned down Real Madrid in £32m summer transfer",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGpPZ25HWWZKbGstRHBzOWlnVlNhaWRyc1V2Z1E2dU1taFFISVZ6NExXVy1Qa2NQVEsteVN5UVJibldDLUM3c04xNHJ6SDUwMllxRWRULW9ELWsyVXNmcHNoWDVyQU92OGdrS3JkLUZTeGt0ZXJwbmRrRVo1Uk1IY010cEhHcExIbWdaSUtoMHVlYVlvYWNuTW83WGQzQ3FE?oc=5",
+        "source": "London Evening Standard",
+        "published": "Sat, 10 Oct 2026 17:40:19 GMT"
       },
       {
-        "title": "Arsenal make offer for 'next Iniesta' just hours before Leeds clash",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFlQaDV0cTNXYV9WdElDWm9sRFBtRGpaQ3RVYXJ3djE3cGJ6QVQ2cVdBaVMzR0FzWTQ3b0JVenVXNWlucWItcUZveXBwVmFjb1JkZ0wydkhlQTRFWkFKdXNoRHFBR3NYT2JwQ2hLUGprREZMNWk4dEFXT1VLVE0tX0NxMEhqTEk5VU85eElpdjR1VDZUX0dfa2xOSjlHbzg1U05GRzFpUW8?oc=5",
-        "source": "SPORTbible",
-        "published": "Sat, 10 Oct 2026 16:02:40 GMT"
+        "title": "Julian Alvarez transfer news: Arsenal, Barcelona or Atletico Madrid stay for striker?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lNmZ3TzNIbmc4SFRxZUQ3bWpCN2xzbklvV09iaWpaVXdPX2x0eWVGdEhhWThIWkozNU51Vlp0UnlTSllXbWdnZ05GWGlWZGxmdzFhM293ekJFRTloXzV5N2lwQk5ObUU?oc=5",
+        "source": "BBC",
+        "published": "Mon, 24 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Arsenal latest: Mikel Arteta set for cash boost as Gunners discover striker's price tag",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXV5ZVk4cWZFWFd4bkoxcVMtS1ZOc01DYXBZTjZmUWJzQWRvTlFXQ1RzYlFFdlpfQU9pRDdKZnVNMGZqa0RhRlNBcmFNc1dJVmJER1U3TFIxXzFSLW5PZTJxSmIzOUxjUGlSanZNZDg5S212M3BGQ2FENHNPa3phU2VmWUI4TFB3WU5zQXhVN013MEhteWZR0gGcAUFVX3lxTE9wb1YxMFJuVkMwTlg5RmlWZndPWmcwMF9XZzQyb2c3cDRSVDBhM0Y1aDdoN00xRmVPMlZZb09iN1NtUVZWVEZqLUFadjZweUVkNFcxOEFMQThGTUlUb1VyRk5DbVhxcWY2VmdiVWl0em93ZUhJaTlEXy1haklsNmg3ZnRZOE5la3dpY0tjcTdpQ054Y05XM2J1OGlZRQ?oc=5",
-        "source": "Football London",
-        "published": "Sat, 10 Oct 2026 04:10:03 GMT"
+        "title": "Arsenal transfer news: Mikel Arteta ready to make £130m push for Julian Alvarez as Gabriel Martinelli nears Saudi move - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGhxU21EaW02Y0Z0TDJIYUU3Rkw5eVR0YWVORFdNdWVacHVwTHJkZml5OWJLRUVIVHBTSF9WMXlEOXdSSDdLUXJqbnI2eXZOVC1MOWJLcUo1QTNjZHYxQWxCTm9nNlFVSDVRVEdXOXMyaWZOdTRoeGY2d0pOOFlMM1V6ZHQ4UQ?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 25 Aug 2026 07:00:00 GMT"
       }
     ]
   },
