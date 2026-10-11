@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T20:28:19.668137+00:00",
+  "updated": "2026-10-11T23:49:57.307864+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal triple deal, Haaland twist; Man Utd windfall",
+        "title": "Transfer news LIVE: Arsenal triple deal close, Haaland twist; Man Utd windfall; Chelsea, Liverpool latest",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmJqXzJ3a3BXclUyY2lGLXpkQkFiRUlLWm1VVFEtc2JDTFE3cGhIaS0xam9zS1Vfd0ZRVW9hc2h4VkFoOEFaY3RxbkE3b3pyYzRiOG44SHpOa1FlOUdaamo2RllpQUFYSTc5M05feDZvOFBBWE9uSE9LQWJOcmhMdWo5V3JUWWp0VUV4MkFEME8xVV9fZ05kV3FyVXNWblBHRmtEbFEtYWw1dDlWVUJ5TU80WjRUOGx4czlGaVlNR0c4X2dGcWtCNEhmTms?oc=5",
         "source": "London Evening Standard",
         "published": "Sun, 11 Oct 2026 09:59:21 GMT"
-      },
-      {
-        "title": "INEOS transfer strategy blamed for Man United’s poor start",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTB2VEdXNGtuamQwNjRxV0otcTZNVi1SQmR1S25zOTNCTGMybVdEYWN2ZWE2eUF3RzhWXzJqeEdSZG90MDVLSXBxZ296LWRWa21sN1htcXdmQ0VuRGplM212TVFGVWt1bkgwbkhhTThGUTBmMVRlZDcycVJvZklITFJQVzFlV1NpV1B0dlVsRURNb2NvNWQ5ODJUUjZHRFQ5ME9FZmRTc0Q?oc=5",
-        "source": "The Peoples Person",
-        "published": "Sun, 11 Oct 2026 18:30:09 GMT"
       },
       {
         "title": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
@@ -1560,6 +1554,12 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYi01N1hKVzN0a2dncTY2TUt4dW8yX1d2WTJFeUdWQUdHUDI1ZHBMZ29hajFSalpYbWNCQkhhb3pDTExTanVtdnJQODlEVXJTRlNxUmRFQ1dKTm02ZUdWN0tfRWV1LWdicjhROUZCRXkxUEFsYXBjd2lfTmhqcTU5OTJvS1FBaS1FVzFUZkt5OHJjeG9FaUgyVDdCazIyUQ?oc=5",
         "source": "Sports Illustrated",
         "published": "Sat, 10 Oct 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Man Utd could accept ‘big fee’ for ‘very good player’ in January in shock transfer",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1pLY1BiRF83N19yTEF4eW1wUHNhR3plMkNTWDNSc3FkVlZVbjU0SEdwRlc5SkhUS0hyLUtxdGRCRnVDMkpvWC1HdGVIc2xRZk4xQVlWM1NIdnVBOVBIcm5YM0dLUXgxQmU5WkpNbm56cmN4ZlJCcDFKZFVlN2R5WnBLSVo3UTVrTXNZ?oc=5",
+        "source": "Football365",
+        "published": "Sun, 11 Oct 2026 16:53:44 GMT"
       },
       {
         "title": "Transfer news LIVE: Bayern release Harry Kane contract statement as Milan want Endrick",
@@ -1582,6 +1582,12 @@
         "published": "Fri, 09 Oct 2026 05:22:03 GMT"
       },
       {
+        "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlQwMlpERFd1N1UwU0tVOTZORFhiUUhKMnhHYmprU04xU0NCWFBDaGxhVFJfVnJpNjNEdS1nN1o2bjJMc2VTTmZ4LUpoZnE3bmR3b1UyRldGWngyUFNUOUNwVEh4RUJlNUhDRFhKZ2F6dzFFS24ycWtLbGNZT1A4bXhTaWNmZ2xZd1gycllEVGFKS2Q5VnBTQ054OUNiMkl6LThLYko1UFc3MTFoLWJHMW1NWQ?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 09 Oct 2026 21:34:00 GMT"
+      },
+      {
         "title": "Transfer news LIVE: Bayern release Harry Kane contract statement as Milan want Endrick",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSktGTXlLZHZwYklIQ1VpTXp2ZFZMU2Y0TVZmX19wZ1hlN09CSDlBblFld0tUUzN6c0VycGZwY2toSllHVlhXRUJXOWRnTU01NEd2ZnJSTUo1YnExNDhwazM3ZkZ1NHdiSHlxbWhTUFNDcVlJZlFCRFk0MGNfY0swSEYwV1FNbk1uU01IUUl1SzJBZjFxeV95WlpsUVF0NURPT2hJaU9GMGFjUkVkS3FIc0syNXQyellDbWVqZjZ3MXB6cGpocXpxWTZCMUplS2hLWExiS3VLQ0E?oc=5",
         "source": "Transfermarkt",
@@ -1592,12 +1598,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1pRSENDYmM3UTZuUVliV2dKTzJ0UDdsS3JCVmpwSW05TmtqNnN5eHBvbVVFWUhITUxId1diWEZIZHRRMzRrSU1XRWRHekJTYkFsM21qUGRaSlg5YTM2NzVwcFVjcGVweWFSYVhwUGF0dE1WQW9vaC00SDdfcjE1S2RTNFh3cFpmenRR?oc=5",
         "source": "Yahoo Sports",
         "published": "Sun, 11 Oct 2026 19:00:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU29WX19nQm9oM3N4dTJBdENOaEZSQTJOZzZWekd2ZXZWcjRqVVZJNm1uY2RZcy03bjRac0F6RzR6YzZCNTNBQVVURXNyT1ZaQ1lpY255aklldzNoU0RpTEZPdDBFZkVJWnRXc0IwQVE2eXFLNW1OV1Y1b3NXeGo1bi1EUkJXeUNRZGZYTnJMSFUweDd2bW5GX0ZhVFNwSE5hOEJBZGZ1Tl81eFpiRTdyVEgwc0F5SWtxUlE?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 09 Oct 2026 21:52:26 GMT"
       }
     ],
     "fcb": [
@@ -1634,7 +1634,7 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Arsenal triple deal, Haaland twist; Man Utd windfall",
+        "title": "Transfer news LIVE: Arsenal triple deal close, Haaland twist; Man Utd windfall; Chelsea, Liverpool latest",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmJqXzJ3a3BXclUyY2lGLXpkQkFiRUlLWm1VVFEtc2JDTFE3cGhIaS0xam9zS1Vfd0ZRVW9hc2h4VkFoOEFaY3RxbkE3b3pyYzRiOG44SHpOa1FlOUdaamo2RllpQUFYSTc5M05feDZvOFBBWE9uSE9LQWJOcmhMdWo5V3JUWWp0VUV4MkFEME8xVV9fZ05kV3FyVXNWblBHRmtEbFEtYWw1dDlWVUJ5TU80WjRUOGx4czlGaVlNR0c4X2dGcWtCNEhmTms?oc=5",
         "source": "London Evening Standard",
         "published": "Sun, 11 Oct 2026 09:59:21 GMT"
@@ -1644,6 +1644,12 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEtUeFU2d1VweEFlbXctOWp4NEVKVWtleHVVY1N2UlI3U2FmVHhUZUdZQzVuTFRlZ3RtM08zOEpGcldSS1J2ejktS1NXdkx1OEpYd01TUjFZNXdpYVFmZFhrSEZ2cnpyMDBmNWd1ZHl5V180bWFwMDQ2cnBwWW1Uckp0ZEhkeDRpeS1OSUVVSUI4MTJZVXB6Qkln0gGfAUFVX3lxTE9veHoyby1xLWtzSy03QWNWVGxlMUhMX1BtNThjVC1LWERLYzdvamNaRENTZVpXanJGQXdIZks3X2ozV1hZY2dTTzFBTkc1alB5UmtnczBZTkRScng1XzlCUTViQVNma3FUZWdhcURpeDFoV0pXUnYxZFhCMy1ldzZ4MmFEbk1XMGFWXzhVb3F6WURqbm9vaFM3bUhFTHRzOA?oc=5",
         "source": "Football London",
         "published": "Sun, 11 Oct 2026 16:40:53 GMT"
+      },
+      {
+        "title": "Arsenal news: Mikel Merino's dad reveals exit terms as January swap deal available",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWllvTXNnQkhJQjJkbDBWdFRGTkhtV3U5TjRWTXNCcFJwT2RPWDdiZUM1VkhfODFmNzBnT0RTbE95djJ1OXNQOU9zNnBtRmY4ajVvcDlVSjJJTmpybHhEaEc0UmV0ZXdmWmdfRHJNemlVdGY3SGduLTN1UXhMMnphRWJUMFlSWkNnLVdCdVRQVUlPQdIBlwFBVV95cUxPeTh6LU82ZUI3a045bGtiUVVmTjJGb1l3bjZVbElQR3M4VzRRa3loZ0RKYTJyZkw1UGU2ZVdBTTM0TFpDemgtc3A0MDhBX2p0ZkRwOTFwNm9wMnVDUzZBSi1BVFV0MUJwRWlkVjN6bmh1UlpTeVJiV0M5MVJ2V0EtcENvZXFhUGdqRG54bm42N0NPSFBnY1Bv?oc=5",
+        "source": "The Mirror",
+        "published": "Sun, 11 Oct 2026 03:00:00 GMT"
       },
       {
         "title": "Erling Haaland considers time at Man City ‘over’ as he decides transfer amid Arsenal boost",
@@ -1656,12 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTVTV1lhY1RrWGlBTUpQenlIcmpGbUd0LUtMVjlneW1rLWNoeXBPRTQ3OThoTHRWejJQX1hMVm5oVGFGdFkybXZ0d2VQQ0hOcEFtU3BuV2ZzQV9MNDN3c0Z1UHpNQ3hWVDMzMUNNVmw1bUdQM3VTZzNLaFNXclA1a2Jn?oc=5",
         "source": "Yahoo Sports",
         "published": "Sun, 11 Oct 2026 10:00:00 GMT"
-      },
-      {
-        "title": "Viktor Gyokeres major transfer prediction made as Arsenal sent Man City 115 charges message",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1lyQ1JPcUNwbjlueWl1WEJNWDJxS0hFQkVDck5QWUwycHIybU1CWkEzWjlUWHN0T3UzYTdlalVyVzVZU29PcV80dk5LX3o4U3IwTzlpN0RnYm54b2pKTFpPelhDYmhxR3c1bHhoZjFmd2RTM3ZCOGtZTjhYX3ZaOUN6Z0g4amJsM2dBSUFUZ1FDU2UzMVhsMzdnLUhfRVU0N0pj0gGoAUFVX3lxTE5rdUgzdU0wZUV6VUlsNy02WHZUU3AzdzEwWkFrOWhtelZaSndMZDBmbTlnTndBZEFhWDdlTzZZN1YyWHVEQzJBSk42VWxzUk5KTTlUTExtVEFEbEk0TjV2VnZ5UjNKZ3hWQU1WX0tfNU4zVTBwVTRkS1ZURGcyWHl6VENhVEgwUVpBWlVTdklhazNkM0xfQVd2N0FtWmxqTFI0WlZNdHBjeg?oc=5",
-        "source": "Football London",
-        "published": "Sat, 10 Oct 2026 19:44:32 GMT"
       }
     ]
   },
