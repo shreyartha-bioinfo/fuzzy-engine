@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:49:57.307864+00:00",
+  "updated": "2026-10-12T03:18:36.922350+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,10 +1538,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal triple deal close, Haaland twist; Man Utd windfall; Chelsea, Liverpool latest",
+        "title": "Transfer news LIVE: Arsenal triple deal, Haaland twist; Man Utd windfall",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmJqXzJ3a3BXclUyY2lGLXpkQkFiRUlLWm1VVFEtc2JDTFE3cGhIaS0xam9zS1Vfd0ZRVW9hc2h4VkFoOEFaY3RxbkE3b3pyYzRiOG44SHpOa1FlOUdaamo2RllpQUFYSTc5M05feDZvOFBBWE9uSE9LQWJOcmhMdWo5V3JUWWp0VUV4MkFEME8xVV9fZ05kV3FyVXNWblBHRmtEbFEtYWw1dDlWVUJ5TU80WjRUOGx4czlGaVlNR0c4X2dGcWtCNEhmTms?oc=5",
         "source": "London Evening Standard",
-        "published": "Sun, 11 Oct 2026 09:59:21 GMT"
+        "published": "Sun, 11 Oct 2026 14:33:58 GMT"
       },
       {
         "title": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
@@ -1576,12 +1576,6 @@
         "published": "Thu, 08 Oct 2026 23:05:00 GMT"
       },
       {
-        "title": "Real Madrid make surprise enquiry to rival Man United for midfielder transfer",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3JMR1MtRWtjd1lrY2JrOFczTUJiQ1ozeC1yQ2tyY1BEdy1GRUpxS1hVQ1phNWtPWlNhaWxEZmNYTzFzUHk0d1p0WDRienlNcGtpWUMzdGZfRHB2eXhrMWNzbDlpa3dOU3pmbVZpb0otMGxkTXpNaDkwNjU0N3VvYmE4LTFWbWlfYXl6VTZucEZlYzN1V2U00gGcAUFVX3lxTFBpRC1ac3hSUWxEeTd5WVZfbGpjNDE0aEJBWERDRmdzTnF5NWU3NENmWUpHbVROX2V2cUUtenoydkdRS0Nka3FBOTZlSkdGOFdyV0t6dWxfQmtpalYzYWllSzRPNHk3SnJ1RHFFaFYwekh0dG1VclJMLUZGSFd0UDVLWUVoQk9aR19OdDVKRmxCM0s0eXhuLVhobld2QQ?oc=5",
-        "source": "CaughtOffside",
-        "published": "Fri, 09 Oct 2026 05:22:03 GMT"
-      },
-      {
         "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlQwMlpERFd1N1UwU0tVOTZORFhiUUhKMnhHYmprU04xU0NCWFBDaGxhVFJfVnJpNjNEdS1nN1o2bjJMc2VTTmZ4LUpoZnE3bmR3b1UyRldGWngyUFNUOUNwVEh4RUJlNUhDRFhKZ2F6dzFFS24ycWtLbGNZT1A4bXhTaWNmZ2xZd1gycllEVGFKS2Q5VnBTQ054OUNiMkl6LThLYko1UFc3MTFoLWJHMW1NWQ?oc=5",
         "source": "ESPN",
@@ -1598,6 +1592,12 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1pRSENDYmM3UTZuUVliV2dKTzJ0UDdsS3JCVmpwSW05TmtqNnN5eHBvbVVFWUhITUxId1diWEZIZHRRMzRrSU1XRWRHekJTYkFsM21qUGRaSlg5YTM2NzVwcFVjcGVweWFSYVhwUGF0dE1WQW9vaC00SDdfcjE1S2RTNFh3cFpmenRR?oc=5",
         "source": "Yahoo Sports",
         "published": "Sun, 11 Oct 2026 19:00:00 GMT"
+      },
+      {
+        "title": "What penalty could Mbappé face if he decides to leave Real Madrid?",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2h6Q3RqMVhCVzdxckhwZEplYTF6TElPYUZKdGM4R3U3dHphVGZqZDNHZVBJS0RMTHZWZVNQc3JjQ1FWMTFsY0kzblBYT3NuNHRhWEF6QjBBblg4WWRET1lEbHN5bXZ2MXlrOXI2MV9SU3hDeEFfc1lFVzR2UDliSmZMaHVzZkxYS2pScUxHejRRZW4zQjczR3pKZlhkaFE2SDQzOHdBMEdlUEdlNFZxTEhOSU5Xb3phQ2VZWXREblRJUGNxdTllNUtVZ2LSAcwBQVVfeXFMTlYxTFUtNVNlZV9XclpVNnpoRzNVSzRfSHdvQkVVR0NHSVJIWUpKWXZZTVdyOVZic3lGdktEVUdkeXlMaUtEOUVZb0o5T29KSkJzOEhpampEelJxdjNSMEZKN2xqVkw2T0F0Q3RnM2MtYUg1ZDFtVjN2RmZDaXZydWI4cFpvM3QteFNyejFDSFZLaFhYUjRfSlU1akhrNGp4bk1JMFpPTExxUTJDSXlnbktOdHhiVnV5WGUtMjlFajVWU202WWMzT1laRWRE?oc=5",
+        "source": "MARCA",
+        "published": "Sat, 10 Oct 2026 12:14:37 GMT"
       }
     ],
     "fcb": [
@@ -1634,10 +1634,10 @@
     ],
     "ars": [
       {
-        "title": "Transfer news LIVE: Arsenal triple deal close, Haaland twist; Man Utd windfall; Chelsea, Liverpool latest",
+        "title": "Transfer news LIVE: Arsenal triple deal, Haaland twist; Man Utd windfall",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmJqXzJ3a3BXclUyY2lGLXpkQkFiRUlLWm1VVFEtc2JDTFE3cGhIaS0xam9zS1Vfd0ZRVW9hc2h4VkFoOEFaY3RxbkE3b3pyYzRiOG44SHpOa1FlOUdaamo2RllpQUFYSTc5M05feDZvOFBBWE9uSE9LQWJOcmhMdWo5V3JUWWp0VUV4MkFEME8xVV9fZ05kV3FyVXNWblBHRmtEbFEtYWw1dDlWVUJ5TU80WjRUOGx4czlGaVlNR0c4X2dGcWtCNEhmTms?oc=5",
         "source": "London Evening Standard",
-        "published": "Sun, 11 Oct 2026 09:59:21 GMT"
+        "published": "Sun, 11 Oct 2026 14:33:58 GMT"
       },
       {
         "title": "Diego Simeone speaks out on Julian Alvarez behaviour after £128m Arsenal transfer failure",
@@ -1646,22 +1646,22 @@
         "published": "Sun, 11 Oct 2026 16:40:53 GMT"
       },
       {
+        "title": "Transfer rumors, news: Arsenal, Chelsea, Liverpool want Roma youngster",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUm9SOEljU2pvcEtxa3M0eHN0N1NvVmo1aThOejgwSkxFZEpRR1NfQzh0MWtTSTVlUnk0VnJtaUR5dWkyRWtGSDh3U2ZVbXZkOXl3cnJDaXRFeDNfdDRNVXAwbUJOTWMtOWVhSDdjN3JfOWVGWnpmaHNGRjdOZU50YXc4aGZoR0N1aWVmN3IwRWRSazNKWW5vNWVONHlzVDJJOXBsOS02OHNoZXNRZnZDaExZbDBTOEU1Mnc4aHB0WXRKQ2dMdmZUVGRSM01CTHZUd09weVc1RzZGcTI2?oc=5",
+        "source": "ESPN Global",
+        "published": "Sun, 11 Oct 2026 09:48:40 GMT"
+      },
+      {
         "title": "Arsenal news: Mikel Merino's dad reveals exit terms as January swap deal available",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWllvTXNnQkhJQjJkbDBWdFRGTkhtV3U5TjRWTXNCcFJwT2RPWDdiZUM1VkhfODFmNzBnT0RTbE95djJ1OXNQOU9zNnBtRmY4ajVvcDlVSjJJTmpybHhEaEc0UmV0ZXdmWmdfRHJNemlVdGY3SGduLTN1UXhMMnphRWJUMFlSWkNnLVdCdVRQVUlPQdIBlwFBVV95cUxPeTh6LU82ZUI3a045bGtiUVVmTjJGb1l3bjZVbElQR3M4VzRRa3loZ0RKYTJyZkw1UGU2ZVdBTTM0TFpDemgtc3A0MDhBX2p0ZkRwOTFwNm9wMnVDUzZBSi1BVFV0MUJwRWlkVjN6bmh1UlpTeVJiV0M5MVJ2V0EtcENvZXFhUGdqRG54bm42N0NPSFBnY1Bv?oc=5",
-        "source": "The Mirror",
+        "source": "Daily Mirror",
         "published": "Sun, 11 Oct 2026 03:00:00 GMT"
       },
       {
         "title": "Erling Haaland considers time at Man City ‘over’ as he decides transfer amid Arsenal boost",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmM2QXBBNlVmSEkxMmwwb2xXQ1VFeDUwcGU3dlNDb2xWa25ZelN5dnBmUXJYVVJlZGhEd0VxLWE3R3hSZmhrZS10Zk5yckRRcnBERVpOVjRUY01SZ09tNEJTcmtka2F5Mm8yM3p5eE9nU2tLNy00bEVlYWcyR0RKSlk4aXNESDZiNTZwXzJwSndVRFpXQ1dzUnJ0RDhhZzJEcDRj?oc=5",
         "source": "Football365",
-        "published": "Sun, 11 Oct 2026 13:25:19 GMT"
-      },
-      {
-        "title": "Declan Rice ‘very happy' as ‘huge' Arsenal deal close",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTVTV1lhY1RrWGlBTUpQenlIcmpGbUd0LUtMVjlneW1rLWNoeXBPRTQ3OThoTHRWejJQX1hMVm5oVGFGdFkybXZ0d2VQQ0hOcEFtU3BuV2ZzQV9MNDN3c0Z1UHpNQ3hWVDMzMUNNVmw1bUdQM3VTZzNLaFNXclA1a2Jn?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sun, 11 Oct 2026 10:00:00 GMT"
+        "published": "Sun, 11 Oct 2026 23:00:47 GMT"
       }
     ]
   },
