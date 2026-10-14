@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:50:50.937297+00:00",
+  "updated": "2026-10-14T22:50:46.093576+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,10 +1536,134 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
-    "ars": []
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Arsenal have new target, Alvarez twist; Chelsea get Scott boost; Man Utd, Liverpool latest",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEY4YTRSTUdlU3BWMXBob2tRMTROWEhzMjJydWE3VVJHVEd6dTVRMkFlLW1GS3JuaWxKaHczSGhDekhJTk9VTUJlX2FzbDN5aVgzYmJYRFFxaXZyTVpHeXpoV05meHVzdHFaQzNuN0ZtLTM1WUNwWkVKSjVVVkRudUQ2TFdWdWpEMU5NMW4tUDB6UmlJNWJPNjFxNl92T3RJanF2bWUyZUotSGtFdFp6NUJmbDA5ZUJLZWlSUFB0NFFfZTRpTzJyZXJfMA?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 14 Oct 2026 13:37:56 GMT"
+      },
+      {
+        "title": "Manchester United: Why the club cannot compete with rivals in the transfer window",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY1dYYlNJLWxzX0x0SWJJaFNsTDlJMkU3LUJYbHlDNWo1SW5nUHcyQmMyYUhLa2I5RjlMVjlVYUVnMDZaSWluZVJDS1pXOGF5NU9tQWVJYW5SSFp0R3JFWlNVc0dtVm5oWmtMOUJkeDBRVUwzRHV6NjY2NWlGbTRkZGtFaE5KZGVpTi1iWnV4RDlIU3ZKLXE2bWxnUXNlUmRBdGcxUDBQWDktd18ySFNqN0RiTk0tcTVILWZFWVVlZmJjX3IwUU5rYk53?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 14 Oct 2026 11:45:46 GMT"
+      },
+      {
+        "title": "Lisandro Martinez Manchester United outburst Q&A: Jason Wilcox, transfer strategy and what next?",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZk9CM180bmwwdlc3emdBRzJOZFhsVmdFSUZsMkJ2WWhxamlnMjRTX0Q0M3NQNzVyZmtsZzVkWndIYjl3a3ZRTnJoNy1YVEd2cUx5YUc2V0ZTQ1ZmdzBxWWh5cXRnWHVjdE9SS1J6VkdrUVYtbmJZanpES0RIYkd3bEpiVDhWZ2ZZdlhWYWlmSEVFWW00THJFZTZBdDJpRGtIakpjTHlvMHNzaWl5UktrWGdVSVlKOVhQOUlFWDFNVHAybExkMHFjUG5RZDVEdHJDRkZMZGtlZTdlYU5vazNJ?oc=5",
+        "source": "Sky Sports",
+        "published": "Wed, 14 Oct 2026 15:44:29 GMT"
+      },
+      {
+        "title": "Breaking Down Man Utd Star’s Spectacular Transfer Rant—Is He Right?",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRU1uYTN2OTRGMVNxdVpwdGRSSmhuVmpzZklYUlowbk9MdkNER0ZNeFl1NkVTMUw3Y1FEdlo4b2lZc01ZTl9JY29ua054cDBUSkp5b0FwUTBEd24ycXBDbGtEbVNJS0RGajZDOUpvbE9Ja2U1YmlPM1lCOXJqQnlJcENpa0Q?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Wed, 14 Oct 2026 10:30:00 GMT"
+      },
+      {
+        "title": "Awkward moment Tielemans is asked about Martinez attack on Man Utd transfers",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDdiVVRKSmJDYzhxRjB5bWZGcEowRjdhTzN0WDhtM2Q3dlFidHU3c2tDSVhiVTRTS2NtMUhwT3QzV3ljUEE4VTdpOVBGWVphMWFXUVc1dmZSdENQbzFVeGdUSmctVk5KZUh4YW5NZmVNRUpsdDk5aGJpNFZVMmdtRjNVZVhncnNTdGpLVFdGbHVob2FETFBCdEFjNXIxRzVsektaMzh0cmIxQQ?oc=5",
+        "source": "The Sun",
+        "published": "Wed, 14 Oct 2026 10:43:00 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Man United have given up on keeping Real Madrid transfer target",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVBWV2VHdl9oY3A0RzR5ZXFuVnVyeUJTS0NLYXhJcXRBMGFTQXJocW5OekxvVU9GaFNoeUpYempqUUdFeEdHZjN6QTVTX1FtcVdhb2tRY3RXUllyemVDUThJbmpEVE1XUHRQT282TEpnSzhFYThmcVpnLUtVNHlxM2ZQeEZFM0dIVU9uZDNrRXpsb1lnb3UyeDl30gGfAUFVX3lxTE0zV1BlUms2aEZ4cS04V2dTZ3V4NFhJQVpHSi1GQzQtR2pjSmp0TlhUcUNKa3hBZF9TbXpveWZLbTFYeURiLUw2cndXX2ZBMVlETFBzRlk5bFBCQjIxSl8tS3JSZnZHbVVJS2tDbGVqcnVMOWI5QVVIb3I0NGsxWFpKbWh6eWFTdjJuVFFPN2kwd1I0NGY0RHJoYnQwUEVGbw?oc=5",
+        "source": "CaughtOffside",
+        "published": "Tue, 13 Oct 2026 19:46:10 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Real Madrid, Barcelona chase Spurs defender Porro",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnQ2eFZVWGxvWmIzRjVwQm14bEtBV2lJeGR6VWR6RDl6c0phUjc2NkZVdHhqQjZHN1lqU3h5YTVqODNrdjE4Y0puUE5oNjV1aXVwMkgzajE5ZUZwVzZjNlpRbk53UTZPU2lNUW5nSFpZT0toeU5oazEtRy1SSFBsSERjeV96RFBrUFBLMFEzaHFkSEpOQTM0NEVkUnRjMzF2eU4wZUo4NXo4aS1hMXdocE1YWXN3QWly?oc=5",
+        "source": "ESPN",
+        "published": "Wed, 14 Oct 2026 10:12:00 GMT"
+      },
+      {
+        "title": "After losing out on the Rodri deal: Real Madrid move to take revenge on Barcelona in the transfer market",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb3o2cFhvN2ZxZ08wUjRrRGladGVNTEZlZDZyeThuc3daU1ZGNUhQbGVoc0Zra1Y1RTJkNjVXVVoyTEJKQV8xN3FZSC0tNzdERURXMTkwVUVUUzB3RFJxNGNqSVl4Rk5GakphenFQWnNyMGE2VWdJb2pmMTBsOXBQeWw4bUg1ek1fdVpyclV0NVJtV3NtY0luemhkdkFidkNJdnlXSHl0SFU1dlRaXzVGUVNMWUVrY3R0azR4ZlgtTGFWSC1icDduZ2dSSklkQmZtUkh3WHNpUGZHNEZpak1zQ1I1blU0dkU?oc=5",
+        "source": "Goal.com",
+        "published": "Tue, 13 Oct 2026 19:09:50 GMT"
+      },
+      {
+        "title": "Jose Mourinho blocks Endrick move as Real Madrid boss delivers brutal blow to AC Milan transfer hopes",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjNNUzFlenZRZ2JhRUNka2RuUVJINTg5QW43VEp1ZmVPT2pxNHRKT2lLZURiZkxBcm1QenBsMHRweVlSaEgzdTlWVVFJbDZVZnA1YVRWNFRzWUpkbGlyRGJtYXctemh4Y0hfOE1ETkwwZkFsNFdrcW8wb2JzcEFWVUtLaHdRWVRhRWc?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Wed, 14 Oct 2026 13:33:25 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Bayern Munich eye Dani Olmo as Barcelona pursue Pedro Porro",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdIMWFJOVNNZWJuNS1ndjZwc1FQN0l5c0sweTk4Yk9mVjN3SFV5R0VKS2dOdWV5NFlHUVJzR2hfZl9zeWZDaVNOQUhNRXJ5anViclN2aTduQ0R3ZlN4N096ZThOWXlHUHJtQmtzUzFXanJDanNBNExSaGtnbU41Z09DUWZlN2R1MFhMX3ZxbW5YcHcxWkVMZXVqbDRuZGtpbTMxZVBIYXFOaWU1YmVaM1BCV0VhZUFxUmp5bS1aLTJZNHM?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 14 Oct 2026 21:59:53 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Transfer news LIVE: Bayern Munich eye Dani Olmo as Barcelona pursue Pedro Porro",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdIMWFJOVNNZWJuNS1ndjZwc1FQN0l5c0sweTk4Yk9mVjN3SFV5R0VKS2dOdWV5NFlHUVJzR2hfZl9zeWZDaVNOQUhNRXJ5anViclN2aTduQ0R3ZlN4N096ZThOWXlHUHJtQmtzUzFXanJDanNBNExSaGtnbU41Z09DUWZlN2R1MFhMX3ZxbW5YcHcxWkVMZXVqbDRuZGtpbTMxZVBIYXFOaWU1YmVaM1BCV0VhZUFxUmp5bS1aLTJZNHM?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 14 Oct 2026 21:59:53 GMT"
+      },
+      {
+        "title": "Bayern Munich publicly address Erling Haaland transfer, in wake of Manchester City verdict",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmNzTTRJQ2laRjg5LUFZckIyV3pPWlU5UTI3bWNmTVF4SkE0bHZwVkJCbGtEY2hCZVUtd3ZOYU1sMUxpaldqX25KMmdHYTdoMUlUNE05Y21VT1RZcG9pTzVYeG9UREIwTjdoVzVld0NVREowWEhGVWdnMlBOdTkxQmdVVHZSUkw3NG44aXIwOA?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Mon, 12 Oct 2026 11:37:03 GMT"
+      },
+      {
+        "title": "Liverpool transfer concern grows as Euro giants assess potential move for 23-year-old",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0UxNktWRHk0ZHRibFNsczhmR2JhdnZSbkp2ZURGaldEeGZwXzI2bFBSVGRQSVV4ZldVcHBiUnR3cU9TNXR6cVNGYkYtV0tXRXV1bGlDQ3FsdFY0TWRfRURQZFJjYWFseGlJdHBoRzRYakxubVpqZHhUOGxoaVduLU1kQUxiSWhyZXJDeUFfMkVVWm5MZWxieWFFb1hmNUtTTVhXY25vRHBwV3pPdGJlUlRDQXF3a0s1SmRFMm1rNzIwTGZYSXfSAcsBQVVfeXFMTXU1MWVVTEFHeGkycl95eWtqYmdQcnNVSUxFaWlQOUlGXy1lazVvbHktSVpUeWY4eWVZWVYxMHhqNzJYUzVpZkpOZGQ2Z19fa2xqMlcwZlRFX3ExMUk2MDVhMnZPZHFaS0I5MHlNWlR5Y2lwbU5hM1lEa25rMmttc25RZjk1VUk3cU50MWlaeGxReHJPNkZ0YWE1WEpadmxudXVFWkdJOEczNUxDM1FaeWZhRFRvbGNQTmhiTzA5Q1M2SkhnVExJLVNTTEk?oc=5",
+        "source": "CaughtOffside",
+        "published": "Wed, 14 Oct 2026 20:15:38 GMT"
+      },
+      {
+        "title": "Bayern Munich News: Man City, Real Madrid, Man United want Pavlović",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOa0JXR3Fudmx5Q3ZkSlBMWmtTMVAzdU1NYXZIX3VSYnl5SXJKZjlyb2JSbW41YmpoWXpDdTJTdERyYkVXRWgxbFBKdUl0cnpPMkQ4aUp4WWwyTnAwSW1HWGItWHEwbVEwaFhRcjhrVVhkeVZMeDlLeWhjMm5xMDFaWXI3aVVMTTNjQjJjR3RwbFhOaldBWHZrWnRoNVpzd1UzTWxuT0xTUzMyUUZCQ0tLMDFkVTI0LXRfdk9mYWhITkMwdmtxNXIyNlRyQjdaWHZ6THo2cUY0YTZ3ckluQ01hX2lXdTRxd3VpdXlqVG1HRWtpdGZTY0FtUUlmaWxzcDJCay00c2FEVFNxQm1PT01YRTdCaWNjN3BXT3RoYlZxX3o?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Tue, 13 Oct 2026 18:07:00 GMT"
+      },
+      {
+        "title": "‘The decision wasn’t difficult’ — Bayern Munich’s Aleksandar Pavlović opens up on turning down Manchester City",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaGZOTVhrOUFwMGZMaDJNbS1aQzN4bWFpdEFzM3lCZi1jSU5PQllyY0cxNTA3M09RRTJINjRXVTlZdXEtaUtOWXlQV3h3UGdtQzJ1Y0JtVThZZ3ctcHJ0QkNCWXdJNzJlRkR3UXZTQjhkeVhLWHVSMDVfV0owMWhxZmxDd1NabW84am9hR09QaVVSQWtyNGEzQnAzUHRad0hmM3EtaUVDREExSW5sbWRHbGZodGtkSjZfSng1UlEyWGl4ZXFVbWROQTJCZm8tOWRGd1Q1Vnp6M0VQU3F5X2c?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Wed, 14 Oct 2026 19:00:00 GMT"
+      }
+    ],
+    "ars": [
+      {
+        "title": "Transfer news LIVE: Arsenal have new target, Alvarez twist; Chelsea get Scott boost; Man Utd, Liverpool latest",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEY4YTRSTUdlU3BWMXBob2tRMTROWEhzMjJydWE3VVJHVEd6dTVRMkFlLW1GS3JuaWxKaHczSGhDekhJTk9VTUJlX2FzbDN5aVgzYmJYRFFxaXZyTVpHeXpoV05meHVzdHFaQzNuN0ZtLTM1WUNwWkVKSjVVVkRudUQ2TFdWdWpEMU5NMW4tUDB6UmlJNWJPNjFxNl92T3RJanF2bWUyZUotSGtFdFp6NUJmbDA5ZUJLZWlSUFB0NFFfZTRpTzJyZXJfMA?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 14 Oct 2026 13:37:56 GMT"
+      },
+      {
+        "title": "David Ornstein’s The Athletic FC Q&A: Arsenal’s transfer decisions? How secure is Michael Carrick?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFJIT2pBMWxyVXFoWnRydk5ncTVOMlpmcEtmdUV0dFdnTVcydGRINjg0Z1pGZERiOU9VVzNKSzRSVWNQZmwyX0paZzZUOTd1dWNyYTZYZmt3RHpTa3QzcktCNFEtWmJucERQbnV6S1ZDamg2OHlpb2NROUVJR2RkOE9xbVRDbFNEMFJMa1AwN2c3S2hZaGFfbjNJdGtpSkV1NHc?oc=5",
+        "source": "The New York Times",
+        "published": "Wed, 14 Oct 2026 09:34:32 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Chelsea Eye Bellingham; Arsenal Join Olise Race",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2RkNEtiVFdMZ2U4ZmtkRGM4anhmd1VTSjhOU0QtRElqdlE3aXJwb19pR29rcFVfd2ZxdTd4d2tLU0tZMGpHQU5UZXhqeXlHN28tdlRyakRaLW9Ed1F3cTRaS1RfbUFld29ObXI3VGFFZjA0VHlBR3pmS0lNMzNWNkxEa0M5UQ?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Tue, 13 Oct 2026 23:05:00 GMT"
+      },
+      {
+        "title": "Transfer news LIVE: Bayern Munich eye Dani Olmo as Barcelona pursue Pedro Porro",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdIMWFJOVNNZWJuNS1ndjZwc1FQN0l5c0sweTk4Yk9mVjN3SFV5R0VKS2dOdWV5NFlHUVJzR2hfZl9zeWZDaVNOQUhNRXJ5anViclN2aTduQ0R3ZlN4N096ZThOWXlHUHJtQmtzUzFXanJDanNBNExSaGtnbU41Z09DUWZlN2R1MFhMX3ZxbW5YcHcxWkVMZXVqbDRuZGtpbTMxZVBIYXFOaWU1YmVaM1BCV0VhZUFxUmp5bS1aLTJZNHM?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 14 Oct 2026 21:59:53 GMT"
+      },
+      {
+        "title": "'It wasn't ideal' - Former Arsenal star bemoans summer transfer business after losing key pair",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkcxdXRvU1hEWXg4SmRBdHI0TTJjbjNRdjFRMXdqZDJsQXBoVUlIU1BwUkFFWnYxakRJMi1FbVRTTkNrbXh0WGQ1MVFuRVhBZDkwSmNRQTVxZkphbHFUM2c2dmlsTk5DR3RxYXVBbWh1UWtLSktZeFVkVzV3VWtXZG1tY1czd3pPdWhoLVIzaWNXSUJ3QVpZSlEyMFpKVFlsd0pqMmZrdzkzRUNkaHNscy1n?oc=5",
+        "source": "The Sun",
+        "published": "Wed, 14 Oct 2026 13:21:00 GMT"
+      }
+    ]
   },
   "upcoming": []
 }
