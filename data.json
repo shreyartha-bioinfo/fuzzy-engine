@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:59:32.119699+00:00",
+  "updated": "2026-10-16T14:37:28.652189+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,22 +1538,10 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Shock Arsenal moves; Man Utd double deal; Scott to Liverpool; Chelsea, Tottenham latest",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHVlMUtFaXR6NEM3RmZ4a21EV3BtbFZ3bzlSdmh4YXROQVoza1JCNjd6X2JPaUFQNVZYaEV5WXM4VEtfWFJYRzd4RE1sTGhxUFNmSHNmVV9ac3BrWmFCNlYzS1FScmJhV1lTak9YSGVZOExMb2FYMC1BTGJxQnpmS01qbldpYUczWERqWkYxMlNkN1hQVEFNLVRVb1VMaHg1N2E4Z0l5OWlpamM4a1JwZ29DRkFlNlB0bWxpbmF2aHVSZURxRG8zby1yeHQtemJZR19F?oc=5",
-        "source": "London Evening Standard",
-        "published": "Fri, 16 Oct 2026 06:39:06 GMT"
-      },
-      {
         "title": "Manchester United latest: Senior players backing Lisandro Martinez over hierarchy outburst - Paper Talk",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeXRRRDFZNGdLeXlHNGZZMTM1X3NINTlROTBwMnFQWm5CV2dDYTZrY25ac1c2M2JSaFQ3Ny15NGNnZkQ2elFIc3FDekF6WmNkSHRqVDFfMlpPak1YWUg5cFNQcVZaQlJIOGtJaHh2WUZXb2QtSEJkaTl2dVk4TkRWczJMeTZad05WQmdva3ZfeTdjWXEyT1FhZElrUlB6VjBEdGZiTkVkdUtHY0hiWDRLU3c4QkNsRnFzZDM2UDlzZm9PRU5NOFNEUDZETzJ2UGhOeW1udEd6LWx3NFF0SXd4YTd3TVJiZ3loYXRHTm1nNG5KUTJ1Si00?oc=5",
         "source": "Sky Sports",
         "published": "Thu, 15 Oct 2026 07:01:13 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUk91QUU0Y2VhTVRoTmE2dzdQbDVUREpVSlR4ZjZtT0ZUY3RkbGJfTlFuYW1VODA2N2JDSlpIaWJJdFlMU3RiZVlvdDdoVy0wUnliNkgxNzRid3RFcTlIM3pqM3l6MzdlRXFhd2V6WG9XVmV1QUxpU2dydHBNR0hWZG84Q05vY1F0cmpLVk9Jc2gxdE1CeDMxSm5MbGdQZzRYcE1HT1BsajdGTXJoUU56R2RDemJCN3JuNmc?oc=5",
-        "source": "ESPN",
-        "published": "Thu, 15 Oct 2026 20:43:00 GMT"
       },
       {
         "title": "Antonio Conte makes Man Utd transfer demand after saying yes to replacing Michael Carrick",
@@ -1562,10 +1550,22 @@
         "published": "Thu, 15 Oct 2026 12:48:40 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd’s $110 Million Bidding War; Real Madrid Hijack Yamal’s Dream Target",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmlpN0tKam1hLXNIaklYeTM2TDJqbm4xUExhSG95TFdpNnZMdUFRMlJNY2JCYlRlNGxjdF80ZF91WjFoVXZ5OTZCSGthZFFZZEtZSUdWeW15N1psN2pzbjVLMHhIRXRPdTlZbzNhc1BvZ1dodWppX2xzQjE3UUtBUzZjb2I4NjZCQ1N0NXJLRUhsNlJkLVZXaW1JUjBORHdSX1dLRnNPYklFd2pGbUhyeQ?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Wed, 14 Oct 2026 23:05:00 GMT"
+        "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUk91QUU0Y2VhTVRoTmE2dzdQbDVUREpVSlR4ZjZtT0ZUY3RkbGJfTlFuYW1VODA2N2JDSlpIaWJJdFlMU3RiZVlvdDdoVy0wUnliNkgxNzRid3RFcTlIM3pqM3l6MzdlRXFhd2V6WG9XVmV1QUxpU2dydHBNR0hWZG84Q05vY1F0cmpLVk9Jc2gxdE1CeDMxSm5MbGdQZzRYcE1HT1BsajdGTXJoUU56R2RDemJCN3JuNmc?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 15 Oct 2026 20:43:00 GMT"
+      },
+      {
+        "title": "Lisandro Martinez Manchester United outburst Q&A: Jason Wilcox, transfer strategy and what next?",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZk9CM180bmwwdlc3emdBRzJOZFhsVmdFSUZsMkJ2WWhxamlnMjRTX0Q0M3NQNzVyZmtsZzVkWndIYjl3a3ZRTnJoNy1YVEd2cUx5YUc2V0ZTQ1ZmdzBxWWh5cXRnWHVjdE9SS1J6VkdrUVYtbmJZanpES0RIYkd3bEpiVDhWZ2ZZdlhWYWlmSEVFWW00THJFZTZBdDJpRGtIakpjTHlvMHNzaWl5UktrWGdVSVlKOVhQOUlFWDFNVHAybExkMHFjUG5RZDVEdHJDRkZMZGtlZTdlYU5vazNJ?oc=5",
+        "source": "Sky Sports",
+        "published": "Thu, 15 Oct 2026 06:41:19 GMT"
+      },
+      {
+        "title": "Lisandro Martinez wants to QUIT Man Utd in stunning free transfer this summer",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjdSMmtkY2ZkVThMVURWcWp6MERrSGNKeXJRWlBtY2VtWG1hU3dFakJMOUk4ZnVxc0otWVMzTkZ3ZG5WdHhzTVctenpYT3lxTTdveDRnRGFkakd1TVExbmV4SUczZl9sTldCVUNrM2ZKdEstX3g0cGxxOEJXQzE4QVhqNXFZc0lxQVN1SEFReHdKQmsx?oc=5",
+        "source": "The Sun",
+        "published": "Thu, 15 Oct 2026 12:55:00 GMT"
       }
     ],
     "rm": [
@@ -1576,60 +1576,60 @@
         "published": "Thu, 15 Oct 2026 23:05:00 GMT"
       },
       {
+        "title": "Gasperini sends transfer request to Roma: ‘Essential’",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ScmVVdTdPbWZRbnNXVDRqc09Ecm5PQTZabW5WQWlJNVJpSEFFYTBDWEhlREp1VTNsWEhjWFMtWmlYNWpKYUFhbUdfak8teW9CVnZMTFl0bGswbE5yR3UwNVlkNG8wMlBEcER2dTBuaGFzbVNZZjdHc1l30gF_QVVfeXFMUGdaTm9JbjVYbU1BR3Z6YTBSNm0xMC1GcFh3akFneEM1Z204QjNUeTZtM3lRS24zSDUyRUxiNm5ZWV9SX3JESWFSMVJOcWdvSXNaY3cwRGFWZS14TkNoMU04THBUTElIOHg5MFk0QWxCakFZbWNPa0RTbGZLdDJkQQ?oc=5",
+        "source": "Football Italia",
+        "published": "Fri, 16 Oct 2026 13:06:12 GMT"
+      },
+      {
         "title": "Transfer rumors, news: Liverpool eye move for Juventus' Kalulu",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnQ2eFZVWGxvWmIzRjVwQm14bEtBV2lJeGR6VWR6RDl6c0phUjc2NkZVdHhqQjZHN1lqU3h5YTVqODNrdjE4Y0puUE5oNjV1aXVwMkgzajE5ZUZwVzZjNlpRbk53UTZPU2lNUW5nSFpZT0toeU5oazEtRy1SSFBsSERjeV96RFBrUFBLMFEzaHFkSEpOQTM0NEVkUnRjMzF2eU4wZUo4NXo4aS1hMXdocE1YWXN3QWly?oc=5",
         "source": "ESPN",
         "published": "Wed, 14 Oct 2026 21:46:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd’s €100 Million Bidding War; Real Madrid Hijack Yamal’s Dream Target",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmplS2lkektCX1IxbFRxVU1lRVNxYzBFQ0JEOFVWbEtTWkxyaU9aY1VoWFFZUjNnbkhnUmFWTXZqbEhRWVJ3MjBQM2JNcmFfZVpNWGdaRWpuUzk2NkpsUV9Bci1pNlVYVU5mTlA5eHZPRzZJbGJfVV9fUnBKd1k4M3VNODVvX0lBZnVvN2I0dWg3Y29XZzRPUlZaVVlKckVTVTNsU250cmhnZ1M2ZnYxY2RfTHRqRjlHTXUyNlBsWmVFTl8yNmxrQ241YUtFOUU?oc=5",
-        "source": "FotMob",
-        "published": "Wed, 14 Oct 2026 23:05:00 GMT"
+        "title": "Arda Guler ends Arsenal and Man City transfer talk by agreeing HUGE new Real Madrid contract",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0ZPbENxaDA3R3c4bk1vRHZJNUk4R28yc3N5b2VMNzZtdDZObGs0TndQUDk0NE93TlNnaVE0V2RoRkpTTjRyZlJWY3diMWdSM3YwRmxFd2JnX082RFZ5Y2RnS3JXSUxhd2hidnJDQjBCV1NvNWpwV0tSMnczSUJVN0dR?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Fri, 16 Oct 2026 09:12:41 GMT"
       },
       {
-        "title": "Transfer news LIVE: Bayern Munich want Florian Wirtz as Man Utd consider Martínez future",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdIMWFJOVNNZWJuNS1ndjZwc1FQN0l5c0sweTk4Yk9mVjN3SFV5R0VKS2dOdWV5NFlHUVJzR2hfZl9zeWZDaVNOQUhNRXJ5anViclN2aTduQ0R3ZlN4N096ZThOWXlHUHJtQmtzUzFXanJDanNBNExSaGtnbU41Z09DUWZlN2R1MFhMX3ZxbW5YcHcxWkVMZXVqbDRuZGtpbTMxZVBIYXFOaWU1YmVaM1BCV0VhZUFxUmp5bS1aLTJZNHM?oc=5",
+        "title": "Transfer news LIVE: Barcelona want Junior Kroupi as Arsenal consider Kim Min-Jae",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnpyMGRnN1hUZ2FQSVYwU3JERld2bUZMb2FGQVppa1JNT2VoaGgyV3lhSms0Qi1JZmtXZkNxV1hfUk1pUHhFWnlFWnRkSFVIUXJ4OTRlMDFxeW1CUTR3R3RWVHVxbHU2dTRDX0pmMkNQeGFVdGdwR3UxTXRVSm51aUw1SEF5eC1oako4M2l5bVdVNkJLQkNEOUtKS3Q1SjJnbWpSVWpHOVhRS0VSSVcxT29oTHdhSUoxUnY1V2hOdTMxWkRs?oc=5",
         "source": "Transfermarkt",
-        "published": "Wed, 14 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Arsenal given renewed hope of Vinicius Jr move after summer ‘regrets’",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3k5QjRsWU9QblhXdEJlZFk1RHA3ZjZsWmFFaDZ2VjNvTjY1SDRfMUdzX2taQlB6c2JnOVYtblprY25Gd2VXSW5GcFJqWW5DMXdxNWdHUGVUdTczd3o3bEFlSGJCMFR1a1E0UXE0Z2pmbUNzaGY2RnNnR2ZvODNuMWN1dDhXZFhfNHd5QmtJcGo?oc=5",
-        "source": "talkSPORT",
-        "published": "Thu, 15 Oct 2026 15:17:22 GMT"
+        "published": "Fri, 16 Oct 2026 13:42:15 GMT"
       }
     ],
     "fcb": [
       {
         "title": "Transfer rumors, news: Arsenal eye January move for Bayern Munich defender",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzQwUEYzWndJS1JuUDdaXzBYMUNtNHEwZnYzS1ltcUwtU3NlQTMyR3pHZDdKS0NucmdjbFlTT2tYdDF5TVRQakRaRnZsanc2c1J1OHBYWmlsMTg1V0hXZHVfa2RyU1dLV3NPR0Z6bjRuYUlpNlNJWkQ4d3p2Y3Zvci0telV2eGlkaFlLZXNFenNWTjd6TjRqWTBmYXUxTk9iMGpHX0VEVW1PdVM0Y09FOGRaamhDWGs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWE0bURxUXVGYnNTSUhaMzZlYVlYN0RNRGdzVHN2TDl6Nm1UbU9sRTNqVHlKYm1ZWkZrNmhKUW9xZEF4WnVDeXVFb0FtWEhYMTV2S2sxbXhFTC04Sjh0NXNkS3lzVWpWOEZOTnJWazN4bUkzVmNSWmxLVWZHY2JqdkxFc3dxZUl0Ni1sRlR4dEtETDFqS2NWMk9WeGo5VF9JWEJJYWJGRm5YcDY1MC1hMVd0bWxadUJ5Mk9fWA?oc=5",
         "source": "ESPN",
-        "published": "Fri, 16 Oct 2026 07:16:00 GMT"
-      },
-      {
-        "title": "Arsenal 'line up Bayern Munich defender, 29, for shock winter transfer amid Piero Hincapie injury fears'",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFRLNW1kMVhEd2gtTnZ4WTNZaV9IRC1kSWlRNXdFQk9fZFh1WVpUTC03ZkhZMVN3Y1VaSUhGWHVtTFVNV1pLWkdUU2dRX2FUNS1SME5IMTlicFVNSTM3M0pfaWwzQjNCN05ZTnFjOGVxcVk0cVRVLWppbG9GZldiTmpiclZpa3RNc2lGam0wOGtSMHJDRXJJ?oc=5",
-        "source": "The Sun",
-        "published": "Fri, 16 Oct 2026 06:10:00 GMT"
+        "published": "Fri, 16 Oct 2026 07:29:22 GMT"
       },
       {
         "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFZ5ZVJCVDJQZzlXdDlFNVNYd0xKZTVkOENweW5wbHU5Q011MVVRZEE2YWxaWktseHcwOWZmbmZlejdTaUw5MjBwX1BpX1NlOEFrcS1mbG55cGdERkUzRkMtVXpxYWlVbDkwU3pKNzhPZGZFREpFWkd3d3ZWaW9oQWdwMHNvVXJMTXMxNTA2akktSnREalVVTVdCT2dSV01sX29UT2Y0NVZiblBYYXh5ZEhzQ1RkbEhWdERMR1JCNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUk91QUU0Y2VhTVRoTmE2dzdQbDVUREpVSlR4ZjZtT0ZUY3RkbGJfTlFuYW1VODA2N2JDSlpIaWJJdFlMU3RiZVlvdDdoVy0wUnliNkgxNzRid3RFcTlIM3pqM3l6MzdlRXFhd2V6WG9XVmV1QUxpU2dydHBNR0hWZG84Q05vY1F0cmpLVk9Jc2gxdE1CeDMxSm5MbGdQZzRYcE1HT1BsajdGTXJoUU56R2RDemJCN3JuNmc?oc=5",
         "source": "ESPN",
-        "published": "Thu, 15 Oct 2026 07:44:25 GMT"
+        "published": "Thu, 15 Oct 2026 20:43:00 GMT"
+      },
+      {
+        "title": "Bayern Munich star CONFIRMS £85million Man City transfer offer after club's guilty verdict and admits 'it's an honour'",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObG1IV2N2ekRyVV9lOUIySTJ6b08yajFUc3BGWGpOXzMzSmZ1NFctWEs5WEpseDc2RzAwV3A2S1RuYjd5Y0xYZFhIWjBUQllRLWJoQ3pWbm51VUw5U09sd1didGdOaW9jT2FCV25EQ0xHTWRPV29sTDhOTzZWd1QwZUxNdXZ1Tmt4c01QcTFDd2d5OUxmMEZBS3NoekVadTA?oc=5",
+        "source": "The Sun",
+        "published": "Thu, 15 Oct 2026 19:56:00 GMT"
+      },
+      {
+        "title": "Eberl sees \"zero reason\" for Bayern to spend in January transfer window",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWU9rYU9oWDg3QVdyQzRPaHVTNXU2aDVJVjFSTE0xdmVIN2RJaERqS3JYMXJ3RHRNdGNtUnlwNHp2RVNlQnpXRERQSU1PQWpaR2Z6dXQ2cS1ZcEswQnMwQWZSX29Cd3VZWElnNlpXRG1MRm95bWU0bVY1ZTdLYkZPcXJQejI?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Fri, 16 Oct 2026 13:34:16 GMT"
       },
       {
         "title": "Transfer news LIVE: Bayern Munich eye Dani Olmo as Barcelona pursue Pedro Porro",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdIMWFJOVNNZWJuNS1ndjZwc1FQN0l5c0sweTk4Yk9mVjN3SFV5R0VKS2dOdWV5NFlHUVJzR2hfZl9zeWZDaVNOQUhNRXJ5anViclN2aTduQ0R3ZlN4N096ZThOWXlHUHJtQmtzUzFXanJDanNBNExSaGtnbU41Z09DUWZlN2R1MFhMX3ZxbW5YcHcxWkVMZXVqbDRuZGtpbTMxZVBIYXFOaWU1YmVaM1BCV0VhZUFxUmp5bS1aLTJZNHM?oc=5",
         "source": "Transfermarkt",
         "published": "Thu, 15 Oct 2026 05:45:46 GMT"
-      },
-      {
-        "title": "Arsenal Eyes Kim Min-jae Amid Bayern Munich Role Uncertainty",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVNjc1pTWlBVWWxkcVRvZFdzYkJNeHhkd1p2UF8yczBQVWFQX0ZHdGxMTDdlaHllQWFEaXMzSnpxVmRLUVZrQlZsRlVYdkJZUjk0LWFkSlM1VkhoQjAybW9QUlBLQm5tcXBJZWxKRXBTazFaNVdzQ2NYX3FVMk1MNGhFeXJqdw?oc=5",
-        "source": "조선일보",
-        "published": "Fri, 16 Oct 2026 05:52:42 GMT"
       }
     ],
     "ars": [
@@ -1637,7 +1637,7 @@
         "title": "Transfer news LIVE: Shock Arsenal moves; Man Utd double deal; Scott to Liverpool; Chelsea, Tottenham latest",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHVlMUtFaXR6NEM3RmZ4a21EV3BtbFZ3bzlSdmh4YXROQVoza1JCNjd6X2JPaUFQNVZYaEV5WXM4VEtfWFJYRzd4RE1sTGhxUFNmSHNmVV9ac3BrWmFCNlYzS1FScmJhV1lTak9YSGVZOExMb2FYMC1BTGJxQnpmS01qbldpYUczWERqWkYxMlNkN1hQVEFNLVRVb1VMaHg1N2E4Z0l5OWlpamM4a1JwZ29DRkFlNlB0bWxpbmF2aHVSZURxRG8zby1yeHQtemJZR19F?oc=5",
         "source": "London Evening Standard",
-        "published": "Fri, 16 Oct 2026 06:39:06 GMT"
+        "published": "Fri, 16 Oct 2026 11:03:27 GMT"
       },
       {
         "title": "Man City blow Arsenal out of the water as five-year transfer plan raises £285m question",
@@ -1649,19 +1649,19 @@
         "title": "Transfer rumors, news: Arsenal eye January move for Bayern Munich defender",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzQwUEYzWndJS1JuUDdaXzBYMUNtNHEwZnYzS1ltcUwtU3NlQTMyR3pHZDdKS0NucmdjbFlTT2tYdDF5TVRQakRaRnZsanc2c1J1OHBYWmlsMTg1V0hXZHVfa2RyU1dLV3NPR0Z6bjRuYUlpNlNJWkQ4d3p2Y3Zvci0telV2eGlkaFlLZXNFenNWTjd6TjRqWTBmYXUxTk9iMGpHX0VEVW1PdVM0Y09FOGRaamhDWGs?oc=5",
         "source": "ESPN",
-        "published": "Fri, 16 Oct 2026 07:16:00 GMT"
+        "published": "Fri, 16 Oct 2026 11:13:00 GMT"
       },
       {
-        "title": "David Ornstein’s The Athletic FC Q&A: Arsenal’s transfer decisions? How secure is Michael Carrick?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFJIT2pBMWxyVXFoWnRydk5ncTVOMlpmcEtmdUV0dFdnTVcydGRINjg0Z1pGZERiOU9VVzNKSzRSVWNQZmwyX0paZzZUOTd1dWNyYTZYZmt3RHpTa3QzcktCNFEtWmJucERQbnV6S1ZDamg2OHlpb2NROUVJR2RkOE9xbVRDbFNEMFJMa1AwN2c3S2hZaGFfbjNJdGtpSkV1NHc?oc=5",
-        "source": "The New York Times",
-        "published": "Wed, 14 Oct 2026 09:34:32 GMT"
+        "title": "Arsenal 'line up Bayern Munich defender, 29, for shock winter transfer amid Piero Hincapie injury fears'",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFRLNW1kMVhEd2gtTnZ4WTNZaV9IRC1kSWlRNXdFQk9fZFh1WVpUTC03ZkhZMVN3Y1VaSUhGWHVtTFVNV1pLWkdUU2dRX2FUNS1SME5IMTlicFVNSTM3M0pfaWwzQjNCN05ZTnFjOGVxcVk0cVRVLWppbG9GZldiTmpiclZpa3RNc2lGam0wOGtSMHJDRXJJ?oc=5",
+        "source": "The Sun",
+        "published": "Fri, 16 Oct 2026 06:10:00 GMT"
       },
       {
-        "title": "Transfer news LIVE: Bayern Munich want Florian Wirtz as Man Utd consider Martínez future",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTVvTFpQZ3A3ZFRDcXJiNjJIaFg2azFPRnhUVzZxam01VFladE9uOHlHOXJsM3BzZ2VSYTZxOGVFZkFDOVg2b0lzaC1UTkd1OHRENkNyYmVSN3hKRDBzQVdENTBiOFhvbER3LUNWVVRiaTltX2duM1h4bmk0aDdfajV4NkFUVmpzNjVhS19NSnpvLVpiUmtmZVUtVVQ5MVNkc0lrcGpSbHJiUUs2ZjRYaFNEV0lJYzZBeWo3RGRCRzdwSDRTV1ZudDBZazNySEU?oc=5",
+        "title": "Transfer news LIVE: Barcelona want Junior Kroupi as Arsenal consider Kim Min-Jae",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnpyMGRnN1hUZ2FQSVYwU3JERld2bUZMb2FGQVppa1JNT2VoaGgyV3lhSms0Qi1JZmtXZkNxV1hfUk1pUHhFWnlFWnRkSFVIUXJ4OTRlMDFxeW1CUTR3R3RWVHVxbHU2dTRDX0pmMkNQeGFVdGdwR3UxTXRVSm51aUw1SEF5eC1oako4M2l5bVdVNkJLQkNEOUtKS3Q1SjJnbWpSVWpHOVhRS0VSSVcxT29oTHdhSUoxUnY1V2hOdTMxWkRs?oc=5",
         "source": "Transfermarkt",
-        "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+        "published": "Fri, 16 Oct 2026 13:42:15 GMT"
       }
     ]
   },
