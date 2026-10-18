@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:27:45.693139+00:00",
+  "updated": "2026-10-18T14:43:56.456439+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,12 +1538,6 @@
   "rumors": {
     "utd": [
       {
-        "title": "Man Utd transfer news: Michael Carrick opens door to January signings ahead of planned defensive rebuild",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZXAxZURQbHBOVXpleFpkRUNYdFEtWmJ5d0dmcl9KSEZJbVFMR09iM1UtQVhaRzFsUEdnTW14QWVvNnNlT2ptLXVjQlNXMkF5TTJMWHBJSnJtTjBLUVJmYlVmdnp3Q0EzeFJmbjRnUThtd3pUX05MOURhcjBGN0s1cU0telRNdUlVejdQaUVvT3AyMlJBRXM2MWhGdnZEZVRxeVlRNS1BZUxDVzRUbnR3Nmw0UnJOSmNia2FiM3NFOTZBTDBPN1lsZEw4cGxvaHYxNThKMlNHcndiN3RMYzBzU0xJQjV3VlU?oc=5",
-        "source": "Sky Sports",
-        "published": "Sun, 18 Oct 2026 10:31:58 GMT"
-      },
-      {
         "title": "Transfer news LIVE: Shock Arsenal moves; Man Utd double deal; Bellingham agreement",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHVlMUtFaXR6NEM3RmZ4a21EV3BtbFZ3bzlSdmh4YXROQVoza1JCNjd6X2JPaUFQNVZYaEV5WXM4VEtfWFJYRzd4RE1sTGhxUFNmSHNmVV9ac3BrWmFCNlYzS1FScmJhV1lTak9YSGVZOExMb2FYMC1BTGJxQnpmS01qbldpYUczWERqWkYxMlNkN1hQVEFNLVRVb1VMaHg1N2E4Z0l5OWlpamM4a1JwZ29DRkFlNlB0bWxpbmF2aHVSZURxRG8zby1yeHQtemJZR19F?oc=5",
         "source": "London Evening Standard",
@@ -1556,16 +1550,22 @@
         "published": "Sun, 18 Oct 2026 10:33:00 GMT"
       },
       {
+        "title": "Man Utd transfer news: Michael Carrick opens door to January signings ahead of planned defensive rebuild",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZXAxZURQbHBOVXpleFpkRUNYdFEtWmJ5d0dmcl9KSEZJbVFMR09iM1UtQVhaRzFsUEdnTW14QWVvNnNlT2ptLXVjQlNXMkF5TTJMWHBJSnJtTjBLUVJmYlVmdnp3Q0EzeFJmbjRnUThtd3pUX05MOURhcjBGN0s1cU0telRNdUlVejdQaUVvT3AyMlJBRXM2MWhGdnZEZVRxeVlRNS1BZUxDVzRUbnR3Nmw0UnJOSmNia2FiM3NFOTZBTDBPN1lsZEw4cGxvaHYxNThKMlNHcndiN3RMYzBzU0xJQjV3VlU?oc=5",
+        "source": "Sky Sports",
+        "published": "Sun, 18 Oct 2026 13:31:59 GMT"
+      },
+      {
         "title": "Manchester United commission detailed Natan reports as Barcelona open transfer talks",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUllYR04xR2FPODhoZDBtdVVPM09BcHdyY3VUeXpUNzdacGR5cHNnQ3k4cnVYbTBzQVNhelh1Tl9KSzF2MFJvUmtaaXcxdXlrMC1lTUxDOWRCTjN3T283TGlWQlR2b3k4NENraWgzTjhFcG9mcW5HdmRRZkZOOFZ3ZGU3MFVBSmRySWliZDFTdGJoQjVnelhv?oc=5",
         "source": "Yahoo Sports",
         "published": "Sun, 18 Oct 2026 10:55:00 GMT"
       },
       {
-        "title": "Alejandro Balde to Man Utd grows more and more likely – ‘It could be January’",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWY3UEhicmRUaXZKRWpIX0RlOTdacVgxd3NsWU9NYWlVLUV5RWplQ2djbjBmOVlfWjF4a1ZfNzZFUjNMN0w1cnRHOGgyZXR4UzNqU1BobUVPRnpJUjJzQzJsdTM5MEtGSExCaVhvSGd3OEZIbFRTMmJZbm8yLXBzZF9rMTVNODVSMkVfYkcwVTI?oc=5",
-        "source": "Football365",
-        "published": "Sun, 18 Oct 2026 04:40:53 GMT"
+        "title": "Transfer news LIVE: Bayern Munich want Florian Wirtz as Man Utd consider Martínez future",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdIMWFJOVNNZWJuNS1ndjZwc1FQN0l5c0sweTk4Yk9mVjN3SFV5R0VKS2dOdWV5NFlHUVJzR2hfZl9zeWZDaVNOQUhNRXJ5anViclN2aTduQ0R3ZlN4N096ZThOWXlHUHJtQmtzUzFXanJDanNBNExSaGtnbU41Z09DUWZlN2R1MFhMX3ZxbW5YcHcxWkVMZXVqbDRuZGtpbTMxZVBIYXFOaWU1YmVaM1BCV0VhZUFxUmp5bS1aLTJZNHM?oc=5",
+        "source": "Transfermarkt",
+        "published": "Wed, 14 Oct 2026 07:00:00 GMT"
       }
     ],
     "rm": [
@@ -1582,6 +1582,12 @@
         "published": "Sat, 17 Oct 2026 09:51:46 GMT"
       },
       {
+        "title": "Barcelona coach identifies Real Madrid target as a priority ahead of January transfer window",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1BKSHJuUHJVZHhTZzBPNkthcmp2cnhyaHJ0WGFuUkFLOV9ldmpxbm1la0xWMTVxS1FIeWM5U0RaU0xCeTZCbnF6cE4zWUdlQml0RDhMY2ptOU1kZ19MaFBpSkpRc3IyOHhJMkE4YWhNeHhCZkdiYkdDeU9IRGludi1vSWUtYUNiWUZ6N2h1aFYxeVBaNGF4UXRoZUNtR0duTlFOVDhSb29KaENXQl9WQlUyN005dnRFYW43bw?oc=5",
+        "source": "Barca Universal",
+        "published": "Sun, 18 Oct 2026 13:39:31 GMT"
+      },
+      {
         "title": "Transfer Rumors: Real Madrid Push for Vinicius Jr Sale; Haaland Requests Man City Exit",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcE9WaUVFdC00NU9LdXdhQmE5bEg3aG8tZkVmWGU4dll1ZmNZcVZBY3dTVmk4amhpQ1FLWVBWRldjRklMVi1QN2RRbW5MeUg0MGkzRTE5a3FJQXRxcVF3ZFppMlYyNzFuUTRTcW5Kd3hRbm85emgzU0VRM3R0akZlQXpva0JqVS1jMHhpbkcwa0RlaG9LRlRIU0JmLWRHNnlaRHlr?oc=5",
         "source": "Sports Illustrated",
@@ -1592,12 +1598,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVp0X0g3YW5HM0NQZXNYUG9jLUhJb3Rja0t0eTl0MzRPdExhOFZMeEtRZ2hJaDRGQ3JpMDh4V2J5dF9aTzJINEpubGlDME5xSXBmQ09ZSTJtSTYxdTk5Um9aaGJnMTY3Yk5SdTk3TmtRcElOZjl4YU1pdDVBc1R1MzEyYWE4QXp0b3NBXzVxR0NJa3dJMFE?oc=5",
         "source": "talkSPORT",
         "published": "Sun, 18 Oct 2026 08:58:53 GMT"
-      },
-      {
-        "title": "Transfer news LIVE: Barcelona want Junior Kroupi as Arsenal consider Kim Min-Jae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUc0S2Y1YkxwVk9nektqQ0tmeDVNZFdnY3BRYnM0cGpfb3lWUWc2SnpSSUVFX1pTTlBVeklsQm1GLXlRYU9tcUN2RnRSa0F3enRLTkE1Sm9RZXltbTRucTlwRlRSclg5V0VSWE5QaUNuTmFlYi1uemlKUE9NUzV2eEpDc29SX3BDd29VQ3M4X0FMY1dtNlBTNzN4UTNjSk1BeTFJX1ROUFVyZmpZUkVLVUtrT21hSmQ1emZiNkJTdlZibzZ6VDNMcFJ1eG1KTlJz?oc=5",
-        "source": "Transfermarkt",
-        "published": "Fri, 16 Oct 2026 07:00:00 GMT"
       }
     ],
     "fcb": [
@@ -1617,19 +1617,19 @@
         "title": "Liverpool: Bayern Munich reach decision on signing Wirtz in January: ‘I feel sorry for him’",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWZpZ05KWnlENThNRmM4bU8tUy1BdXFKbWpPQjU3X0s5aGRhZnZNU2tXaUlIMVpXTEJoSzA2eVRwWGVWd0dkRDBSRENJSU5jXzVLa3FBZGt6U3Zkemctb1BZYWdDZnctX21BbjExc1AybWZoV21tM0NxTlBsc25objNmN29VV1ZvdkdsUVp2X3c1RjNwdUdnZEdnRzM?oc=5",
         "source": "Football365",
-        "published": "Sun, 18 Oct 2026 03:40:00 GMT"
+        "published": "Sat, 17 Oct 2026 08:54:37 GMT"
       },
       {
-        "title": "Bayern Munich star reaches verdict on joining Arsenal as astute £34m signing after Gunners injury blow",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWQ5WnR3emI2Qk1UbWtacjQ2cXVoVXljVnptTUdIdzdBRndVQWlFSzNlaV9WT3UxeWdISHROZUFLam5qSV91ZFFzSTR2V2hsUVNVUU13Y2lLWUdlbHg3dnB1TVBZNHhpT1Qxd18tZ1N6MXQzaDhIZm81ZGhHYjdpQ25vZHI4OFBjU3JCYTR1ZlVRTkUxQldYTXB0VFNEMWc0MmFZZQ?oc=5",
-        "source": "TEAMtalk",
-        "published": "Fri, 16 Oct 2026 12:39:48 GMT"
+        "title": "Bayern Munich chief feels 'sorry' for Florian Wirtz with transfer claim about Liverpool ace",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHRCR3g1ZXkzNkZiZTRTVVBBVWpDaFMxYWpIWTVkT3pIRjd3aUFfaHFjM1NiQjdkZ1BFSnFDVjB0Z2RTMEpxMGsybm5wWUhMQnpIenpSSUxPMjBKOEU3UnJwbHo4Nm12Sk1sVEF4QmpUUDNBcDBPMERsallpMlBqWnZlNWpFWlFrd3JKMWRDbThCSW05ZUZoSDZhUlVnd1d5dFRvYWlqd9IBrAFBVV95cUxNSHVlNXNGXzJCMUVlNHVJVG81cGozVWU0STdPTHBldzFqbDB5Q2ZYM2VjdjQ1a0tWdjdUWW5KcTJtZ19lbC1XY3p4cGM2ZDZuS3l5cHVPNjIxV1E1MVktT2FxZC11SjFyS3BPbmxyRGp2dFRjVjBLa1JsNFJmUVI0X2M0R0Z4YXFiN01HUHJ4dFJnTS1ueVIxZGVQeU1ENm9oXy1ubWpNVXZPZmg4?oc=5",
+        "source": "Liverpool.com",
+        "published": "Sun, 18 Oct 2026 09:46:14 GMT"
       },
       {
-        "title": "Arsenal wants January move for Bayern Munich defender",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcE5lZmZ0QUpHTnhXZUdSY0NFM0plRUtITHFfWktGRTBxNy1kZ0hKSEpockN0cGdGYkpKSjd1RS1RYWp1QXVVeDJjdml4czl5SHZZZTBIX005ZW1kbld4YVJHS3AyME1zX2kyNm56NDI5MWthSThiNmd4Z0JPZGZRR0dNOFpzZk40eHZjZzBkZVFzUdIBlwFBVV95cUxOZERhNEpzbmdMV190alB5UUxVZHIxMkpVS0hlT3ZxMHhBU0o5dVVxNkNHeEFuZ1VybVhuWS1MNmVTaDhSc0Y4dHVTZnBsMlM3RXhxV1BUUXd6T0pEMVRNb0dhLUl2TWR5NUJjY2hWcDlQclM4RUJ3RmpDLURPa25ySmFlc0JBaEY4VklTa2V5MjF1Vnc3TDVF?oc=5",
-        "source": "Just Arsenal News",
-        "published": "Fri, 16 Oct 2026 11:00:00 GMT"
+        "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUk91QUU0Y2VhTVRoTmE2dzdQbDVUREpVSlR4ZjZtT0ZUY3RkbGJfTlFuYW1VODA2N2JDSlpIaWJJdFlMU3RiZVlvdDdoVy0wUnliNkgxNzRid3RFcTlIM3pqM3l6MzdlRXFhd2V6WG9XVmV1QUxpU2dydHBNR0hWZG84Q05vY1F0cmpLVk9Jc2gxdE1CeDMxSm5MbGdQZzRYcE1HT1BsajdGTXJoUU56R2RDemJCN3JuNmc?oc=5",
+        "source": "ESPN",
+        "published": "Thu, 15 Oct 2026 20:43:00 GMT"
       }
     ],
     "ars": [
@@ -1646,6 +1646,12 @@
         "published": "Sun, 18 Oct 2026 10:33:00 GMT"
       },
       {
+        "title": "Ruben Amorim ready to ruin Arsenal transfer plan",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEl4cVRERHEzN1Jta3A5NE5fM0tseEozQjc4RDR5bkFhSTFPYUQ0VU5lWjZPcU5jdnBDdURpV0VZUk9nVWplQy12cGpVeXVXMkdySTRaX1ZtaTUyMXFud2xWam9rdnBSeUhQdnJlZHBMTDlPWktJR29zdG9oRXR2LVd2MHMzU1o2bVY1a3lZMHl3dkNMMG1OVXcyNGN4TERoeV9lLV9ITElvTE9RWklmNFdHLWlvdzR4NkYtZk02ZXZNNGM?oc=5",
+        "source": "LiveScore",
+        "published": "Sun, 18 Oct 2026 13:12:40 GMT"
+      },
+      {
         "title": "Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVp0X0g3YW5HM0NQZXNYUG9jLUhJb3Rja0t0eTl0MzRPdExhOFZMeEtRZ2hJaDRGQ3JpMDh4V2J5dF9aTzJINEpubGlDME5xSXBmQ09ZSTJtSTYxdTk5Um9aaGJnMTY3Yk5SdTk3TmtRcElOZjl4YU1pdDVBc1R1MzEyYWE4QXp0b3NBXzVxR0NJa3dJMFE?oc=5",
         "source": "talkSPORT",
@@ -1656,12 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1dySTBReUlSbUNaN3dWdGFESGg3QmVjZ2ZmanVJYllRZ0ZuTDRVMEtWdW8wakVwZXVESm9NSndkdVVhR21KUm8tMlZUMGpGZ1E0UWtSUGN3aU12YzFpYjJsMDVUSkd2WHBSUDlEcU1oeW96eWV6eGo2VElOT1ZFdjZoRjBrZkV6ZjhhTVVsU2FWbVJEbnlPZ0JqZF9XQXfSAaQBQVVfeXFMTkFCZGh0Q21SOXZUdzk5SEJqU1R5SEVlUTNobmRWWVQ2WXRpbFdVeVl5QldGNlhtcUJhdkw2MVVQNHM5VVBpYUpjd19wZ2pDVUE3VVhrWE9JeVlFT0l6QUVMNTVJQTV0ZUpOQ1dFZ2dsd0pzYy12czdoZTRndUY5TDNlOVFGMjlJbm5RamhYenlXeS04OHpuM3VNVnZlSlJNRlpiUG8?oc=5",
         "source": "Football London",
         "published": "Sat, 17 Oct 2026 08:16:21 GMT"
-      },
-      {
-        "title": "Arsenal midfielder slips down Real Madrid shortlist ahead of January transfer window – report",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHFzSzR5TlcwN29fRjVJTm1IRkNncmtYNUFqUEpZbnU0MVdjV0N1Uml1YWFpbEZ6bDZPMFl4QUZyRDhyUFpYQm0tNlpDVWRaTlNSakxSOGVlS2JSSEd5R2lYQWFmUV9xRy04WmdNOFM4ZndqMF9YN0ZXWWJONTdiQXA3OXFSdFkwTE5J?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sat, 17 Oct 2026 07:00:00 GMT"
       }
     ]
   },
