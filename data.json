@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:43:25.481413+00:00",
+  "updated": "2026-10-28T14:41:07.785426+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,34 +1538,34 @@
   "rumors": {
     "utd": [
       {
-        "title": "Transfer news LIVE: Arsenal learn new Alvarez decision; Carrick latest",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2FKeW9aYTA0dUVXTkU5ekNNeDh2TGNlTHN4S0ZoVUppU0RObG9jVFRINTZScWdMNFpPTDltdWliQ3d3Q05pV25HaWpzMnJDVEZwbk9uUzdIdjZwaGtUR0RINkU3LVZlOUcwWlRRdmtYQWtHN0xxYjF1NF9DS0xpSWJmaF9MNzlDb2R5cDkxYVVRdFFlMWo5SFVDaE9IdHNhRERiaU5ZOGZ1ZkJPaDZ5Q1h0cFlLQXl3MGFpSklsNVNjNmNtZlE?oc=5",
-        "source": "London Evening Standard",
-        "published": "Wed, 28 Oct 2026 07:13:38 GMT"
-      },
-      {
-        "title": "Manchester United: Eddie Howe compensation fee to Newcastle revealed - Paper Talk",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNnotV1hCOWprSVFNU0tSU2tqZzZhOHdXWFdFbXRUeVNBWi04R3lxb04wQzRQc1lETUZESEl5NzcwbVdMMjM3SUMxeXRPd2FhUE9fNlZEWU1Tb0FjUXRDaTRucy1oWVhBelJ2M2JvX3B5dUpjekNfV1lPRkJWbFpvVGJtTGE5ZzlVaGJDelZZZE5hUEMtYkdya1QzMzc2akprclRLX1hkZGVmdU9YVVJLSnRlcjgxR2VoczNiVnRCb2Y3QWh2eU50RjNMbXVOUExVWkc0ZHJ5WkNWQQ?oc=5",
-        "source": "Sky Sports",
-        "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-      },
-      {
         "title": "Transfer Rumors: Fernandes to Leave Man Utd in January; Real Madrid Set Vinicius Jr Price",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUZNVHBESjVzZW5JcmZvUFJ1ay1tbVZiVFdxRnBwdjRSVUl2SVVIeUVmUnJCZlJOaVZibGVnd1pwSmJzX0FHdUJTcFNrczdscy04M1FKd1FDZERIbHVTSE1PWXdNbDEzc242bVJwYUxkb2djZU9xOG0zXzE4SnlJekNPXzNnOGJfWmMweVBEcURDdGpuR3lYTEc1dDZKTEg0RTFsekFB?oc=5",
         "source": "Sports Illustrated",
         "published": "Wed, 28 Oct 2026 00:05:00 GMT"
       },
       {
-        "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1lRZ0tONWZtSVpEVkk0UlRya0FaRjNtZk82ekZGdm9Jd01QX1BvcjE0UEFRa1pPUW5TZTU4dU82TjJfMnZsSVU5UHNoZUQxVnlSQTFsRWFTbFFPbFVEMi16U212NGxWVFJqaEEzeS1PLThBV3pCRGQ4am4zbHdaWnVMT2ktd05aalVzdGhkOC1wZlZCRndvSWgxbEJLcFI2eTZsNGprOTZUazJTQ0h1WVNMcF8?oc=5",
-        "source": "ESPN",
-        "published": "Tue, 27 Oct 2026 14:23:00 GMT"
+        "title": "Manchester United: Failure to agree on Michael Carrick’s successor buys under-pressure head coach more time",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZ2s5WVhNYnRfcEItNy0ydjNUZ1lOV3F2WUpTRWpHTllrb3g1NmZVMXlMVUNPREdzeHY2NkdQYlB5ajZkNVVKOGlrX1lmaEN0eEYyVjJSVXVnUWE5V3NlaW5pREpzb2NqN2FTNW5WWmJTbGd2NWtyZWFTdFJrNDlzakdIUlBNTThva0FrX0xzb29STUNsNmx5RHNQQjFRdnhQVzZBc2VfRW1vc29scnQ5N3Bsdi1sejNFNGdMbU4wUEFyNkh2V1F6QlB0aTBSNFZ3T3dFYjdjOTVhbEtVcWpVYTd2OTZPN2NsU2RPN2NZM1hLaFdfd0lScmJscGgyZjg?oc=5",
+        "source": "Sky Sports",
+        "published": "Tue, 27 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Bruno Fernandes tipped to leave Manchester United: ‘It’s coming to an end’",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanVYUnNQVzJXOGtjTzB3VFRaX2plVjd5MEs2LV8zNDNRcmpLUVVUdDZrekpzM1VGclZPeF9CMkFrSkM0a05tb3ZpSUI3aEJzbTVJTnBGczctQkdNZVJscmc5d2g3NVNOVnZudnQ5ZjlzQ2FxWGEzSS1CZkdmYjRDUjc3SGdqLW0ybjBqUk84bHJBSTVuUHBQcGJkZ056R1k?oc=5",
-        "source": "talkSPORT",
-        "published": "Tue, 27 Oct 2026 10:13:58 GMT"
+        "title": "Man Utd CANCEL planned January signing as INEOS devise new transfer strategy",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTk5OUtmVlRKdzhFZkYzdzU5b0dyZEN2c0dJeFJGZm1vV2hmaUh1dHpjU2hQdHpqYzRZc1Y5aUVmYXZoZWhRbEpheW5BdTZ5TmpCMDB4cGdiYjRWT19DVW01UXdaWXp1bjZfWGh4UkVLVzRpemV1TGxkLV9zUHN3aWM5cExBZEJEQUxXQXVUbm9oOFNHemg5bjZYLWRiLUdvb3RqZ1hTb3BVUVRSTzRFTkZ1RWdldWc?oc=5",
+        "source": "TEAMtalk",
+        "published": "Wed, 28 Oct 2026 09:23:20 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Arsenal, Chelsea, City tracking PSG star Doué",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWEFRWE4wZVd3YTEtTktXY2Y2QXlVVTg0ekYxaFZBVnNCaWx3cW5xbVJVS0k0TlIxYXBMRUJEaEFSNHNPVU5mUjBqU0Q1ejZjVUlFeXZfRVQxS2VjVkJpWVBKYWJQQXBfN3NVbno0TkRnRnVUY2pYRnZfVlBtbEZvUEN2RVNSUkZDc2VwZ1lYRG1QU0p1bDhZaVR3aXU3dURNNU9hSFZST1RSZXpzZDNZQzdybUhVcVR2ZElVS0tJTzFUMFMtZ01McVhn?oc=5",
+        "source": "ESPN",
+        "published": "Wed, 28 Oct 2026 13:01:00 GMT"
+      },
+      {
+        "title": "Carrick sack news LIVE: Man Utd latest as shock decision made",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYy1iendtVnAyeld5YTBiNi1KMkY0S1d4OU5oU3VfcjJsdmFjN3UySVVLbkFXSUNBdVBkMFhnRmd3YWFxbmdNQjdIZEVELV83UnVwaG1lUGdBcUlyUjJKU3FuTnlXc3I4MGpnZVdoNHVlOVdnNjVRamxBY2lDQzdCbEQzbWxZa1BTcktTbjNwbTJOdGlmSUE3NWJzbkhHTXVUbG9BMm5MVUNycXRkTU8xUF9aZmRiWG1xLTJFdG9ZNWZZQQ?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 27 Oct 2026 23:42:36 GMT"
       }
     ],
     "rm": [
@@ -1576,16 +1576,16 @@
         "published": "Wed, 28 Oct 2026 00:05:00 GMT"
       },
       {
-        "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
+        "title": "Transfer rumors, news: Dortmund's Nmecha among Liverpool's midfield targets",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1lRZ0tONWZtSVpEVkk0UlRya0FaRjNtZk82ekZGdm9Jd01QX1BvcjE0UEFRa1pPUW5TZTU4dU82TjJfMnZsSVU5UHNoZUQxVnlSQTFsRWFTbFFPbFVEMi16U212NGxWVFJqaEEzeS1PLThBV3pCRGQ4am4zbHdaWnVMT2ktd05aalVzdGhkOC1wZlZCRndvSWgxbEJLcFI2eTZsNGprOTZUazJTQ0h1WVNMcF8?oc=5",
         "source": "ESPN",
-        "published": "Tue, 27 Oct 2026 14:23:00 GMT"
+        "published": "Tue, 27 Oct 2026 21:42:00 GMT"
       },
       {
-        "title": "Real Madrid legend reveals he tried to convince Rodri before Barcelona transfer: ‘I spoke to him…’",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGpBdEx6RFhsZThScFFVMGpGX0k5MHlKazc1dTBPdWF2bEhlSXF0LXptZVl1TG9SNVNyeGtnRkpzTTRJRDNzbmxtZVpyNlZyaXEtX21UbVFtay02eUdEU05ZbTVRZi1PZExfUElNcDJvQ1dwZDAzX3ZnUEc2YUo1WExNcEpJZU5H?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 28 Oct 2026 07:20:00 GMT"
+        "title": "Transfer Rumors: Real Madrid Want Saka; Haaland’s La Liga Plan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGstekxJUm9TNHVNWUx5d0pZVWtpSlprS1dwc3NxYUlsVkZPMFdqTndCVmRGZlREcUFHcG9VcDAwZzQzaFo1WWZjRURZNzNCZkFiTXRLSHVWNkFwZmZSZkFzczZvU0tKbWE0a1dJUGNobkNqR1NvWWpMeGMzNWRrbHhWNnJjN2JVenR1RkNveWNMWk9sY0I0MEpMZE1NRnFrNzNtTkF4M0JwUQ?oc=5",
+        "source": "FotMob",
+        "published": "Tue, 27 Oct 2026 00:05:00 GMT"
       },
       {
         "title": "Arsenal face new shock Vinicius Jr u-turn following transfer talks: report",
@@ -1594,13 +1594,25 @@
         "published": "Tue, 27 Oct 2026 15:00:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Real Madrid Want Saka; Haaland’s La Liga Plan",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGstekxJUm9TNHVNWUx5d0pZVWtpSlprS1dwc3NxYUlsVkZPMFdqTndCVmRGZlREcUFHcG9VcDAwZzQzaFo1WWZjRURZNzNCZkFiTXRLSHVWNkFwZmZSZkFzczZvU0tKbWE0a1dJUGNobkNqR1NvWWpMeGMzNWRrbHhWNnJjN2JVenR1RkNveWNMWk9sY0I0MEpMZE1NRnFrNzNtTkF4M0JwUQ?oc=5",
-        "source": "FotMob",
-        "published": "Tue, 27 Oct 2026 00:05:00 GMT"
+        "title": "Real Madrid told they made transfer mistake not signing Harry Kane to replace legend",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMW1ldGVoMXBKN0lvb0gxV0VSNElDcGdqYVlZdTBnMV9qT3FoVGpVMmNMNlAxb25CeUFDTFlPVXMybU5GQXRBb1dwRUh0RnlvSDFwNUdVZzhWZWpDWmZEZlFzLWhhYjNBUGtwUjlIMFlSVXpMU0FOcV9HTXFxV1BvcjBrSlRCTklhUGV0cUptNG1NcmNhN2trRg?oc=5",
+        "source": "talkSPORT",
+        "published": "Tue, 27 Oct 2026 17:15:22 GMT"
       }
     ],
     "fcb": [
+      {
+        "title": "“We can afford any player”: Bayern Munich boss makes a clear statement",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUUxdmlFRTNBUEZyQlFsQVo1NXFoSVB4NlZnWnY1Z3lVeV85akZlT0hrUXctdDZXZkM4OGZicU4wQVI1M0pqbjhMam9jUE1kQ3U1ZFZnYjZ0R0VyOGp1cTFOaWY5emYyY0dSNTlhbUx6bWpMMkI4eXplY0lPajF4bU1yeGZsczUtYjkxcEw1RXdtcXBabGFvb21WSmJoS01ZQWUzNHh5WV9GQzFUWkEtRHh3?oc=5",
+        "source": "Goal.com",
+        "published": "Wed, 28 Oct 2026 06:44:32 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Arsenal, Chelsea, City tracking PSG star Doué",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWEFRWE4wZVd3YTEtTktXY2Y2QXlVVTg0ekYxaFZBVnNCaWx3cW5xbVJVS0k0TlIxYXBMRUJEaEFSNHNPVU5mUjBqU0Q1ejZjVUlFeXZfRVQxS2VjVkJpWVBKYWJQQXBfN3NVbno0TkRnRnVUY2pYRnZfVlBtbEZvUEN2RVNSUkZDc2VwZ1lYRG1QU0p1bDhZaVR3aXU3dURNNU9hSFZST1RSZXpzZDNZQzdybUhVcVR2ZElVS0tJTzFUMFMtZ01McVhn?oc=5",
+        "source": "ESPN",
+        "published": "Wed, 28 Oct 2026 13:01:00 GMT"
+      },
       {
         "title": "Bayern Munich News: FC Bayern legend implies Liverpool has mismanaged Florian Wirtz; New clause for Harry Kane contract?; and MORE!",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRDIybF9nSUhjTVBGM0NrQXZHVHBUMkN4bjRka1ZtY2pBNXpUUjVQd0RXdVNsd1JjUFhtNDBDM2N4TmFMbWJTYkdIQmdWNWlIaWdoMHhnWTdOTkxlUHdGSWxFazNUelRYemlpMzJyNVJGOXBCZW5EWFRUTkJjS0ZkeFpXM3dsaV83ZjVYYmV0ZEF4YUFNNmVfYzZwc1doSlN3ZU16a0hFTHFPUEhpVVhpVG1hYkxqUVpRZThpVVh4Qm1ZVDN6RGNfVzVicGZCa3ppODhfbjUtVmN5ckRVczJTMTgxanM5V1AxYUFCMGRxdURmZ2lsMGVSdmp2RDVVVkxK?oc=5",
@@ -1614,36 +1626,30 @@
         "published": "Sun, 25 Oct 2026 21:34:31 GMT"
       },
       {
-        "title": "“We can afford any player”: Bayern Munich boss makes a clear statement",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckZfdkpINWdvQ3BkWkNXWENGYzB0enlYOEc3bXdMdDROTW1nUVdxVlFwSEREcnFZMmFIa0FjQ0p0Y1g3ZjlWY3FEYWg4VDBMZklsTXUxYmFzei1ubU4zNkZKQlBGNUEzcUxtUkQxVlE5eXVrT1hCNm5RZzd2ejlYQmlWdW5BM3U1VXE1TzF2UWxIaHVNSkZkaHhiNW1QbUpmSGswMUxQcXBFaWJYU2ZVM3hjNXlIZw?oc=5",
-        "source": "Goal.com",
-        "published": "Wed, 28 Oct 2026 06:50:19 GMT"
-      },
-      {
-        "title": "Bavarian Loan Works: Bayern Munich loanee scores lone goal in lopsided loss to familiar foe",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEpIWDRHOGJVYzhhSVpmRDhHNldac0Q4dFZxT2MzZGkzY3ZJdDQwRlIwYXI3Z1RpZDEzYjFpNVUtRzktQ0w2NDdMU2FtdDdDLXRJSk1oT1dPTlBtczR5MFJkNVdObWR4dWt4OU00MmVIWWwycGw0aFhfTWRWbDNSQjA4LWp1WVkxMi1Rb1hTdHpUNWc0d0lqNG1MTThIcmxINnhpaWVaQzlTLU1xN3huOF9OU0JWbnR6R0Fueg?oc=5",
+        "title": "Bayern Munich supremely confident in Jonas Urbig’s future",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWcwTkpMSEdOV1RYbDM2emZZcWVXOXM5Y0JLdUd4RUxqdkFIZ0pKeFFQeFA4QTBZSFBUcFQxRzJMSmczTVRFd0k4N2hqM3BsRDR4bWxPS2F3aTJCd3pUZEMtS2JKMFNWMW03Q0J2cDQxYV9NREdMUjlDQWlYemZRM0RiVEJvNkhiQ2pmMEx2UU1tYld2QUlVQ3FCdGhCSWozbkVSWVBOV0ZtMGhyYXRnZUxRdHB2aEFnZGswX2NZdHF2QUQ4TzNmVVpJb3lxSFI4TVE?oc=5",
         "source": "Bavarian Football Works",
-        "published": "Wed, 28 Oct 2026 02:30:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Man United to offload Yoro to Milan?",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkNqc1d0UHNvOEl5RE1HNUpsRWtOcGVHQ3lwaVk0RWEyQ2FrbUhGblVlREdWTHE0bklXQkhZOGdDOVFDWVk5SkNKZy1oekgyeWxzX0dJcXdqMzR0LVpsSDh1VHdyXzNDa3RhTEg3TlNjclZnbW80cVpJXzU4UUVhSHkwUE5GX3FoWml0SFBuZ3pXejVPRU1nd0ZNWG9jVFAzczRtSGpLRXlzLXgyNTh3cVF4Y2pqc215N3FTUHY0NERhR2dfbGl6S0haTm1EaHc?oc=5",
-        "source": "ESPN",
-        "published": "Sun, 25 Oct 2026 17:00:00 GMT"
+        "published": "Wed, 28 Oct 2026 14:30:00 GMT"
       }
     ],
     "ars": [
       {
+        "title": "Transfer news LIVE: Arsenal learn new Alvarez decision; Carrick latest",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2FKeW9aYTA0dUVXTkU5ekNNeDh2TGNlTHN4S0ZoVUppU0RObG9jVFRINTZScWdMNFpPTDltdWliQ3d3Q05pV25HaWpzMnJDVEZwbk9uUzdIdjZwaGtUR0RINkU3LVZlOUcwWlRRdmtYQWtHN0xxYjF1NF9DS0xpSWJmaF9MNzlDb2R5cDkxYVVRdFFlMWo5SFVDaE9IdHNhRERiaU5ZOGZ1ZkJPaDZ5Q1h0cFlLQXl3MGFpSklsNVNjNmNtZlE?oc=5",
+        "source": "London Evening Standard",
+        "published": "Wed, 28 Oct 2026 08:52:17 GMT"
+      },
+      {
         "title": "Club Brugge send message to Arsenal over Nicolo Tresoldi transfer deal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEtBb1l1VmVWUzFTVHR1VDFlVzd2Y0ZXeGpUR19wTzJqRGZ0aFFXX09PMzRjeVlCa1JxeHJtbHA1Um5iajdRc1FSazh0RXFjU1liLU5zYm50OHdsRU1aQ1NnWnVhVWhOWTZTc2sxWjdSbVN4cTJka3dCVndwMXYxY1RCdWpFbUtnUE05Q0YxMHliaWJsa3FnVHpTcVladzg0ZW1KanZn0gGrAUFVX3lxTE1za1M1QUlOYlh4N1E4dDdTa0R1SHFvWjZpU1JLMFZyamlvOEJxWHUwZGpLaUlyTy03NHlxYVdER09OMklDb0E2VTJmWm9ZV1J3SW5LZlpvUE1XVnRlZHpjaWdLeVlGRndZS014Yl90czhGU3RPSmNEbW1paU9RM2VTRE9ET2dOLVJYNUlyTmFPOHNvelZEOFpPaThDWGliU0w5QWxlcG5meS16VQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEtBb1l1VmVWUzFTVHR1VDFlVzd2Y0ZXeGpUR19wTzJqRGZ0aFFXX09PMzRjeVlCa1JxeHJtbHA1Um5iajdRc1FSazh0RXFjU1liLU5zYm50OHdsRU1aQ1NnWnVhVWhOWTZTc2sxWjdSbVN4cTJka3dCVndwMXYxY1RCdWpFbUtnUE05Q0YxMHliaWJsa3FnVHpTcVladzg0ZW1KanZn?oc=5",
         "source": "Metro.co.uk",
         "published": "Tue, 27 Oct 2026 11:48:00 GMT"
       },
       {
-        "title": "Transfer rumors, news: Man United to offload Yoro to Milan?",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkNqc1d0UHNvOEl5RE1HNUpsRWtOcGVHQ3lwaVk0RWEyQ2FrbUhGblVlREdWTHE0bklXQkhZOGdDOVFDWVk5SkNKZy1oekgyeWxzX0dJcXdqMzR0LVpsSDh1VHdyXzNDa3RhTEg3TlNjclZnbW80cVpJXzU4UUVhSHkwUE5GX3FoWml0SFBuZ3pXejVPRU1nd0ZNWG9jVFAzczRtSGpLRXlzLXgyNTh3cVF4Y2pqc215N3FTUHY0NERhR2dfbGl6S0haTm1EaHc?oc=5",
+        "title": "Transfer rumors, news: Arsenal, Chelsea, City tracking PSG star Doué",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWEFRWE4wZVd3YTEtTktXY2Y2QXlVVTg0ekYxaFZBVnNCaWx3cW5xbVJVS0k0TlIxYXBMRUJEaEFSNHNPVU5mUjBqU0Q1ejZjVUlFeXZfRVQxS2VjVkJpWVBKYWJQQXBfN3NVbno0TkRnRnVUY2pYRnZfVlBtbEZvUEN2RVNSUkZDc2VwZ1lYRG1QU0p1bDhZaVR3aXU3dURNNU9hSFZST1RSZXpzZDNZQzdybUhVcVR2ZElVS0tJTzFUMFMtZ01McVhn?oc=5",
         "source": "ESPN",
-        "published": "Sun, 25 Oct 2026 17:00:00 GMT"
+        "published": "Wed, 28 Oct 2026 13:01:00 GMT"
       },
       {
         "title": "Arsenal face new shock Vinicius Jr u-turn following transfer talks: report",
@@ -1656,12 +1662,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEVCQXpYc1pzV1llT2VjZ1N4RUwtV2dCUlVzTkk0OFd1TDlpaXpOY3FwVE10Y0lZckJYRFBvVlRYRTdRYjZKX2xrNE0yZkxSMTJsNHR1c0RxVXNWdVFoOHBFdm1iX3g5TjJyV2hUVUhJZ1M3dkVBVjNyVVZCZTJRbFQ3eV9YakJ4LVE?oc=5",
         "source": "Yahoo Sports",
         "published": "Tue, 27 Oct 2026 14:50:00 GMT"
-      },
-      {
-        "title": "Arsenal latest: Declan Rice concern over new footage as Brighton transfer target emerges",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjhIeENKYU5FT1hLSmhEakZ0Y080WjFEUDZFSDBxSXpkLV8wVlJ1bzMwVks4azFlR216QVd3OTFadkcwUF9GLUNFakR1TGE0SjVycHpZdG5jT3pkdTVqb1RfZzlyWUpYZWtvUC15WEJrcTNhR3FLOVViWHE2UXVSaTdkdXdFcUluUmViRDZURXBGeHRY0gGaAUFVX3lxTFB3SnRnN2l5TkREUEowZlJHZHNZaG5QdnMzRmhmUGx1dXpTVEJ3WEQyMW1ZSjFzNWVUM0txVkVWQjZWUHczY0k4cU03V2hxVW8yTmNwdEtVUmhab2tfdFhFSFRhVE9JNXZhdFNxcFMtVGt5cWxDYUhCNjZ6M21nbjFMYlNLU1Atd25OYWRWY2ZKRmh6ZWU5MjZrc2c?oc=5",
-        "source": "Football London",
-        "published": "Sun, 25 Oct 2026 05:22:55 GMT"
       }
     ]
   },
