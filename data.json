@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:47:13.974530+00:00",
+  "updated": "2026-11-07T16:41:08.402718+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,16 +1538,16 @@
   "rumors": {
     "utd": [
       {
+        "title": "Former Arsenal star urged to reject Man Utd transfer: 'It would set him back'",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzk1TTNNRGxHeGRVcHRSWE5PLXktY2d6ZF9vcy1WdkZfRnEzS0UySFl1eTE1UmlTb1dXRXR2SU9nMDFPamxvLVVOblFoUkVOUnRfRDNMWWtpa3paNFpYd3dCN2ZDRExUS19VeEVhaGNBdXI0bm1IQmFKWjJ5VnlwSjhWblJpVS1BQlpvY2pPaUZlenVTbGJkdmh3b19yRDk3X2QyV9IBqgFBVV95cUxPbGJJdHFZcjNzdnRzM2NrYW53Y18yX0kxYVlkQXV4aXA4dWlZZWNtU2laeHlxckF1dGlhTjhMajhfV3plNWhRZ2FYclRDdXlqZ1hiWE1qU0ppSk95OWVobnkyY2ZyWEVHMTFWZHBqbmhKZFFnRWk0Rl9hMW92ZEl0RWJZREF4R2h5NkFYczZDNEFNT2JxSXQ2d0E2LWtMU2NLcGVDcDk4WHNwUQ?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Fri, 06 Nov 2026 20:51:00 GMT"
+      },
+      {
         "title": "Man Utd: Striker signing expected to go through and major star leaving – Fabrizio Romano",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnlqVHc0dWNQVXlPZUYzM0JQTk40SFBiSS1GMTdmUTVONXRZUXJtZnl1ZU5XczF2Y1FaRUp0QmRDMENhMk16OVZVNzlxWkJpX1JUaEhuVEpRdjhSbF8xcUNpUkRqT1hHYngteGdoTzBNWGRhUmVsc25WaTJqSnVOSlNLc2Y3UXNBdXFSYlVZalBCblA3bEptMUFoOWI4cEV2?oc=5",
         "source": "Football365",
         "published": "Fri, 06 Nov 2026 20:13:52 GMT"
-      },
-      {
-        "title": "Man Utd January transfer set for ‘here we go’ as Romano confirms advanced talks",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0lfaUctQjk2Nl9kYl90ZmFJR2FCV2dDbXZkX3JiVFpXZ0tQX1dQRlZacThYZk05T2EySVBTNWJSY0lYaFRsZHFnNWZfMW14d1NyWWR2OTJuTWJnOXJsU3lRNTFuM1BzYlA3dFNDaHRmaEdxLUhuc0FWNFkwN29UbG9ub3NVMzNTTF9qd1JFSDZGVHBISHVJSmpxRzc2UXZQdkpKRERqRkFEWWM?oc=5",
-        "source": "Football365",
-        "published": "Fri, 06 Nov 2026 17:53:52 GMT"
       },
       {
         "title": "Jude Bellingham 'intervenes in JJ Gabriel transfer' as Man United compensation fee emerges",
@@ -1556,19 +1556,25 @@
         "published": "Fri, 06 Nov 2026 18:36:00 GMT"
       },
       {
-        "title": "Real Madrid beat Bayern Munich in race for Manchester United youngster",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNlVHYlNFYk9ZRTFRT3A5eEpnM1hlR2tRRU1uczlMTWJiTFJMUFIxa2NxeVNxVjZYd3NVOXpEUjhuWjUzc0hoT3hIdVJXaS1SS0IwNVcyMEFKZ1FVTHp6MGd1N1hmMFBCc2VDME1UQklCWlVHU0ZzRzZrcjZYQUVxdGpsbmlMdw?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sat, 07 Nov 2026 07:24:00 GMT"
+        "title": "JJ Gabriel's move from Man Utd to Real Madrid hits stumbling block as 16-year-old lands in Spain to complete transfer",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVJERE1RaWgtUUVEX25GWnU1UlpiXzRWc3c2QThhLTduY0hmYUltUEpmQko3SU1ZSEk3UEdZQlM0UzhOSjdyUVBkeHpQVXh4eTZxTWpBY0ZHVDlGYVQ3cG9ta3JBYkxRc3JsNVdtX3g5Y3l6SDc4MW92Q0VPWVZkTzhZUkxlY2d1SGl3akhSTy1wRFM3N05pdDlnUEw?oc=5",
+        "source": "The Sun",
+        "published": "Sat, 07 Nov 2026 14:16:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Man Utd in Fight for Endrick; Barcelona Consider Martinez",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlQtODZGWjRNWU5yY0s4Um5yLU1rTFNfNjNYMzVjSkdhb2tjRXlERXoxUXVyVG1HUUtOSzBsV0p2dThNTjhjcHJCcGIyT2hvcUpJOWZDM3cyNm9xMDlsSHp4QkJuanRMRDJDa2UwVVcwS2lkQXZGTnYxMTdyaWhDSUdR?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sat, 07 Nov 2026 00:05:00 GMT"
+        "title": "Man Utd January transfer set for ‘here we go’ as Romano confirms advanced talks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0lfaUctQjk2Nl9kYl90ZmFJR2FCV2dDbXZkX3JiVFpXZ0tQX1dQRlZacThYZk05T2EySVBTNWJSY0lYaFRsZHFnNWZfMW14d1NyWWR2OTJuTWJnOXJsU3lRNTFuM1BzYlA3dFNDaHRmaEdxLUhuc0FWNFkwN29UbG9ub3NVMzNTTF9qd1JFSDZGVHBISHVJSmpxRzc2UXZQdkpKRERqRkFEWWM?oc=5",
+        "source": "Football365",
+        "published": "Fri, 06 Nov 2026 17:53:52 GMT"
       }
     ],
     "rm": [
+      {
+        "title": "Jude Bellingham 'intervenes in JJ Gabriel transfer' as Man United compensation fee emerges",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0htX0k1bjZyWGloYjEyYmF1WGJVRG1xTXVWaFlqX3pGbXMxZ1NOT1dZZFRiZkRSMVlFVk5OalptMWNYRVJRR3JqZTlQMEQzUGpZVDZRQkRtaE9fNUJKLWFNWUx0bnhQS21ubnF2UDNmbFRaUzdzWjd1LUdDbWZQMVhTeGZCekE2YmRvV0RVODRYZmtZYUIyX3RlUzhtMnRhbkRxN0R0S2dLbGFYMWfSAbMBQVVfeXFMTkhSa1ZIYVFIa1diNHEtTE1WVFlXOHJGZmd3TDRlM0otcTUzcFhmQ09qNVZZalhfcWRDT1VFQXY4c0JydklveVZkTWRzNWcyNlV2QUMtSllQWVM1Qk5Ka216RVAzcWJoNkdqdXlIc0xYYk1TZFFQYjROSXQyUDNkQ3BMVXlnRUxFNTZBVVZGTGUyMzdKVUlqYUxVdWdLTDh2NWpKTkNuNEFJaG10UFQyQnRMUkk?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Fri, 06 Nov 2026 18:36:00 GMT"
+      },
       {
         "title": "Arsenal rival Liverpool and Real Madrid for wonderkid ready to command world record transfer fee",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2NOQWpRbEI4SVN2UmJGWDFkbm5xREhVVEZZVkI1QWZoMUR6RjlZZVBYLWVzSHdhaWhVbHJEUk0yc19IQldsbGdwOFpDNUpGQkJ3OEJmYXNtUGpFTFpYOWVWRExQMmdNNjl4QXV6N3M1VGczVHZUTUFrbGVicVk4T3BLTkYtaUx4a2FjR2ZDQ3FGSDJJX0dWeEoyeTZScDVUTzMtZzl4eHpKSHJTenBPS0pwZElZVHBIaXFwaGEza2lLWWFTaW5lb0pETzZ1YTRRSTdTNkQxNWgwbF9kY1I5NlB0Rl91YlE0SE1ZeHFhREhGbkRzbnhCNE1lU2M?oc=5",
@@ -1576,37 +1582,25 @@
         "published": "Fri, 06 Nov 2026 18:01:00 GMT"
       },
       {
-        "title": "Jude Bellingham 'intervenes in JJ Gabriel transfer' as Man United compensation fee emerges",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0htX0k1bjZyWGloYjEyYmF1WGJVRG1xTXVWaFlqX3pGbXMxZ1NOT1dZZFRiZkRSMVlFVk5OalptMWNYRVJRR3JqZTlQMEQzUGpZVDZRQkRtaE9fNUJKLWFNWUx0bnhQS21ubnF2UDNmbFRaUzdzWjd1LUdDbWZQMVhTeGZCekE2YmRvV0RVODRYZmtZYUIyX3RlUzhtMnRhbkRxN0R0S2dLbGFYMWfSAbMBQVVfeXFMTkhSa1ZIYVFIa1diNHEtTE1WVFlXOHJGZmd3TDRlM0otcTUzcFhmQ09qNVZZalhfcWRDT1VFQXY4c0JydklveVZkTWRzNWcyNlV2QUMtSllQWVM1Qk5Ka216RVAzcWJoNkdqdXlIc0xYYk1TZFFQYjROSXQyUDNkQ3BMVXlnRUxFNTZBVVZGTGUyMzdKVUlqYUxVdWdLTDh2NWpKTkNuNEFJaG10UFQyQnRMUkk?oc=5",
-        "source": "Manchester Evening News",
-        "published": "Fri, 06 Nov 2026 18:36:00 GMT"
-      },
-      {
-        "title": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlYzRHNsYXVJenItNUozRjVZXzFuZExjUl9YYi1VOXVGTE9iZ3p4c1hPXzduV1JRNFBEZTM3LWxZQndfWkQ0WHpGbWNVRmg4NHJsOFdRd01BRjNKaVVNTE1PU1hoRzgtTGJXX1Y1bF9wR0d4TWpfdFFHSGJwRUUzU0c3cVA2am5DMWRsMktlZGVWYlhualp6RUJMQUladw?oc=5",
-        "source": "Football London",
-        "published": "Thu, 05 Nov 2026 12:44:48 GMT"
+        "title": "JJ Gabriel's Ballon d'Or Dream with Real Madrid",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMnYwUUlaRHBkZGRZYWx4bmhiNkxSRlkxRElLOElSN3N2cUxvQllZMk9UR2gyLVRoTHE5RUpHVExPVFlLdnFISnppeTIwZlJtNzdPSGY0SGM0Y2ZNRk1za3VGVDNkeEdIay1MSTNWNjRGY0FtQndLQl9MWmQwdVpRR280WTB3QQ?oc=5",
+        "source": "조선일보",
+        "published": "Sat, 07 Nov 2026 15:38:16 GMT"
       },
       {
         "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1Z2bEVib3I5Skd5TUdnQkR4TnhlYjZ0UDI1QWFqMmxGd3M5WENFa1FaRmVjR01JRmpOeG1BRWxRSDBPNU41YTYtMEl6ZFlLeUxPWUx0Q05lVGM5MV9ScVpyRjFJVFA0TGw2NHRtRl9qLUZwWUpvdThaallfb0h2NUFpd2VxYjkzclNEUm1pYTdaeG1iV0Vkb1Q5d3dlX0FMSFRJelkzQU5MQmpBNGhpM1VDQTlmT2V4V29XeGE3d29Qd2lLaEdfZm1NVXhGR1BLZmk4VURndnRUUzh5MnRV?oc=5",
         "source": "Sky Sports",
-        "published": "Thu, 05 Nov 2026 22:45:35 GMT"
+        "published": "Thu, 05 Nov 2026 22:46:25 GMT"
       },
       {
-        "title": "Transfer rumors, news: Both Manchester clubs eye move for USMNT's Freeman",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFA4NG54cEkwYVAtMVRUWmVDZGJ2Vkk2R2JqWWE4dGxZN2dEZEJjc0htOExWQzAwVmFjYVNvTzJQNFNTVjRNQVI2OF83dlJRNWJPRnNwVENaYkhybndEME81cHFUOTNoSDBXMEc0cDhQMmN1aVdVa29HZ3E2a2tpTDZyQm0xVzNURUI1WksxM2NBZC1qZFpTOVhZbS1ncm9oMm5LT3d2cUpYLVlDRHc?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 02 Nov 2026 20:26:00 GMT"
+        "title": "Real Madrid can re-sign former academy graduate for €10m amid Man United, Chelsea and Liverpool interest",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXFfZzRaQ1NKSEFYeDJqaHQxTEE3YjNwN1VrLTdrOEg0UEI2TTI2VVFwLWdPVWtTV1lrRnJWUTgycUNFYzdzZ0FEMjJVdm1BMWlvNHZ5QzZCRFcwS3VBMkVEaEFRc2lzcWhyS05xcTYzb0hvM1p3andVNk5fVXJhREJ4YUpnNEE?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sat, 07 Nov 2026 12:11:00 GMT"
       }
     ],
     "fcb": [
-      {
-        "title": "Liverpool transfer news as Rio Ngumoha 'still in talks' with Bayern and new left-back identified",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXZxNnlQRVp0aXFOQnZKbUI0RDBhTEZqVHlfUXBYYWlsZGlIZkl3cURJbnFWQ1BlWjR4Tk04cmJmTkkwX0NKQVFteHFaaU9LR2tDd0xWd3FaWkw5ci1ta1owdE11cHdaNmQtWjdaWkpTNWttcG9tNmxFUGhveHA4MlRlc2NHLWloajRSNVMtQXdNXzNRblI4OEN0bWpXY3ZTbWl1d9IBqgFBVV95cUxNVnpvNWpRRHV6TmpRYTcxc19DQWo3RzFmNi1Nc3N1UERaTXdUbkxtUy1UMTJGaWlIVFJrdUJCa3dOeC1mOGh3LXV6TFFlWGk1LTBiVDdndDBINnlNVzc1dExKZ1Y2ZExxbHBhYVhvdG9JQ1hpUl9KMTBlV3NpQ0NaQU05T0lhMTg0czdmcUtaZkx6d3M0RV8yVml4bm5QanV1NUJWLXRtdHlSQQ?oc=5",
-        "source": "Liverpool.com",
-        "published": "Sat, 07 Nov 2026 05:04:14 GMT"
-      },
       {
         "title": "Bayern Munich not set to rival Chelsea for exciting winger transfer",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3pYWDhlXzdJUnl5MUJpcmpOSW1XeDVEUWZJcjVoUGs5Vk91ZlU0bUVaZVhRS1FMdFVZMk4ycHFmUnQ0WldQenNGNlU2Tl9JekdfM01wTEJPbG1xNlZOWktGeC13SjBXS2FIdnh3MEIwQXh4SWYydkwwV0M3QVVQb05zbkRyNjNYd3dXWVFUcEhRYWwwdzRfOWZHTzJhU1Vw0gGmAUFVX3lxTE1FOHktc0dPNnM2Q05Cbnd3R2thR3lGdFBUdFM4end1S0ZwaDRqSC1LZkxWTERIbHB6UjJwUWNISFpZYnJnbkpOUFc2d3FMRzlsUEpiZGIycHJwSEJkR3RVendJTFRoR2s2djhPRlVXY0E1WHJzUk4td2lyX1pVNXFZSlRNdkZQMG1uTE5KdkJlYUpYYnpMaHZobU9rcGV5VDBTSUFXYnc?oc=5",
@@ -1620,10 +1614,16 @@
         "published": "Sat, 07 Nov 2026 09:30:00 GMT"
       },
       {
-        "title": "Liverpool crushed as Fabrizio Romano confirms Bayern Munich plans to tie another top star to new deal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU4wcUxKQ2s0cVFBWmpoLUlwUnQ3QUFiVUw1cW9IRVJWejlLanpQZk9uNzhTdmR6X2xtY19RX3YtY3ZOWXNTN0Y3aHA5SzU0ZGJ1RUMxOVctYTlTUXpMTWtYMVljSFNJa3lNMHRnd0tmcVN3NUNyVnhISkNpaHduOTZ4MXdzU1QtMk9DdWtnSEt0OGRyQWg2bmdsSzk5c2x3dm5CbG51OHdlM1BRWjFCSDczQkozak5hdUE?oc=5",
-        "source": "TEAMtalk",
-        "published": "Sat, 07 Nov 2026 08:30:08 GMT"
+        "title": "Bayern Munich News: Has FC Bayern found its next left wing?; Price tag set for Nicolò Tresoldi; and MORE!",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcHBKUUw2ZVNMOXhfSTJQRzFvQW1Wd1NsZ2h1NGxMOVpaSlE1SC1sOTEtNEUzanBGS3d3QkcyNXJEemxCMWtJT2F0cktHMEtja0RTaTJFb01rYWdwR21xMEpOWVg5Z2x6OTh5VWl6SWg1VU9HRjQ0TGdKcmxxcThmUklYMzJnVlM3NENIMHJKNWZJazA2WDhnSFhUUXZNdnNaN01YYTg0Rms5MUlNY01QdF9xUGVEcHN5OXU1aWtoLTlBeXFSSGVkQ1NlZEJLNG5wbWlfRV9JVXNXc2RqV1FMRjUwUG1NNEtvdkVVTi1TVERrV0E?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Fri, 06 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Liverpool reach decision on £58m Rio Ngumoha transfer after Bayern Munich open talks with teenager's brother to sign backup for Luis Diaz",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdFN5dG04X3BfRktqeTNPSG9kQ3UtZFdlT3RVVzJLejJqcnNTY3NiODBXWlNzZGx4R21HbGpKendhNlNpTllIeDAxdkMxOUtWSC1ZTVdlSk5yM0llT1V4cy1zMFpIenZxQm94czFsaklTc3F5RUZlWXVBQjZiNkliblctR2VISE85c0pwYXRsUmdKZWhPTExaRFFadUpUR1ZnR2R6bnJRS3VsNlFtS2oyVVVVdVl4Q2FlSmNrSEhVYkxqaVBMenhpVDRIRjR5ZVRQQnFZQ3dR?oc=5",
+        "source": "Goal.com",
+        "published": "Sat, 07 Nov 2026 10:00:41 GMT"
       },
       {
         "title": "Real Madrid beat Bayern Munich in race for Manchester United youngster",
@@ -1634,16 +1634,16 @@
     ],
     "ars": [
       {
-        "title": "Former Arsenal star urged to reject Man Utd transfer: 'It would set him back'",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzk1TTNNRGxHeGRVcHRSWE5PLXktY2d6ZF9vcy1WdkZfRnEzS0UySFl1eTE1UmlTb1dXRXR2SU9nMDFPamxvLVVOblFoUkVOUnRfRDNMWWtpa3paNFpYd3dCN2ZDRExUS19VeEVhaGNBdXI0bm1IQmFKWjJ5VnlwSjhWblJpVS1BQlpvY2pPaUZlenVTbGJkdmh3b19yRDk3X2QyV9IBqgFBVV95cUxPbGJJdHFZcjNzdnRzM2NrYW53Y18yX0kxYVlkQXV4aXA4dWlZZWNtU2laeHlxckF1dGlhTjhMajhfV3plNWhRZ2FYclRDdXlqZ1hiWE1qU0ppSk95OWVobnkyY2ZyWEVHMTFWZHBqbmhKZFFnRWk0Rl9hMW92ZEl0RWJZREF4R2h5NkFYczZDNEFNT2JxSXQ2d0E2LWtMU2NLcGVDcDk4WHNwUQ?oc=5",
-        "source": "Metro.co.uk",
-        "published": "Fri, 06 Nov 2026 20:51:00 GMT"
+        "title": "Arsenal Ban Players From Fantasy Premier League Transfers on Club",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkhsZTVObEV2SVlPWkRYVlZGZXM1SVNISTBhSUFNZnRuV1BlUThhWFJJdTQzeUZtcXJBdmh5VWtiWWl6VEREM2xFY1AyTk56RHNMX3F2OGlPSm10ZkxHVWp3RFlRMTQ4c1BiZG5iSzdwV3Z4M0p6S05KVUtUc1hTU19rVjhZSS1wR3puTmtnUVh3cFZ5QmhsSHJTTzhmZWZpeFpEOWY0YlBrUllKdHZ3NGowMGlFU3pvQ2JPOGlBZkdON3Q4R0dLWQ?oc=5",
+        "source": "roundtable.io",
+        "published": "Sat, 07 Nov 2026 11:49:50 GMT"
       },
       {
-        "title": "Arsenal confident of major £45m January signing with hurdle set to be overcome",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0NHWGd2NXVfVm5VWlRod3dRZ2c5M20yQmM5eUdhVXBzUlY1eDNtRThySEJXdWtZZlE5a0Y5THFqWkZ3Szh5eGR0ZmljSW9YLUlMWkRid2N3Q3NFaTMycVE1Z3ZoMTZjemRtQXU0R0pCU3UzeG1rS3JrcWVqVkFmajBzSEp0MlF4Q0ptSUxkcmlxczc5SjdteU52OXQ5SG01UzJsMzFOMHZqTS01bDJB?oc=5",
-        "source": "Football365",
-        "published": "Fri, 06 Nov 2026 09:37:03 GMT"
+        "title": "Arsenal transfer push for £83m 'next Julian Alvarez' decided as deal signed",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeW1tcEMzeUU0M2cyZno4X3ZsMXFFRFZjT244UUhHU3JxSi1hdEh0VkN5dnd4Yld5aEJ3RFIwNWhtTFllWEw3RE5UenVQQWFQeFlTeTcwcVVWQlQyYW96R09aUVUyVXgyUWxRYy1qTDNBQ19TWmlZckZCX2d6NHF1OG52Y1hFTUtGMjBtMmFjOFo5ZHlUSGRPNy1raEpuRnlxNkFn0gGoAUFVX3lxTE9LTWg4ZmsyemdMVU1EaU1vYzNkdGZTZGxNMHFDT0g5R2g4RDVHR1N4a3dMamNIdndkT3dpdlNOTXJMRGFJMXNTRG45cGRyQzZuQUNWemJjRWJDZEtpM3plVXlXOTdRbFZwbERubjRIVEZkc3pXdTJjM1pQTllPMnlzV2ViamN5a1hpR0FHNnhlV25uTGl1YVZ5U0V4SHM5UnJvS0Y1eDNqMw?oc=5",
+        "source": "Football London",
+        "published": "Fri, 06 Nov 2026 23:57:40 GMT"
       },
       {
         "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
@@ -1655,13 +1655,13 @@
         "title": "Transfer Rumors: Man Utd Tracking Vinicius Jr; Arsenal Plot Balde Move",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0J6eGFnTEpoanROOVBpOHBVeVBoZFEteHg0YmtqSnJSSEJCbS1yWVpLNXc1WmJPZnVGaFpsRUwxYzdWOGNpZlNROXdBT0FoaVNrNTFzaUtfWkZzMHRFdktfRExtT3ZRUGREYmE4NWwxWkNiaDlFZ1pIRTlsS1ZkTm1PcldHbWNFTHpTZGhCeTQ3b0U?oc=5",
         "source": "Sports Illustrated",
-        "published": "Fri, 06 Nov 2026 00:05:00 GMT"
+        "published": "Fri, 06 Nov 2026 00:05:38 GMT"
       },
       {
-        "title": "Arsenal transfer push for £83m 'next Julian Alvarez' decided as deal signed",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeW1tcEMzeUU0M2cyZno4X3ZsMXFFRFZjT244UUhHU3JxSi1hdEh0VkN5dnd4Yld5aEJ3RFIwNWhtTFllWEw3RE5UenVQQWFQeFlTeTcwcVVWQlQyYW96R09aUVUyVXgyUWxRYy1qTDNBQ19TWmlZckZCX2d6NHF1OG52Y1hFTUtGMjBtMmFjOFo5ZHlUSGRPNy1raEpuRnlxNkFn0gGoAUFVX3lxTE9LTWg4ZmsyemdMVU1EaU1vYzNkdGZTZGxNMHFDT0g5R2g4RDVHR1N4a3dMamNIdndkT3dpdlNOTXJMRGFJMXNTRG45cGRyQzZuQUNWemJjRWJDZEtpM3plVXlXOTdRbFZwbERubjRIVEZkc3pXdTJjM1pQTllPMnlzV2ViamN5a1hpR0FHNnhlV25uTGl1YVZ5U0V4SHM5UnJvS0Y1eDNqMw?oc=5",
-        "source": "Football London",
-        "published": "Fri, 06 Nov 2026 23:57:40 GMT"
+        "title": "Former Arsenal star urged to reject Man Utd transfer: 'It would set him back'",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzk1TTNNRGxHeGRVcHRSWE5PLXktY2d6ZF9vcy1WdkZfRnEzS0UySFl1eTE1UmlTb1dXRXR2SU9nMDFPamxvLVVOblFoUkVOUnRfRDNMWWtpa3paNFpYd3dCN2ZDRExUS19VeEVhaGNBdXI0bm1IQmFKWjJ5VnlwSjhWblJpVS1BQlpvY2pPaUZlenVTbGJkdmh3b19yRDk3X2QyV9IBqgFBVV95cUxPbGJJdHFZcjNzdnRzM2NrYW53Y18yX0kxYVlkQXV4aXA4dWlZZWNtU2laeHlxckF1dGlhTjhMajhfV3plNWhRZ2FYclRDdXlqZ1hiWE1qU0ppSk95OWVobnkyY2ZyWEVHMTFWZHBqbmhKZFFnRWk0Rl9hMW92ZEl0RWJZREF4R2h5NkFYczZDNEFNT2JxSXQ2d0E2LWtMU2NLcGVDcDk4WHNwUQ?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Fri, 06 Nov 2026 20:51:00 GMT"
       }
     ]
   },
