@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T02:12:17.038490+00:00",
+  "updated": "2026-11-17T10:54:10.246991+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,9 +1536,102 @@
     }
   },
   "rumors": {
-    "utd": [],
-    "rm": [],
-    "fcb": [],
+    "utd": [
+      {
+        "title": "Transfer news LIVE: Arsenal revive Vinicius talks; Man Utd want Hall",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGNPcWxVWkV0YnNiTl9pSG1GZmN0dzd6a25jQ3lBTnR1UVBpQUwtaWhrQmZabDZ0UjZGQjhISkl2cXZEYzRKQ1p4M0swOGUzTzJ6SWQ5ZS13V1J0SFEwaHN3eXgwNGdPYUEwS1RlSmhDZGhsZG9JSy1Kc0dPc1FZUGlpZWVmQlUwVlY4dXhDMHFJSzdaUGpEZkhNU0lwM1M2UVZFallrWURGN3VzV3BqSjUwSEI4Uk5yNm5sOGU1YURSR2c?oc=5",
+        "source": "London Evening Standard",
+        "published": "Tue, 17 Nov 2026 07:12:55 GMT"
+      },
+      {
+        "title": "Weston McKennie responds to Man Utd transfer rumours after Pochettino appointment",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWW9VVlNNeWxOMTZnOEFab2MxY0UzTkp4N1dJQ0N5TDRvaF82NjhhdHpieGJnWElYdW1rQlpQSjVhc3dsanJQSnRmUDc1Xzk0Q0hhMTZmZWIxWHBYMlV3SGw1ZGpDamdIb3Vvdk41TGNwVlVSSGNvNWtYQ0FpSFNabEVHWldKRTVQ?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Man Utd transfer seems inevitable for Pochettino favourite as star admits it’s ‘a possibility’",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM001akpSZ0lFMklHNXNXbWhuNGs2ZTFKRy16N1NET1pvMk5obU0yMmxUT0NxTlRScC1ZMy1SQWRKZFE2ZzZKSlcwLXppXzc1NHh4QXdkRW1vS05rV25mZjhIajIwT0pjS0lQNjhCa3QxLUQ4WVdacjN6MmRqWE92R2RHS2NZOXIzUGJLaklyY3Nrc1Jn?oc=5",
+        "source": "Football365",
+        "published": "Mon, 16 Nov 2026 19:25:28 GMT"
+      },
+      {
+        "title": "New Man Utd boss Pochettino 'could target McKennie transfer in shock US reunion'",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1QwbnZpYkVLZkI4NWQyOFZRXzJRcGdVY1lnVjh6UGRwdm1iYUdTNFVZbm81dXdTN1ctSmdkSXRUb1hLTDJNcW1hdERjcDdydU91TDlCYUZaOWQ3LTYtVnhkR05zUlRWbFplQllKZFdNMFdsOThkMS10dGRwYnZaRTVrTHYxMmQwWElOV01rSzR5bFRZV0t0aw?oc=5",
+        "source": "The Sun",
+        "published": "Mon, 16 Nov 2026 16:50:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Manchester United eye Newcastle defender Malick Thiaw",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTMyOWtkZ2h3bVpQSUJmZU1qUm9rLVVOeUhpN0RMMzFMaDlLZHRNTkpEUHVjRGxWRGpndlNjZjBfMmFMNWJJMWZBckcyWVBRU3dqTmhsTzFjSWlEVjByLXVsdGtQOTFMUHZCUkJCTTVTRl9mMWhQNlFpOEhnS0V6WlpWdXBrOTJlMnp3TV82bFZySlJIQmhuT1Z3anhyZ1NxbWxiWTVCdy0xYTFGU0E?oc=5",
+        "source": "ESPN",
+        "published": "Tue, 17 Nov 2026 08:25:39 GMT"
+      }
+    ],
+    "rm": [
+      {
+        "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW0yMFFMaXVOcm9JSGpfSkQ5NXpzVTl4eUtlTlVINW9CRk0zMGdVZjFqSWtnNWx3NVlrYVhNYTRZMkpienRpM2RQQXFMRlBYSFJXcjlWUEFOYWttS0NPZTFLLUxSVXpUbVRnMUtwbnkwdnZ1bzRXT0tSalhFMllGZ253ZTZDZm9yZUlUQlJTZ1BqZUY1aDFtUWVybkNoQkJXaFJn?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 16 Nov 2026 13:51:00 GMT"
+      },
+      {
+        "title": "Real Madrid make Brighton midfielder Chema Andres their main transfer focus alongside teenage defender Luka Vuskovic",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXV0a294WGg0OHNYUDgyT196aXlUZUpGX2JMcTdDcHlJMjVEam9OZUZ1YVRMSlYyMDJJdGhEVlhhRVVuNzFFMjFvRWhlLVNJZk0tb3BxOGsyc185QnUxOGZHV3hzV2FQMzZlTkx5LVlfOXRHS0hiam9fRXdaN2NtNG5NNmRNYUxRVHdmbGp2ckhhbW1LQnZ3dHJpanMweUZWQWN2UlNkVk9ocHQyQ1lqQjVjZ003eDkyUkI2SXVlMG9yNGh4bUh2VXZfLWg?oc=5",
+        "source": "Goal.com",
+        "published": "Tue, 17 Nov 2026 08:52:38 GMT"
+      },
+      {
+        "title": "I'm a Celtic Treble winner who saw dream Real Madrid transfer collapse - 'everything was pretty much done'",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHBLNlhCRXMwT2xUU0dRR0d0dEhLSkZLeHVTTmhSdjltU2lzdlNiQ0JDWUh6MVNrZG1IUVd4MndiRjlTRm9udUlXRUFXSTJxaThGOUdDcEkxbnZpYms2SXZMbGZmSlpzV0Z1N3ptQVNYYkwtazhlSFBUd1JXWno1cFFDZGdqRHV2NE90dlpQbG5HNDBVTDdGeXJLc9IBoAFBVV95cUxOQWt5OE5vZjZ5Mk5kamloMDBoMEVseHhrNEVqMV9DMjl0dGZuWVlQYnNhX0VJa2hpSVVIVWxSdHZyVlBMZm13cjVEckJZdmc4dnZfS2FUWWZzUGp0Z1hoVmdKN3lDNVc1VF9uTUlJTEdsaFM4WGx3Tmp6b3U1N3FuNEk4Yi1XcWstZ1JoRzhMZ2VLX1NyQnFqdnBQNW1ZR2Rx?oc=5",
+        "source": "Daily Record",
+        "published": "Mon, 16 Nov 2026 10:24:00 GMT"
+      },
+      {
+        "title": "Real Madrid Handed Another Damning Injury Blow at Problem Position",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHYxVExuNEJ4ZHplOEFMd1NLRkZMQV9hQ21nV25ibDFIVlZLQ1U4UkQtT2UtS1NKendEeVNUWkhLZ2RRUVVjanEzUzRrT1ZkOW9LbkRQbEViR3l0dGFLWnlfX1k3MUVpc05GSUFVd2FXRWV4bk5WV29LQTdReW1sbDA3NE9PN2k0dVhKOE5seTlHcWdqc1RQRmp0RWJPNzFTTGtkU0tNZHY3V2c5TXFmSWNKRQ?oc=5",
+        "source": "FotMob",
+        "published": "Sun, 15 Nov 2026 18:00:00 GMT"
+      },
+      {
+        "title": "I played with William Saliba – Arsenal star couldn't turn down Real Madrid transfer",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjJTNU9TejFvdjlNUGp4OFVUOWc2bUxjdEJabXpBME5aeE15alctNW5DMUNyUF9BTUtXX1JzejFyM1ZNYUQyd1Y1WmZ1cmNVTEdKN0ZodjVOQzVXcW1xZXNyOXZ5cTZBaDBLTjNwc2NjejNBQm5XcUkzbEI5X2QtTWpYZkNzU01rdnZreG5BVklvVXVSOXfSAZsBQVVfeXFMUHFmRG9lUTN2TFE2c0JMWWlnVm9hS0FQQnhjYWV0aGhpQTJmM2ZCV2hfVkxfNUVoV2RPSURySWVtcHVGSWlzWFNpOTJtTG1FQWU5UlNVUXkxRC1PUDJSS3Z2X2pHX1pLUkdQbmhNNkdQZmQ1ZEZ5RGdVV2IyU3RsMzNUY0xEUWNZb1IxVFhWS0Jya3NxRDdBLUI1bVE?oc=5",
+        "source": "Football London",
+        "published": "Mon, 16 Nov 2026 06:01:41 GMT"
+      }
+    ],
+    "fcb": [
+      {
+        "title": "Bayern Munich shuts the door on potential Jonathan Tah move to Barcelona",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdmpyM0EzZDB5eTR5VENTSXkycVVjd19EblBiVFZ6N1psNWk4czdVMGtLdWNPVXJ0VnNnS2JFc1c4LVFjUnByOV84RFFybmo1UWJyUE50eUFVYXJNSjgwb20xOER6S2dtdEI2UFFKQ2tJWGc3d0lDbHNsUVNuOXFHYmxNQThKZDZmdmg2a2hkMjlWczZPMUhuY1hDN3ZxeExrU2kyRXpKdnZHMkpTc3hwbXJSNmhvQUJRZGZmWUdxM1VWOElOU2hWTDYtTlYtbVpPSXljMmoyUE5iNXRXc25XbWtGQ1hCTjQ?oc=5",
+        "source": "Bavarian Football Works",
+        "published": "Mon, 16 Nov 2026 20:15:00 GMT"
+      },
+      {
+        "title": "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZ1QnlkRDNEMWZEcEVGUXlGazhBTkZQeFdNbmpuSGVVTDNUQnBZOFotMERRWXg2d25SQnZMdk1aRGxxbjd0NTdwN2RReUJ3bXlQN09GVmV3ZmIxaWhkZjFEd1dmRGxRTmNjSFhCNnBOZmVhS1VFVjFDbnp5ZGF4VnRpTHAzLWNBWDFXTE1lcFV6YVk1amttX0xfb1Z0dmxWdnJ0N3hnbmtydw?oc=5",
+        "source": "ESPN",
+        "published": "Fri, 13 Nov 2026 22:34:00 GMT"
+      },
+      {
+        "title": "‘Very expensive’ – Bayern transfer stance on 27y/o Arsenal star revealed",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWW1OS3BlQTRUYTdBYmVtQ0JzWE05TFZnSW5hOW44ajlKbWItSzdRRGpVeHlRQ0plWlIzanZDbG12LUp2QlpKYkNVcTJnMmt4NlViMFF5MF9fLV82ZzBYMWRGWXU0b0ZTakZGSFUycU5jbWF2OVR3b2UyaXBQMHllZkVkd1ByblgxV2dkX2VQSQ?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Fri, 13 Nov 2026 12:12:00 GMT"
+      },
+      {
+        "title": "Aston Villa transfer rumours: Leonard Prescott",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSHdRb3F6cHF0clRFNWhGTXhxeHZOZjlaX2JEdWRHTUZCVHZubHdZTGt3clM2bEtEVjM1THlzbVBpVHZfeGJyNm9VTDlnMXpDU1ZJaXNhWUhKdENZTjNIWGhhOHN4VkRERnVnb2Z2bFpQZHRKWGxueWwwenNfOXZOdGdSajU2NEpSLWM3a0c4cms1bzkxbXNrY3hZQUxvbGVTbjVQTXYxc1BaTWlZT0RMSkZhNi1vYkF4QU1DaHVIVUhjQVFvSUtsakhqOFNFZUhsRlU4dmpkc1BlRWhkVFJqSy01YUR1aU1CMGRoaThzSGE3Zw?oc=5",
+        "source": "BBC",
+        "published": "Tue, 17 Nov 2026 08:08:26 GMT"
+      },
+      {
+        "title": "BAYERN MUNICH WANT RIO BADLY! VERBRUGGEN LINK + CAMARA CONFUSION! Liverpool Latest Transfer News",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbGlncTc0aE1QdU5aemtoUG0tek41V2RuV1VQejY4STRxeWQ4YmR6NjJYM2FreGgydkpNQ2R6eVdhbVU0ZEg2UjdfNEZvcE5sNE9DU3NhSlJOVEhkdUUtbzFZcXlEWmxEWVZkTFFMT2ZmMXVFdVU3VmdycUhMS2lTUkc1b3dFRGgyYkt1UnFZZW1GSTFvWTVHTlRqeDJQNllyLVh6VmpFZ2xVa3hMOFBvV3ZxNmxDLXpRQnByVmJrU240YkVQR2syWEczLU90UQ?oc=5",
+        "source": "OneFootball",
+        "published": "Tue, 17 Nov 2026 06:45:29 GMT"
+      }
+    ],
     "ars": [
       {
         "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
@@ -1547,16 +1640,10 @@
         "published": "Mon, 16 Nov 2026 13:51:00 GMT"
       },
       {
-        "title": "Andrea Berta facing Arsenal reputation ultimatum ahead of challenging January transfer window",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem5wNVp1Sklnc05xbzM4c3g1ZURCazNGQWZ0UHFmQVFqaEh3VzN1UEh1U3h4SW0ya3JuMzhkNlFlbFA5aXI1dHZ4bVhtSHREQ0txMUpRUlpMYzhsTDJZVGJZZDIwOEQxc1RJNHZKLXFDbnMycWxxQWo5MzdkMDUzcUxTVXhFNmU0QWpqTm1RdW5vZ1dGLUZTanBaemRUTzhGb1HSAacBQVVfeXFMTlVack5sZEhsMkZjZFVySlM4dTNyNzlVYnFOT0pEUEFvOU03b2NrSnFJb3VpcE8xVm8tYXAzcDVvWFhGdXg2R3RBcmxpSGVxaEI5N2wyeV9ENTVnVDhSZDNlT2FhRkVycGdUUzBTWGVxd2NoNWgxM2tDa0dTQldjV2hqMFVlTlU4emtCUG5WOXFnczZaM0UxeFA4QkxzVmc1N19KOFdLZ1k?oc=5",
-        "source": "Football London",
-        "published": "Mon, 16 Nov 2026 16:25:46 GMT"
-      },
-      {
         "title": "Jurrien Timber, David Raya and Piero Hincapie to extend Arsenal contracts alongside Declan Rice - Paper Talk",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOXzlPcmZaVG5OZXQ1bXZnVy1BdUtKZHlVZ05JNHExNXUySm4yWDQzckU0SG93emZ6VmJaQjQ2UzFiWEE2cTVtOG5id0RhZkZkSDhHWUU1WW54ck1KVGIwU0pnZGZQdERMcU52blV1THBrRUFudzZIc3B4ZTJ2M3RrMmpudWJMS19OQ1c5eFNUM0M1cDNjWURCRTVQcUM0Z1N2ZHZwSHlyd1laVnZSdk1mSlJrcVJFVmpLUmRVMjJiSjVnTzdHcTFvLURuQXFqR3czVVBlYmtwcURvTHpYa2k0UTZ6SUg3WGpoSHd4NWQ0Z19xZHJxZFp3OTdzTE8xdw?oc=5",
         "source": "Sky Sports",
-        "published": "Mon, 16 Nov 2026 23:16:34 GMT"
+        "published": "Tue, 17 Nov 2026 09:45:53 GMT"
       },
       {
         "title": "Transfer rumors, news: Will Bruno Fernandes stay put at Man United?",
@@ -1569,6 +1656,12 @@
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5icFQ2NE5HS01SZXBNZEI1dzk0SVYwcVBiSE1scEdRNk1mekhfWm5ZWjlPdEJLTFdJQk5qaURCc2FLaVg4Yl9nQ1dGY1Z4TjU0cXhZNVE0dnV2SUhraHdnSXZxdU9ENnZh?oc=5",
         "source": "BBC",
         "published": "Mon, 16 Nov 2026 12:01:16 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Arsenal’s Vinicius Jr Twist; Real Madrid Eye Huge Haaland Bid",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTd3QkFiTVBkMHRMLWpVWktVM0RzWElZRW1EYVJNWlczWVlfMXVwVjd1alpmM1UwckdORF94Zko5MVEtNkdEX3IwR3hDaU1XSXdianNrLTBsN2lGaW1CbDQ3c2d3a3o2bnRPdXdlbUJEY0txdWJES2EteUR3QkhEeGxmazlyNVhCOFpLelFsWGRlWDVXbnc?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Mon, 16 Nov 2026 07:59:48 GMT"
       }
     ]
   },
