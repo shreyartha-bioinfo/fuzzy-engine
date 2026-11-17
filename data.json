@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:43:27.525530+00:00",
+  "updated": "2026-11-17T02:12:17.038490+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1536,18 +1536,27 @@
     }
   },
   "rumors": {
-    "utd": [
+    "utd": [],
+    "rm": [],
+    "fcb": [],
+    "ars": [
       {
-        "title": "‘Two Keys’—Man Utd’s Transfer Plan for Mauricio Pochettino Ignores Big Problem",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFZHc0F5MWozZi1xUjc3cEZZblc2N2lHRkFBZUZQdXV0SmNjOFdoWXN6VTFaWVBQNXNmNzV6LVFTUUFwOEdVSVFxS1JHemR4dWxRNEdudFNYQ2xXd0tlTzJHbERuMmNLWUJ1YURFa01JRzdDQXg2cXBQZFJmWDZTOFEzdjZsVmtlR3lqS2czZEw?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Mon, 16 Nov 2026 11:20:00 GMT"
+        "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGliOXJoc1Byc0VYaEhjelVCTUJfNjZMMHo3Mldmd2R0VW40dGtld3NpcnloX0Q0TmFQV3otb3dXQWp6bG0tMDB1b1ZQcldQMjlpQW5SWE02RWpnY2FYRjlYNnVySWFReUVfZm80VExvbWpGSE55ZVJha2VvYU9ZdVhrZThkNnAxcVR2cUo0OTlfT3ZFYzlCbWxHNFpvNk9wdzVtTGtYdlM?oc=5",
+        "source": "ESPN",
+        "published": "Mon, 16 Nov 2026 13:51:00 GMT"
       },
       {
-        "title": "Manchester United in huge transfer U-turn after Mauricio Pochettino appointment: report",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZW9mdWhIcWF3LXFRRWhxVGdtcDhnblAtMzVkaVdGSGV1MGJ2RXN0b0NWcTRRNUpQTXNSTEFlc05rU1JxY2tjcGJQckdVTnBvblNLMHpWS3I5YXlhTTdwMHBJeUVTV0d4YjU0OHNTVklFSl9xTWFUM0tiSWt3Zk52bmlrQ29CRHd1dkJndTZKbXM1Zmc4aVlLQWhSN2VLZTIzazBEamMzZERfNWJ3YmVFSi1CM0xHRzhMMUpiUHZlZm0?oc=5",
-        "source": "FourFourTwo",
-        "published": "Mon, 16 Nov 2026 09:34:52 GMT"
+        "title": "Andrea Berta facing Arsenal reputation ultimatum ahead of challenging January transfer window",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem5wNVp1Sklnc05xbzM4c3g1ZURCazNGQWZ0UHFmQVFqaEh3VzN1UEh1U3h4SW0ya3JuMzhkNlFlbFA5aXI1dHZ4bVhtSHREQ0txMUpRUlpMYzhsTDJZVGJZZDIwOEQxc1RJNHZKLXFDbnMycWxxQWo5MzdkMDUzcUxTVXhFNmU0QWpqTm1RdW5vZ1dGLUZTanBaemRUTzhGb1HSAacBQVVfeXFMTlVack5sZEhsMkZjZFVySlM4dTNyNzlVYnFOT0pEUEFvOU03b2NrSnFJb3VpcE8xVm8tYXAzcDVvWFhGdXg2R3RBcmxpSGVxaEI5N2wyeV9ENTVnVDhSZDNlT2FhRkVycGdUUzBTWGVxd2NoNWgxM2tDa0dTQldjV2hqMFVlTlU4emtCUG5WOXFnczZaM0UxeFA4QkxzVmc1N19KOFdLZ1k?oc=5",
+        "source": "Football London",
+        "published": "Mon, 16 Nov 2026 16:25:46 GMT"
+      },
+      {
+        "title": "Jurrien Timber, David Raya and Piero Hincapie to extend Arsenal contracts alongside Declan Rice - Paper Talk",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOXzlPcmZaVG5OZXQ1bXZnVy1BdUtKZHlVZ05JNHExNXUySm4yWDQzckU0SG93emZ6VmJaQjQ2UzFiWEE2cTVtOG5id0RhZkZkSDhHWUU1WW54ck1KVGIwU0pnZGZQdERMcU52blV1THBrRUFudzZIc3B4ZTJ2M3RrMmpudWJMS19OQ1c5eFNUM0M1cDNjWURCRTVQcUM0Z1N2ZHZwSHlyd1laVnZSdk1mSlJrcVJFVmpLUmRVMjJiSjVnTzdHcTFvLURuQXFqR3czVVBlYmtwcURvTHpYa2k0UTZ6SUg3WGpoSHd4NWQ0Z19xZHJxZFp3OTdzTE8xdw?oc=5",
+        "source": "Sky Sports",
+        "published": "Mon, 16 Nov 2026 23:16:34 GMT"
       },
       {
         "title": "Transfer rumors, news: Will Bruno Fernandes stay put at Man United?",
@@ -1556,112 +1565,10 @@
         "published": "Sun, 15 Nov 2026 20:32:00 GMT"
       },
       {
-        "title": "Man Utd's January Transfer Shortlist Revealed As Mauricio Pochettino Targets USMNT Duo",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXYwN3JZUWdsMXFuR0ZzYk9qazVBS0EwS1FYc05mZHI2RmxUSVRpSC1JQnVzNzhMVEhzMUE0U01GTFZNZTZjazBvZndnUk5wWWQyZEdxeTlxUHUwTGFhaDdYWm1CWUhyMkI5amZkSTNGZ0VOUU5FREFPcWU4MjFiaWNqclRER3NGbXJBWg?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sun, 15 Nov 2026 18:12:52 GMT"
-      },
-      {
-        "title": "Kaveh Solhekol Q&A: Manchester United ownership and January transfer plans",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0diVERxUjJUV3JGdDNNU0hVZTJDQ09LTU1mT0xPaDFGQk0tXzh4Qm5UME5IMHhDc0lYX2U3Rmo0anVhUExXU1V1bUtRNUJMbGlpLXduczcyNUJVNGowS1RqQXVaU0RuZzVkLVBfMmpvaENhaE9XNGRGelJhVlktam5FSEpPVmREYkFaS2RkbFpzSkpHWjNzcDRNM25HSW1DUmdpczJGYnJoeVhZZ2wzYllUc3UzUmpwNUlvd2Zkdm0wVjNDY2c?oc=5",
-        "source": "Sky Sports",
-        "published": "Mon, 16 Nov 2026 16:25:47 GMT"
-      }
-    ],
-    "rm": [
-      {
-        "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW0yMFFMaXVOcm9JSGpfSkQ5NXpzVTl4eUtlTlVINW9CRk0zMGdVZjFqSWtnNWx3NVlrYVhNYTRZMkpienRpM2RQQXFMRlBYSFJXcjlWUEFOYWttS0NPZTFLLUxSVXpUbVRnMUtwbnkwdnZ1bzRXT0tSalhFMllGZ253ZTZDZm9yZUlUQlJTZ1BqZUY1aDFtUWVybkNoQkJXaFJn?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 16 Nov 2026 13:51:00 GMT"
-      },
-      {
-        "title": "I played with William Saliba – Arsenal star couldn't turn down Real Madrid transfer",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjJTNU9TejFvdjlNUGp4OFVUOWc2bUxjdEJabXpBME5aeE15alctNW5DMUNyUF9BTUtXX1JzejFyM1ZNYUQyd1Y1WmZ1cmNVTEdKN0ZodjVOQzVXcW1xZXNyOXZ5cTZBaDBLTjNwc2NjejNBQm5XcUkzbEI5X2QtTWpYZkNzU01rdnZreG5BVklvVXVSOXfSAZsBQVVfeXFMUHFmRG9lUTN2TFE2c0JMWWlnVm9hS0FQQnhjYWV0aGhpQTJmM2ZCV2hfVkxfNUVoV2RPSURySWVtcHVGSWlzWFNpOTJtTG1FQWU5UlNVUXkxRC1PUDJSS3Z2X2pHX1pLUkdQbmhNNkdQZmQ1ZEZ5RGdVV2IyU3RsMzNUY0xEUWNZb1IxVFhWS0Jya3NxRDdBLUI1bVE?oc=5",
-        "source": "Football London",
-        "published": "Mon, 16 Nov 2026 06:01:41 GMT"
-      },
-      {
-        "title": "Latest transfer news: AC Milan's plan to sign Endrick revealed, Paz wanted by four clubs",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHFiYTE1Y1BtQnAxSEpmMVdPWGV1OTBROHMxM09TdXkwMEw2Qm9TU3VXY1ZrWFBnbExxaURUenNnZE5adDg0bjJ4MTZwMUxIZklxZ2NsUDZVaDlQa0l3VDN2MFR6N0dOWjVKeXhCX3ZOb0V4UklXd2laNFQ1Tnl6ZDhOYkVlOGlaWEItNDFVVVBHamFwWkxCTDVjemtfcXRXak9SeVNSV2h4TnZXLW1ab2RTNGtWODRIaUJlQXg2ekE4VjVHWDE1eTR2dG4?oc=5",
-        "source": "Transfermarkt",
-        "published": "Mon, 16 Nov 2026 15:41:37 GMT"
-      },
-      {
-        "title": "Real Madrid Handed Another Damning Injury Blow at Problem Position",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHYxVExuNEJ4ZHplOEFMd1NLRkZMQV9hQ21nV25ibDFIVlZLQ1U4UkQtT2UtS1NKendEeVNUWkhLZ2RRUVVjanEzUzRrT1ZkOW9LbkRQbEViR3l0dGFLWnlfX1k3MUVpc05GSUFVd2FXRWV4bk5WV29LQTdReW1sbDA3NE9PN2k0dVhKOE5seTlHcWdqc1RQRmp0RWJPNzFTTGtkU0tNZHY3V2c5TXFmSWNKRQ?oc=5",
-        "source": "FotMob",
-        "published": "Sun, 15 Nov 2026 18:00:00 GMT"
-      },
-      {
-        "title": "Real Madrid tipped to complete first signing of 2027 for just €9 million",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2xkeW00ZFJhY09GRndJUnF0N1Q5RElxTlBFWFNKZ09CUnZSb005enFkV3NSM0MxUFN6T1ZCcVhXTVVDT0N2azZBNWh4QzZSVFdyZXJTOXF5b0ZvSE9DX0ZxN0tlcHlMVUNRSUxMRHhmWmM5OEkwMkdvU1V5S1FWOGg3czR4Wm5oelE?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sun, 15 Nov 2026 07:00:00 GMT"
-      }
-    ],
-    "fcb": [
-      {
-        "title": "Bayern Munich shuts the door on potential Jonathan Tah move to Barcelona",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdmpyM0EzZDB5eTR5VENTSXkycVVjd19EblBiVFZ6N1psNWk4czdVMGtLdWNPVXJ0VnNnS2JFc1c4LVFjUnByOV84RFFybmo1UWJyUE50eUFVYXJNSjgwb20xOER6S2dtdEI2UFFKQ2tJWGc3d0lDbHNsUVNuOXFHYmxNQThKZDZmdmg2a2hkMjlWczZPMUhuY1hDN3ZxeExrU2kyRXpKdnZHMkpTc3hwbXJSNmhvQUJRZGZmWUdxM1VWOElOU2hWTDYtTlYtbVpPSXljMmoyUE5iNXRXc25XbWtGQ1hCTjQ?oc=5",
-        "source": "Bavarian Football Works",
-        "published": "Mon, 16 Nov 2026 14:30:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZ1QnlkRDNEMWZEcEVGUXlGazhBTkZQeFdNbmpuSGVVTDNUQnBZOFotMERRWXg2d25SQnZMdk1aRGxxbjd0NTdwN2RReUJ3bXlQN09GVmV3ZmIxaWhkZjFEd1dmRGxRTmNjSFhCNnBOZmVhS1VFVjFDbnp5ZGF4VnRpTHAzLWNBWDFXTE1lcFV6YVk1amttX0xfb1Z0dmxWdnJ0N3hnbmtydw?oc=5",
-        "source": "ESPN",
-        "published": "Fri, 13 Nov 2026 22:34:00 GMT"
-      },
-      {
-        "title": "‘Very expensive’ – Bayern transfer stance on 27y/o Arsenal star revealed",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWW1OS3BlQTRUYTdBYmVtQ0JzWE05TFZnSW5hOW44ajlKbWItSzdRRGpVeHlRQ0plWlIzanZDbG12LUp2QlpKYkNVcTJnMmt4NlViMFF5MF9fLV82ZzBYMWRGWXU0b0ZTakZGSFUycU5jbWF2OVR3b2UyaXBQMHllZkVkd1ByblgxV2dkX2VQSQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 13 Nov 2026 12:12:00 GMT"
-      },
-      {
-        "title": "Martin Odegaard brushes off Arsenal contract stress amid shock Bayern Munich transfer rumours",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhFbEJtS0k4RlVZRU1tR0cxakpRb1A5QzYyUmFCbmF1ZFd0U2dmX2o3NkVQTEgyaHFjWFNHc3JwU0JrZEdqTE94VHdJN21UZDFUR29vSTV3NkUxQVMtRkI2MzlxdmM1TmxraWJxQ25SajNXbFRUMDZMQUxtcGpVNC1fenRtTjVfZWdmVUxWbW81aDBUSU82dU1RbC04RDB2ckwtMkEwVQ?oc=5",
-        "source": "Goal.com",
-        "published": "Sat, 14 Nov 2026 13:18:41 GMT"
-      },
-      {
-        "title": "FC Bayern Munich - Transfers 26/27",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSmpxTWNIblBGc0JkRXhiOGNLeDZzYjNNVG4tUHFnUTZ6dG4ycEp1aEV2bW5haVdWZmFLeDJLTUswbmZqNzVhR1JLWmNkQXlfdk1jUW9pNjFQaFgwVTAwd1ZsZ2RucDYtTXVYNVliOUJqRTFuNnhOOGdjYWt3d0lnZHpuYw?oc=5",
-        "source": "transfermarkt.us",
-        "published": "Tue, 21 Jul 2026 11:10:46 GMT"
-      }
-    ],
-    "ars": [
-      {
-        "title": "Barcelona summer signing was close to Napoli transfer before Camp Nou move",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUE5DZGdYNkVwUC1XN2JNVU9wVTVpYWx1Q3dZY1NhV1JiWEpwckNBekdqUnFJSE52a1ctU3ZaMC1RQUFHaGhjMTlWX3dTTnZURzRUcUE2LW9MSDEtREp1bzRkN2x2UG1zbTBvY21MVG54Z0loVVpkbmVfblFaTUVRU1NSbUdwck1fdml6VUM2RQ?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Mon, 16 Nov 2026 17:09:00 GMT"
-      },
-      {
-        "title": "Former Gunner explains why he pulled out of Everton transfer",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUttM0s3OHBGTzZwSWpIOGNiNDAyNVJSYVdmbXlzUy1MNGFMLVRWb0ZidGZBMWtjLVR0bHBUejBjZjlVRDVsazBGN2xxSWdfeHRlb1dkbkl4LVJLbWJoQzZlbml6ckJ5SkYyek1QT2M0QnJUZGxva09Zb21ySXVUN3lLS18zclp1RkE?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Mon, 16 Nov 2026 17:01:00 GMT"
-      },
-      {
-        "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW0yMFFMaXVOcm9JSGpfSkQ5NXpzVTl4eUtlTlVINW9CRk0zMGdVZjFqSWtnNWx3NVlrYVhNYTRZMkpienRpM2RQQXFMRlBYSFJXcjlWUEFOYWttS0NPZTFLLUxSVXpUbVRnMUtwbnkwdnZ1bzRXT0tSalhFMllGZ253ZTZDZm9yZUlUQlJTZ1BqZUY1aDFtUWVybkNoQkJXaFJn?oc=5",
-        "source": "ESPN",
-        "published": "Mon, 16 Nov 2026 13:51:00 GMT"
-      },
-      {
         "title": "Vinicius Jr: Real Madrid forward says transfer interest has affected form",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5icFQ2NE5HS01SZXBNZEI1dzk0SVYwcVBiSE1scEdRNk1mekhfWm5ZWjlPdEJLTFdJQk5qaURCc2FLaVg4Yl9nQ1dGY1Z4TjU0cXhZNVE0dnV2SUhraHdnSXZxdU9ENnZh?oc=5",
         "source": "BBC",
         "published": "Mon, 16 Nov 2026 12:01:16 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Arsenal’s Vinicius Jr Twist; Real Madrid Eye Huge Haaland Bid",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTd3QkFiTVBkMHRMLWpVWktVM0RzWElZRW1EYVJNWlczWVlfMXVwVjd1alpmM1UwckdORF94Zko5MVEtNkdEX3IwR3hDaU1XSXdianNrLTBsN2lGaW1CbDQ3c2d3a3o2bnRPdXdlbUJEY0txdWJES2EteUR3QkhEeGxmazlyNVhCOFpLelFsWGRlWDVXbnc?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Mon, 16 Nov 2026 00:05:00 GMT"
       }
     ]
   },
