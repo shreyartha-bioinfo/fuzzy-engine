@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:44:26.743599+00:00",
+  "updated": "2026-11-22T10:30:09.192600+00:00",
   "clubs": {
     "utd": {
       "name": "Manchester United",
@@ -1538,43 +1538,37 @@
   "rumors": {
     "utd": [
       {
-        "title": "Victor Osimhen flattered by Man Utd transfer interest and willing to join to solve Mauricio Pochettino's striker woes",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1hmLTJCUEtrRHFydjJ0SURPRHktVzMyS0M5UjI0aGQ5NmF6VWZTaTBzZDVTY3EyR2U2WUprMzJxUGZPVDk0VGEtTTQ4V0xnT1hxaW1JZ0VCWFZoN3FSNjFMRFBrR2FabUpkY3EzWmtmTXRvTlo3eU15T1JlNFN0bTVHSi1DNkZCNm1yMHEtSG9ZSWFIM0pFdHlWZw?oc=5",
-        "source": "The Sun",
-        "published": "Fri, 20 Nov 2026 12:08:00 GMT"
-      },
-      {
-        "title": "Man Utd reveal astonishing amount they owe in outstanding transfer fees",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1F4WkxQenh0MUxiVUltc3Jyak1HT1hoTGpzT3N6ODFIaHp0bmVIdk15Z3VTbGZrNm1CUUdRWFB3SjMtdkdtYzVkVnFOQ0lXeEdleDhVNU9hS1N2TUxZNVpXdHI2dWlsTm4wR01fUXBwb2hwTTlaaDNRSHQ0ZFNPSTBIUWlONkJaR1FPR2xtaW9pQkNNX1lGVDFLbzc?oc=5",
-        "source": "The Independent",
-        "published": "Sat, 21 Nov 2026 09:27:00 GMT"
-      },
-      {
-        "title": "Transfer rumors, news: Liverpool, Man United want Scalvini",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTThjRnBPak5LcDJYSTBZZWJZY1FSTUt1d2hmbGI3SHRwTldnclVxMmRNN1lWMzBMV1M0dTRucHNFQmNVcktzUnVqSHRnYWlkZ2RmNmhweUxfMjZEM2VVdDRZTmN1TEx1Vk93SkhfUk5ZU3pPMzVOUjBQN3l0MUF1cmJKR0tJSjhyOWFfaUk5NS13NWxZbjRaM0EwMk5nWGVJSDFWag?oc=5",
-        "source": "ESPN",
-        "published": "Sat, 21 Nov 2026 21:44:00 GMT"
-      },
-      {
         "title": "Omar Berrada interview: Manchester United chief executive on Michael Carrick, Mauricio Pochettino, recent transfer activity and the club hierarchy",
         "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOY3d2TFNmOUluNnJZYUI2RGV1QlN4RGRDVFdtaGhUNlJ4YklCUXdsRkpCWkJYYW11S1hKejRmVl9QRTVIMEk3VDdXVU0yQzhpM0w1LW00TlhxWldtc2E4THBtaFpCMWlDc3laX29BYk5MWUtMR09SbXhic3ZzUGxINFU5alNXVzVUSVZZMjVNZnMtd1hEMjlvMUExb1FwM0VrY1Q1RHV6Zl9EWXdiOUVBUldoMDhEbUhyaVV0NkdfMHhWaFN2ZTBQc081bjB5ZWN3OC1QdzZybEtnckROSFBWcjk2WGMzVm1BWWNYTDRHWVJIUzhGRUJJdFRQOU81VUZ4dllmRFFnNUplSVctMU1BSlE4TE9CbEg4U1JVSA?oc=5",
         "source": "Sky Sports",
         "published": "Fri, 20 Nov 2026 14:47:30 GMT"
       },
       {
-        "title": "Man Utd in close contact for £84m midfielder to swiftly replace Andrey Santos",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnFGa2hWbTIxUVFVZXRGRDFQLVpnQ1d2SlE4a3VySElOblloNlpvb2VEOUkzT09zM3pMUTNRWklib1A2TTVzZkNDVzVUWjlJWlJ6eFVTOGVGQjhFdDQ2dVpPbHo5d3RYU1c4MGg2WEwyc0NsZXJTZ3VJV0YwVU1YOGZMbFBtQnlfbmxWSXhDT1BNcHNGbDNQTXdfVVpyM3pRUWc5WlpWczZRVTVYamstT0ZR?oc=5",
-        "source": "Football365",
-        "published": "Sat, 21 Nov 2026 09:34:18 GMT"
+        "title": "Mauricio Pochettino warned £47m Man Utd will push for transfer exit: 'Not the future'",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0J0TE1McTdIMWVmYjdKa0U5alFyMVQtaS1uc2V6cG5QUlhZLU1xNEIxalZEZ0NtZUhNRGlEc1l6VENSanh3czY5WDJyV1dDUHNDSjE5RlRyZlEzV0RlaV9INFhYRjJOS3B2S2Y5Zm92bFA0V24tTXE2eDQ1dU4zYm51MTlnT0xlQ2YtUmdxalpNc1lvVWJKUHVLSzhCejFWMmdEVVVVMVI2ZENqVDgxM2RTY2LSAboBQVVfeXFMUDZaQjRfMHgzeVB5V1RSTVN6U1VleVh3Ukt6RFQwNmlWZ0hPVzlpVEZVQUV1aUl1WnJYTEItT1cwMzlwQk5WVGpSdHhMWHFZR1ZSYWw0azU0TUlwc0RjTzFzRkVFN2NRQjg3WTdPQmItTU04RVE0cEljZHVwY1hmNVRYQlJBTXBjOHNYWEFLZEpIbzNsQVRvOVNKaXg2MXhld0p0b0o0MFVPLXZCM2FNY0EyREhpZC02V1JB?oc=5",
+        "source": "Metro.co.uk",
+        "published": "Sat, 21 Nov 2026 17:55:00 GMT"
+      },
+      {
+        "title": "He Wants to Join: Pochettino Ready to Ask Man Utd to Sign 'Insane' Mbeumo Upgrade",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkNCeE1xQzBkeXd3aGhMVzJWekRjcjRwbkY3RElIUnBPMlBnVk1BRjRxWEpuUDd3d2wwbVFDdHlGYlpJWUFlM1VLcGNJcFJzQndTLTdrMkNkMjUwakZoS3Vzdk1BQ2c2dDJTeEwtWlNYM3lxWjZDbC1ObnhBU3JOZTBUaE1RLTJfZHNiZVR6a1NNc010Z0pibw?oc=5",
+        "source": "GiveMeSport",
+        "published": "Sun, 22 Nov 2026 08:15:14 GMT"
+      },
+      {
+        "title": "Man United news: Mauricio Pochettino calls for ‘ban’ as January transfer target speaks out",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2dwa29NQ1RnbHlyOEZXc1NQVDFDQ0hNU3RDc1gtUE16Z2V3QnB1UmJRdTFPdEVEVk9oaE5VSjloWHhrYTNmYlQ4M18yWGd1NmhpalJNb3phb2kwU2FNdEF1bUQ3U25qRjJ2dHUwcENYNW1wcFdVamo0ZkRYbFB0Zll2UUtYS2ZaYk14MDdqRnllS3BucmE3RnlfbU1fSzA4NUs5Uzhpam9HaDh4Ynk5T3RGUQ?oc=5",
+        "source": "Manchester Evening News",
+        "published": "Sun, 22 Nov 2026 10:27:14 GMT"
+      },
+      {
+        "title": "Transfer Rumors: Osimhen’s Man Utd Decision; Barcelona Step Up Haaland Chase",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDJUdGtlM3NSQl9oR1dLbTBPdWhPb0lDemZSckJDNi1QQ3daN3hmcXBBYzNOS2FmTlhsY3RCaDQ1MnhyOGQybFNyTDJ6ekJlM0dOMzNxNHFlaGtOOHVwV1NWWkVlbkxXVG1Yd2hVRVk3VnVVcFNzckN3NDNTTUFEZ0NCOHpJSnVIYjJ5WlowS0tkeDRu?oc=5",
+        "source": "Sports Illustrated",
+        "published": "Sat, 21 Nov 2026 00:05:00 GMT"
       }
     ],
     "rm": [
-      {
-        "title": "Transfer Rumors: Man Utd’s Four-Man Striker Shortlist; Real Madrid Set Vini Jr Price for Arsenal",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGRyMkNiZ2N5VTlLdExhVFJNNFlIYUQ2T1pGQWYxNUVmVmk3akphQlMxM2RTQlJXeEJNelJfdjNKREphaGxmcEZCZmxadzFVdk16UFhNUnVJUktLS0U3a21pbDRGQy1fZ0ZGakVTb3BORGtRZUJ4VDliSnJfVmVfT3UwX3VZZlFqSVlWekpGTXI0UklRbkNlR2lvVnBqWkVZMHlv?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Thu, 19 Nov 2026 00:05:00 GMT"
-      },
       {
         "title": "Transfer Rumors: Van Dijk Offered Liverpool Exit; Real Madrid Accept Endrick Sale",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFg4aVMxakhidzBIWXF5MGxBLXJJZkVlZ0FNcmFqOTRDU3VZWmdydEgtTEdocEE2YUJnOVd3MUtEVU0zVmJpVVFWT3AzZjc0QXduU0xXenY5eU5WVThvaklZUkdZM1p1YzhQd2IwNUhnRVdrYU0wbVoyY1hRcG15MXhrZG1aUFlWVDBlSlptUXVVUFJD?oc=5",
@@ -1588,25 +1582,25 @@
         "published": "Fri, 20 Nov 2026 18:56:55 GMT"
       },
       {
+        "title": "Real Madrid defender not on Bayern Munich transfer shortlist",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXkyOW9UWmZ2SzNRYzRxNHEzdlhXOTN3U2xjb1FmVmJEOVJLaXpHTjFNZmVzMy1jMkxVN2pFU3lUU2hDUWl5aE4zRjBVYWJoMVc2bkVPakRCa0VrcEloX0ZsUHlxVzE5VDBfX1IyZFJmS3J2aWkwVTBLMkxUWUdkYXpQQUpUWTA?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sat, 21 Nov 2026 15:52:00 GMT"
+      },
+      {
         "title": "Real Madrid to re-sign Nico Paz: Where will he rank amongst most expensive signings?",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXo0bjQwR015eXRMNDNVY2o1ZW1EbEVEdGZVY0s0aEJkVnZPQm9TUzUyYjJnMnh4QjZwNzZrQVlaX2VDcnRTZm1TbnFFRWIyeTZIMG9yN28zeVM1MmpJRTk4Vk5IWHZRaG1TN2NicGtRQ2hDZEhmWlhLWHoxT2lEMjVEekdPWWlua3cxWTc0TlVhdUhVWW1sWW5neHJ4NkNzTFRLNUl2dmdnY2ptcTBmMFQzOU1JSk9OWUFxRzl0bjNCNy1DaDMzeG9B?oc=5",
         "source": "Transfermarkt",
         "published": "Fri, 20 Nov 2026 11:19:40 GMT"
       },
       {
-        "title": "AC Milan owner heaps praise on Real Madrid forward amid transfer interest: ‘One of the best in the world’",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa285R3hwR05EdkdkZ056NUl3X1dmOGotTEdSSTRiaEcxTjMxc3V1RUw4dDBGZDNXeGlPQlRrdGk1eFJGdlBCQk90RkpkTDNzbVN1emIzY1ZYYkZLZ2NfUC1ST2tXeW5McjRQMERMYXNpQlRFRUdiTWc1VHNJUzJVRFZR?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sat, 21 Nov 2026 18:20:00 GMT"
+        "title": "Transfer Rumors: Man Utd’s Bold Palmer Plan; Bellingham Sets Real Madrid Demands",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXNXMGVPMHdta1VTSDlmZGNPUHplc1otMktab2tQenkzOFlTaVpidWFxbG81OXNUbXFjTGVqNUtocm9raDVFdG9KSmoydmpoVkk3Tmt2LTd5RWJIZlRmUGt1VmhkNndvaXRBNjBaYXNVX3BNNV9JeVo5bzZmcVpqMTlMc0NRVmxwOW9sbDVmT0V0V0tmYUJRRlBuYVhwZldQX09oZ1UyM2lpLXpFN2w2cWxxX2Rnd0FHbmNOVHh0Undxdw?oc=5",
+        "source": "FotMob",
+        "published": "Fri, 20 Nov 2026 00:05:00 GMT"
       }
     ],
     "fcb": [
-      {
-        "title": "Real Madrid defender not on Bayern Munich transfer shortlist",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXkyOW9UWmZ2SzNRYzRxNHEzdlhXOTN3U2xjb1FmVmJEOVJLaXpHTjFNZmVzMy1jMkxVN2pFU3lUU2hDUWl5aE4zRjBVYWJoMVc2bkVPakRCa0VrcEloX0ZsUHlxVzE5VDBfX1IyZFJmS3J2aWkwVTBLMkxUWUdkYXpQQUpUWTA?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Sat, 21 Nov 2026 15:52:00 GMT"
-      },
       {
         "title": "Is it the right time to talk about winter transfers for Bayern Munich?",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdFBWRjZpU0p6SVBBTmxPLTFpVFMzMlhLX0dhaE5TWXpZVzZ1WVZxbHMyZkNOU0NWOWR2WS11WkJFNmhlUkFpSl9Ea3RYc2VDT0wxSlc0bFM4WGtacjQ5TWt0ZkN1b1k1eXd3TlhZTW94VHVtNkcyNThnbHdPQXJFZS1mQUh6Y09SZG9hby15Y0pMMDgyZmRwNGpESTY4NTItV0F6dDhZLVA5VW0wUFpVemFVMWZSZjdZTGJ1UVVUWGFFV0ZlRVZwbVhJSGYyZVlnUVlnQ3FJcmFONHA1cU16VFpJXzJLdE5MVHRFRmk3NkZZUFNuYU1LTnMxZWJab3RQcG1SZzhCSlBrMTR5bEhQNw?oc=5",
@@ -1614,10 +1608,10 @@
         "published": "Sat, 21 Nov 2026 18:00:00 GMT"
       },
       {
-        "title": "Transfer Rumors: Van Dijk Offered Liverpool Exit; Real Madrid Accept Endrick Sale",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFg4aVMxakhidzBIWXF5MGxBLXJJZkVlZ0FNcmFqOTRDU3VZWmdydEgtTEdocEE2YUJnOVd3MUtEVU0zVmJpVVFWT3AzZjc0QXduU0xXenY5eU5WVThvaklZUkdZM1p1YzhQd2IwNUhnRVdrYU0wbVoyY1hRcG15MXhrZG1aUFlWVDBlSlptUXVVUFJD?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Sun, 22 Nov 2026 00:05:00 GMT"
+        "title": "Bayern Munich president not worried about Michael Olise transfer rumors",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVNyeTd5dTV0aXNsbVBmVGVyTnlVX2RURmIyUzlybkhpRzBaN3lRN3FQUmlYZ3AwT0FEQ2FPeXM4eFpkY1JTbEdrZm9qeFR2eGJfZkdsUUFFd2hkY3lkU1N3ZXlnaWkzN0lWSWhXejdZY3g3dDR5ZnU2a0ZTQ3o4NkppWjI5a0VYZ3lwMw?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 22 Nov 2026 06:30:00 GMT"
       },
       {
         "title": "Bayern Munich posts record turnover, but wary of transfer market’s rising costs",
@@ -1626,31 +1620,19 @@
         "published": "Sun, 22 Nov 2026 01:00:00 GMT"
       },
       {
-        "title": "Upamecano & Musiala release clauses emerge as Bayern Munich make 2027 transfer plans",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOWkyRDVrZE8wRDJxNC1MVlRCNV9tRTY4MGFpM1JUbHJyaHNKUElBUm5JOEFudUJiWmJpREFvQTNYQTBHQ0k3UXRyR2pPMC1VZEJUbTBTcTliSjZjM2ZDYmk1bUh6OGJ0bEhGVXFFcDF5djhPaS1FeTFCY3FPTmVId1E5cUpUVERrU0V1VTlSWFlPZG1uZU9YbklKQ20wSHJIVU02a1BXRWxsSGgxM2ZnbzdMVUV4aWtnUmU0eVJlUUVJREpmMm9vaTMwRHhHaVpmTXJnd1BjakpXOUM3WEhRZzVLSThwdUJfSUZ1Tlc5dUVvZlo4ejlDVlVEUjAwOGhtNHJJdHhNOA?oc=5",
-        "source": "TribalFootball",
-        "published": "Sat, 21 Nov 2026 13:39:09 GMT"
+        "title": "Fulham star Bernd Leno addresses Bayern Munich transfer links as Manuel Neuer successor search begins",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkk2alY0SHprejBOYVB4Y2puYnl5UnQwUE1OdjY5cWs2Zy02dXBZZWxSd0lLSHFDck9BZ0hiUUdtUkw4WWJENFFVWHhyakFRNXdSR2hoUjBlSkZNVlRUU3drRjRfR2hoNW5MOTd1b2FLX3VMbjVsWk9YQ0NPMjFOUS1hQTNLeG5xWWVRdV8yOG54cUdzM25IMy0tNklPLVhPdUJvdQ?oc=5",
+        "source": "Goal.com",
+        "published": "Fri, 20 Nov 2026 13:26:40 GMT"
+      },
+      {
+        "title": "Liverpool transfer news as club on 'red alert' for Jamal Musiala amid midfielder push",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2RjLXV5azA1am5TNUZvcjhmMXZIbU1WbHlLcVlDYW8tTzBMNElkRHdMSC1Ncy1PZ0tRSWx3Tk1QZzU1ZWV1Tm1KZ2pia20wakthd1JSQ1BmYjRRbkVkYlBxMjhaMlpkQkRTY1l4VmNuQTBBWmgxcFplNTdOYnM1RWJHakJkOFk1a0N5Rmx0dnZDcGVfY09EMEFMaDMwYzJu0gGmAUFVX3lxTFBOa3R2dlNINGJoTzR2blozclg3aVMyZG1uSkxSQWV4dDNuQzJMT3ZWdkcwRm14T3BMRkdiNThVVm5va3c5OFF3cEhZRmJwc2JxcGZRY0lVRzZ5X2RGWkxVSkE4OG82UGV6QmJkQ2NYM29RNlp4MHpsVlIzWi12NjNhU0xvT2dkb2ZoMUVsa3Q2X0l3RTVSOXFaNWlzU2RYOWVYTnUteVE?oc=5",
+        "source": "Liverpool.com",
+        "published": "Sun, 22 Nov 2026 05:15:17 GMT"
       }
     ],
     "ars": [
-      {
-        "title": "The truth about Bruno Guimaraes’ controversial move to Arsenal",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVcyVzVLUEw2NG11Ym8zZE9hRkJtQnVIbFA3S3p5NzAwZUNhbklKbEFEM0JGSmZYdVFfNG9YdWYxTUZqcmlXU0ljamVKWC0xRXkzVXU3QmRoODM5eXlfTHNvSTlXMEFyeXV1RkhwR1Z3SnBjd1VlbHZvbnNObEU0VUVsc1Q1NDMyRkNERk5nQVg4WW9NUG0tdmQwc3dXVXlzUS1kYVlyZGtBb3lQ?oc=5",
-        "source": "The Telegraph",
-        "published": "Sat, 21 Nov 2026 08:01:00 GMT"
-      },
-      {
-        "title": "Transfer Rumors: Man Utd’s Four-Man Striker Shortlist; Real Madrid Set Vini Jr Price for Arsenal",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGRyMkNiZ2N5VTlLdExhVFJNNFlIYUQ2T1pGQWYxNUVmVmk3akphQlMxM2RTQlJXeEJNelJfdjNKREphaGxmcEZCZmxadzFVdk16UFhNUnVJUktLS0U3a21pbDRGQy1fZ0ZGakVTb3BORGtRZUJ4VDliSnJfVmVfT3UwX3VZZlFqSVlWekpGTXI0UklRbkNlR2lvVnBqWkVZMHlv?oc=5",
-        "source": "Sports Illustrated",
-        "published": "Thu, 19 Nov 2026 00:05:00 GMT"
-      },
-      {
-        "title": "Chelsea star Mykhailo Mudryk in stunning Arsenal transfer admission ahead of Tottenham return",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV25tLW9RR08tM0NtWGcwd2RmVi04VzlrUGxvd3B3MlJmM0NzYUo1Q2dpdEM4azNVdnJLcXN1TFNwaDJYQnE2QmFNSnJGVlBmNWhHN0VpenprbmY4NHA2UzB5a1FVQ0lMNlI2alNONlk4NHVWWmJQSk4tdjJjRFV5czlOdFB0SF9Ka051LWd3OA?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Fri, 20 Nov 2026 08:51:19 GMT"
-      },
       {
         "title": "Ian Wright orders Arsenal to buy £67m star in January following Newcastle draw",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2hJT0JwcVJ6SE1yTHY0QlZUc1d6eFNiZnJjNTNSR2VhVXdTc1BCWmFaUnV5ZHd6UHhhdVdlVXI4NkN1U2Z1YW85ZU00bUNqNjIwOTF0UXhMZ0JlTDlESkpvOUp6Z0tBVVVwYTJ2ZjJ1cjBWTE1kYnNCd2hoU3NRS1RUUHUybmZIbkszZVA4aTI3UGpJX0xHWW5BRF90OFNwME1uandlWE93SzBiMERIYnlR0gG3AUFVX3lxTFBpV09hU3dLeFFUQzMwSHMwS0hCQTRVeWpDLWt3UUg3aXJjY3pGU3NhZzduUmxHT2tMb3NncUl1eDkxRHJLeTBmdFd6U3Z4TGpXZEQ0UmtvNkctNGpGM056aVVfT0VlZUhfWndvczIxWHZ3Y2U1VDZQSWlVQmpXM2NJWnZ6TDVzVS1PT1h1bGllZFl1OW1ORmloSmozZDdFUlgyM3VWNkxnNE1jdWliSm1sRFVwT2U3RQ?oc=5",
@@ -1658,10 +1640,28 @@
         "published": "Sat, 21 Nov 2026 20:56:00 GMT"
       },
       {
+        "title": "Stark reality of Sporting Director transfer dealings laid bare in front of Yasir Al-Rumayyan",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3E4VnRQSkVJbDlLTGY1a1dURElfSzVJS3dxQVZibFh0eV9ZZ0ZZdXBWdDM1dWJya2FKUFByeVA0enFpd05ZVVlyVFYzTXJsVURHV3NXY2JtU3plMWFsd3pVRTRJMTI0enhNWXFfQXc5ekNsTkxCRTQyb3Zqdl9QbW1helJ4WU11bUZleDJWbjJxWGs?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 22 Nov 2026 09:24:15 GMT"
+      },
+      {
+        "title": "Ian Wright tells Arsenal the £67m star they must sign in January transfer window",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDhpaGJueVFCa3VGeTRzdHZSdTNUamI2cDdYeE5ZY183Qm00WWxaX29OT2xBSFZOTW5QNjJNN2s0MFJpVjY1RVc0Q3c5UE9VeFpDOWhuSTJRNzVQTHJMQ3JFd1dUbDUzRUJVRVRjRGV1V3Q5RjAybG9jOEJYMFZRa1lxWQ?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 22 Nov 2026 08:57:45 GMT"
+      },
+      {
         "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW0yMFFMaXVOcm9JSGpfSkQ5NXpzVTl4eUtlTlVINW9CRk0zMGdVZjFqSWtnNWx3NVlrYVhNYTRZMkpienRpM2RQQXFMRlBYSFJXcjlWUEFOYWttS0NPZTFLLUxSVXpUbVRnMUtwbnkwdnZ1bzRXT0tSalhFMllGZ253ZTZDZm9yZUlUQlJTZ1BqZUY1aDFtUWVybkNoQkJXaFJn?oc=5",
         "source": "ESPN",
         "published": "Mon, 16 Nov 2026 13:51:00 GMT"
+      },
+      {
+        "title": "David Ornstein’s The Athletic FC Q&A: Arsenal’s transfer decisions? How secure is Michael Carrick?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFJIT2pBMWxyVXFoWnRydk5ncTVOMlpmcEtmdUV0dFdnTVcydGRINjg0Z1pGZERiOU9VVzNKSzRSVWNQZmwyX0paZzZUOTd1dWNyYTZYZmt3RHpTa3QzcktCNFEtWmJucERQbnV6S1ZDamg2OHlpb2NROUVJR2RkOE9xbVRDbFNEMFJMa1AwN2c3S2hZaGFfbjNJdGtpSkV1NHc?oc=5",
+        "source": "The New York Times",
+        "published": "Wed, 14 Oct 2026 07:00:00 GMT"
       }
     ]
   },
